@@ -1,0 +1,48 @@
+# Nome do site
+site_name: "Grupo 07 mudar para o nome escolhido"
+
+# Descrição
+site_description: "Repositório de documentos de Interação Humano-Computador"
+repo_name: '2024.2-Grupo07'
+repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo07'
+
+# Configura a navegação do site
+nav:
+  - Introdução: index.md
+  - Atas: 
+    - Ata 1:    atas/ata-1.md
+  - Planejamento:
+    - Cronograma: planejamento/cronograma.md
+    - Metodologia: planejamento/metodologia.md
+    - Design: planejamento/design.md
+    - Ferramentas: planejamento/
+    - Heatmap: planejamento/heatmap.md
+    - Site escolhido: planejamento/site_escolhido.md
+    - Sites avaliados: planejamento/sites_avaliados.md
+
+
+# Tema do MkDocs
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo claro
+
+  language: pt-BR
+  favicon: 
+  logo: ##logo do site escolhido
+
+extra:
+  version:
+    provider: felipe
+
+extra_css: [stylesheets/extra.css]
