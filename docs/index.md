@@ -33,6 +33,13 @@ Bem-vindo ao repositório de documentos de Interação Humano-Computador do grup
 
 </div>
 
+## Histórico de Versão
+
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2024|11/11/2024|1.0|Criação da pagina Home|Breno| Breno Soares|
+
+
 ## Sobre o Projeto
 
 

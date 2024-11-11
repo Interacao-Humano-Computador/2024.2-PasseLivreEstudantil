@@ -43,6 +43,6 @@ theme:
 
 extra:
   version:
-    provider: felipe
+    provider: 
 
 extra_css: [stylesheets/extra.css]
