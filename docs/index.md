@@ -4,34 +4,24 @@ Bem-vindo ao repositório de documentos de Interação Humano-Computador do grup
 
 ## Colaboradores
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+| ![Breno Lucena Cordeiro](https://avatars.githubusercontent.com/u/82223777?v=4) | ![Felipe Verissimo](https://avatars.githubusercontent.com/u/101402657?v=4) | ![Mateus Vieira](https://avatars.githubusercontent.com/u/61623585?v=4) | ![Breno Fernandes](https://avatars.githubusercontent.com/u/132412607?v=4) | ![Dion Vítor](https://avatars.githubusercontent.com/u/71671413?v=4) |
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+| [Breno Lucena Cordeiro](https://github.com/BrenoLUCO) | [Felipe Verissimo](https://github.com/verissimoo) | [Mateus Vieira](https://github.com/matix0) | [Breno Fernandes](https://github.com/Brenofrds) | [Dion Vítor](https://github.com/DionVitor) |
 
-<div style="text-align: center; width: 140px; border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
-    <img src="https://avatars.githubusercontent.com/u/82223777?v=4" alt="Breno Lucena Cordeiro" style="width: 150px; border-radius: 10%;">
-    <p><a href="https://github.com/BrenoLUCO">Breno Lucena Cordeiro</a></p>
-</div>
+## Histórico de Versões
 
-<div style="text-align: center; width: 140px; border: 1px solid #ccc; padding: 10px; border-radius: 8px;"">
-    <img src="https://avatars.githubusercontent.com/u/101402657?v=4" alt="Felipe Verissimo" style="width: 150px; border-radius: 10%;">
-    <p><a href="https://github.com/verissimoo">Felipe Verissimo</a></p>
-</div>
-
-<div style="text-align: center; width: 140px; border: 1px solid #ccc; padding: 10px; border-radius: 8px;"">
-    <img src="https://avatars.githubusercontent.com/u/61623585?v=4" alt="Mateus Vieira" style="width: 150px; border-radius: 10%;">
-    <p><a href="https://github.com/matix0">Mateus Vieira</a></p>
-</div>
-
-<div style="text-align: center; width: 140px; border: 1px solid #ccc; padding: 10px; border-radius: 8px;"">
-    <img src="https://avatars.githubusercontent.com/u/132412607?v=4" alt="Breno Fernandes" style="width: 150px; border-radius: 10%;">
-    <p><a href="https://github.com/Brenofrds">Breno Fernandes</a></p>
-</div>
-<div style="text-align: center; width: 140px; border: 1px solid #ccc; padding: 10px; border-radius: 8px;"">
-    <img src="https://avatars.githubusercontent.com/u/71671413?v=4" alt="Dion Vítor" style="width: 150px; border-radius: 10%;">
-    <p><a href="https://github.com/DionVitor">Dion Vítor</a></p>
-</div>
+- **Versão 1.0.0** - Lançamento inicial com os colaboradores e informações básicas do projeto.
 
 
-</div>
+
+
+
+## Histórico de Versão
+
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2024|11/11/2024|1.0|Criação da pagina Home|Breno| Breno Soares|
+
 
 ## Sobre o Projeto
 
