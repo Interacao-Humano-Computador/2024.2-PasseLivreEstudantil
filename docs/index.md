@@ -12,20 +12,7 @@ Bem-vindo ao repositório de documentos de Interação Humano-Computador do grup
 
 - **Versão 1.0.0** - Lançamento inicial com os colaboradores e informações básicas do projeto.
 
-
-
-
-
-## Histórico de Versão
-
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|11/11/2024|11/11/2024|1.0|Criação da pagina Home|Breno| Breno Soares|
-
-
 ## Sobre o Projeto
-
-
 
 ## Conteúdo
 
@@ -35,3 +22,9 @@ Bem-vindo ao repositório de documentos de Interação Humano-Computador do grup
 ## Contato
 
 Para mais informações, visite nosso [repositório no GitHub](https://github.com/Interacao-Humano-Computador/2024.2-Grupo07).
+
+## Histórico de Versão
+
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2024|11/11/2024|1.0|Criação da pagina Home|Breno| Breno Soares|
