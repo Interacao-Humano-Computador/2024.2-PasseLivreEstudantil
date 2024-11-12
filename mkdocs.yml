@@ -34,11 +34,11 @@ nav:
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Metodologia: planejamento/metodologia.md
-    - Design: planejamento/designer.md
+    - Design: planejamento/design.md
     - Ferramentas: planejamento/ferramentas.md
     - Heatmap: planejamento/heatmap.md
     - Sites avaliados: planejamento/sites_avaliados.md
-    - Site escolhido: planejamento/site_escolhidos.md
+    - Site escolhido: planejamento/sites_escolhidos.md
 
 extra:
   version:
