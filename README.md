@@ -1,7 +1,7 @@
 # Análise de IHC: Passe livre BRB Mobilidade
 
 ## Objetivo
-O projeto tem o objetivo de fazer uma ánálise de IHC no site do BRB que pode-se gerenciar processos públicos de obtenção ao passaporte estudantil no DF.
+O projeto tem o objetivo de fazer uma análise de IHC no site do BRB que pode-se gerenciar processos públicos de obtenção ao passaporte estudantil no DF.
 
 
 ## Integrantes
