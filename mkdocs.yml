@@ -15,7 +15,7 @@ nav:
     - Cronograma: planejamento/cronograma.md
     - Metodologia: planejamento/metodologia.md
     - Design: planejamento/design.md
-    - Ferramentas: planejamento/
+    - Ferramentas: planejamento/ferramentas.md
     - Heatmap: planejamento/heatmap.md
     - Site escolhido: planejamento/site_escolhido.md
     - Sites avaliados: planejamento/sites_avaliados.md
@@ -44,5 +44,3 @@ theme:
 extra:
   version:
     provider: 
-
-extra_css: [stylesheets/extra.css]
