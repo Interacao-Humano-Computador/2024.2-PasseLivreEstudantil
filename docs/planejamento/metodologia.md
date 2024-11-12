@@ -19,13 +19,13 @@ A equipe agil é composta pelos seguintes papéis:
 
 Para garantir o alinhamento da equipe e promover a transparência no desenvolvimento do projeto, teremos duas reuniões semanais fixas:
 
-**Terça-feira, das 17h às 18h**: Reunião para planejar e acompanhar as atividades da semana.
-
-**Antes e depois das aulas**: Reunião de revisão das atividades.
+**Reunião de Planejamento da Sprint**: Terça-feira, das 17h às 18h
+**Reunião de revisão das atividades**: Antes e depois das aulas
 
 ## Histórico de Versão
 
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|11/11/2024|11/11/2024|1.0|Criação do cronograma|Breno Fernandes| |
+|    Data    | Data Prevista de Revisão | Versão |               Descrição                |      Autor      |    Revisor    |
+| :--------: | :----------------------: | :----: | :------------------------------------: | :-------------: | :-----------: |
+| 11/11/2024 |        11/11/2024        |  1.0   |           Criação da página            | Breno Fernandes | Mateus Vieira |
+| 12/11/2024 |        13/11/2024        |  1.1   | Atualização nas informações de reunião | Mateus Vieira |  |
 

@@ -76,7 +76,7 @@ Na Tabela 2, tem-se o cronograma executado para todas as atividades da Entrega 1
 
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da Entrega 2
 
-**Tabela 3 -**
+**Tabela 3**
 
 | Atividade                                       | Realização | Responsáveis | Revisão  | Revisores |
 | ----------------------------------------------- | ---------- | ------------ | -------- | --------- |
@@ -89,7 +89,8 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da Entrega 2
 ### Cronograma Executado
 
 Na Tabela 4, tem-se o cronograma executado para todas as atividades da Entrega 2
-**Tabela 4 -**
+
+**Tabela 4**
 
 | Atividade                                       | Realização | Responsáveis | Revisão  | Revisores |
 | ----------------------------------------------- | ---------- | ------------ | -------- | --------- |
@@ -106,7 +107,8 @@ Na Tabela 4, tem-se o cronograma executado para todas as atividades da Entrega 2
 ### Cronograma Planejado
 
 Na Tabela 5, tem-se o cronograma planejado para todas as atividades da Entrega 3
-**Tabela 5 -**
+
+**Tabela 5**
 
 | Atividade                                    | Realização | Responsáveis | Revisão  | Revisores |
 | -------------------------------------------- | ---------- | ------------ | -------- | --------- |
@@ -120,7 +122,8 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da Entrega 3
 ### Cronograma Executado
 
 Na Tabela 6, tem-se o cronograma planejado para todas as atividades da Entrega 3
-**Tabela 6 -**
+
+**Tabela 6**
 
 | Atividade                                    | Realização | Responsáveis | Revisão  | Revisores |
 | -------------------------------------------- | ---------- | ------------ | -------- | --------- |
@@ -139,7 +142,7 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da Entrega 3
 
 Na Tabela 7, tem-se o cronograma planejado para todas as atividades da Entrega 4.
 
-**Tabela 7 -**
+**Tabela 7**
 
 | Atividade                                                                | Realização | Responsáveis | Revisão  | Revisores |
 | ------------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
@@ -154,7 +157,7 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da Entrega 4
 
 Na Tabela 8, está explicitado o cronograma executado das atividades da Entrega 4.
 
-**Tabela 8 -**
+**Tabela 8**
 
 | Atividade                                                                | Realização | Responsáveis | Revisão  | Revisores |
 | ------------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
@@ -173,7 +176,7 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da Entrega 
 
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da Entrega 5.
 
-**Tabela 9 -**
+**Tabela 9**
 
 | Atividade                                                                | Realização | Responsáveis | Revisão  | Revisores |
 | ------------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
@@ -187,7 +190,7 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da Entrega 5
 
 Na Tabela 10, está explicitado o cronograma executado das atividades da Entrega 5.
 
-**Tabela 10 -**
+**Tabela 10**
 
 | Atividade                                                                | Realização | Responsáveis | Revisão  | Revisores |
 | ------------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
@@ -237,7 +240,7 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da Entrega
 
 Na Tabela 13, tem-se o cronograma planejado para todas as atividades da Entrega 7.
 
-**Tabela 13 -**
+**Tabela 13**
 
 | Atividade                                                                          | Realização | Responsáveis | Revisão  | Revisores |
 | ---------------------------------------------------------------------------------- | ---------- | ------------ | -------- | --------- |
@@ -251,7 +254,7 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da Entrega 
 
 Na Tabela 14, está explicitado o cronograma executado das atividades da Entrega 7.
 
-**Tabela 14 -**
+**Tabela 14**
 
 | Atividade                                                                          | Realização | Responsáveis | Revisão  | Revisores |
 | ---------------------------------------------------------------------------------- | ---------- | ------------ | -------- | --------- |
@@ -269,7 +272,7 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da Entrega
 
 Na Tabela 15, tem-se o cronograma planejado para todas as atividades da Entrega 8.
 
-**Tabela 15 -**
+**Tabela 15**
 
 | Atividade                                                          | Realização | Responsáveis | Revisão  | Revisores |
 | ------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
@@ -281,7 +284,7 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da Entrega 
 
 Na Tabela 16, está explicitado o cronograma executado das atividades da Entrega 8.
 
-**Tabela 16 -**
+**Tabela 16**
 
 | Atividade                                                          | Realização | Responsáveis | Revisão  | Revisores |
 | ------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
