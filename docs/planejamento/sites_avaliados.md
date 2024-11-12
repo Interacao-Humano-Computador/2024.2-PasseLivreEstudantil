@@ -5,6 +5,8 @@ Baseado nas heurísticas de Nielsen, cada integrante realizou o planejamento e e
 | Site avaliado              | Membro que fez a avaliação            |
 |----------------------------|---------------------------------------|
 | Print | Breno Fernandes                       |
+| INSS Mobile | Breno Lucena                       |
+| INSS Mobile | Breno Lucena                       |
 
 
 **Tabela 1**: Tabela de sites avaliados.
