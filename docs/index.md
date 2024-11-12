@@ -5,20 +5,21 @@ Bem-vindo ao repositório de documentos de Interação Humano-Computador do grup
 ## Colaboradores
 
 | ![Breno Lucena Cordeiro](https://avatars.githubusercontent.com/u/82223777?v=4) | ![Felipe Verissimo](https://avatars.githubusercontent.com/u/101402657?v=4) | ![Mateus Vieira](https://avatars.githubusercontent.com/u/61623585?v=4) | ![Breno Fernandes](https://avatars.githubusercontent.com/u/132412607?v=4) | ![Dion Vítor](https://avatars.githubusercontent.com/u/71671413?v=4) |
-|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|:---------------------------------:|
-| [Breno Lucena Cordeiro](https://github.com/BrenoLUCO) | [Felipe Verissimo](https://github.com/verissimoo) | [Mateus Vieira](https://github.com/matix0) | [Breno Fernandes](https://github.com/Brenofrds) | [Dion Vítor](https://github.com/DionVitor) |
+| :----------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+|             [Breno Lucena Cordeiro](https://github.com/BrenoLUCO)              |             [Felipe Verissimo](https://github.com/verissimoo)              |               [Mateus Vieira](https://github.com/matix0)               |              [Breno Fernandes](https://github.com/Brenofrds)              |             [Dion Vítor](https://github.com/DionVitor)              |
 
 ## Histórico de Versões
 
 - **Versão 1.0.0** - Lançamento inicial com os colaboradores e informações básicas do projeto.
 - **Versão 1.1.0** - Lançamento do Git Pages da documentação.
+- **Versão 1.2.0** - Documentação com planejamento adicionado.
 
 ## Sobre o Projeto
 
 ## Conteúdo
 
-- [Atas](atas/)
-- [Planejamento](planejamento/)
+- [Atas](./atas/ata-1.md)
+- [Planejamento](./planejamento/cronograma.md)
 
 ## Contato
 
@@ -30,3 +31,4 @@ Para mais informações, visite nosso [repositório no GitHub](https://github.co
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |11/11/2024|11/11/2024|1.0|Criação da pagina Home|Breno| Breno Soares|
 |12/11/2024|12/11/2024|1.1|Criação de configurações do Git Pages |Dion| Todos|
+|12/11/2024|12/11/2024|1.2|Criação do planejamento com DECIDE |Dion| Breno Lucena e Breno Soares|
