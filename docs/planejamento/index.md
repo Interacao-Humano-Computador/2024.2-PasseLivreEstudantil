@@ -2,5 +2,5 @@
 
 ## Conteúdo
 
-- [Cronograma](planejamento/cronograma)
-- [Planejamento DECIDE](planejamento/decide)
+- [Cronograma](cronograma.md)
+- [Planejamento DECIDE](decide.md)
