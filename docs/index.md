@@ -11,6 +11,7 @@ Bem-vindo ao repositório de documentos de Interação Humano-Computador do grup
 ## Histórico de Versões
 
 - **Versão 1.0.0** - Lançamento inicial com os colaboradores e informações básicas do projeto.
+- **Versão 1.1.0** - Lançamento do Git Pages da documentação.
 
 ## Sobre o Projeto
 
@@ -28,3 +29,4 @@ Para mais informações, visite nosso [repositório no GitHub](https://github.co
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |11/11/2024|11/11/2024|1.0|Criação da pagina Home|Breno| Breno Soares|
+|12/11/2024|12/11/2024|1.1|Criação de configurações do Git Pages |Dion| Todos|
