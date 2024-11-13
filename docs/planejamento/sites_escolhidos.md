@@ -25,5 +25,10 @@ Durante nossa avaliação inicial, baseada no framework DECIDE e nas heurística
 
 3. **Flexibilidade e Eficiência de Uso**: Observamos que a interface do site não é responsiva para dispositivos móveis. Em telas menores, o layout não se ajusta corretamente, obrigando o usuário a realizar rolagem excessiva e zoom, dificultando a navegação e o acesso às informações.
 
-[Link para a avaliação de IHC completa do site](https://interacao-humano-computador.github.io/2024.2-Grupo07/avaliacoes/planejamento-passelivre.pdf)
+[Link para a avaliação de IHC completa do site](https://github.com/Interacao-Humano-Computador/2024.2-Grupo07/blob/main/docs/arquivos/planejamento_passe_livre.pdf)<br>
 
+
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2024|11/11/2024|1.0|Criação da pagina|Breno Fernandes| Mateus Viera |
+|12/11/2024|12/11/2024|1.0|Atualização da pagina com os link do pdf de planejamento|Breno Fernandes| Mateus Viera |

@@ -27,5 +27,5 @@ Para garantir o alinhamento da equipe e promover a transparência no desenvolvim
 |    Data    | Data Prevista de Revisão | Versão |               Descrição                |      Autor      |    Revisor    |
 | :--------: | :----------------------: | :----: | :------------------------------------: | :-------------: | :-----------: |
 | 11/11/2024 |        11/11/2024        |  1.0   |           Criação da página            | Breno Fernandes | Mateus Vieira |
-| 12/11/2024 |        13/11/2024        |  1.1   | Atualização nas informações de reunião | Mateus Vieira |  |
+| 12/11/2024 |        13/11/2024        |  1.1   | Atualização nas informações de reunião | Mateus Vieira | Breno Fernandes |
 
