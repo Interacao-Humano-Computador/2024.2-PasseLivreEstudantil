@@ -15,7 +15,7 @@ As atividades do processo de design podem ser organizadas segundo diferentes cic
 
 No ciclo de vida simples (Figura 1), a atividade de síntese é subdividida em design (ou redesign) e na criação de uma versão interativa. A repetição entre as atividades pode acontecer tantas vezes quanto necessário.
 
-![Ciclo de vida Simples](..\assets\ciclo-de-vida-simples.png)
+![Ciclo de vida Simples](../assets/ciclo-de-vida-simples.png)
 Figura 1: Ciclo de vida simples [Fonte](https://aprender3.unb.br/pluginfile.php/2972679/mod_resource/content/3/cap04.pdf)
 
 
@@ -23,7 +23,7 @@ Figura 1: Ciclo de vida simples [Fonte](https://aprender3.unb.br/pluginfile.php/
 
 No ciclo de vida em estrela (Figura 2), o designer pode iniciar o processo a partir de qualquer ponto. Após concluir cada atividade, é essencial realizar uma avaliação dos resultados obtidos. Nesse modelo, a atividade de síntese é dividida em etapas de projeto conceitual, especificação do design, prototipação e implementação.
 
-![Ciclo de vida em Estrela](..\assets\ciclo-de-vida-em-estrela.png)
+![Ciclo de vida em Estrela](../assets/ciclo-de-vida-em-estrela.png)
 Figura 2: Ciclo de vida em Estrela [Fonte](https://aprender3.unb.br/pluginfile.php/2972679/mod_resource/content/3/cap04.pdf)
 
 ## Ciclo de Vida de Nielsen
@@ -45,7 +45,7 @@ Nielsen definiu **engenharia de usabilidade** como as seguintes atividades como 
 
 Nesse ciclo de vida as atividades são divididas em três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação, representados em detalhes na Figura 3. A primeira fase consiste na definição das metas de usabilidade, com base em dados coletados por meio de atividades como a análise do perfil do usuário e das tarefas. Durante a segunda fase o designer elabora uma solução de IHC atendendo as metas de usabilidade definidas na primeira fase. Por fim, na etapa de instalação, o projetista coleta opiniões dos usuários após o uso do sistema e utiliza tais opiniões na elaboração de melhorias.
 
-![Ciclo de vida Mayhew](..\assets\ciclo-de-vida-mayhew.png)
+![Ciclo de vida Mayhew](../assets/ciclo-de-vida-mayhew.png)
 
 Figura 3: Ciclo de vida Mayhew [Fonte](https://aprender3.unb.br/pluginfile.php/2972679/mod_resource/content/3/cap04.pdf)
 
