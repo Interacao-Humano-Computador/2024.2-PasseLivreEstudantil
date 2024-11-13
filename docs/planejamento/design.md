@@ -58,3 +58,7 @@ Figura 3: Ciclo de vida Mayhew [Fonte](https://aprender3.unb.br/pluginfile.php/2
 ## Bibliografia
 
 > \- Processos de Design de IHC Capítulo 6, Interação Humano-Computador e Experiência do Usuário, Simone Barbosa e Bruno Santana
+
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|11/11/2024|11/11/2024|1.0|Criação da pagina|Breno Lucena| Breno Fernandes |
