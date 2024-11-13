@@ -22,5 +22,5 @@ Para garantir o sucesso deste projeto, utilizamos diversas ferramentas computaci
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|11/11/2024|11/11/2024|1.0|Criação da pagina de ferramentas|Breno Fernandes| |
+|11/11/2024|11/11/2024|1.0|Criação da pagina de ferramentas|Breno Fernandes| Mateus Viera |
 
