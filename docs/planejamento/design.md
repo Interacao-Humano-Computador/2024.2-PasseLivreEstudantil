@@ -1,15 +1,15 @@
 # Processo de Design
 
 ## Introdução
-O projeto de design em Interação Humano-Computador (IHC) envolve três atividades principais: análise, síntese e avaliação. Na fase de análise, o objetivo é estudar e interpretar uma situação específica, na qual serão planejadas e executadas intervenções. A etapa de síntese se concentra na implementação dessas intervenções, e a fase de avaliação verifica os efeitos gerados. A intervenção, que é uma solução para um problema identificado, pode ser avaliada ao longo de todas as suas fases, desde a concepção até após sua aplicação.
+O projeto de design em Interação Humano-Computador (IHC) envolve três atividades principais: análise, síntese e avaliação.
+ Na fase de análise, o objetivo é estudar e interpretar uma situação específica, na qual serão planejadas e executadas intervenções.
+ Na etapa de síntese se concentra na implementação dessas intervenções, e a fase de avaliação verifica os efeitos gerados.
+ Na intervenção, que é uma solução para um problema identificado, pode ser avaliada ao longo de todas as suas fases, desde a concepção até após sua aplicação.
 
-Essas atividades básicas podem ser organizadas de diversas maneiras, e os processos de design em IHC geralmente propõem uma execução iterativa para permitir um refinamento contínuo das intervenções e da análise da situação.
+Essas atividades podem ser organizadas de diversas maneiras, e os processos de design em IHC geralmente propõem uma execução iterativa para permitir uma evolução contínua das intervenções e da análise da situação.
 
 O objetivo principal de um projeto em Interação Humano-Computador é atender às necessidades dos usuários e demais envolvidos (stakeholders). Por isso, a maioria dos processos de design é centrada no usuário e segue os princípios de foco no usuário, uso de métricas observáveis e design interativo.
-
-Para garantir o foco no usuário, o primeiro princípio, o designer deve estudar o perfil dos usuários do sistema. O segundo princípio defende que o processo permita a coleta de dados mensuráveis, como a performance e as reações dos usuários ao interagir com o sistema. Por fim, o terceiro princípio, o design interativo, permite que as etapas do processo se repitam conforme surgem novas necessidades.
-
-As atividades do processo de design podem ser organizadas segundo diferentes ciclos de vida de projeto, alguns dos quais serão detalhados a seguir.
+## Exemplos de processos de design:
 
 ## Ciclo de vida simples
 
@@ -28,7 +28,7 @@ Figura 2: Ciclo de vida em Estrela [Fonte](https://aprender3.unb.br/pluginfile.p
 
 ## Ciclo de Vida de Nielsen
 
-Nielsen definiu **engenharia de usabilidade** como as seguintes atividades como essenciais durante todo o ciclo de via de um produto:
+Nielsen definiu *engenharia de usabilidade* como as seguintes atividades como essenciais durante todo o ciclo de via de um produto:
 
 > 1. Conhecer o usuário;
 > 2. Realizar uma análise competitiva (examinar produtos com funcionalidades semelhantes);
@@ -58,6 +58,11 @@ Figura 3: Ciclo de vida Mayhew [Fonte](https://aprender3.unb.br/pluginfile.php/2
 ## Bibliografia
 
 > \- Processos de Design de IHC Capítulo 6, Interação Humano-Computador e Experiência do Usuário, Simone Barbosa e Bruno Santana
+
+> \-https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/unidade-ii.html
+
+> \-https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-5
+
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |

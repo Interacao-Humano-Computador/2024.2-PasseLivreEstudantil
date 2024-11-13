@@ -1,3 +1,8 @@
+# Planejamento de Verificação da Etapa 1
+
+Neste espaço, apresentamos o planejamento detalhado para a verificação dos artefatos de desenvolvimento, fundamentado no plano de ensino. 
+
+A qualidade e a consistência dos artefatos são essenciais para o sucesso de projetos de software, e este planejamento busca estabelecer um processo criterioso de verificação para garantir que todos os elementos atendam aos requisitos estabelecidos.
 
 ### Lista de verificação do grupo 8
 

@@ -15,7 +15,7 @@ Para garantir o sucesso deste projeto, utilizamos diversas ferramentas computaci
 | ![VS Code Logo](../assets/VsCode_Logo.png)| **Visual Studio Code** - Editar e desenvolver código de forma eficiente com suporte a várias extensões. |
 | ![WhatsApp Logo](../assets/Whatsapp_Logo.png) | **WhatsApp** - Comunicação rápida e prática para alinhamentos e atualizações da equipe.             |
 | ![Google Docs Logo](../assets/GoogleDocs_Logo.png) | **Google Docs** - Colaborar na criação e edição de documentos em tempo real.                         |
-| ![Figma Logo](../assets/Figma_Logo.png) | **Google Docs** - Para prototipagem e criação de wireframes. Essa ferramenta ajuda a visualizar e simular melhorias na interface.                        |
+| ![Figma Logo](../assets/Figma_Logo.png) | **Figma** - Para prototipagem e criação de wireframes. Essa ferramenta ajuda a visualizar e simular melhorias na interface.                        |
 
 
 ## Histórico de Versão
