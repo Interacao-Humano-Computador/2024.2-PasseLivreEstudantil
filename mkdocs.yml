@@ -39,6 +39,10 @@ nav:
     - Heatmap: planejamento/heatmap.md
     - Sites avaliados: planejamento/sites_avaliados.md
     - Site escolhido: planejamento/sites_escolhidos.md
+  - Verificação:
+    - Entrega 01:
+      - Inspeção grupo 07: verificacoes/entrega01/verificacaoGrupo07.md
+      - Inspeção grupo 08: verificacoes/entrega01/verificacaoGrupo08.md
 
 extra:
   version:
