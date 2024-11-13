@@ -2,9 +2,9 @@
 
 Em atividades anteriores da disciplina, alguns membros do grupo sugeriram diferentes sites, apresentando argumentos para justificar suas escolhas. Posteriormente, foi realizada uma revisão, onde cada site foi avaliado com base em critérios específicos, com o objetivo de chegar a um consenso. Abaixo, é possível conferir em mais detalhes as alternativas propostas pelos demais integrantes do grupo.
 
-- [Print](sites_avaliados)
-- [PJe](sites_avaliados)
-- [INSS Mobile](sites_avaliados)
+- [Print](../sites_avaliados)
+- [PJe](../sites_avaliados)
+- [INSS Mobile](../sites_avaliados)
 
 ### Motivos da Escolha
 
