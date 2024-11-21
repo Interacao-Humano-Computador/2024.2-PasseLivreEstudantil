@@ -1,51 +1,51 @@
 # Planejamento de Verificação da Etapa 1
 
 ## Introdução
-Neste espaço, apresentamos o planejamento detalhado para a verificação de artefatos de desenvolvimento, fundamentado nas teorias e metodologias de Bruno Silva e Simone Barbosa.
+Neste documento, detalhamos o planejamento estruturado para a verificação de artefatos de desenvolvimento, embasado nas teorias e abordagens propostas por Bruno Silva e Simone Barbosa.  
 
-A qualidade e consistência dos artefatos são fundamentais para o sucesso de projetos de software, e esse planejamento busca estabelecer um processo criterioso de verificação.
+Garantir a qualidade e a consistência dos artefatos é um pilar essencial para o sucesso de projetos de software. Este planejamento visa implementar um processo minucioso e eficaz de verificação, alinhado às melhores práticas do campo..
 
 ## Objetivo
-Com base em princípios de consistência, completude e clareza, o objetivo deste planejamento é garantir que cada artefato esteja alinhado com as especificações e atenda aos requisitos estabelecidos. Os procedimentos aqui descritos incluem critérios específicos para revisão, técnicas de inspeção, e um plano de acompanhamento para registrar não-conformidades e implementar melhorias contínuas.
+A partir dos princípios de clareza, consistência e completude, este planejamento tem como objetivo assegurar que cada artefato esteja em conformidade com as especificações e atenda aos requisitos definidos. Os processos descritos abrangem critérios detalhados para revisão, métodos de inspeção e um plano sistemático de acompanhamento, destinado a identificar não conformidades e promover melhorias contínuas.
 
 ## Metodologias
-Para garantir a qualidade e a precisão dos artefatos apresentados na página do projeto, adotaremos a **Inspeção Formal** como metodologia de verificação. Esse método é amplamente utilizado na engenharia de software para assegurar que todos os aspectos de um artefato – sejam eles textuais, estruturais ou visuais – estejam alinhados com os requisitos e padrões esperados.
+Para assegurar a qualidade e precisão dos artefatos desenvolvidos no projeto, optamos por utilizar a Inspeção Formal como metodologia principal de verificação. Este método, amplamente reconhecido na engenharia de software, é voltado para garantir que todos os aspectos de um artefato — textuais, visuais ou estruturais — estejam em conformidade com os requisitos e padrões previamente definidos.
 
-A inspeção se diferencia de outras metodologias de revisão por ser um processo estruturado e minucioso, onde cada artefato é analisado detalhadamente de acordo com critérios pré-estabelecidos, como clareza, consistência, completude e navegabilidade. Em nosso processo de inspeção, cada item será avaliado quanto à sua adequação ao objetivo do projeto, e eventuais não-conformidades serão documentadas para correção.
+A Inspeção Formal se destaca por sua abordagem sistemática e detalhada, analisando cada elemento do artefato com base em critérios específicos, como clareza, consistência, completude e navegabilidade. Durante o processo, eventuais inconsistências serão registradas e encaminhadas para correção, assegurando que o artefato esteja plenamente alinhado aos objetivos do projeto.
 
-Esse método nos permitirá detectar e corrigir com antecedência problemas que poderiam impactar a experiência do usuário, além de promover um entendimento comum sobre o conteúdo e a estrutura do projeto entre todos os envolvidos.
+Essa metodologia não apenas antecipa e resolve problemas que poderiam comprometer a experiência do usuário, mas também fomenta uma visão compartilhada entre os integrantes do grupo, promovendo um alinhamento claro em relação ao conteúdo e à estrutura do projeto.
 
 ## Participantes
-Foi dividido entre os integrantes do grupo a tarefa de verificação dos artefatos produzidos na etapa 1, visando principalmente evitar que o autor e o revisor de um mesmo artefato fossem a mesma pessoa. Contudo, neste documento o revisor e autor será sempre **Felipe Veríssimo**.
+Foi dividido entre os integrantes do grupo a tarefa de verificação dos artefatos produzidos na etapa 1, visando principalmente evitar que o autor e o revisor de um mesmo artefato fossem a mesma pessoa.
 
 | Artefato                          | Revisor         |
 |-----------------------------------|-----------------|
 | Cronograma e Site Escolhido       | Felipe Veríssimo |
-| Ferramentas e Sites Avaliados     | Felipe Veríssimo |
+| Ferramentas e Sites Avaliados     | Breno Fernandes |
 | Processo de Design e Metodologia  | Felipe Veríssimo |
 
 
 ## Resultados
 O resultado da verificação de cada artefato pode ser acessado nos links abaixo:
 
-- Cronograma
-- Site Escolhido
-- Ferramentas
-- Processo de Design
-- Metodologia
+- [Cronograma](./cronogramav.md)
+- [Site Escolhido](./siteev.md)
+- [Ferramentas](./ferramentasv.md)
+- [Processo de Design](./designv.md)
+- [Metodologia](./metodologiav.md)
 
 # **Planejamento Geral do Projeto**
 
 | **Itens de Verificação**                                                                                                   | **Resposta** | **Versão, Data e Hora da Avaliação**        |
 |---------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------|
-| Possui uma página apresentando os integrantes da equipe (com foto), nome e sem matrícula?                                  | SIM          | Versão: 1.0 - 12/11/2024 às 13:09          |
-| O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante, com datas de início e fim, além do período de revisão? | SIM          | Versão: 1.0 - 12/11/2024 às 13:11          |
-| O cronograma prevê um período de gravação da apresentação de cada etapa?                                                  | SIM          | Versão: 1.0 - 12/11/2024 às 13:14          |
-| O cronograma prevê revisão/ajustes nos artefatos devidos às considerações dos monitores/professor?                         | SIM          | Versão: 1.0 - 12/11/2024 às 13:16          |
-| Contém a motivação e os critérios para a escolha do site?                                                                 | SIM          | Versão: 1.0 - 12/11/2024 às 13:18          |
-| O planejamento e avaliação dos sites selecionados estão claros?                                                           | SIM          | Versão: 1.0 - 12/11/2024 às 13:22          |
-| Possui opção de contraste de cores?                                                                                       | SIM          | Versão: 1.0 - 12/11/2024 às 13:26          |
-| Inclui os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado, ferramentas, processo de design e cronograma? | SIM          | Versão: 1.0 - 12/11/2024 às 13:29          |
+| Possui uma página apresentando os integrantes da equipe (com foto), nome e sem matrícula?                                  | SIM          | Versão: 2.0 - 21/11/2024 às 16:15          |
+| O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante, com datas de início e fim, além do período de revisão? | SIM          | Versão: 2.0 - 21/11/2024 às 15:41          |
+| O cronograma prevê um período de gravação da apresentação de cada etapa?                                                  | SIM          | Versão: 2.0 - 21/11/2024 às 15:41         |
+| O cronograma prevê revisão/ajustes nos artefatos devidos às considerações dos monitores/professor?                         | SIM          | Versão: 2.0 - 21/11/2024 às 15:41        |
+| Contém a motivação e os critérios para a escolha do site?                                                                 | SIM          | Versão: 2.0 - 21/11/2024 às 15:41         |
+| O planejamento e avaliação dos sites selecionados estão claros?                                                           | SIM          |  Versão: 2.0 - 21/11/2024 às 15:41          |
+| Possui opção de contraste de cores?                                                                                       | SIM          | Versão: 2.0 - 21/11/2024 às 15:41          |
+| Inclui os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado, ferramentas, processo de design e cronograma? | SIM          |  Versão: 2.0 - 21/11/2024 às 15:41          |
 
 Fonte: Plano de Ensino da Disciplina
 
@@ -55,15 +55,15 @@ Fonte: Plano de Ensino da Disciplina
 
 | **Itens de Verificação**                                                                                                   | **Resposta** | **Versão, Data e Hora da Avaliação**        |
 |---------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------|
-| O histórico de versão está padronizado?                                                                                   | SIM          | Versão: 1.0 - 12/11/2024 às 13:34          |
-| Identifica os autores e revisores para cada artefato?                                                                     | SIM          | Versão: 1.0 - 12/11/2024 às 13:40          |
-| Inclui referências bibliográficas e/ou bibliografia em todos os artefatos?                                                | SIM          | Versão: 1.0 - 12/11/2024 às 13:46          |
-| Tabelas e imagens possuem legenda e fonte, e estão mencionadas no texto?                                                  | SIM          | Versão: 1.0 - 12/11/2024 às 13:52          |
-| Contém um texto introduzindo os artefatos?                                                                                | SIM          | Versão: 1.0 - 12/11/2024 às 13:56          |
-| O cronograma executado detalha quem realizou cada artefato/atividade com datas de início e fim?                           | SIM          | Versão: 1.0 - 12/11/2024 às 17:02          |
-| Inclui atas das reuniões (com data, horário, participantes, objetivo, atividades etc.)?                                    | SIM          | Versão: 1.0 - 12/11/2024 às 14:08          |
-| A gravação das reuniões do grupo está disponível?                                                                         | SIM          | Versão: 1.0 - 12/11/2024 às 20:25          |
-| O vídeo de apresentação está disponível como “não listado” no YouTube?                                                    | SIM          | Versão: 1.0 - 12/11/2024 às 20:30          |
+| O histórico de versão está padronizado?                                                                                   | SIM          |  Versão: 2.0 - 21/11/2024 às 16:04         |
+| Identifica os autores e revisores para cada artefato?                                                                     | SIM          |Versão: 2.0 - 21/11/2024 às 16:04          |
+| Inclui referências bibliográficas e/ou bibliografia em todos os artefatos?                                                | SIM          |   Versão: 2.0 - 21/11/2024 às 16:04          |
+| Tabelas e imagens possuem legenda e fonte, e estão mencionadas no texto?                                                  | SIM          |   Versão: 2.0 - 21/11/2024 às 16:04          |
+| Contém um texto introduzindo os artefatos?                                                                                | SIM          | Versão: 2.0 - 21/11/2024 às 16:04          |
+| O cronograma executado detalha quem realizou cada artefato/atividade com datas de início e fim?                           | SIM          | Versão: 2.0 - 21/11/2024 às 16:04          |
+| Inclui atas das reuniões (com data, horário, participantes, objetivo, atividades etc.)?                                    | SIM          | Versão: 2.0 - 21/11/2024 às 16:04          |
+| A gravação das reuniões do grupo está disponível?                                                                         | SIM          | Versão: 2.0 - 21/11/2024 às 16:04          |
+| O vídeo de apresentação está disponível como “não listado” no YouTube?                                                    | SIM          | Versão: 2.0 - 21/11/2024 às 16:04          |
 
 Fonte: Plano de Ensino da Disciplina
 
@@ -73,10 +73,10 @@ Fonte: Plano de Ensino da Disciplina
 
 | **Itens de Verificação**                                                                                                   | **Resposta** | **Versão, Data e Hora da Avaliação**        |
 |---------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------|
-| Possui justificativa clara para a escolha do Processo de Design?                                                          | SIM          | Versão: 1.0 - 12/11/2024 às 14:16          |
-| A introdução contextualiza o tema e destaca a importância do processo de design?                                          | SIM          | Versão: 1.0 - 12/11/2024 às 14:16          |
-| A descrição dos modelos de processos de design é clara e fácil de entender?                                               | SIM          | Versão: 1.0 - 12/11/2024 às 14:16          |
-| As informações apresentadas estão diretamente relacionadas ao contexto de design de IHC e são aplicáveis ao projeto?       | SIM          | Versão: 1.0 - 12/11/2024 às 14:16          |
+| Possui justificativa clara para a escolha do Processo de Design?                                                          | SIM          | Versão: 2.0 - 21/11/2024 às 16:15          |
+| A introdução contextualiza o tema e destaca a importância do processo de design?                                          | SIM          | Versão: 2.0 - 21/11/2024 às 16:15          |
+| A descrição dos modelos de processos de design é clara e fácil de entender?                                               | SIM          | Versão: 2.0 - 21/11/2024 às 16:15          |
+| As informações apresentadas estão diretamente relacionadas ao contexto de design de IHC e são aplicáveis ao projeto?       | SIM          | Versão: 2.0 - 21/11/2024 às 16:15          |
 
 Fonte: Plano de Ensino da Disciplina¹ e Felipe Verissimo²
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A inspeção formal do site escolhido para o projeto é uma prática essencial para assegurar a qualidade e consistência dos critérios que levaram o grupo a escolher o site do Diário Oficial do Rio Grande do Norte.
+A inspeção formal do **site do Passe Livre Estudantil** é uma etapa fundamental para garantir a qualidade e consistência dos critérios que embasaram sua seleção para o projeto. O objetivo é avaliar se o site atende às necessidades de seus usuários, proporcionando acessibilidade e usabilidade adequadas para estudantes que buscam informações sobre o benefício.
 
 ## Metodologia
 
@@ -20,7 +20,7 @@ Para a verificação do artefato, será feita a inspeção por Checklist, basean
 | 06  | Foram identificados já pontos de melhoria?                                           | Sim         |                                         |
 | 07  | Está explícito no documento o resultado da análise heurística?                        | Não         |                                         |
 
-**Fonte:** Luiza Maluf
+**Fonte:** Apatado de  Luiza Maluf 
 
 ## Problemas Encontrados
 
@@ -35,7 +35,7 @@ Além de referenciar o PDF de análise, seria importante deixar os aspectos mais
 
 A figura a seguir apresenta um gráfico com o percentual das respostas da lista de verificação.
 
-**Fonte:** Luiza Maluf
+**Fonte:**  Luiza Maluf 
 
 ## Correção
 
@@ -45,11 +45,10 @@ Como proposto por Fagan, os integrantes do grupo que foram responsáveis pela pr
 
 | Data da Correção | Descrição           | Responsável(eis) | Revisor(es)  | Status |
 | ---------------- | ------------------- | ---------------- | ------------ | ------ |
-| 11/11/2024       | Correções sugeridas  | Kaio Enzo        | Luiza Maluf  | ok     |
+| 22/11/2024       | Correções sugeridas  | Breno Fernandes        | Felipe Verissimo  | ok     |
 
 ## Bibliografia
 
-ENZO, Kaio. Site Escolhido. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.2-Grupo08/planejamento/siteEscolhido/>. Acesso em: 10/11/2024.
 
 MALUF, Luiza. Verificação do cronograma. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.2-Grupo08/verificacao/grupo/etapa1/verificacao-cronograma/>. Acesso em: 10/11/2024.
 
@@ -61,5 +60,4 @@ BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: E
 
 | Versão | Data       | Descrição                   | Autor(es)    |
 | ------ | ---------- | --------------------------- | ------------ |
-| 1.0    | 04/11/2024 | Criação da página           | Luiza Maluf  |
-| 2.0    | 09/11/2024 | Verificação do Site Escolhido| Luiza Maluf  |
+| 1.0    | 21/11/2024 | Criação da página           | Felipe Verissimo  |

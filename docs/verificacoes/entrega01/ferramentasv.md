@@ -12,56 +12,26 @@ Para a verificação do artefato, Felipe Veríssimo (2024) propõe a utilizaçã
 
 | ID  | Descrição                                                                                  | Avaliação | Observações                                                       |
 | --- | ------------------------------------------------------------------------------------------ | --------- | ----------------------------------------------------------------- |
-| 1   | O artefato possui introdução?                                                               | Não       |                                                                   |
-| 2   | O artefato possui uma bibliografia/referência bibliográfica?                               | Não       |                                                                   |
+| 1   | O artefato possui introdução?                                                               | Sim       |                                                                   |
+| 2   | O artefato possui uma bibliografia/referência bibliográfica?                               | Sim       |                                                                   |
 | 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim       |                                                                   |
 | 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?              | Sim       |                                                                   |
 | 5   | Todos os textos estão na norma padrão?                                                    | Sim       |                                                                   |
 | 6   | As ferramentas presentes no artefato são usadas no projeto?                               | Sim       |                                                                   |
 | 7   | Na descrição, está explícito o uso daquela ferramenta dentro do projeto?                   | Sim       |                                                                   |
 | 8   | O artefato foi atualizado em caso de adição de uma nova ferramenta?                        | Sim       |                                                                   |
-| 9   | As ferramentas são referenciadas no artefato e têm seus links disponibilizados na referência? | Não       | Não há referência, e por consequência, não há nenhum link.        |
+| 9   | As ferramentas são referenciadas no artefato e têm seus links disponibilizados na referência? | Sim       |         |
 | 10  | As ferramentas apresentam uma breve descrição de suas funcionalidades?                    | Sim       |                                                                   |
 
-**Fonte:** Adaptado de Felipe Veríssimo, 2024.
-
-## Problemas Encontrados
-
-A avaliação do artefato foi realizada por Kaio Enzo (2024) e indicou os seguintes problemas:
-
-- **ID 1** - O artefato não possui introdução, o que dificulta a compreensão do leitor sobre o conteúdo.
-- **ID 2** - O artefato não possui uma bibliografia/referência bibliográfica.
-- **ID 9** - As ferramentas não são referenciadas no artefato e não possuem links.
-
-## Sugestões de Melhoria
-
-- Adicionar uma introdução ao artefato.
-- Adicionar uma bibliografia/referência bibliográfica.
-- Referenciar as ferramentas no artefato e disponibilizar os links.
-
-## Resultado da Verificação
-
-![Gráfico do Resultado da Verificação](grafico_verificacao.png)
-
-**Fonte:** Kaio Enzo, 2024.
-
-## Retrabalho
-
-Conforme proposto por Fagan (apud CAMPELLO; MELO; HENRIQUE, 2023), o retrabalho será inicialmente realizado pelos autores do artefato verificado, que se encarregarão de corrigir os problemas identificados com base na lista de sugestões de correção previamente apresentada. No entanto, existe a possibilidade de que outros integrantes do grupo também realizem essas correções. O responsável pela verificação fará uma revisão das correções implementadas, avaliando se são adequadas e se não introduziram novos erros. A Tabela 2, a seguir, apresenta o cronograma das correções.
-
-### Tabela 2 - Cronograma de Correções
-
-| Data da Correção | Descrição           | Responsável(eis)  | Revisor(es)  | Status |
-| ---------------- | ------------------- | ----------------- | ------------ | ------ |
-| 11/11/2024       | Correções sugeridas  | Márcio Henrique   | Kaio Enzo    | ok     |
-
 **Fonte:** Adaptado de Gabriel Campello, 2023.
+
+
 
 ## Bibliografia
 
 CAMPELLO, Gabriel; MELO, Arthur de; HENRIQUE, Mateus. Verificação Ferramentas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa1/verificacao-ferramentas/. Acesso em: 11 nov. 2024.
-
-HENRIQUE, Márcio. Ferramentas. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: https://interacao-humano-computador.github.io/2024.2-Grupo08/planejamento/ferramentas. Acesso em: 11/11/2024.
+    
+VITOR, Dion. *Cronograma*. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: [GitHub](https://github.com/Interacao-Humano-Computador/2024.2-Grupo07/tree/main). Acesso em: 21/11/2024.
 
 ## Referências Bibliográficas
 
@@ -71,5 +41,5 @@ BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: E
 
 | Versão | Data       | Descrição             | Autor(es)     |
 | ------ | ---------- | --------------------- | ------------- |
-| 1.0    | 04/11/2024 | Criação da página     | Felipe Veríssimo |
-| 1.1    | 11/11/2024 | Verificação das ferramentas | Kaio Enzo    |
+| 1.0    | 21/11/2024 | Criação da página     | Felipe Veríssimo |
+
