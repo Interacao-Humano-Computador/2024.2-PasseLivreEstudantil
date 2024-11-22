@@ -41,8 +41,16 @@ nav:
     - Site escolhido: planejamento/sites_escolhidos.md
   - Verificação:
     - Entrega 01:
-      - Inspeção grupo 07: verificacoes/entrega01/verificacaoGrupo07.md
+
+      - Planejamento da Verificação da Etapa 1: verificacoes/entrega01/planejamento.md
+      - Cronograma: verificacoes/entrega01/cronogramav.md
+      - Ferramentas: verificacoes/entrega01/ferramentasv.md
+      - Processo de design: verificacoes/entrega01/designv.md
+      - Sites avaliados: verificacoes/entrega01/siteav.md
+      - Site escolhido: verificacoes/entrega01/siteev.md
+      - Metodologia:  verificacoes/entrega01/metodologiav.md
       - Inspeção grupo 08: verificacoes/entrega01/verificacaoGrupo08.md
+
 
 extra:
   version:
