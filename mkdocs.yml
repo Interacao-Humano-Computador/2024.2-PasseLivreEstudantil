@@ -1,25 +1,10 @@
 # Nome do site
-site_name: "Grupo 07 mudar para o nome escolhido"
+site_name: "Passe Livre Estudantil"
 
 # Descrição
 site_description: "Repositório de documentos de Interação Humano-Computador"
 repo_name: '2024.2-Grupo07'
 repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo07'
-
-# Configura a navegação do site
-nav:
-  - Introdução: index.md
-  - Atas: 
-    - Ata 1:    atas/ata-1.md
-  - Planejamento:
-    - Cronograma: planejamento/cronograma.md
-    - Metodologia: planejamento/metodologia.md
-    - Design: planejamento/design.md
-    - Ferramentas: planejamento/
-    - Heatmap: planejamento/heatmap.md
-    - Site escolhido: planejamento/site_escolhido.md
-    - Sites avaliados: planejamento/sites_avaliados.md
-
 
 # Tema do MkDocs
 theme:
@@ -41,8 +26,32 @@ theme:
   favicon: 
   logo: ##logo do site escolhido
 
+# Configura a navegação do site
+nav:
+  - Introdução: index.md
+  - Atas: 
+    - Ata 1: atas/ata-1.md
+  - Planejamento:
+    - Cronograma: planejamento/cronograma.md
+    - Metodologia: planejamento/metodologia.md
+    - Design: planejamento/design.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Heatmap: planejamento/heatmap.md
+    - Sites avaliados: planejamento/sites_avaliados.md
+    - Site escolhido: planejamento/sites_escolhidos.md
+  - Verificação:
+    - Entrega 01:
+
+      - Planejamento da Verificação da Etapa 1: verificacoes/entrega01/planejamento.md
+      - Cronograma: verificacoes/entrega01/cronogramav.md
+      - Ferramentas: verificacoes/entrega01/ferramentasv.md
+      - Processo de design: verificacoes/entrega01/designv.md
+      - Sites avaliados: verificacoes/entrega01/siteav.md
+      - Site escolhido: verificacoes/entrega01/siteev.md
+      - Metodologia:  verificacoes/entrega01/metodologiav.md
+      - Inspeção grupo 08: verificacoes/entrega01/verificacaoGrupo08.md
+
+
 extra:
   version:
     provider: 
-
-extra_css: [stylesheets/extra.css]
