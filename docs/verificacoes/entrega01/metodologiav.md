@@ -37,7 +37,6 @@ Até a presente data, não foi identificada nenhuma inconsistência com as infor
 
 ## Bibliografia
 
-DE MELO, Arthur. Processo de Design. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/processo-design>. Acesso em: 9 nov. 2024.
 
 GOVERNO DO BRASIL. Lista de verificação da qualidade de artefatos - Checklist Ágil. 2019. Disponível em: <https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view>. Acesso em: 9 nov. 2024.
 
@@ -51,4 +50,4 @@ BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro:
 
 | Versão | Data       | Descrição                    | Autor(es)      |
 | ------ | ---------- | ---------------------------- | -------------- |
-| 1.0    | 10/11/2024 | Verificação da Metodologia    | Felipe Verissimo |
+| 1.0    | 21/11/2024 | Verificação da Metodologia    | Felipe Verissimo |

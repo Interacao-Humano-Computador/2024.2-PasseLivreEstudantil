@@ -16,7 +16,7 @@ A abordagem adotada para a inspeção será a **Inspeção por lista de verifica
 |---------------------------|--------|-------------------------------------------------------------------|---------------|---------------------------------------------|
 | **Completude**            | 01     | O cronograma inclui todas as etapas essenciais para a entrega?   | Sim           |                                             |
 |                           | 02     | Todos os marcos e entregáveis estão listados?                    | Sim           |                                             |
-| **Clareza**               | 03     | As descrições das atividades são claras e compreensíveis?        | Não           | Falta inserir as descrições das atividades. |
+| **Clareza**               | 03     | As descrições das atividades são claras e compreensíveis?        | Não           | Nao possui descrição as atividades, mas seu obejtivo é claro pelo titulo . |
 |                           | 04     | As responsabilidades de cada atividade estão bem definidas?      | Sim           |                                             |
 | **Precisão Temporal**     | 05     | Os prazos são realistas e viáveis dentro do contexto do projeto? | Sim           |                                             |
 |                           | 06     | O cronograma possui datas de início e fim bem definidas?         | Sim           |                                             |
@@ -24,30 +24,16 @@ A abordagem adotada para a inspeção será a **Inspeção por lista de verifica
 | **Usabilidade e Navegação** | 08   | O layout do cronograma é fácil de entender e visualizar?         | Sim           |                                             |
 |                           | 09     | As informações são dispostas de forma lógica e intuitiva?        | Sim           |                                             |
 | **Visibilidade do Status**| 10     | O cronograma permite visualizar facilmente o andamento?          | Sim           |                                             |
-|                           | 11     | Mudanças ou atualizações são claramente visíveis?                | Não           | Não foi inserido o cronograma executado.    |
-| **Conformidade**          | 12     | O artefato possui bibliografia?                                  | Não           |                                             |
+|                           | 11     | Mudanças ou atualizações são claramente visíveis?                | Sim           |     |
+| **Conformidade**          | 12     | O artefato possui bibliografia?                                  | Sim           |                                             |
 |                           | 13     | O cronograma foi elaborado em tabelas?                           | Sim           |                                             |
 
 Fonte: Felipe Veríssimo
 
 ---
 
-## **Problemas Encontrados**
-- Falta a descrição das atividades do cronograma.
-- Não existe comparação entre o que foi realmente feito e o planejado.
-- Não há introdução, bibliografia ou referência bibliográfica na página do cronograma.
-
----
-
-## **Soluções Propostas**
-- **ID 03**: Inserir um campo na tabela com uma breve descrição da atividade.
-- **ID 11**: Inserir um cronograma executado ao final para comparar planejado e realizado.
-- **ID 12**: Adicionar as referências bibliográficas.
-
----
-
 ## **Bibliografia**
-- HENRIQUE, Márcio. *Cronograma*. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: [Cronograma](https://interacao-humano-computador.github.io/2024.2-Grupo08/planejamento/cronograma/). Acesso em: 10/11/2024.
+- VITOR, Dion. *Cronograma*. Repositório do Grupo 08 da disciplina de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: [Cronograma](https://github.com/Interacao-Humano-Computador/2024.2-Grupo07/tree/main). Acesso em: 21/11/2024.
 
 ---
 
