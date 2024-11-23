@@ -40,16 +40,44 @@ nav:
     - Sites avaliados: planejamento/sites_avaliados.md
     - Site escolhido: planejamento/sites_escolhidos.md
   - Verificação:
-    - Entrega 01:
-      - Inspeção grupo 07: verificacoes/entrega01/verificacaoGrupo07.md
-      - Inspeção grupo 08: verificacoes/entrega01/verificacaoGrupo08.md
-      - Planejamento da Verificação da Etapa 1: verificacoes/entrega01/planejamento.md
-      - Cronograma: verificacoes/entrega01/cronogramav.md
-      - Ferramentas: verificacoes/entrega01/ferramentasv.md
-      - Processo de design: verificacoes/entrega01/designv.md
-      - Sites avaliados: verificacoes/entrega01/siteav.md
-      - Site escolhido: verificacoes/entrega01/siteev.md
-      - Metodologia:  verificacoes/entrega01/metodologiav.md
+    - Verificação do Grupo 7:
+      - Entrega 01:
+        - Inspeção: verificacoes/grupo07/entrega01/verificacaoGrupo07.md
+        - Planejamento da Verificação: verificacoes/grupo07/entrega01/planejamento.md
+        - Cronograma: verificacoes/grupo07/entrega01/cronogramav.md
+        - Ferramentas: verificacoes/grupo07/entrega01/ferramentasv.md
+        - Processo de design: verificacoes/grupo07/entrega01/designv.md
+        - Sites avaliados: verificacoes/grupo07/entrega01/siteav.md
+        - Site escolhido: verificacoes/grupo07/entrega01/siteev.md
+        - Metodologia: verificacoes/grupo07/entrega01/metodologiav.md
+      - Entrega 02:
+        - Planejamento de Verificação: verificacoes/grupo07/entrega02/planejamentodeVerificacao.md
+        - Personas: verificacoes/grupo07/entrega02/personas.md
+        - Aspectos Éticos: verificacoes/grupo07/entrega02/aspectosEticos.md
+        - Cenários: verificacoes/grupo07/entrega02/cenarios.md
+        - Perfil do Usuário: verificacoes/grupo07/entrega02/perfildeUsuario.md
+        - Analise de tarefas: verificacoes/grupo07/entrega02/analisedeTarefas.md
+
+    - Verificação do Grupo 8:
+      - Entrega 01:
+        - Inspeção: verificacoes/grupo08/entrega01/verificacaoGrupo08.md
+        - Cronograma: verificacoes/grupo08/entrega01/cronograma.md
+        - Ferramentas: verificacoes/grupo08/entrega01/ferramentas.md
+        - Processo de Design: verificacoes/grupo08/entrega01/processodeDesign.md
+        - Site Escolhido: verificacoes/grupo08/entrega01/siteEscolhido.md
+      - Entrega 02:
+        - Planejamento de Verificação: verificacoes/grupo08/entrega02/planejamentodeVerificacao.md
+        - Personas: verificacoes/grupo08/entrega02/personas.md
+        - Aspectos Éticos: verificacoes/grupo08/entrega02/aspectosEticos.md
+        - Cenários: verificacoes/grupo08/entrega02/cenarios.md
+        - Perfil do Usuário: verificacoes/grupo08/entrega02/perfildeUsuario.md
+        - Analise de tarefas: verificacoes/grupo08/entrega02/analisedeTarefas.md
+
+
+
+      
+      
+
   - Análise de Requisitos:
     - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
     - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
