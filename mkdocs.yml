@@ -41,7 +41,8 @@ nav:
     - Site escolhido: planejamento/sites_escolhidos.md
   - Verificação:
     - Entrega 01:
-
+      - Inspeção grupo 07: verificacoes/entrega01/verificacaoGrupo07.md
+      - Inspeção grupo 08: verificacoes/entrega01/verificacaoGrupo08.md
       - Planejamento da Verificação da Etapa 1: verificacoes/entrega01/planejamento.md
       - Cronograma: verificacoes/entrega01/cronogramav.md
       - Ferramentas: verificacoes/entrega01/ferramentasv.md
@@ -49,14 +50,18 @@ nav:
       - Sites avaliados: verificacoes/entrega01/siteav.md
       - Site escolhido: verificacoes/entrega01/siteev.md
       - Metodologia:  verificacoes/entrega01/metodologiav.md
-
+  - Análise de Requisitos:
+    - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
+    - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
+    - Cenários: analisedeRequsitos/cenarios.md
+    - Personas: analisedeRequsitos/personas.md
+    - Analise de Tarefas: analisedeRequsitos/analisedeTarefas.md
+    - Termo de Consentimento: analisedeRequsitos/termodeConsentimento.md
+    
     
 
 
 
-=======
-      - Inspeção grupo 08: verificacoes/entrega01/verificacaoGrupo08.md
->>>>>>> 75b9ada92b781b170a80b74cecfb9f71b4fdfdb3
 
 
 extra:
