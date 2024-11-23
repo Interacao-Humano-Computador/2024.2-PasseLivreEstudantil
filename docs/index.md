@@ -1,6 +1,15 @@
-# Introdução
+# Passe Livre Estudantil
 
 Bem-vindo ao repositório de documentos de Interação Humano-Computador do grupo 2024.2-Grupo07.
+
+<p align="center"><b>Figura 1: Logo Passe Livre Estudantil.</b></p>
+
+<p align="center">
+    <img src="assets/passeLivreEstudantilintroducao.png" alt="Logo Passe Livre Estudantil">
+</p>
+
+<p align="center"><i>Fonte: <a href="https://www.passelivrers.com.br/">Passe Livre Estudantil</a>.</i></p>
+
 
 ## Colaboradores
 

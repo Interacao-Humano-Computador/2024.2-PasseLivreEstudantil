@@ -9,22 +9,32 @@ repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo07'
 # Tema do MkDocs
 theme:
   name: material
+  features:
+    - navigation.instant       # Carrega páginas instantaneamente
+    - navigation.tracking      # Permite rastrear a navegação
+    - navigation.tabs          # Habilita abas de navegação no topo
+    - navigation.tabs.sticky   # Abas fixas na parte superior
+    - navigation.top           # Move o menu para o topo
   palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo claro
+        
     - media: "(prefers-color-scheme: light)"
       scheme: claro
       toggle:
         icon: material/circle-half-full
         name: Mudar para o modo escuro
 
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/circle-half-full
-        name: Mudar para o modo claro
+    
 
   language: pt-BR
-  favicon: 
-  logo: ##logo do site escolhido
+  favicon: assets/passeLivreEstudantilFavicon.png
+  logo: assets/passeLivreEstudantil.png
+  navigation:
+   tabs: true
 
 # Configura a navegação do site
 nav:
