@@ -19,12 +19,19 @@ Este cronograma tem como objetivo organizar todas as tarefas que deverão ser re
 ## Datas de entrega das etapas:
 
 **Etapa 1** - 12/11
+
 **Etapa 2** - 26/11
+
 **Etapa 3** - 03/12
+
 **Etapa 4** - 10/12
+
 **Etapa 5** - 05/01
+
 **Etapa 6** - 14/01
+
 **Etapa 7** - 26/01
+
 **Etapa 8** - 10/02
 
 ---
@@ -72,19 +79,22 @@ Na Tabela 2, tem-se o cronograma executado para todas as atividades da Entrega 1
 
 ## Entrega 2
 
+Nesse entrega, realizaremos as atividades relacionadas ao Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Análise de tarefas e a confecção do Termo de Compromisso
+
 ### Cronograma Planejado
 
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da Entrega 2
 
 **Tabela 3**
 
-| Atividade                                       | Realização | Responsáveis | Revisão  | Revisores |
-| ----------------------------------------------- | ---------- | ------------ | -------- | --------- |
-| Perfil do usuário                               | Sprint 2   | A definir    | Sprint 2 | A definir |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Sprint 2   | A definir    | Sprint 2 | A definir |
-| Análise de Tarefas                              | Sprint 2   | A definir    | Sprint 2 | A definir |
-| Gravar vídeo da apresentação                    | Sprint 2   | Todos        | Sprint 2 | Todos     |
-| Correção pós apresentação                       | Sprint 2   | Todos        | Sprint 2 | Todos     |
+| Atividade                                       | Realização | Responsáveis     | Revisão  | Revisores        |
+| ----------------------------------------------- | ---------- | ---------------- | -------- | ---------------- |
+| Perfil do usuário                               | Sprint 2   | Breno Fernandes  | Sprint 2 | Felipe Verissimo |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Sprint 2   | Felipe Veríssimo | Sprint 2 | Mateus Vieira    |
+| Análise de Tarefas                              | Sprint 2   | Mateus Vieira    | Sprint 2 | Breno Lucena     |
+| Termo de Compromisso                            | Sprint 2   | Breno Lucena     | Sprint 2 | Breno Fernandes  |
+| Gravar vídeo da apresentação                    | Sprint 2   | Todos            | Sprint 2 | Todos            |
+| Correção pós apresentação                       | Sprint 2   | Todos            | Sprint 2 | Todos            |
 
 ### Cronograma Executado
 
@@ -92,13 +102,14 @@ Na Tabela 4, tem-se o cronograma executado para todas as atividades da Entrega 2
 
 **Tabela 4**
 
-| Atividade                                       | Realização | Responsáveis | Revisão  | Revisores |
-| ----------------------------------------------- | ---------- | ------------ | -------- | --------- |
-| Perfil do usuário                               | Sprint 2   | A definir    | Sprint 2 | A definir |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Sprint 2   | A definir    | Sprint 2 | A definir |
-| Análise de Tarefas                              | Sprint 2   | A definir    | Sprint 2 | A definir |
-| Gravar vídeo da apresentação                    | Sprint 2   | Todos        | Sprint 2 | Todos     |
-| Correção pós apresentação                       | Sprint 2   | Todos        | Sprint 2 | Todos     |
+| Atividade                                       | Realização | Responsáveis     | Revisão  | Revisores |
+| ----------------------------------------------- | ---------- | ---------------- | -------- | --------- |
+| Perfil do usuário                               | Sprint 2   | Breno Fernandes  | Sprint 2 | A definir |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Sprint 2   | Felipe Veríssimo | Sprint 2 | A definir |
+| Análise de Tarefas                              | Sprint 2   | Mateus Vieira    | Sprint 2 | A definir |
+| Termo de Compromisso                            | Sprint 2   | Breno Lucena     | Sprint 2 | A definir |
+| Gravar vídeo da apresentação                    | Sprint 2   | Todos            | Sprint 2 | Todos     |
+| Correção pós apresentação                       | Sprint 2   | Todos            | Sprint 2 | Todos     |
 
 ---
 
@@ -298,3 +309,4 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da Entrega
 | :--------: | :----------------------: | :----: | :-----------------------: | :-------------: | :-------------: |
 | 11/11/2024 |        11/11/2024        |  1.0   |   Criação do cronograma   | Breno Fernandes |  Mateus Vieira  |
 | 12/11/2024 |        12/11/2024        |  1.1   | Atualização do cronograma |  Mateus Vieira  | Breno Fernandes |
+| 24/11/2024 |        25/11/2024        |  1.2   | Atualização pós entrega 1 |  Mateus Vieira  | Breno Fernandes |
