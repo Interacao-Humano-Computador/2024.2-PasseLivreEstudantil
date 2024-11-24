@@ -44,17 +44,17 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da Entrega 1
 
 **Tabela 1 - Planejamento do Projeto**
 
-| Atividade                                             | Realização | Responsáveis  | Revisão  | Revisores |
-| ----------------------------------------------------- | ---------- | ------------- | -------- | --------- |
-| Apresentação da equipe                                | Sprint 0   | Todos         | Sprint 0 | Todos     |
-| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus Vieira | Sprint 0 |           |
-| Avaliação de sites                                    | Sprint 0   | Todos         | Sprint 0 | Todos     |
-| Seleção do site para o projeto                        | Sprint 1   | Todos         | Sprint 1 | Todos     |
-| Definição das ferramentas do projeto                  | Sprint 1   | Todos         | Sprint 1 | Todos     |
-| Seleção do Processo de Design                         | Sprint 1   | Breno Lucena  | Sprint 1 |           |
-| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus Vieira | Sprint 1 |           |
-| Gravar vídeo da apresentação                          | Sprint 1   | Todos         | Sprint 1 | Todos     |
-| Correção pós apresentação                             | Sprint 1   | Todos         | Sprint 1 | Todos     |
+| Atividade                                             | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ----------------------------------------------------- | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Apresentação da equipe                                | Sprint 0   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 0 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus Vieira                                                              | Sprint 0 | Breno Fernandes                                                            |
+| Avaliação de sites                                    | Sprint 0   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 0 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Seleção do site para o projeto                        | Sprint 1   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 1 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Definição das ferramentas do projeto                  | Sprint 1   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 1 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Seleção do Processo de Design                         | Sprint 1   | Breno Lucena                                                               | Sprint 1 |                                                                            |
+| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus Vieira                                                              | Sprint 1 |                                                                            |
+| Gravar vídeo da apresentação                          | Sprint 1   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 1 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                             | Sprint 1   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 1 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ### Cronograma Executado
 
@@ -62,18 +62,18 @@ Na Tabela 2, tem-se o cronograma executado para todas as atividades da Entrega 1
 
 **Tabela 2 - Planejamento do Projeto**
 
-| Atividade                                             | Realização | Responsáveis  | Revisão  | Revisores |
-| ----------------------------------------------------- | ---------- | ------------- | -------- | --------- |
-| Apresentação da equipe                                | Sprint 0   | Todos         | Sprint 0 | Todos     |
-| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus Vieira | Sprint 0 |           |
-| Avaliação de sites                                    | Sprint 0   | Todos         | Sprint 0 | Todos     |
-| Seleção do site para o projeto                        | Sprint 1   | Todos         | Sprint 1 | Todos     |
-| Definição das ferramentas do projeto                  | Sprint 1   | Todos         | Sprint 1 | Todos     |
-| Avaliação do novo site escolhido                      | Sprint 1   | Todos         | Sprint 1 | Todos     |
-| Seleção do Processo de Design                         | Sprint 1   | Breno Lucena  | Sprint 1 |           |
-| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus Vieira | Sprint 1 |           |
-| Gravar vídeo da apresentação                          | Sprint 1   | Todos         | Sprint 1 | Todos     |
-| Correção pós apresentação                             | Sprint 1   | Todos         | Sprint 1 | Todos     |
+| Atividade                                             | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ----------------------------------------------------- | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Apresentação da equipe                                | Sprint 0   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 0 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus Vieira                                                              | Sprint 0 |                                                                            |
+| Avaliação de sites                                    | Sprint 0   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 0 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Seleção do site para o projeto                        | Sprint 1   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 1 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Definição das ferramentas do projeto                  | Sprint 1   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 1 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Avaliação do novo site escolhido                      | Sprint 1   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 1 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Seleção do Processo de Design                         | Sprint 1   | Breno Lucena                                                               | Sprint 1 |                                                                            |
+| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus Vieira                                                              | Sprint 1 |                                                                            |
+| Gravar vídeo da apresentação                          | Sprint 1   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 1 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                             | Sprint 1   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 1 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ---
 
@@ -87,14 +87,14 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da Entrega 2
 
 **Tabela 3**
 
-| Atividade                                       | Realização | Responsáveis     | Revisão  | Revisores        |
-| ----------------------------------------------- | ---------- | ---------------- | -------- | ---------------- |
-| Perfil do usuário                               | Sprint 2   | Breno Fernandes  | Sprint 2 | Felipe Verissimo |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Sprint 2   | Felipe Veríssimo | Sprint 2 | Mateus Vieira    |
-| Análise de Tarefas                              | Sprint 2   | Mateus Vieira    | Sprint 2 | Breno Lucena     |
-| Termo de Compromisso                            | Sprint 2   | Breno Lucena     | Sprint 2 | Breno Fernandes  |
-| Gravar vídeo da apresentação                    | Sprint 2   | Todos            | Sprint 2 | Todos            |
-| Correção pós apresentação                       | Sprint 2   | Todos            | Sprint 2 | Todos            |
+| Atividade                                       | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ----------------------------------------------- | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Perfil do usuário                               | Sprint 2   | Breno Fernandes                                                            | Sprint 2 | Felipe Verissimo                                                           |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Sprint 2   | Felipe Veríssimo                                                           | Sprint 2 | Mateus Vieira                                                              |
+| Análise de Tarefas                              | Sprint 2   | Mateus Vieira                                                              | Sprint 2 | Breno Lucena                                                               |
+| Termo de Compromisso                            | Sprint 2   | Breno Lucena                                                               | Sprint 2 | Breno Fernandes                                                            |
+| Gravar vídeo da apresentação                    | Sprint 2   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 2 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                       | Sprint 2   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 2 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ### Cronograma Executado
 
@@ -102,14 +102,14 @@ Na Tabela 4, tem-se o cronograma executado para todas as atividades da Entrega 2
 
 **Tabela 4**
 
-| Atividade                                       | Realização | Responsáveis     | Revisão  | Revisores |
-| ----------------------------------------------- | ---------- | ---------------- | -------- | --------- |
-| Perfil do usuário                               | Sprint 2   | Breno Fernandes  | Sprint 2 | A definir |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Sprint 2   | Felipe Veríssimo | Sprint 2 | A definir |
-| Análise de Tarefas                              | Sprint 2   | Mateus Vieira    | Sprint 2 | A definir |
-| Termo de Compromisso                            | Sprint 2   | Breno Lucena     | Sprint 2 | A definir |
-| Gravar vídeo da apresentação                    | Sprint 2   | Todos            | Sprint 2 | Todos     |
-| Correção pós apresentação                       | Sprint 2   | Todos            | Sprint 2 | Todos     |
+| Atividade                                       | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ----------------------------------------------- | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Perfil do usuário                               | Sprint 2   | Breno Fernandes                                                            | Sprint 2 | A definir                                                                  |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Sprint 2   | Felipe Veríssimo                                                           | Sprint 2 | A definir                                                                  |
+| Análise de Tarefas                              | Sprint 2   | Mateus Vieira                                                              | Sprint 2 | A definir                                                                  |
+| Termo de Compromisso                            | Sprint 2   | Breno Lucena                                                               | Sprint 2 | A definir                                                                  |
+| Gravar vídeo da apresentação                    | Sprint 2   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 2 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                       | Sprint 2   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 2 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ---
 
@@ -121,14 +121,14 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da Entrega 3
 
 **Tabela 5**
 
-| Atividade                                    | Realização | Responsáveis | Revisão  | Revisores |
-| -------------------------------------------- | ---------- | ------------ | -------- | --------- |
-| Princípios Gerais de Projeto                 | Sprint 3   | A definir    | Sprint 3 | A definir |
-| Metas de Usabilidade                         | Sprint 3   | A definir    | Sprint 3 | A definir |
-| Guia de Estilo                               | Sprint 3   | A definir    | Sprint 3 | A definir |
-| Características da Plataforma para o Projeto | Sprint 3   | A definir    | Sprint 3 | A definir |
-| Gravar vídeo da apresentação                 | Sprint 3   | Todos        | Sprint 3 | Todos     |
-| Correção pós apresentação                    | Sprint 3   | Todos        | Sprint 3 | Todos     |
+| Atividade                                    | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| -------------------------------------------- | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Princípios Gerais de Projeto                 | Sprint 3   | A definir                                                                  | Sprint 3 | A definir                                                                  |
+| Metas de Usabilidade                         | Sprint 3   | A definir                                                                  | Sprint 3 | A definir                                                                  |
+| Guia de Estilo                               | Sprint 3   | A definir                                                                  | Sprint 3 | A definir                                                                  |
+| Características da Plataforma para o Projeto | Sprint 3   | A definir                                                                  | Sprint 3 | A definir                                                                  |
+| Gravar vídeo da apresentação                 | Sprint 3   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 3 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                    | Sprint 3   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 3 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ### Cronograma Executado
 
@@ -136,14 +136,14 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da Entrega 3
 
 **Tabela 6**
 
-| Atividade                                    | Realização | Responsáveis | Revisão  | Revisores |
-| -------------------------------------------- | ---------- | ------------ | -------- | --------- |
-| Princípios Gerais de Projeto                 | Sprint 3   | A definir    | Sprint 3 | A definir |
-| Metas de Usabilidade                         | Sprint 3   | A definir    | Sprint 3 | A definir |
-| Guia de Estilo                               | Sprint 3   | A definir    | Sprint 3 | A definir |
-| Características da Plataforma para o Projeto | Sprint 3   | A definir    | Sprint 3 | A definir |
-| Gravar vídeo da apresentação                 | Sprint 3   | Todos        | Sprint 3 | Todos     |
-| Correção pós apresentação                    | Sprint 3   | Todos        | Sprint 3 | Todos     |
+| Atividade                                    | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| -------------------------------------------- | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Princípios Gerais de Projeto                 | Sprint 3   | A definir                                                                  | Sprint 3 | A definir                                                                  |
+| Metas de Usabilidade                         | Sprint 3   | A definir                                                                  | Sprint 3 | A definir                                                                  |
+| Guia de Estilo                               | Sprint 3   | A definir                                                                  | Sprint 3 | A definir                                                                  |
+| Características da Plataforma para o Projeto | Sprint 3   | A definir                                                                  | Sprint 3 | A definir                                                                  |
+| Gravar vídeo da apresentação                 | Sprint 3   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 3 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                    | Sprint 3   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 3 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ---
 
@@ -155,14 +155,14 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da Entrega 4
 
 **Tabela 7**
 
-| Atividade                                                                | Realização | Responsáveis | Revisão  | Revisores |
-| ------------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
-| Planejamento da Avaliação do Storyboard                                  | Sprint 4   | A definir    | Sprint 4 | A definir |
-| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Sprint 4   | A definir    | Sprint 4 | A definir |
-| Planejamento da Avaliação da Análise de Tarefas                          | Sprint 4   | A definir    | Sprint 4 | A definir |
-| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Sprint 4   | A definir    | Sprint 4 | A definir |
-| Gravar vídeo da apresentação                                             | Sprint 4   | Todos        | Sprint 4 | Todos     |
-| Correção pós apresentação                                                | Sprint 4   | Todos        | Sprint 4 | Todos     |
+| Atividade                                                                | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Planejamento da Avaliação do Storyboard                                  | Sprint 4   | A definir                                                                  | Sprint 4 | A definir                                                                  |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Sprint 4   | A definir                                                                  | Sprint 4 | A definir                                                                  |
+| Planejamento da Avaliação da Análise de Tarefas                          | Sprint 4   | A definir                                                                  | Sprint 4 | A definir                                                                  |
+| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Sprint 4   | A definir                                                                  | Sprint 4 | A definir                                                                  |
+| Gravar vídeo da apresentação                                             | Sprint 4   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 4 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                                                | Sprint 4   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 4 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ### Cronograma Executado
 
@@ -170,14 +170,14 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da Entrega 
 
 **Tabela 8**
 
-| Atividade                                                                | Realização | Responsáveis | Revisão  | Revisores |
-| ------------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
-| Planejamento da Avaliação do Storyboard                                  | Sprint 4   | A definir    | Sprint 4 | A definir |
-| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Sprint 4   | A definir    | Sprint 4 | A definir |
-| Planejamento da Avaliação da Análise de Tarefas                          | Sprint 4   | A definir    | Sprint 4 | A definir |
-| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Sprint 4   | A definir    | Sprint 4 | A definir |
-| Gravar vídeo da apresentação                                             | Sprint 4   | Todos        | Sprint 4 | Todos     |
-| Correção pós apresentação                                                | Sprint 4   | Todos        | Sprint 4 | Todos     |
+| Atividade                                                                | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Planejamento da Avaliação do Storyboard                                  | Sprint 4   | A definir                                                                  | Sprint 4 | A definir                                                                  |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Sprint 4   | A definir                                                                  | Sprint 4 | A definir                                                                  |
+| Planejamento da Avaliação da Análise de Tarefas                          | Sprint 4   | A definir                                                                  | Sprint 4 | A definir                                                                  |
+| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Sprint 4   | A definir                                                                  | Sprint 4 | A definir                                                                  |
+| Gravar vídeo da apresentação                                             | Sprint 4   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 4 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                                                | Sprint 4   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 4 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ---
 
@@ -189,13 +189,13 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da Entrega 5
 
 **Tabela 9**
 
-| Atividade                                                                | Realização | Responsáveis | Revisão  | Revisores |
-| ------------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
-| Relato dos Resultados da Avaliação do Storyboard                         | Sprint 5   | A definir    | Sprint 5 | A definir |
-| Relato da Avaliação da Análise de Tarefas                                | Sprint 5   | A definir    | Sprint 5 | A definir |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Sprint 5   | A definir    | Sprint 5 | A definir |
-| Gravar vídeo da apresentação                                             | Sprint 5   | Todos        | Sprint 5 | Todos     |
-| Correção pós apresentação                                                | Sprint 5   | Todos        | Sprint 5 | Todos     |
+| Atividade                                                                | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Relato dos Resultados da Avaliação do Storyboard                         | Sprint 5   | A definir                                                                  | Sprint 5 | A definir                                                                  |
+| Relato da Avaliação da Análise de Tarefas                                | Sprint 5   | A definir                                                                  | Sprint 5 | A definir                                                                  |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Sprint 5   | A definir                                                                  | Sprint 5 | A definir                                                                  |
+| Gravar vídeo da apresentação                                             | Sprint 5   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 5 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                                                | Sprint 5   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 5 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ### Cronograma Executado
 
@@ -203,13 +203,13 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da Entrega
 
 **Tabela 10**
 
-| Atividade                                                                | Realização | Responsáveis | Revisão  | Revisores |
-| ------------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
-| Relato dos Resultados da Avaliação do Storyboard                         | Sprint 5   | A definir    | Sprint 5 | A definir |
-| Relato da Avaliação da Análise de Tarefas                                | Sprint 5   | A definir    | Sprint 5 | A definir |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Sprint 5   | A definir    | Sprint 5 | A definir |
-| Gravar vídeo da apresentação                                             | Sprint 5   | Todos        | Sprint 5 | Todos     |
-| Correção pós apresentação                                                | Sprint 5   | Todos        | Sprint 5 | Todos     |
+| Atividade                                                                | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Relato dos Resultados da Avaliação do Storyboard                         | Sprint 5   | A definir                                                                  | Sprint 5 | A definir                                                                  |
+| Relato da Avaliação da Análise de Tarefas                                | Sprint 5   | A definir                                                                  | Sprint 5 | A definir                                                                  |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Sprint 5   | A definir                                                                  | Sprint 5 | A definir                                                                  |
+| Gravar vídeo da apresentação                                             | Sprint 5   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 5 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                                                | Sprint 5   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 5 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ---
 
@@ -221,13 +221,13 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da Entrega 
 
 **Tabela 11 -**
 
-| Atividade                                                                          | Realização | Responsáveis | Revisão  | Revisores |
-| ---------------------------------------------------------------------------------- | ---------- | ------------ | -------- | --------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Sprint 6   | A definir    | Sprint 6 | A definir |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Sprint 6   | A definir    | Sprint 6 | A definir |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 6   | A definir    | Sprint 6 | A definir |
-| Gravar vídeo da apresentação                                                       | Sprint 6   | Todos        | Sprint 6 | Todos     |
-| Correção pós apresentação                                                          | Sprint 6   | Todos        | Sprint 6 | Todos     |
+| Atividade                                                                          | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ---------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Sprint 6   | A definir                                                                  | Sprint 6 | A definir                                                                  |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Sprint 6   | A definir                                                                  | Sprint 6 | A definir                                                                  |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 6   | A definir                                                                  | Sprint 6 | A definir                                                                  |
+| Gravar vídeo da apresentação                                                       | Sprint 6   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 6 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                                                          | Sprint 6   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 6 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ### Cronograma Executado
 
@@ -235,13 +235,13 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da Entrega
 
 **Tabela 12 -**
 
-| Atividade                                                                          | Realização | Responsáveis | Revisão  | Revisores |
-| ---------------------------------------------------------------------------------- | ---------- | ------------ | -------- | --------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Sprint 6   | A definir    | Sprint 6 | A definir |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Sprint 6   | A definir    | Sprint 6 | A definir |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 6   | A definir    | Sprint 6 | A definir |
-| Gravar vídeo da apresentação                                                       | Sprint 6   | Todos        | Sprint 6 | Todos     |
-| Correção pós apresentação                                                          | Sprint 6   | Todos        | Sprint 6 | Todos     |
+| Atividade                                                                          | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ---------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Sprint 6   | A definir                                                                  | Sprint 6 | A definir                                                                  |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Sprint 6   | A definir                                                                  | Sprint 6 | A definir                                                                  |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 6   | A definir                                                                  | Sprint 6 | A definir                                                                  |
+| Gravar vídeo da apresentação                                                       | Sprint 6   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 6 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                                                          | Sprint 6   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 6 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ---
 
@@ -253,13 +253,13 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da Entrega 
 
 **Tabela 13**
 
-| Atividade                                                                          | Realização | Responsáveis | Revisão  | Revisores |
-| ---------------------------------------------------------------------------------- | ---------- | ------------ | -------- | --------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Sprint 7   | A definir    | Sprint 7 | A definir |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Sprint 7   | A definir    | Sprint 7 | A definir |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 7   | A definir    | Sprint 7 | A definir |
-| Gravar vídeo da apresentação                                                       | Sprint 7   | Todos        | Sprint 7 | Todos     |
-| Correção pós apresentação                                                          | Sprint 7   | Todos        | Sprint 7 | Todos     |
+| Atividade                                                                          | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ---------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Sprint 7   | A definir                                                                  | Sprint 7 | A definir                                                                  |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Sprint 7   | A definir                                                                  | Sprint 7 | A definir                                                                  |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 7   | A definir                                                                  | Sprint 7 | A definir                                                                  |
+| Gravar vídeo da apresentação                                                       | Sprint 7   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 7 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                                                          | Sprint 7   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 7 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ### Cronograma Executado
 
@@ -267,13 +267,13 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da Entrega
 
 **Tabela 14**
 
-| Atividade                                                                          | Realização | Responsáveis | Revisão  | Revisores |
-| ---------------------------------------------------------------------------------- | ---------- | ------------ | -------- | --------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Sprint 7   | A definir    | Sprint 7 | A definir |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Sprint 7   | A definir    | Sprint 7 | A definir |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 7   | A definir    | Sprint 7 | A definir |
-| Gravar vídeo da apresentação                                                       | Sprint 7   | Todos        | Sprint 7 | Todos     |
-| Correção pós apresentação                                                          | Sprint 7   | Todos        | Sprint 7 | Todos     |
+| Atividade                                                                          | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ---------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Sprint 7   | A definir                                                                  | Sprint 7 | A definir                                                                  |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Sprint 7   | A definir                                                                  | Sprint 7 | A definir                                                                  |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 7   | A definir                                                                  | Sprint 7 | A definir                                                                  |
+| Gravar vídeo da apresentação                                                       | Sprint 7   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 7 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                                                          | Sprint 7   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 7 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ---
 
@@ -285,11 +285,11 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da Entrega 
 
 **Tabela 15**
 
-| Atividade                                                          | Realização | Responsáveis | Revisão  | Revisores |
-| ------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
-| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 8   | A definir    | Sprint 8 | A definir |
-| Gravar vídeo da apresentação                                       | Sprint 8   | Todos        | Sprint 8 | Todos     |
-| Correção pós apresentação                                          | Sprint 8   | Todos        | Sprint 8 | Todos     |
+| Atividade                                                          | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 8   | A definir                                                                  | Sprint 8 | A definir                                                                  |
+| Gravar vídeo da apresentação                                       | Sprint 8   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 8 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                                          | Sprint 8   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 8 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ### Cronograma Executado
 
@@ -297,11 +297,11 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da Entrega
 
 **Tabela 16**
 
-| Atividade                                                          | Realização | Responsáveis | Revisão  | Revisores |
-| ------------------------------------------------------------------ | ---------- | ------------ | -------- | --------- |
-| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 8   | A definir    | Sprint 8 | A definir |
-| Gravar vídeo da apresentação                                       | Sprint 8   | Todos        | Sprint 8 | Todos     |
-| Correção pós apresentação                                          | Sprint 8   | Todos        | Sprint 8 | Todos     |
+| Atividade                                                          | Realização | Responsáveis                                                               | Revisão  | Revisores                                                                  |
+| ------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
+| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Sprint 8   | A definir                                                                  | Sprint 8 | A definir                                                                  |
+| Gravar vídeo da apresentação                                       | Sprint 8   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 8 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
+| Correção pós apresentação                                          | Sprint 8   | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor | Sprint 8 | Mateus Vieira, Breno Fernandes, Breno Lucena, Felipe Verissimo, Dion Vitor |
 
 ## Histórico de Versão
 
