@@ -8,9 +8,9 @@ Neste documento está apresentado o quadro de disponibilidade dos integrantes do
 
 ## Histórico de Versão
 
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|11/11/2024|11/11/2024|1.0|Criação do cronograma|Breno Fernandes| Mateus Viera |
+|    Data    | Data Prevista de Revisão | Versão |       Descrição       |      Autor      |   Revisor    |
+| :--------: | :----------------------: | :----: | :-------------------: | :-------------: | :----------: |
+| 11/11/2024 |        11/11/2024        |  1.0   | Criação do cronograma | Breno Fernandes | Mateus Viera |
 
 
 

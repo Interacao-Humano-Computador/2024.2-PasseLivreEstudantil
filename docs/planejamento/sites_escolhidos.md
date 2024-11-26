@@ -28,7 +28,7 @@ Durante nossa avaliação inicial, baseada no framework DECIDE e nas heurística
 [Link para a avaliação de IHC completa do site](https://github.com/Interacao-Humano-Computador/2024.2-Grupo07/blob/main/docs/arquivos/planejamento_passe_livre.pdf)<br>
 
 
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|11/11/2024|11/11/2024|1.0|Criação da pagina|Breno Fernandes| Mateus Viera |
-|12/11/2024|12/11/2024|1.0|Atualização da pagina com os link do pdf de planejamento|Breno Fernandes| Mateus Viera |
+|    Data    | Data Prevista de Revisão | Versão |                        Descrição                         |      Autor      |   Revisor    |
+| :--------: | :----------------------: | :----: | :------------------------------------------------------: | :-------------: | :----------: |
+| 11/11/2024 |        11/11/2024        |  1.0   |                    Criação da pagina                     | Breno Fernandes | Mateus Viera |
+| 12/11/2024 |        12/11/2024        |  1.0   | Atualização da pagina com os link do pdf de planejamento | Breno Fernandes | Mateus Viera |
