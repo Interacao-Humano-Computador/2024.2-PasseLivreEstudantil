@@ -310,8 +310,8 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da Entrega
 
 ## Bibliografia
 
-> \-https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf
-> \-https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/#executado 
+- [Cronograma Disponiblizado via Aprender3](https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
+- [Cronograma de Referência Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/#executado)
 
 ## Histórico de Versão
 
@@ -320,3 +320,4 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da Entrega
 | 11/11/2024 |        11/11/2024        |  1.0   |   Criação do cronograma   | Fernandes |  Mateus   |
 | 12/11/2024 |        12/11/2024        |  1.1   | Atualização do cronograma |  Mateus   | Fernandes |
 | 24/11/2024 |        25/11/2024        |  1.2   | Atualização pós entrega 1 |  Mateus   | Fernandes |
+| 26/11/2024 |        27/11/2024        |  1.3   | Finalização das correções |  Mateus   | Fernandes |
