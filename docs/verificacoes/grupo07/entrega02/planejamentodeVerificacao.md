@@ -10,27 +10,25 @@ O objetivo deste documento é apresentar o planejamento para a verificação dos
 A metodologia escolhida para esta verificação é a **inspeção**. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist, onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. Vale ressaltar que a leitura do artefato não deve ser feita pelo autor principal do mesmo.
 
 ## Participantes
-Os responsáveis por essa verificação foram os integrantes do grupo **Douglas Alves, Geovanna Maciel e Matheus Henrique**, que realizaram o planejamento, a inspeção, o relato dos resultados e a correção. Em relação à validação dos artefatos produzidos por essa verificação, fica a cargo dos integrantes do mesmo grupo.
-
-Cada participante será responsável por verificar um ou mais artefatos da entrega através do método de inspeção. A tabela abaixo apresenta a relação de cada participante e o artefato verificado por ele:
+O responsavel por essa verificação foi o integrante do grupo **Felipe Verissimo**, que realizaram o planejou, a inspeção, o relato dos resultados e a correção. Em relação à validação dos artefatos produzidos por essa verificação, fica a cargo dos integrantes do mesmo grupo.
 
 | Artefato                          | Responsável         |
 |-----------------------------------|---------------------|
-| Personas                          | Douglas Alves       |
-| Aspectos Éticos e Cenários        | Geovanna Maciel     |
-| Perfil de Usuário e Análise de Tarefas (HTA e GOMS) | Matheus Henrique |
+| Personas                          | Felipe Verissimo       |
+| Aspectos Éticos e Cenários        | Felipe Verissimo     |
+| Perfil de Usuário e Análise de Tarefas (HTA e GOMS) | Felipe Verissimo |
 
 _Fonte: Matheus Henrique, 2023._
 
 ## Objetos de Verificação
 Os artefatos alvos dessa verificação são:
 
-1. **Aspectos Éticos**: versão 1.0, data 06/05/2023, produzido por Arthur de Melo e Douglas Alves com revisão de Matheus Henrique.
-2. **Perfil de Usuário**: versão 1.0, data 06/05/2023, produzido por Gabriel Campello e Geovanna Maciel com revisão de Matheus Henrique e Rafael Ferreira.
-3. **Cenários**: versão 1.5, data 20/05/2023, produzido por Arthur de Melo, Geovanna Maciel, Matheus Henrique e Rafael Ferreira com revisão de Arthur de Melo, Douglas Alves, Geovanna Maciel e Rafael Ferreira.
-4. **Personas**: versão 1.3, data 07/05/2023, produzido por Matheus Henrique e Rafael Ferreira com revisão dos mesmos.
-5. **Análise de Tarefas (HTA)**: versão 1.4, data 20/05/2023, produzido por Arthur de Melo, Douglas Alves, Gabriel Campello, Geovanna Maciel e Matheus Henrique com revisão de Arthur de Melo e Geovanna Maciel.
-6. **Análise de Tarefas (GOMS)**: versão 1.3, data 13/05/2023, produzido por Douglas Alves, Gabriel Campello, Geovanna Maciel e Rafael Ferreira com revisão de Arthur de Melo, Geovanna Maciel e Rafael Ferreira.
+1. **Aspectos Éticos**: versão 1.0, data 19/11/2024, produzido por 
+2. **Perfil de Usuário**: versão 1.0, data 19/11/2024, produzido por 
+3. **Cenários**: versão 1.5, data 22/11/2024, produzido por 
+4. **Personas**: versão 1.3, data 22/11/2024, produzido por 
+5. **Análise de Tarefas (HTA)**: versão 1.4, data 26/11/2024, produzido por 
+6. **Análise de Tarefas (GOMS)**: versão 1.3, data 26/11/2024, produzido por 
 
 Os resultados das verificações podem ser acessados através dos seguintes links:
 
@@ -42,19 +40,19 @@ Os resultados das verificações podem ser acessados através dos seguintes link
 - [Resultados da Verificação da Análise de Tarefas - GOMS](#)
 
 ## Cronograma
-A verificação será realizada no período de 17 a 18 de junho de 2023, com os resultados sendo relatados até o dia 19 de junho de 2023. A tabela abaixo apresenta o cronograma das atividades:
+A verificação será realizada no dia 26 de novembro de 2024, com os resultados sendo relatados até o dia 19 de junho de 2023. A tabela abaixo apresenta o cronograma das atividades:
 
 | Data        | Descrição                                                  | Responsável         |
 |-------------|------------------------------------------------------------|---------------------|
-| 17/06/2023  | Verificação do artefato de Perfil de Usuário.              | Matheus Henrique    |
-| 17/06/2023  | Verificação do artefato de Análise de Tarefas (HTA).       | Matheus Henrique    |
-| 18/06/2023  | Relato da verificação do artefato de Perfil de Usuário.    | Matheus Henrique    |
-| 18/06/2023  | Verificação do artefato de Análise de Tarefas (GOMS).      | Matheus Henrique    |
-| 18/06/2023  | Relato das verificações de Análise de Tarefas (HTA e GOMS).| Matheus Henrique    |
-| 19/06/2023  | Relato das verificações das Personas.                      | Douglas Alves       |
+| 17/06/2023  | Verificação do artefato de Perfil de Usuário.              | Felipe Verissimo    |
+| 17/06/2023  | Verificação do artefato de Análise de Tarefas (HTA).       | Felipe Verissimo    |
+| 18/06/2023  | Relato da verificação do artefato de Perfil de Usuário.    | Felipe Verissimo    |
+| 18/06/2023  | Verificação do artefato de Análise de Tarefas (GOMS).      | Felipe Verissimo    |
+| 18/06/2023  | Relato das verificações de Análise de Tarefas (HTA e GOMS).| Felipe Verissimo    |
+| 19/06/2023  | Relato das verificações das Personas.                      | Felipe Verissimo    |
 | 19/06/2023  | Entrega final na página do grupo.                          | Todos               |
 
-_Fonte: Matheus Henrique, 2023._
+_Fonte: Felipe Verissimo, 2024._
 
 ## Checklists
 As checklists foram construídas considerando os padrões esperados para cada artefato, tomando como referência o livro **Interação Humano-Computador** de **Bruno Silva e Simone Barbosa**. As checklists são:
@@ -67,3 +65,27 @@ As checklists foram construídas considerando os padrões esperados para cada ar
 6. **Análise de Tarefas (HTA e GOMS)**
 
 Cada tabela correspondente a essas checklists foi anexada no documento, avaliando aspectos específicos e identificando possíveis melhorias ou não conformidades.
+
+---
+
+## Referências Bibliográficas
+
+1. Barbosa, S. D. J., & Silva, B. S. (2010). *Interação Humano-Computador*. Elsevier.
+2. Fagan, M. E. (1976). Design and code inspections to reduce errors in program development. *IBM Systems Journal*, 15(3), 182–211.
+
+---
+
+## Biografia
+
+Felipe Verissimo é graduando em Engenharia de Software pela Universidade de Brasília (UnB). É entusiasta de Interação Humano-Computador (IHC), com foco em pesquisa e avaliação de interfaces centradas no usuário. Possui experiência em metodologias ágeis e tem interesse por desenvolvimento web e acessibilidade digital.
+
+---
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                            | Autor             |
+|--------|------------|--------------------------------------|-------------------|
+| 1.0    | 26/11/2024 | Criação da pagina.                   | Felipe Verissimo  |
+
+
+
