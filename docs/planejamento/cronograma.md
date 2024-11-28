@@ -79,7 +79,7 @@ Na Tabela 2, tem-se o cronograma executado para todas as atividades da Entrega 1
 
 ---
 
-## Entrega 2
+## Entrega 2 - Análise de Requisitos
 
 Nesse entrega, realizaremos as atividades relacionadas ao Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Análise de tarefas e a confecção do Termo de Compromisso
 
@@ -92,11 +92,12 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da Entrega 2
 | Atividade                                       | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
 | ----------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
 | Perfil do usuário                               | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e  Lucena                       | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                    |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e  Lucena                       | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                    |
-| Análise de Tarefas                              | Início: Sprint 2<br />Fim: Sprint 3 | Mateus  e Dion                            | Início: Sprint 3<br />Fim: Sprint 4 | Lucena                                    |
-| Termo de Compromisso                            | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e  Lucena                       | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                    |
-| Cenários                                        | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Dion e Felipe                     | Início: Sprint 3<br />Fim: Sprint 4 | Fernandes                                 |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e  Lucena                       | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                    |
+| Análise de Tarefas                              | Início: Sprint 2<br />Fim: Sprint 3 | Mateus  e Dion                            | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                    |
+| Termo de Compromisso                            | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e  Lucena                       | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                    |
+| Cenários                                        | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Dion e Felipe                     | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                    |
 | Gravar vídeo da apresentação                    | Início: Sprint 2<br />Fim: Sprint 3 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Verificação Grupo +1                            | Início: Sprint 2<br />Fim: Sprint 3 | Felipe                                    | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                    |
 | Correção pós apresentação                       | Início: Sprint 2<br />Fim: Sprint 3 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
 
 ### Cronograma Executado
@@ -107,18 +108,18 @@ Na Tabela 4, tem-se o cronograma executado para todas as atividades da Entrega 2
 
 | Atividade                                       | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
 | ----------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Perfil do usuário                               | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes                                 | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início: Sprint 2<br />Fim: Sprint 3 | Felipe Veríssimo                          | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
+| Perfil do usuário                               | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                        | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                        | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
 | Análise de Tarefas                              | Início: Sprint 2<br />Fim: Sprint 3 | Mateus  e Dion                            | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
-| Termo de Compromisso                            | Início: Sprint 2<br />Fim: Sprint 3 | Lucena                                    | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
 | Termo de Compromisso                            | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e  Lucena                       | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
-| Cenários                                        | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Dion e Felipe                     | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
+| Cenários                                        | Início: Sprint 2<br />Fim: Sprint 3 | Dion e Mateus                             | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
 | Gravar vídeo da apresentação                    | Início: Sprint 2<br />Fim: Sprint 3 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Verificação Grupo +1                            | Início: Sprint 2<br />Fim: Sprint 3 | Felipe                                    | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                    |
 | Correção pós apresentação                       | Início: Sprint 2<br />Fim: Sprint 3 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
 
 ---
 
-## Entrega 3
+## Entrega 3 - Análise de Requisitos
 
 ### Cronograma Planejado
 
@@ -128,10 +129,12 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da Entrega 3
 
 | Atividade                                    | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
 | -------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Princípios Gerais de Projeto                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 |
-| Metas de Usabilidade                         | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 |
-| Guia de Estilo                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 |
-| Características da Plataforma para o Projeto | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 |
+| Princípios Gerais de Projeto                 | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes e Lucena                        | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                                 |
+| Metas de Usabilidade                         | Início: Sprint 4<br />Fim: Sprint 4 | Mateus e Dion                             | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                                 |
+| Guia de Estilo                               | Início: Sprint 4<br />Fim: Sprint 4 | Verissimo e Lucena                        | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                                 |
+| Características da Plataforma para o Projeto | Início: Sprint 4<br />Fim: Sprint 4 | Verissimo e Dion                          | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                                 |
+| Verificação dos Artefatos                    | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes                                 | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                    |
+| Verificação Grupo +1                         | Início: Sprint 2<br />Fim: Sprint 3 | Lucena e Mateus                           | Início: Sprint 3<br />Fim: Sprint 4 | Fernandes                                 |
 | Gravar vídeo da apresentação                 | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
 | Correção pós apresentação                    | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
 
