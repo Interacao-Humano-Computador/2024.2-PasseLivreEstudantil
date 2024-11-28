@@ -45,5 +45,5 @@ BRASIL. Resolução nº 466, de 12 de dezembro de 2012. Aprova as diretrizes e n
 ## **Histórico de Versão**
 | **Versão** | **Data**      | **Descrição**            | **Autor(es)**       |**Revisor**   |
 |------------|---------------|--------------------------|---------------------|--------------|
-| 1.0        | 24/11/2024    | Criação do Termo de Consentimento  | Breno Lucena|        |
+| 1.0        | 24/11/2024    | Criação do Termo de Consentimento  | Breno Lucena|     Breno Fernandes   |
 

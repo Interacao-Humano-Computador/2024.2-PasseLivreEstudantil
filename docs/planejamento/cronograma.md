@@ -20,7 +20,7 @@ Este cronograma tem como objetivo organizar todas as tarefas que deverão ser re
 
 **Etapa 1** - 12/11
 
-**Etapa 2** - 03/11
+**Etapa 2** - 03/12
 
 **Etapa 3** - 03/12
 
