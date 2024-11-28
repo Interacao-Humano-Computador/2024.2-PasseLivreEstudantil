@@ -1,0 +1,30 @@
+# Diretórios e arquivos gerados pelo MkDocs
+/site/
+
+# Arquivos de configuração específicos do usuário
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+
+# Configurações de IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais Python (caso utilize)
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Pacotes instalados via pip
+*.egg-info/
+dist/
+build/
