@@ -1,6 +1,7 @@
 # Metodologia
 
 ## Descrição
+
 A metodologia do projeto define como o processo foi conduzido, englobando as práticas e estratégias aplicadas no planejamento e na execução de suas etapas. Para o desenvolvimento deste projeto, a equipe optou por utilizar o método agil, aproveitando a familiaridade do grupo com essa abordagem.
 
 ## Metodologia Ágil
@@ -28,4 +29,3 @@ Para garantir o alinhamento da equipe e promover a transparência no desenvolvim
 | :--------: | :----------------------: | :----: | :------------------------------------: | :-------------: | :-------------: |
 | 11/11/2024 |        11/11/2024        |  1.0   |           Criação da página            | Breno Fernandes |  Mateus Vieira  |
 | 12/11/2024 |        13/11/2024        |  1.1   | Atualização nas informações de reunião |  Mateus Vieira  | Breno Fernandes |
-

@@ -7,17 +7,20 @@ O TCLE deve estar em conformidade com os princípios éticos estabelecidos pela 
 No Brasil, a resolução nº 466/2012 do Conselho Nacional de Saúde rege as questões ligadas às pesquisas científicas envolvendo pessoas com base nos seguintes princípios:
 
 ### Princípio da autonomia
+
 Envolve o consentimento livre e esclarecido dos indivíduos e a proteção de grupos vulneráveis e legalmente incapazes, como menores de idade, alunos ou subordinados. Em pesquisas envolvendo seres humanos, é importante tratá-los com dignidade, respeitá-los em sua autonomia e defendê-los em sua vulnerabilidade.
 
 ### Princípio da beneficência
+
 Requer uma ponderação cuidadosa entre riscos e benefícios, tanto presentes quanto potenciais, individuais ou coletivos. É necessário comprometer-se com o máximo de benefícios e o mínimo de danos e riscos. Esses danos podem ocorrer em várias dimensões da vida humana, como física, psíquica, moral, intelectual, social, cultural ou espiritual, tanto durante a pesquisa quanto após ela.
 
 ### Princípio da não maleficência
+
 Busca garantir que danos previsíveis relacionados à pesquisa sejam evitados, tanto imediatos quanto tardios.
 
 ### Princípio da justiça e equidade
-Está relacionado à relevância social da pesquisa, buscando vantagens significativas para os participantes e minimização do ônus para aqueles que são vulneráveis. É importante garantir a igual consideração dos interesses envolvidos em todas as etapas da pesquisa.
 
+Está relacionado à relevância social da pesquisa, buscando vantagens significativas para os participantes e minimização do ônus para aqueles que são vulneráveis. É importante garantir a igual consideração dos interesses envolvidos em todas as etapas da pesquisa.
 
 # Termo de Consentimento Livre e Esclarecido
 
@@ -36,14 +39,13 @@ Diante das explicações, você se considera suficientemente informado(a) sobre 
 - [ ] Sim
 - [ ] Não
 
-
 ## Bibliografia
 
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 BRASIL. Resolução nº 466, de 12 de dezembro de 2012. Aprova as diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos. Diário Oficial da União, Brasília, 13 dez. 2012. Seção 1, p. 59-62.
 
 ## **Histórico de Versão**
-| **Versão** | **Data**      | **Descrição**            | **Autor(es)**       |**Revisor**   |
-|------------|---------------|--------------------------|---------------------|--------------|
-| 1.0        | 24/11/2024    | Criação do Termo de Consentimento  | Breno Lucena|     Breno Fernandes   |
 
+| **Versão** | **Data**   | **Descrição**                     | **Autor(es)** | **Revisor**     |
+| ---------- | ---------- | --------------------------------- | ------------- | --------------- |
+| 1.0        | 24/11/2024 | Criação do Termo de Consentimento | Breno Lucena  | Breno Fernandes |

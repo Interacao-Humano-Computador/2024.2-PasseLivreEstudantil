@@ -4,13 +4,10 @@ Neste documento está apresentado o quadro de disponibilidade dos integrantes do
 
 ![Figura 1 - Mapa de calor](../assets/heatmap1.png)
 
-*Figura 1 - Mapa de calor*
+_Figura 1 - Mapa de calor_
 
 ## Histórico de Versão
 
 |    Data    | Data Prevista de Revisão | Versão |       Descrição       |      Autor      |   Revisor    |
 | :--------: | :----------------------: | :----: | :-------------------: | :-------------: | :----------: |
 | 11/11/2024 |        11/11/2024        |  1.0   | Criação do cronograma | Breno Fernandes | Mateus Viera |
-
-
-

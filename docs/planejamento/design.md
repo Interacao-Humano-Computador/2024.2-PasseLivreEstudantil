@@ -1,14 +1,16 @@
 # Processo de Design
 
 ## Introdução
+
 O projeto de design em Interação Humano-Computador (IHC) envolve três atividades principais: análise, síntese e avaliação.
- Na fase de análise, o objetivo é estudar e interpretar uma situação específica, na qual serão planejadas e executadas intervenções.
- Na etapa de síntese se concentra na implementação dessas intervenções, e a fase de avaliação verifica os efeitos gerados.
- Na intervenção, que é uma solução para um problema identificado, pode ser avaliada ao longo de todas as suas fases, desde a concepção até após sua aplicação.
+Na fase de análise, o objetivo é estudar e interpretar uma situação específica, na qual serão planejadas e executadas intervenções.
+Na etapa de síntese se concentra na implementação dessas intervenções, e a fase de avaliação verifica os efeitos gerados.
+Na intervenção, que é uma solução para um problema identificado, pode ser avaliada ao longo de todas as suas fases, desde a concepção até após sua aplicação.
 
 Essas atividades podem ser organizadas de diversas maneiras, e os processos de design em IHC geralmente propõem uma execução iterativa para permitir uma evolução contínua das intervenções e da análise da situação.
 
 O objetivo principal de um projeto em Interação Humano-Computador é atender às necessidades dos usuários e demais envolvidos (stakeholders). Por isso, a maioria dos processos de design é centrada no usuário e segue os princípios de foco no usuário, uso de métricas observáveis e design interativo.
+
 ## Exemplos de processos de design:
 
 ## Ciclo de vida simples
@@ -17,7 +19,6 @@ No ciclo de vida simples (Figura 1), a atividade de síntese é subdividida em d
 
 ![Ciclo de vida Simples](../assets/ciclo-de-vida-simples.png)
 Figura 1: Ciclo de vida simples [Fonte](https://aprender3.unb.br/pluginfile.php/2972679/mod_resource/content/3/cap04.pdf)
-
 
 ## Ciclo de vida em estrela
 
@@ -28,7 +29,7 @@ Figura 2: Ciclo de vida em Estrela [Fonte](https://aprender3.unb.br/pluginfile.p
 
 ## Ciclo de Vida de Nielsen
 
-Nielsen definiu *engenharia de usabilidade* como as seguintes atividades como essenciais durante todo o ciclo de via de um produto:
+Nielsen definiu _engenharia de usabilidade_ como as seguintes atividades como essenciais durante todo o ciclo de via de um produto:
 
 > 1. Conhecer o usuário;
 > 2. Realizar uma análise competitiva (examinar produtos com funcionalidades semelhantes);
@@ -49,11 +50,9 @@ Nesse ciclo de vida as atividades são divididas em três fases: análise de req
 
 Figura 3: Ciclo de vida Mayhew [Fonte](https://aprender3.unb.br/pluginfile.php/2972679/mod_resource/content/3/cap04.pdf)
 
-
-
 ## Motivações para a escolha
 
-  Após analisar os modelos apresentados e considerando as entregas da disciplina, o grupo avaliou as vantagens e desvantagens de cada um para escolher o processo mais adequado ao projeto. Chegou-se ao consenso de que o Ciclo de Vida de Mayhew seria a melhor opção, principalmente por suas etapas serem bem definidas e detalhadas, o que reduz a subjetividade, diferentemente do ciclo de vida simples. Considerando a pouca experiência do grupo na área de IHC, um modelo mais completo e estruturado se mostra mais adequado, funcionando como um guia no desenvolvimento do projeto.
+Após analisar os modelos apresentados e considerando as entregas da disciplina, o grupo avaliou as vantagens e desvantagens de cada um para escolher o processo mais adequado ao projeto. Chegou-se ao consenso de que o Ciclo de Vida de Mayhew seria a melhor opção, principalmente por suas etapas serem bem definidas e detalhadas, o que reduz a subjetividade, diferentemente do ciclo de vida simples. Considerando a pouca experiência do grupo na área de IHC, um modelo mais completo e estruturado se mostra mais adequado, funcionando como um guia no desenvolvimento do projeto.
 
 ## Bibliografia
 
@@ -63,7 +62,6 @@ Figura 3: Ciclo de vida Mayhew [Fonte](https://aprender3.unb.br/pluginfile.php/2
 
 > \-https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-5
 
-
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|11/11/2024|11/11/2024|1.0|Criação da pagina|Breno Lucena| Breno Fernandes |
+|    Data    | Data Prevista de Revisão | Versão |     Descrição     |    Autor     |     Revisor     |
+| :--------: | :----------------------: | :----: | :---------------: | :----------: | :-------------: |
+| 11/11/2024 |        11/11/2024        |  1.0   | Criação da pagina | Breno Lucena | Breno Fernandes |

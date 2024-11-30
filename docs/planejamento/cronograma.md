@@ -46,17 +46,17 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da Entrega 1
 
 **Tabela 1 - Planejamento do Projeto**
 
-| Atividade                                             | Realização | Responsáveis                              | Revisão  | Revisores                                 |
-| ----------------------------------------------------- | ---------- | ----------------------------------------- | -------- | ----------------------------------------- |
-| Apresentação da equipe                                | Sprint 0   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 0 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus                                    | Sprint 0 | Fernandes                                 |
-| Avaliação de sites                                    | Sprint 0   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 0 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Seleção do site para o projeto                        | Sprint 1   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 1 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Definição das ferramentas do projeto                  | Sprint 1   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 1 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Seleção do Processo de Design                         | Sprint 1   | Lucena                                    | Sprint 1 | Fernandes                                 |
-| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus                                    | Sprint 1 | Fernandes                                 |
-| Gravar vídeo da apresentação                          | Sprint 1   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 1 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                             | Sprint 1   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 1 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                             | Realização | Responsáveis                            | Revisão  | Revisores                               |
+| ----------------------------------------------------- | ---------- | --------------------------------------- | -------- | --------------------------------------- |
+| Apresentação da equipe                                | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus                                  | Sprint 0 | Fernandes                               |
+| Avaliação de sites                                    | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Seleção do site para o projeto                        | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Definição das ferramentas do projeto                  | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Seleção do Processo de Design                         | Sprint 1   | Lucena                                  | Sprint 1 | Fernandes                               |
+| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus                                  | Sprint 1 | Fernandes                               |
+| Gravar vídeo da apresentação                          | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                             | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
 
@@ -64,18 +64,18 @@ Na Tabela 2, tem-se o cronograma executado para todas as atividades da Entrega 1
 
 **Tabela 2 - Planejamento do Projeto**
 
-| Atividade                                             | Realização | Responsáveis                              | Revisão  | Revisores                                 |
-| ----------------------------------------------------- | ---------- | ----------------------------------------- | -------- | ----------------------------------------- |
-| Apresentação da equipe                                | Sprint 0   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 0 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus                                    | Sprint 0 | Fernandes                                 |
-| Avaliação de sites                                    | Sprint 0   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 0 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Seleção do site para o projeto                        | Sprint 1   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 1 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Definição das ferramentas do projeto                  | Sprint 1   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 1 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Avaliação do novo site escolhido                      | Sprint 1   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 1 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Seleção do Processo de Design                         | Sprint 1   | Lucena                                    | Sprint 1 | Fernandes, Mateus                         |
-| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus                                    | Sprint 1 | Fernandes,  Lucena                        |
-| Gravar vídeo da apresentação                          | Sprint 1   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 1 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                             | Sprint 2   | Mateus,  Fernandes,  Lucena, Felipe, Dion | Sprint 2 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                             | Realização | Responsáveis                            | Revisão  | Revisores                               |
+| ----------------------------------------------------- | ---------- | --------------------------------------- | -------- | --------------------------------------- |
+| Apresentação da equipe                                | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus                                  | Sprint 0 | Fernandes                               |
+| Avaliação de sites                                    | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Seleção do site para o projeto                        | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Definição das ferramentas do projeto                  | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Avaliação do novo site escolhido                      | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Seleção do Processo de Design                         | Sprint 1   | Lucena                                  | Sprint 1 | Fernandes, Mateus                       |
+| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus                                  | Sprint 1 | Fernandes, Lucena                       |
+| Gravar vídeo da apresentação                          | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                             | Sprint 2   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 2 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
@@ -89,16 +89,16 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da Entrega 2
 
 **Tabela 3**
 
-| Atividade                                       | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ----------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Perfil do usuário                               | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e  Lucena                       | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                    |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e  Lucena                       | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                    |
-| Análise de Tarefas                              | Início: Sprint 2<br />Fim: Sprint 3 | Mateus  e Dion                            | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                    |
-| Termo de Compromisso                            | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e  Lucena                       | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                    |
-| Cenários                                        | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Dion e Felipe                     | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                    |
-| Gravar vídeo da apresentação                    | Início: Sprint 2<br />Fim: Sprint 3 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Verificação Grupo +1                            | Início: Sprint 2<br />Fim: Sprint 3 | Felipe                                    | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                    |
-| Correção pós apresentação                       | Início: Sprint 2<br />Fim: Sprint 3 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                       | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ----------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Perfil do usuário                               | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                  |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                  |
+| Análise de Tarefas                              | Início: Sprint 2<br />Fim: Sprint 3 | Mateus e Dion                           | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                  |
+| Termo de Compromisso                            | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                  |
+| Cenários                                        | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Dion e Felipe                   | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                  |
+| Gravar vídeo da apresentação                    | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Verificação Grupo +1                            | Início: Sprint 2<br />Fim: Sprint 3 | Felipe                                  | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                  |
+| Correção pós apresentação                       | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
 
@@ -106,16 +106,17 @@ Na Tabela 4, tem-se o cronograma executado para todas as atividades da Entrega 2
 
 **Tabela 4**
 
-| Atividade                                       | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ----------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Perfil do usuário                               | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                        | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                        | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
-| Análise de Tarefas                              | Início: Sprint 2<br />Fim: Sprint 3 | Mateus  e Dion                            | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
-| Termo de Compromisso                            | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e  Lucena                       | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
-| Cenários                                        | Início: Sprint 2<br />Fim: Sprint 3 | Dion e Mateus                             | Início: Sprint 3<br />Fim: Sprint 4 | A definir                                 |
-| Gravar vídeo da apresentação                    | Início: Sprint 2<br />Fim: Sprint 3 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Verificação Grupo +1                            | Início: Sprint 2<br />Fim: Sprint 3 | Felipe                                    | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                    |
-| Correção pós apresentação                       | Início: Sprint 2<br />Fim: Sprint 3 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                       | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ----------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Perfil do usuário                               | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | A definir                               |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | A definir                               |
+| Análise de Tarefas                              | Início: Sprint 2<br />Fim: Sprint 3 | Mateus e Dion                           | Início: Sprint 3<br />Fim: Sprint 4 | A definir                               |
+| Termo de Compromisso                            | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | A definir                               |
+| Cenários                                        | Início: Sprint 2<br />Fim: Sprint 3 | Dion e Mateus                           | Início: Sprint 3<br />Fim: Sprint 4 | A definir                               |
+| Verificação dos Artefatos                       | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes                               | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                  |
+| Gravar vídeo da apresentação                    | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Verificação Grupo +1                            | Início: Sprint 2<br />Fim: Sprint 3 | Felipe                                  | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                  |
+| Correção pós apresentação                       | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
@@ -127,16 +128,16 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da Entrega 3
 
 **Tabela 5**
 
-| Atividade                                    | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| -------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Princípios Gerais de Projeto                 | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes e Lucena                        | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                                 |
-| Metas de Usabilidade                         | Início: Sprint 4<br />Fim: Sprint 4 | Mateus e Dion                             | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                                 |
-| Guia de Estilo                               | Início: Sprint 4<br />Fim: Sprint 4 | Verissimo e Lucena                        | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                                 |
-| Características da Plataforma para o Projeto | Início: Sprint 4<br />Fim: Sprint 4 | Verissimo e Dion                          | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                                 |
-| Verificação dos Artefatos                    | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes                                 | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                    |
-| Verificação Grupo +1                         | Início: Sprint 2<br />Fim: Sprint 3 | Lucena e Mateus                           | Início: Sprint 3<br />Fim: Sprint 4 | Fernandes                                 |
-| Gravar vídeo da apresentação                 | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                    | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                    | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| -------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Princípios Gerais de Projeto                 | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes e Lucena                      | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               |
+| Metas de Usabilidade                         | Início: Sprint 4<br />Fim: Sprint 4 | Mateus e Dion                           | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               |
+| Guia de Estilo                               | Início: Sprint 4<br />Fim: Sprint 4 | Verissimo e Lucena                      | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               |
+| Características da Plataforma para o Projeto | Início: Sprint 4<br />Fim: Sprint 4 | Verissimo e Dion                        | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               |
+| Verificação dos Artefatos                    | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes                               | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                  |
+| Verificação Grupo +1                         | Início: Sprint 2<br />Fim: Sprint 3 | Lucena e Mateus                         | Início: Sprint 3<br />Fim: Sprint 4 | Fernandes                               |
+| Gravar vídeo da apresentação                 | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                    | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
 
@@ -144,14 +145,16 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da Entrega 3
 
 **Tabela 6**
 
-| Atividade                                    | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| -------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Princípios Gerais de Projeto                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 |
-| Metas de Usabilidade                         | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 |
-| Guia de Estilo                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 |
-| Características da Plataforma para o Projeto | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                                 |
-| Gravar vídeo da apresentação                 | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                    | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                    | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| -------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Princípios Gerais de Projeto                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               |
+| Metas de Usabilidade                         | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Dion                            | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               |
+| Guia de Estilo                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               |
+| Características da Plataforma para o Projeto | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               |
+| Verificação dos Artefatos                    | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               |
+| Verificação Grupo +1                         | Início: Sprint 4<br />Fim: Sprint 4 | Lucena e Mateus                         | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               |
+| Gravar vídeo da apresentação                 | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                    | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
@@ -163,14 +166,14 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da Entrega 4
 
 **Tabela 7**
 
-| Atividade                                                                | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Planejamento da Avaliação do Storyboard                                  | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Planejamento da Avaliação da Análise de Tarefas                          | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                                                | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                                                | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ------------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Planejamento da Avaliação do Storyboard                                  | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Planejamento da Avaliação da Análise de Tarefas                          | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                                                | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
 
@@ -178,14 +181,14 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da Entrega 
 
 **Tabela 8**
 
-| Atividade                                                                | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Planejamento da Avaliação do Storyboard                                  | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Planejamento da Avaliação da Análise de Tarefas                          | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                                                | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                                                | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ------------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Planejamento da Avaliação do Storyboard                                  | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Planejamento da Avaliação da Análise de Tarefas                          | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                                                | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
@@ -197,13 +200,13 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da Entrega 5
 
 **Tabela 9**
 
-| Atividade                                                                | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Relato dos Resultados da Avaliação do Storyboard                         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Relato da Avaliação da Análise de Tarefas                                | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                                                | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                                                | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ------------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Relato dos Resultados da Avaliação do Storyboard                         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Relato da Avaliação da Análise de Tarefas                                | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                                                | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
 
@@ -211,13 +214,13 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da Entrega
 
 **Tabela 10**
 
-| Atividade                                                                | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Relato dos Resultados da Avaliação do Storyboard                         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Relato da Avaliação da Análise de Tarefas                                | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 | Início: Sprint 5<br />Fim: Sprint 5 | A definir                                 |
-| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                                                | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                                                | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ------------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Relato dos Resultados da Avaliação do Storyboard                         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Relato da Avaliação da Análise de Tarefas                                | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
+| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                                                | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
@@ -229,13 +232,13 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da Entrega 
 
 **Tabela 11 -**
 
-| Atividade                                                                          | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ---------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 |
-| Gravar vídeo da apresentação                                                       | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                                                          | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ---------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
+| Gravar vídeo da apresentação                                                       | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                                                          | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
 
@@ -243,13 +246,13 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da Entrega
 
 **Tabela 12 -**
 
-| Atividade                                                                          | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ---------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 | Início: Sprint 6<br />Fim: Sprint 6 | A definir                                 |
-| Gravar vídeo da apresentação                                                       | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                                                          | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ---------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
+| Gravar vídeo da apresentação                                                       | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                                                          | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
@@ -261,13 +264,13 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da Entrega 
 
 **Tabela 13**
 
-| Atividade                                                                          | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ---------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 |
-| Gravar vídeo da apresentação                                                       | Início: Sprint 7<br />Fim: Sprint 7 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                                                          | Início: Sprint 7<br />Fim: Sprint 7 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ---------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
+| Gravar vídeo da apresentação                                                       | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                                                          | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
 
@@ -275,13 +278,13 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da Entrega
 
 **Tabela 14**
 
-| Atividade                                                                          | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ---------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 | Início: Sprint 7<br />Fim: Sprint 7 | A definir                                 |
-| Gravar vídeo da apresentação                                                       | Início: Sprint 7<br />Fim: Sprint 7 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                                                          | Início: Sprint 7<br />Fim: Sprint 7 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ---------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
+| Gravar vídeo da apresentação                                                       | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                                                          | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
@@ -293,11 +296,11 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da Entrega 
 
 **Tabela 15**
 
-| Atividade                                                          | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ------------------------------------------------------------------ | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 8 | A definir                                 | Início: Sprint 7<br />Fim: Sprint 8 | A definir                                 |
-| Gravar vídeo da apresentação                                       | Início: Sprint 7<br />Fim: Sprint 8 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                                          | Início: Sprint 7<br />Fim: Sprint 8 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 8 | A definir                               | Início: Sprint 7<br />Fim: Sprint 8 | A definir                               |
+| Gravar vídeo da apresentação                                       | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                                          | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
 
@@ -305,11 +308,11 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da Entrega
 
 **Tabela 16**
 
-| Atividade                                                          | Realização                          | Responsáveis                              | Revisão                             | Revisores                                 |
-| ------------------------------------------------------------------ | ----------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 8 | A definir                                 | Início: Sprint 7<br />Fim: Sprint 8 | A definir                                 |
-| Gravar vídeo da apresentação                                       | Início: Sprint 7<br />Fim: Sprint 8 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
-| Correção pós apresentação                                          | Início: Sprint 7<br />Fim: Sprint 8 | Mateus,  Fernandes,  Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus,  Fernandes,  Lucena, Felipe, Dion |
+| Atividade                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
+| ------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
+| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 8 | A definir                               | Início: Sprint 7<br />Fim: Sprint 8 | A definir                               |
+| Gravar vídeo da apresentação                                       | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                                          | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ## Bibliografia
 

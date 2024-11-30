@@ -19,7 +19,6 @@ Para garantir o sucesso deste projeto, utilizamos diversas ferramentas computaci
 | ![WhatsApp Logo](../assets/Whatsapp_Logo.png)      | **WhatsApp** - Comunicação rápida e prática para alinhamentos e atualizações da equipe.<sup>7</sup>                                     |
 | ![YouTube Logo](../assets/Youtube_Logo.png)        | **YouTube** - Assistir a tutoriais e materiais complementares para aprendizado e desenvolvimento de habilidades.<sup>8</sup>            |
 
-
 <p style="text-align: center;"><em>Fonte: Autores.</em></p>
 
 ## Bibliografia
@@ -40,11 +39,9 @@ Para garantir o sucesso deste projeto, utilizamos diversas ferramentas computaci
 
 8. YouTube. Disponível em: [https://about.youtube/](https://about.youtube/). Acesso em: 29 de nov. de 2024..
 
-
 ## Histórico de Versão
 
 |    Data    | Data Prevista de Revisão | Versão |                  Descrição                  |      Autor      |   Revisor    |
 | :--------: | :----------------------: | :----: | :-----------------------------------------: | :-------------: | :----------: |
 | 11/11/2024 |        11/11/2024        |  1.0   |      Criação da pagina de ferramentas       | Breno Fernandes | Mateus Viera |
 | 29/11/2024 |        30/11/2024        |  1.1   | Adicionando mais ferramentas e bibliografia | Breno Fernandes | Breno Lucena |
-

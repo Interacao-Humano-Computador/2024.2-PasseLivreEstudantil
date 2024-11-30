@@ -8,7 +8,6 @@ Baseado nas heurísticas de Nielsen, cada integrante realizou o planejamento e e
 | PJe           | Mateus Viera               |
 | INSS Mobile   | Breno Lucena               |
 
-
 **Tabela 1**: Tabela de sites avaliados.
 
 ## Printi
@@ -48,12 +47,9 @@ O aplicativo INSS Mobile foi analisado quanto à sua interface e usabilidade, fo
 
 Esses problemas comprometem a experiência geral, dificultando a interação e reduzindo a eficiência do aplicativo para os usuários.
 
-
 ## Histórico de Versão
 
 |    Data    | Data Prevista de Revisão | Versão |                     Descrição                      |      Autor      |   Revisor    |
 | :--------: | :----------------------: | :----: | :------------------------------------------------: | :-------------: | :----------: |
 | 11/11/2024 |        11/11/2024        |  1.0   |                 Criação da pagina                  | Breno Fernandes | Mateus Viera |
 | 12/11/2024 |        12/11/2024        |  1.0   | Atualização da pagina com os sites avaliados antes | Breno Fernandes | Mateus Viera |
-
-

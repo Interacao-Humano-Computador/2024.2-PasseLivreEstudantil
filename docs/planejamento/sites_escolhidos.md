@@ -8,7 +8,7 @@ Em atividades anteriores da disciplina, alguns membros do grupo sugeriram difere
 
 ### Motivos da Escolha
 
-A escolha do site *Passe Livre Estudantil* do BRB Mobilidade foi motivada pelo alinhamento com os critérios definidos para o projeto.
+A escolha do site _Passe Livre Estudantil_ do BRB Mobilidade foi motivada pelo alinhamento com os critérios definidos para o projeto.
 
 - Facilidade de contato com o público-alvo.
 - Presença de problemas de usabilidade nos sites.
@@ -26,7 +26,6 @@ Durante nossa avaliação inicial, baseada no framework DECIDE e nas heurística
 3. **Flexibilidade e Eficiência de Uso**: Observamos que a interface do site não é responsiva para dispositivos móveis. Em telas menores, o layout não se ajusta corretamente, obrigando o usuário a realizar rolagem excessiva e zoom, dificultando a navegação e o acesso às informações.
 
 [Link para a avaliação de IHC completa do site](https://github.com/Interacao-Humano-Computador/2024.2-Grupo07/blob/main/docs/arquivos/planejamento_passe_livre.pdf)<br>
-
 
 |    Data    | Data Prevista de Revisão | Versão |                        Descrição                         |      Autor      |   Revisor    |
 | :--------: | :----------------------: | :----: | :------------------------------------------------------: | :-------------: | :----------: |

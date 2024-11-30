@@ -6,7 +6,6 @@ No intuito de se conhecer melhor os usuários do aplicativo é necessário elabo
 
 Para traçar o perfil dos usuários do Passe Livre Estudantil, será utilizada a **análise documental**, baseada nas informações disponibilizadas no site oficial do BRB Mobilidade e em regulamentações como a Portaria Conjunta Nº 5, de 24 de fevereiro de 2016. Essa abordagem foi escolhida por sua capacidade de fornecer dados detalhados e confiáveis, essenciais para compreender o perfil dos beneficiários.
 
-
 # Análise Documental
 
 ## Critérios de Elegibilidade para o Passe Livre Estudantil
@@ -16,30 +15,28 @@ O **Passe Livre Estudantil** é um benefício destinado a estudantes para garant
 ## Requisitos Gerais
 
 1. **Matrícula Regular**  
-  Ser aluno regularmente matriculado em instituições de ensino reconhecidas pelo Ministério da Educação (MEC) ou pela Secretaria de Educação local.
+   Ser aluno regularmente matriculado em instituições de ensino reconhecidas pelo Ministério da Educação (MEC) ou pela Secretaria de Educação local.
 
 2. **Residência ou Local de Trabalho**  
-  Residir ou trabalhar a uma distância mínima de **1 km** da instituição de ensino, assegurando que o benefício seja destinado a quem realmente necessita.
+   Residir ou trabalhar a uma distância mínima de **1 km** da instituição de ensino, assegurando que o benefício seja destinado a quem realmente necessita.
 
 3. **Renda Familiar**  
-  Algumas regiões exigem comprovação de renda familiar per capita que não ultrapasse um limite específico, como até **1,5 salário mínimo**.
+   Algumas regiões exigem comprovação de renda familiar per capita que não ultrapasse um limite específico, como até **1,5 salário mínimo**.
 
 4. **Frequência Escolar**  
-  Comprovar frequência regular às aulas por meio de declarações ou documentos emitidos pela instituição de ensino.
+   Comprovar frequência regular às aulas por meio de declarações ou documentos emitidos pela instituição de ensino.
 
 5. **Idade**  
    Embora o artigo 47 do Decreto nº 10.062/1987 mencione que crianças a partir de 5 anos podem pagar tarifa nos ônibus, o ensino fundamental geralmente começa aos **6 anos de idade**, conforme estabelecido pela Lei de Diretrizes e Bases da Educação Nacional (LDB, Lei nº 9.394/1996).  
    O benefício do Passe Livre Estudantil é destinado exclusivamente a estudantes regularmente matriculados no ensino fundamental, médio, superior ou em modalidades educacionais elegíveis.  
    Para menores de **18 anos**, o cartão pode ser retirado por um representante legal. Estudantes maiores de idade devem realizar a retirada pessoalmente.
 
-
-
 ## Critérios Específicos por Categoria de Estudante
 
 ### Estudantes Elegíveis
 
 - **Ensino Fundamental, Médio e Superior**  
-  Alunos matriculados em instituições públicas ou privadas.  
+  Alunos matriculados em instituições públicas ou privadas.
 
 - **Cursos Técnicos e Profissionalizantes**
   Carga horária mínima de **200 horas**.
@@ -52,13 +49,12 @@ O **Passe Livre Estudantil** é um benefício destinado a estudantes para garant
 
 - **Educação a Distância (EAD)**
   Estudantes de cursos EAD que realizam **estágio obrigatório presencial**.
-  
 - **Modalidades Esportivas**
   Estudantes matriculados em **centros olímpicos e paraolímpicos**.
 
 # Conclusão
 
-A partir dos dados coletados, foi possível concluir que o perfil de usuário do Passe Livre Estudantil é baseado em um grupo de estudantes regularmente matriculados em instituições de ensino reconhecidas, que dependem do transporte público para acessar suas atividades educacionais. 
+A partir dos dados coletados, foi possível concluir que o perfil de usuário do Passe Livre Estudantil é baseado em um grupo de estudantes regularmente matriculados em instituições de ensino reconhecidas, que dependem do transporte público para acessar suas atividades educacionais.
 
 As tarefas principais realizadas pelos usuários no site do Passe Livre são de **cadastro e atualização de informações**, incluindo envio de documentos e acompanhamento do status do benefício. A tarefa secundária consiste na **solicitação de segunda via do cartão** ou de extensões de acessos.
 
@@ -74,19 +70,16 @@ As tarefas principais realizadas pelos usuários no site do Passe Livre são o c
 
 Esse cenário reforça a importância de uma plataforma acessível e funcional que atenda às necessidades específicas de todos os perfis de usuários, promovendo inclusão e eficiência no uso do benefício.
 
-
 De forma mais resumida, podemos classificar o perfil de usuário assim:
 
-- **Gênero:** Não possui restrições específicas.  
-- **Idade:** Entre 12 e 25 anos, predominantemente.  
-- **Tarefas Primárias:** Cadastro, atualização cadastral, envio de documentos e consulta ao status do benefício.  
+- **Gênero:** Não possui restrições específicas.
+- **Idade:** Entre 12 e 25 anos, predominantemente.
+- **Tarefas Primárias:** Cadastro, atualização cadastral, envio de documentos e consulta ao status do benefício.
 - **Tarefas Secundárias:** Solicitação de segunda via do cartão e ajustes nos acessos ao transporte público.
-
-
 
 ## Perfis Priorizados dos Usuários da Plataforma
 
-Com base nos dados coletados, foi possível construir dois perfis principais de usuários da plataforma Passe Livre Estudantil. As características analisadas incluem faixa etária, escolaridade, tarefas primárias, objetivos de uso da plataforma e nível de familiaridade tecnológica. 
+Com base nos dados coletados, foi possível construir dois perfis principais de usuários da plataforma Passe Livre Estudantil. As características analisadas incluem faixa etária, escolaridade, tarefas primárias, objetivos de uso da plataforma e nível de familiaridade tecnológica.
 
 Segue a descrição detalhada:
 
@@ -97,13 +90,13 @@ Segue a descrição detalhada:
 
 Tabela 1 - Perfis com as características priorizadas.
 
-| **Características**      | **Perfil A**                                                                 | **Perfil B**                                                                 |
-|--------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| **Faixa Etária**         | 6 a 17 anos                                                                 | 18 a 25 anos                                                                |
-| **Escolaridade**         | Ensino Fundamental ou Médio                                                 | Ensino Superior ou Técnico                                                  |
-| **Tarefas Primárias**    | Cadastro inicial, envio de documentos, consulta ao status do benefício       | Atualização cadastral, envio de declaração de estágio, solicitação de extensão de acessos |
-| **Objetivo de Uso**      | Garantir transporte para a escola                                            | Transporte para aulas, estágios e atividades extracurriculares              |
-| **Familiaridade Tecnológica** | Baixa a média, com suporte frequente dos responsáveis                    | Alta, realiza tarefas de forma independente                                 |
+| **Características**           | **Perfil A**                                                           | **Perfil B**                                                                              |
+| ----------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Faixa Etária**              | 6 a 17 anos                                                            | 18 a 25 anos                                                                              |
+| **Escolaridade**              | Ensino Fundamental ou Médio                                            | Ensino Superior ou Técnico                                                                |
+| **Tarefas Primárias**         | Cadastro inicial, envio de documentos, consulta ao status do benefício | Atualização cadastral, envio de declaração de estágio, solicitação de extensão de acessos |
+| **Objetivo de Uso**           | Garantir transporte para a escola                                      | Transporte para aulas, estágios e atividades extracurriculares                            |
+| **Familiaridade Tecnológica** | Baixa a média, com suporte frequente dos responsáveis                  | Alta, realiza tarefas de forma independente                                               |
 
 Fonte: Breno Fernandes, 2024.
 
@@ -128,9 +121,7 @@ Fonte: Breno Fernandes, 2024.
 
 Esses perfis priorizam as diferenças em termos de faixa etária, grau de autonomia e objetivos de uso da plataforma, permitindo identificar melhor as necessidades e os comportamentos dos usuários.
 
-
 ---
-
 
 ## Referências
 
@@ -144,8 +135,7 @@ Esses perfis priorizam as diferenças em termos de faixa etária, grau de autono
 
 5. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-
-|Data| Data Prevista de Revisão|Versão |Descrição| Autor | Revisor    |
-| :--------: | :--------: | :----: | :------: | :----------: | :----------: |
-| 28/11/2024 |    29/11/2024   |  1.0   |  Criação da pagina   | Breno Fernandes | Breno Lucena |
-| 29/11/2024 |    31/11/2024   |  1.0   |  Adição de conclusão e Perfis priorizados   | Breno Fernandes | Breno Lucena |
+|    Data    | Data Prevista de Revisão | Versão |                Descrição                 |      Autor      |   Revisor    |
+| :--------: | :----------------------: | :----: | :--------------------------------------: | :-------------: | :----------: |
+| 28/11/2024 |        29/11/2024        |  1.0   |            Criação da pagina             | Breno Fernandes | Breno Lucena |
+| 29/11/2024 |        31/11/2024        |  1.0   | Adição de conclusão e Perfis priorizados | Breno Fernandes | Breno Lucena |
