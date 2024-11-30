@@ -3,107 +3,95 @@ site_name: "Passe Livre Estudantil"
 
 # Descrição
 site_description: "Repositório de documentos de Interação Humano-Computador"
-repo_name: '2024.2-Grupo07'
-repo_url: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo07'
+repo_name: "2024.2-Grupo07"
+repo_url: "https://github.com/Interacao-Humano-Computador/2024.2-Grupo07"
 
 # Tema do MkDocs
 theme:
   name: material
   features:
-    - navigation.instant       # Carrega páginas instantaneamente
-    - navigation.tracking      # Permite rastrear a navegação
-    - navigation.tabs          # Habilita abas de navegação no topo
-    - navigation.tabs.sticky   # Abas fixas na parte superior
-    - navigation.top           # Move o menu para o topo
+    - navigation.instant # Carrega páginas instantaneamente
+    - navigation.tracking # Permite rastrear a navegação
+    - navigation.tabs # Habilita abas de navegação no topo
+    - navigation.tabs.sticky # Abas fixas na parte superior
+    - navigation.top # Move o menu para o topo
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/circle-half-full
         name: Mudar para o modo claro
-        
+
     - media: "(prefers-color-scheme: light)"
       scheme: claro
       toggle:
         icon: material/circle-half-full
         name: Mudar para o modo escuro
 
-    
-
   language: pt-BR
   favicon: assets/passeLivreEstudantilFavicon.png
   logo: assets/passeLivreEstudantil.png
   navigation:
-   tabs: true
+    tabs: true
 
 # Configura a navegação do site
 nav:
   - Introdução: index.md
-  - Atas: 
-    - Ata 1: atas/ata-1.md
-    - Ata 2: atas/ata-2.md
+  - Atas:
+      - Ata 1: atas/ata-1.md
+      - Ata 2: atas/ata-2.md
   - Planejamento:
-    - Cronograma: planejamento/cronograma.md
-    - Metodologia: planejamento/metodologia.md
-    - Design: planejamento/design.md
-    - Ferramentas: planejamento/ferramentas.md
-    - Heatmap: planejamento/heatmap.md
-    - Sites avaliados: planejamento/sites_avaliados.md
-    - Site escolhido: planejamento/sites_escolhidos.md
-    - Termo de Consentimento: planejamento/termo.md
+      - Cronograma: planejamento/cronograma.md
+      - Metodologia: planejamento/metodologia.md
+      - Design: planejamento/design.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Heatmap: planejamento/heatmap.md
+      - Sites avaliados: planejamento/sites_avaliados.md
+      - Site escolhido: planejamento/sites_escolhidos.md
+      - Termo de Consentimento: planejamento/termo.md
   - Verificação:
-    - Verificação do Grupo 7:
-      - Entrega 01:
-        - Inspeção: verificacoes/grupo07/entrega01/verificacaoGrupo07.md
-        - Planejamento da Verificação: verificacoes/grupo07/entrega01/planejamento.md
-        - Cronograma: verificacoes/grupo07/entrega01/cronogramav.md
-        - Ferramentas: verificacoes/grupo07/entrega01/ferramentasv.md
-        - Processo de design: verificacoes/grupo07/entrega01/designv.md
-        - Sites avaliados: verificacoes/grupo07/entrega01/siteav.md
-        - Site escolhido: verificacoes/grupo07/entrega01/siteev.md
-        - Metodologia: verificacoes/grupo07/entrega01/metodologiav.md
-      - Entrega 02:
-        - Planejamento de Verificação: verificacoes/grupo07/entrega02/planejamentodeVerificacao.md
-        - Personas: verificacoes/grupo07/entrega02/personas.md
-        - Aspectos Éticos: verificacoes/grupo07/entrega02/aspectosEticos.md
-        - Cenários: verificacoes/grupo07/entrega02/cenarios.md
-        - Perfil do Usuário: verificacoes/grupo07/entrega02/perfildeUsuario.md
-        - Analise de tarefas: verificacoes/grupo07/entrega02/analisedeTarefas.md
+      - Verificação do Grupo 7:
+          - Entrega 01:
+              - Inspeção: verificacoes/grupo07/entrega01/verificacaoGrupo07.md
+              - Planejamento da Verificação: verificacoes/grupo07/entrega01/planejamento.md
+              - Cronograma: verificacoes/grupo07/entrega01/cronogramav.md
+              - Ferramentas: verificacoes/grupo07/entrega01/ferramentasv.md
+              - Processo de design: verificacoes/grupo07/entrega01/designv.md
+              - Sites avaliados: verificacoes/grupo07/entrega01/siteav.md
+              - Site escolhido: verificacoes/grupo07/entrega01/siteev.md
+              - Metodologia: verificacoes/grupo07/entrega01/metodologiav.md
+          - Entrega 02:
+              - Planejamento de Verificação: verificacoes/grupo07/entrega02/planejamentodeVerificacao.md
+              - Personas: verificacoes/grupo07/entrega02/personas.md
+              - Aspectos Éticos: verificacoes/grupo07/entrega02/aspectosEticos.md
+              - Cenários: verificacoes/grupo07/entrega02/cenarios.md
+              - Perfil do Usuário: verificacoes/grupo07/entrega02/perfildeUsuario.md
+              - Analise de tarefas: verificacoes/grupo07/entrega02/analisedeTarefas.md
 
-    - Verificação do Grupo 8:
-      - Entrega 01:
-        - Inspeção: verificacoes/grupo08/entrega01/verificacaoGrupo08.md
-        - Cronograma: verificacoes/grupo08/entrega01/cronograma.md
-        - Ferramentas: verificacoes/grupo08/entrega01/ferramentas.md
-        - Processo de Design: verificacoes/grupo08/entrega01/processodeDesign.md
-        - Site Escolhido: verificacoes/grupo08/entrega01/siteEscolhido.md
-      - Entrega 02:
-        - Planejamento de Verificação: verificacoes/grupo08/entrega02/planejamentodeVerificacao.md
-        - Personas: verificacoes/grupo08/entrega02/personas.md
-        - Aspectos Éticos: verificacoes/grupo08/entrega02/aspectosEticos.md
-        - Cenários: verificacoes/grupo08/entrega02/cenarios.md
-        - Perfil do Usuário: verificacoes/grupo08/entrega02/perfildeUsuario.md
-        - Analise de tarefas: verificacoes/grupo08/entrega02/analisedeTarefas.md
-
-
-
-      
-      
+      - Verificação do Grupo 8:
+          - Entrega 01:
+              - Inspeção: verificacoes/grupo08/entrega01/verificacaoGrupo08.md
+              - Cronograma: verificacoes/grupo08/entrega01/cronograma.md
+              - Ferramentas: verificacoes/grupo08/entrega01/ferramentas.md
+              - Processo de Design: verificacoes/grupo08/entrega01/processodeDesign.md
+              - Site Escolhido: verificacoes/grupo08/entrega01/siteEscolhido.md
+          - Entrega 02:
+              - Planejamento de Verificação: verificacoes/grupo08/entrega02/planejamentodeVerificacao.md
+              - Personas: verificacoes/grupo08/entrega02/personas.md
+              - Aspectos Éticos: verificacoes/grupo08/entrega02/aspectosEticos.md
+              - Cenários: verificacoes/grupo08/entrega02/cenarios.md
+              - Perfil do Usuário: verificacoes/grupo08/entrega02/perfildeUsuario.md
+              - Analise de tarefas: verificacoes/grupo08/entrega02/analisedeTarefas.md
 
   - Análise de Requisitos:
-    - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
-    - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
-    - Cenários: analisedeRequsitos/cenarios.md
-    - Personas: analisedeRequsitos/personas.md
-    - Analise de Tarefas: analisedeRequsitos/analisedeTarefas.md
-    - Termo de Consentimento: analisedeRequsitos/termodeConsentimento.md
-    
-    
-
-
-
-
+      - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
+      - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
+      - Metas de Usabilidade: analisedeRequisitos/metas_de_usabilidade.md
+      - Cenários: analisedeRequsitos/cenarios.md
+      - Personas: analisedeRequsitos/personas.md
+      - Analise de Tarefas: analisedeRequsitos/analisedeTarefas.md
+      - Termo de Consentimento: analisedeRequsitos/termodeConsentimento.md
 
 extra:
   version:
-    provider: 
+    provider:
