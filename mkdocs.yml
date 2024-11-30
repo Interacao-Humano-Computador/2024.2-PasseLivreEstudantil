@@ -48,7 +48,6 @@ nav:
       - Heatmap: planejamento/heatmap.md
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/sites_escolhidos.md
-      - Termo de Consentimento: planejamento/termo.md
   - Verificação:
       - Verificação do Grupo 7:
           - Entrega 01:
@@ -65,7 +64,7 @@ nav:
               - Personas: verificacoes/grupo07/entrega02/personas.md
               - Aspectos Éticos: verificacoes/grupo07/entrega02/aspectosEticos.md
               - Cenários: verificacoes/grupo07/entrega02/cenarios.md
-              - Perfil do Usuário: verificacoes/grupo07/entrega02/perfildeUsuario.md
+              - Perfil do Usuário: verificacoes/grupo07/entrega02/perfildeUsuarios.md
               - Analise de tarefas: verificacoes/grupo07/entrega02/analisedeTarefas.md
 
       - Verificação do Grupo 8:
@@ -82,11 +81,10 @@ nav:
               - Cenários: verificacoes/grupo08/entrega02/cenarios.md
               - Perfil do Usuário: verificacoes/grupo08/entrega02/perfildeUsuario.md
               - Analise de tarefas: verificacoes/grupo08/entrega02/analisedeTarefas.md
-
   - Análise de Requisitos:
       - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
       - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
-      - Metas de Usabilidade: analisedeRequisitos/metas_de_usabilidade.md
+      - Metas de Usabilidade: analisedeRequsitos/metas_de_usabilidade.md
       - Cenários: analisedeRequsitos/cenarios.md
       - Personas: analisedeRequsitos/personas.md
       - Analise de Tarefas: analisedeRequsitos/analisedeTarefas.md
