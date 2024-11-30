@@ -50,6 +50,9 @@ nav:
     - Sites avaliados: planejamento/sites_avaliados.md
     - Site escolhido: planejamento/sites_escolhidos.md
     - Termo de Consentimento: planejamento/termo.md
+    - Princípios Gerais do Projeto: planejamento/principiosgerais.md
+    
+   
   - Verificação:
     - Verificação do Grupo 7:
       - Entrega 01:
@@ -84,19 +87,16 @@ nav:
         - Perfil do Usuário: verificacoes/grupo08/entrega02/perfildeUsuario.md
         - Analise de tarefas: verificacoes/grupo08/entrega02/analisedeTarefas.md
 
-
-
-      
-      
-
-  - Análise de Requisitos:
-    - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
-    - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
-    - Cenários: analisedeRequsitos/cenarios.md
-    - Personas: analisedeRequsitos/personas.md
-    - Analise de Tarefas: analisedeRequsitos/analisedeTarefas.md
-    - Termo de Consentimento: analisedeRequsitos/termodeConsentimento.md
-    
+    - Análise de Requisitos:
+        - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
+        - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
+        - Cenários: analisedeRequsitos/cenarios.md
+        - Personas: analisedeRequsitos/personas.md
+        - Analise de Tarefas: analisedeRequsitos/analisedeTarefas.md
+        - Termo de Consentimento: analisedeRequsitos/termodeConsentimento.md
+       
+        
+       
     
 
 
