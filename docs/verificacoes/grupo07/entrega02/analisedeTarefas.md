@@ -1,4 +1,4 @@
-# Verificação do Análise de Tarefas - Análise Hierárquica de Tarefas
+# Verificação do Análise de Tarefas
 
 ## Introdução
 Após o planejamento das verificações, é hora de realizar a inspeção do artefato. Este documento apresenta os objetivos da verificação, a metodologia utilizada, e os resultados da análise. Além disso, descrevemos os principais problemas encontrados, oferecendo uma visão crítica que serve para sugerir as ações corretivas necessárias.
