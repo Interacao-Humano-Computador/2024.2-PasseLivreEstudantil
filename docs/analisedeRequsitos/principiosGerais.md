@@ -18,7 +18,7 @@ A tela de troca de instituição no site apresenta um local para anexar document
 
 Figura 1 - Tela de envio de documentos para comprovar a troca de instituição no processo de atualização cadastral.
 
-![Figura 1 - Tela de envio de documentos para comprovar a troca de instituição no processo de atualização cadastral.](../assets/trocadeInstituicaoDocumento.png)
+![Figura 1 - Tela de envio de documentos para comprovar a troca de instituição no processo de atualização cadastral.](../assets/trocaInstituicaoDocumento2.png)
 
 Fonte Passe Livre Estudantil
 
