@@ -87,7 +87,8 @@ nav:
       - Metas de Usabilidade: analisedeRequsitos/metas_de_usabilidade.md
       - Cenários: analisedeRequsitos/cenarios.md
       - Personas: analisedeRequsitos/personas.md
-      - Analise de Tarefas: analisedeRequsitos/analisedeTarefas.md
+      - Analise de Tarefas:
+        - GOMS: analisedeRequsitos/analise_tarefas/goms.md
       - Termo de Consentimento: analisedeRequsitos/termodeConsentimento.md
       - Principios Gerais: analisedeRequsitos/principiosGerais.md
 
