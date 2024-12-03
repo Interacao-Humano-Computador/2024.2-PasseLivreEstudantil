@@ -32,16 +32,18 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
 | 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?       | Sim       | -           |
 | 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                               | Sim       | -           |
 | 5   | Todos os textos estão na norma padrão?                                                                      | Sim       | -           |
-| 7   | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas? | Sim       | -           |
-| 8   | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários?                    | Não       | Os avaliadores não encontraram problemas relacionados a correspondencia com as expectativas dos usuários           |
-| 9   | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas?                             | Sim       | -           |
-| 10  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário?                   | não       |            |
-| 11  | Os princípios gerais do projeto contém consistência e padronização?                                         | Sim       | Os avaliadores não encontraram problemas relacionados a correspondencia com as consistencia e padronização            |
-| 12  | Os princípios gerais do projeto contém promoção da eficiência do usuário?                                   | Sim       | -           |
-| 13  | Os princípios gerais do projeto contém antecipação das necessidades do usuário?                            | não       | Os avaliadores não encontraram problemas relacionados a correspondencia com a antecipação            |
-| 14  | Os princípios gerais do projeto contém visibilidade e reconhecimento?                                       | Sim       | -           |
-| 15  | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada?                             | Sim       | -           |
-| 16  | Os princípios gerais do projeto contém projeto para erros?                                                  |        | Os avaliadores não encontraram problemas relacionados a correspondencia com a projeto para erros            |
+| 6   | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas? | Sim       | -           |
+| 7   | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários?                    | Não       | Os avaliadores não encontraram problemas relacionados a correspondencia com as expectativas dos usuários           |
+| 8   | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas?                             | Sim       | -           |
+| 9  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário?            |sim       |            |
+| 10  | Os princípios gerais do projeto contém consistência e padronização?                                         | Sim       | Os avaliadores não encontraram problemas relacionados a correspondencia com as consistencia e padronização            |
+| 11  | Os princípios gerais do projeto contém promoção da eficiência do usuário?                                   | Sim       | -           |
+| 12  | Os princípios gerais do projeto contém antecipação das necessidades do usuário?                            | não       | Os avaliadores não encontraram problemas relacionados a correspondencia com a antecipação            |
+| 13  | Os princípios gerais do projeto contém visibilidade e reconhecimento?                                       | Sim       | -           |
+| 14  | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada?                             | Sim       | -           |
+| 15  | Os princípios gerais do projeto contém projeto para erros?                                                  |        | Os avaliadores não encontraram problemas relacionados a correspondencia com a projeto para erros            |
 
 **Fonte**: Breno Fernandes, 2024.
 
+### Bibliografia
+FERREIRA, Rafael. Verificação do Planejamento da Avaliação da Análise de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<>>. Acesso em: 18 junho 2023.
