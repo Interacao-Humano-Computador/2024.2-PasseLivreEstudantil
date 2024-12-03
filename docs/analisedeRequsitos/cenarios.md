@@ -9,6 +9,9 @@ Lucas Oliveira faz o login na plataforma e deseja entender se seu cartão está 
 ## Cenário 2: Solicitação de segunda via de cartão
 Lucas Oliveira faz seu login na plataforma como já compreendido antes, mas dessa vez precisa procurar informações sobre segunda via, visto que, seu cartão acabou sendo danificado. Logo depois do login já é possível encontrar a uma aba que sugere que está perto de seu objetivo. Logo após clicar na aba, a página mostra que precisará enviar o comprovante de pagamento da taxa para obtenção da segunda via e que seu cartão atual será bloqueado imediatamente. Assim, a solicitação corre de maneira fluida, em seu celular ele viu que essa parte do site é responsivo e que não foi complicado a obtenção.
 
+## Cenário 3: Consulta do status do cartão e informações de retirada
+O estudante realiza o login na plataforma para verificar o status do seu cartão passe livre e obter informações detalhadas sobre o processo de retirada. Na página inicial, ele observa várias opções no menu e sente alguma confusão sobre qual aba acessar. Após explorar a interface, identifica a aba "Retirada de Cartão" e clica nela. A página carregada apresenta um código confuso, datas disponíveis para retirada, horário e local. A interface, embora funcional, possui problemas de layout que dificultam o acesso rápido às informações, especialmente pelo celular. Mesmo com as dificuldades, ele consegue anotar os detalhes e planejar a retirada do cartão.
+
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
@@ -21,3 +24,4 @@ Lucas Oliveira faz seu login na plataforma como já compreendido antes, mas dess
 | :--------: | :----------------------: | :----: | :---------------: | :----: | :-----: |
 | 02/12/2024 |        02/12/2024        |  1.0   | Criação da Página | Mateus |  Dion   |
 | 02/12/2024 |        02/12/2024        |  1.1   | Criação do cenário 2 | Dion | Mateus |
+| 03/12/2024 |        03/12/2024        |  1.2   | Criação dp cenário 3| Breno Lucena| Mateus

@@ -18,6 +18,16 @@ GOAL 0: Fazer login na página para visualizar o status do passe livre
 ```
 
 ---
+### Cenário 3: Consulta do status do cartão e informações de retirada
+
+
+GOAL 0: Fazer login na página para verificar as informações do cartão
+    GOAL 1: Navegar até a aba de retirada de cartão
+        OP 1.1: Procurar no menu a opção correspondente à retirada do cartão
+        OP 1.2: Pressionar o botão para acessá-la
+    GOAL 2: Consultar as informações de retirada
+        OP 2.1: Ler as informações apresentadas na página (código, datas, horário e local)
+        OP 2.2: Anotar os detalhes relevantes para planejar a retirada
 
 ## Referências Bibliográficas
 
@@ -35,3 +45,4 @@ GOAL 0: Fazer login na página para visualizar o status do passe livre
 |    Data    | Data Prevista de Revisão | Versão |     Descrição     | Autor  | Revisor |
 | :--------: | :----------------------: | :----: | :---------------: | :----: | :-----: |
 | 02/12/2024 |        03/12/2024        |  1.0   | Criação da Página | Mateus |         |
+|03/12/2024  |        03/12/2024        |  1.1   | Adição de goms    | Breno Lucena| Mateus|
