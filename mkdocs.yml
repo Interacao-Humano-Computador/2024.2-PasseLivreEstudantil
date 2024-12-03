@@ -86,6 +86,7 @@ nav:
       - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
       - Cenários: analisedeRequsitos/cenarios.md
       - Personas: analisedeRequsitos/personas.md
+      - Guia de estilo: analisedeRequsitos/guiaDeEstilo.md
       - Analise de Tarefas:
           - GOMS: analisedeRequsitos/analise_tarefas/goms.md
       - Termo de Consentimento: analisedeRequsitos/termodeConsentimento.md

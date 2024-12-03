@@ -39,7 +39,7 @@ Portanto, ao projetar a interface, deve-se garantir que a navegação seja intui
 
 Os elementos de interface, adaptados para esses diferentes perfis e dispositivos, estão ilustrados na figura 1.
 
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/rOdrKdBYO8gsXn4jcAmPP6/IHC-GRUPO-07?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 Fonte: Breno Lucena, 2024.
 
 ## Bibliografia
