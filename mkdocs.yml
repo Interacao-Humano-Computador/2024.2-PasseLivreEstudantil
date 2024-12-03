@@ -64,7 +64,7 @@ nav:
               - Personas: verificacoes/grupo07/entrega02/personas.md
               - Aspectos Éticos: verificacoes/grupo07/entrega02/aspectosEticos.md
               - Cenários: verificacoes/grupo07/entrega02/cenarios.md
-              - Perfil do Usuário: verificacoes/grupo07/entrega02/perfildeUsuarios.md
+              - Perfil do Usuário: verificacoes/grupo07/entrega02/perfildeUsuario.md
               - Analise de tarefas: verificacoes/grupo07/entrega02/analisedeTarefas.md
 
       - Verificação do Grupo 8:
@@ -84,12 +84,15 @@ nav:
   - Análise de Requisitos:
       - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
       - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
-      - Metas de Usabilidade: analisedeRequsitos/metas_de_usabilidade.md
       - Cenários: analisedeRequsitos/cenarios.md
       - Personas: analisedeRequsitos/personas.md
-      - Analise de Tarefas: analisedeRequsitos/analisedeTarefas.md
+      - Guia de estilo: analisedeRequsitos/guiaDeEstilo.md
+      - Analise de Tarefas:
+          - GOMS: analisedeRequsitos/analise_tarefas/goms.md
       - Termo de Consentimento: analisedeRequsitos/termodeConsentimento.md
       - Principios Gerais: analisedeRequsitos/principiosGerais.md
+      - Metas de Usabilidade: analisedeRequsitos/metas_de_usabilidade.md
+      
 
 extra:
   version:
