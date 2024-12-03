@@ -33,17 +33,43 @@ A tabela a seguir apresenta a checklist com os dados obtidos a partir da verific
 | 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                               | Sim       | -           |
 | 5   | Todos os textos estão na norma padrão?                                                                      | Sim       | -           |
 | 6   | Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas? | Sim       | -           |
-| 7   | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários?                    | Não       | Os avaliadores não encontraram problemas relacionados a correspondencia com as expectativas dos usuários           |
+| 7   | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários?                    | Não se aplica      | Os avaliadores não encontraram problemas relacionados a correspondencia com as expectativas dos usuários           |
 | 8   | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas?                             | Sim       | -           |
 | 9  | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário?            |sim       |            |
-| 10  | Os princípios gerais do projeto contém consistência e padronização?                                         | Sim       | Os avaliadores não encontraram problemas relacionados a correspondencia com as consistencia e padronização            |
+| 10  | Os princípios gerais do projeto contém consistência e padronização?                                         | não se aplica       | Os avaliadores não encontraram problemas relacionados a correspondencia com as consistencia e padronização            |
 | 11  | Os princípios gerais do projeto contém promoção da eficiência do usuário?                                   | Sim       | -           |
-| 12  | Os princípios gerais do projeto contém antecipação das necessidades do usuário?                            | não       | Os avaliadores não encontraram problemas relacionados a correspondencia com a antecipação            |
+| 12  | Os princípios gerais do projeto contém antecipação das necessidades do usuário?                            | não  se aplica     | Os avaliadores não encontraram problemas relacionados a correspondencia com a antecipação            |
 | 13  | Os princípios gerais do projeto contém visibilidade e reconhecimento?                                       | Sim       | -           |
 | 14  | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada?                             | Sim       | -           |
-| 15  | Os princípios gerais do projeto contém projeto para erros?                                                  |        | Os avaliadores não encontraram problemas relacionados a correspondencia com a projeto para erros            |
+| 15  | Os princípios gerais do projeto contém projeto para erros?                                                  |    não se aplica    | Os avaliadores não encontraram problemas relacionados a correspondencia com a projeto para erros            |
 
 **Fonte**: Breno Fernandes, 2024.
 
+### Sugestões de correção
+
+Considerando que apenas alguns princípios gerais não foram abordados devido à ausência de problemas relacionados a esses princípios, não foram identificados erros.
+
+## Acompanhamento
+
+A tabela abaixo apresenta a distribuição percentual das respostas obtidas durante a verificação dos princípios gerais do projeto.
+
+**Figura 1 - Gráfico do Resultado da Verificação**
+
+| Resposta       | Porcentagem |
+|----------------|-------------|
+| Sim            | 80%         |
+| Não            | 0%          |
+| Não se aplica  | 20%         |
+
+
+
 ### Bibliografia
 FERREIRA, Rafael. Verificação do Planejamento da Avaliação da Análise de Tarefas. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<>>. Acesso em: 18 junho 2023.
+
+---
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                 | Autor(es)         | Revisor(es)      |
+|--------|------------|---------------------------|-------------------|------------------|
+| 1.0    | 02/12/2024 | Criação da página.        | Breno Fernandes  | Breno Lucena  |
