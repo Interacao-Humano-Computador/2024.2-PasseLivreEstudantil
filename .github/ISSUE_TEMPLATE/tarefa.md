@@ -16,17 +16,6 @@ assignees: ''
 ### Data de Fim  
 (dd/mm/aaaa)  
 
-### Responsável  
-(Nome do responsável pela tarefa)  
-
-### Revisor  
-(Nome do revisor)  
-
-### Prioridade  
-- [ ] Alta  
-- [ ] Média  
-- [ ] Baixa  
-
 ### Lista de Verificação  
 - [ ] Tarefa 1  
 - [ ] Tarefa 2  
