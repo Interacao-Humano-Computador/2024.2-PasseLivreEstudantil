@@ -12,6 +12,10 @@ Lucas Oliveira faz seu login na plataforma como já compreendido antes, mas dess
 ## Cenário 3: Consulta do status do cartão e informações de retirada
 O estudante realiza o login na plataforma para verificar o status do seu cartão passe livre e obter informações detalhadas sobre o processo de retirada. Na página inicial, ele observa várias opções no menu e sente alguma confusão sobre qual aba acessar. Após explorar a interface, identifica a aba "Retirada de Cartão" e clica nela. A página carregada apresenta um código confuso, datas disponíveis para retirada, horário e local. A interface, embora funcional, possui problemas de layout que dificultam o acesso rápido às informações, especialmente pelo celular. Mesmo com as dificuldades, ele consegue anotar os detalhes e planejar a retirada do cartão.
 
+## Cenário 4: Atualização de foto do cartão
+O estudante deseja atualizar sua foto no sistema. Após realizar o login, ele navega até a aba "Alteração de Foto". A página é carregada com um formulário simples, explicando que, para a atualização, não será necessário um novo cartão físico, a menos que o estudante opte por solicitar uma segunda via mediante pagamento de uma taxa. Ele insere suas observações no campo apropriado e anexa a nova foto. No entanto, ao tentar salvar a solicitação ele consegue finalizar o processo com sucesso.
+
+
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
@@ -24,4 +28,6 @@ O estudante realiza o login na plataforma para verificar o status do seu cartão
 | :--------: | :----------------------: | :----: | :---------------: | :----: | :-----: |
 | 02/12/2024 |        02/12/2024        |  1.0   | Criação da Página | Mateus |  Dion   |
 | 02/12/2024 |        02/12/2024        |  1.1   | Criação do cenário 2 | Dion | Mateus |
-| 03/12/2024 |        03/12/2024        |  1.2   | Criação dp cenário 3| Breno Lucena| Mateus
+| 03/12/2024 |        03/12/2024        |  1.2   | Criação dp cenário 3| Breno Lucena| Mateus |
+| 03/12/2024 |        03/12/2024        |  1.3   | Criação dp cenário 4| Breno Fernandes| Mateus |
+

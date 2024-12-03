@@ -29,6 +29,21 @@ GOAL 0: Fazer login na página para verificar as informações do cartão
         OP 2.1: Ler as informações apresentadas na página (código, datas, horário e local)
         OP 2.2: Anotar os detalhes relevantes para planejar a retirada
 
+### Cenário 4: Atualização de foto do cartão
+
+
+GOAL 0: Fazer login na página para atualizar a foto do cartão
+    GOAL 1: Navegar até a aba de alteração de foto
+        OP 1.1: Procurar no menu a opção correspondente à alteração de foto
+        OP 1.2: Pressionar o botão para acessá-la
+    GOAL 2: Atualizar a foto do cartão
+        OP 2.1: Ler as instruções apresentadas na página
+        OP 2.2: Pressione o botão "" para anexar a nova foto
+        OP 2.3: Fazer upload da nova foto
+        OP 2.4: Confirmar a atualização da foto
+
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1. </a>Kieras, David (2001). Using the keystroke-level model to estimate execution times.
@@ -46,3 +61,4 @@ GOAL 0: Fazer login na página para verificar as informações do cartão
 | :--------: | :----------------------: | :----: | :---------------: | :----: | :-----: |
 | 02/12/2024 |        03/12/2024        |  1.0   | Criação da Página | Mateus |         |
 |03/12/2024  |        03/12/2024        |  1.1   | Adição de goms    | Breno Lucena| Mateus|
+|03/12/2024  |        03/12/2024        |  1.2   | Adição de goms    | Breno Fernandes| Mateus|
