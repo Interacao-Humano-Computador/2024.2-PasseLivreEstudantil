@@ -66,7 +66,12 @@ nav:
               - Cenários: verificacoes/grupo07/entrega02/cenarios.md
               - Perfil do Usuário: verificacoes/grupo07/entrega02/perfildeUsuario.md
               - Analise de tarefas: verificacoes/grupo07/entrega02/analisedeTarefas.md
-
+          - Entrega 03:
+              - Planejamento de verificação: verificacoes/grupo07/entrega03/planejamentoVerificacaoEntrega3.md
+              - Principios Gerais: verificacoes/grupo07/entrega03/principiosGerais.md
+              - Metas de usabilidade: verificacoes/grupo07/entrega03/metasdeUsabilidade.md
+              - Guia de Estilo: verificacoes/grupo07/entrega03/guiadeEstilo.md
+              - Caracteristicas Gerais: verificacoes/grupo07/entrega03/caracteristicasGerais.md
       - Verificação do Grupo 8:
           - Entrega 01:
               - Inspeção: verificacoes/grupo08/entrega01/verificacaoGrupo08.md
@@ -81,6 +86,7 @@ nav:
               - Cenários: verificacoes/grupo08/entrega02/cenarios.md
               - Perfil do Usuário: verificacoes/grupo08/entrega02/perfildeUsuario.md
               - Analise de tarefas: verificacoes/grupo08/entrega02/analisedeTarefas.md
+          
   - Análise de Requisitos:
       - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
       - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
@@ -92,6 +98,7 @@ nav:
       - Principios Gerais: analisedeRequsitos/principiosGerais.md
       - Metas de Usabilidade: analisedeRequsitos/metas_de_usabilidade.md
       - Guia de estilo: analisedeRequsitos/guiaDeEstilo.md
+      - Caracteristicas Gerais: analisedeRequsitos/caracteristicas.md
       
 
 extra:
