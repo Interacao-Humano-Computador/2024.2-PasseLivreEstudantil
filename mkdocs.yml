@@ -84,14 +84,14 @@ nav:
   - Análise de Requisitos:
       - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
       - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
-      - Cenários: analisedeRequsitos/cenarios.md
       - Personas: analisedeRequsitos/personas.md
-      - Guia de estilo: analisedeRequsitos/guiaDeEstilo.md
+      - Cenários: analisedeRequsitos/cenarios.md
       - Analise de Tarefas:
           - GOMS: analisedeRequsitos/analise_tarefas/goms.md
       - Termo de Consentimento: analisedeRequsitos/termodeConsentimento.md
       - Principios Gerais: analisedeRequsitos/principiosGerais.md
       - Metas de Usabilidade: analisedeRequsitos/metas_de_usabilidade.md
+      - Guia de estilo: analisedeRequsitos/guiaDeEstilo.md
       
 
 extra:
