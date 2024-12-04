@@ -166,14 +166,14 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da Entrega 4
 
 **Tabela 7**
 
-| Atividade                                                                | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ------------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Planejamento da Avaliação do Storyboard                                  | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Planejamento da Avaliação da Análise de Tarefas                          | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                                | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                                                | Realização                    | Responsáveis                            | Revisão                       | Revisores                               |
+| ------------------------------------------------------------------------ | ----------------------------- | --------------------------------------- | ----------------------------- | --------------------------------------- |
+| Planejamento da Avaliação do Storyboard                                  | Início: 03/12<br />Fim: 07/12 | A definir                               | Início: 07/12<br />Fim: 09/12 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: 03/12<br />Fim: 07/12 | A definir                               | Início: 07/12<br />Fim: 09/12 | A definir                               |
+| Planejamento da Avaliação da Análise de Tarefas                          | Início: 03/12<br />Fim: 07/12 | A definir                               | Início: 07/12<br />Fim: 09/12 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: 03/12<br />Fim: 07/12 | A definir                               | Início: 07/12<br />Fim: 09/12 | A definir                               |
+| Gravar vídeo da apresentação                                             | Início: 09/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 09/12<br />Fim: 09/12 | Mateus                                  |
+| Correção pós apresentação                                                | Início: 12/12<br />Fim: 13/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 12/12<br />Fim: 13/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
 
