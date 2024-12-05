@@ -38,11 +38,11 @@ O artefato foi verificado e gerou os resultados da **Tabela 2**, em que as obser
 | 3   | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim       | -                                                                                                 |
 | 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Sim       | -                                                                                                 |
 | 5   | Todos os textos estão na norma padrão?                                     | Sim       | -                                                                                                 |
-| 6   | São apresentados quais fatores de qualidade de uso serão priorizados no projeto? |        | -                                                                                                 |
-| 7   | Há algum indicador de interesse baseado no desempenho dos usuários?        |        |        -      |
-| 8   | As metas foram definidas através do perfil de usuário?                    |       |   -  |
-| 9   | Foram definidas as usabilidades em 6 metas?                               |        | -                                                                                                 |
-| 10  | As metas são representadas como "guias de estilos"?                       |        | -                                                                                                 |
+| 6   | São apresentados quais fatores de qualidade de uso serão priorizados no projeto? |    sim    | -                                                                                                 |
+| 7   | Há algum indicador de interesse baseado no desempenho dos usuários?        |    sim    |        -      |
+| 8   | As metas foram definidas através do perfil de usuário?                    |   sim    |   -  |
+| 9   | Foram definidas as usabilidades em 6 metas?                               |   não     | utilizei as 5 metas que são abordadas no livro                                                                                               |
+| 10  | As metas são representadas como "guias de estilos"?                       |   sim     | -                                                                                                 |
 
 Fonte: **Geovanna Maciel**, 2023.
 

@@ -100,6 +100,17 @@ nav:
       - Metas de Usabilidade: analisedeRequsitos/metas_de_usabilidade.md
       - Guia de estilo: analisedeRequsitos/guiaDeEstilo.md
       - Caracteristicas Gerais: analisedeRequsitos/caracteristicas.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nivel 1:
+      - Análise de Tarefas:
+        - Planejamento da Avaliação da Análise de Tarefas: designAvaliacaoDesenvolvimento/nivel01/analisedeTarefas/planejamentoAvaliacao.md
+        - Planejamento do Relato dos Resultados da Avaliação: designAvaliacaoDesenvolvimento/nivel01/analisedeTarefas/planejamentoRelatoResultadosAvaliacao.md
+        - Relato do Resultado: designAvaliacaoDesenvolvimento/nivel01/analisedeTarefas/relatoResultado.md
+      - Storyboard:
+        - Planejamento da Avaliação do Storyboard: designAvaliacaoDesenvolvimento/nivel01/storyboard/planejamentoAvaliacao.md
+        - Planejamento do Relato dos Resultados: designAvaliacaoDesenvolvimento/nivel01/storyboard/planejamentoRelatoResultadosAvaliacao.md
+        - Relato do Resultado: designAvaliacaoDesenvolvimento/nivel01/storyboard/relatoResultado.md
+        - Storyboards: designAvaliacaoDesenvolvimento/nivel01/storyboard/storyboards.md
       
 
 extra:
