@@ -64,7 +64,7 @@ nav:
               - Personas: verificacoes/grupo07/entrega02/personas.md
               - Aspectos Éticos: verificacoes/grupo07/entrega02/aspectosEticos.md
               - Cenários: verificacoes/grupo07/entrega02/cenarios.md
-              - Perfil do Usuário: verificacoes/grupo07/entrega02/perfildeUsuarios.md
+              - Perfil do Usuário: verificacoes/grupo07/entrega02/perfil_de_usuarios.md
               - Analise de tarefas: verificacoes/grupo07/entrega02/analisedeTarefas.md
           - Entrega 03:
               - Planejamento de verificação: verificacoes/grupo07/entrega03/planejamentoVerificacaoEntrega3.md
@@ -74,45 +74,54 @@ nav:
               - Caracteristicas Gerais: verificacoes/grupo07/entrega03/caracteristicasGerais.md
       - Verificação do Grupo 8:
           - Entrega 01:
-              - Inspeção: verificacoes/grupo08/entrega01/verificacaoGrupo08.md
+              - Inspeção: verificacoes/grupo08/entrega01/verificacao_grupo_08.md
               - Cronograma: verificacoes/grupo08/entrega01/cronograma.md
               - Ferramentas: verificacoes/grupo08/entrega01/ferramentas.md
-              - Processo de Design: verificacoes/grupo08/entrega01/processodeDesign.md
-              - Site Escolhido: verificacoes/grupo08/entrega01/siteEscolhido.md
+              - Processo de Design: verificacoes/grupo08/entrega01/processo_de_design.md
+              - Site Escolhido: verificacoes/grupo08/entrega01/site_escolhido.md
           - Entrega 02:
-              - Planejamento de Verificação: verificacoes/grupo08/entrega02/planejamentodeVerificacao.md
+              - Planejamento de Verificação: verificacoes/grupo08/entrega02/planejamento_de_verificacao.md
               - Personas: verificacoes/grupo08/entrega02/personas.md
-              - Aspectos Éticos: verificacoes/grupo08/entrega02/aspectosEticos.md
+              - Aspectos Éticos: verificacoes/grupo08/entrega02/aspectos_eticos.md
               - Cenários: verificacoes/grupo08/entrega02/cenarios.md
-              - Perfil do Usuário: verificacoes/grupo08/entrega02/perfildeUsuario.md
-              - Analise de tarefas: verificacoes/grupo08/entrega02/analisedeTarefas.md
-          - Entrega 03: verificacoes/grupo08/entrega03/verificacaoEntrega03.md
-          
+              - Perfil do Usuário: verificacoes/grupo08/entrega02/perfil_de_usuario.md
+              - Analise de tarefas: verificacoes/grupo08/entrega02/analise_de_tarefas.md
+          - Entrega 03: verificacoes\grupo08\entrega03\verificacao_entrega_03.md
+          - Entrega 04:
+              - Planejamento de Verificação: verificacoes/grupo08/entrega04/planejamento_verificacao_entrega_04.md
+              - Analise de Tarefas:
+                  - Planejamento da Avaliação da Análise de Tarefas: verificacoes\grupo08\entrega04\planejamento_avaliacao_analise_tarefas.md
+                  - Planejamento do Relato dos Resultados da Avaliação: verificacoes\grupo08\entrega04\planejamento_relato_resultados_avaliacao_analise_tarefas.md
+              - Storyboard:
+                  - Planejamento da Avaliação do Storyboard: verificacoes\grupo08\entrega04\planejamento_avaliacao_storyboard.md
+                  - Planejamento do Relato dos Resultados: verificacoes\grupo08\entrega04\planejamento_relato_resultados_avaliacao_storyboard.md
   - Análise de Requisitos:
-      - Aspectos Éticos: analisedeRequsitos/aspectosEticos.md
-      - Perfíl de Usuario: analisedeRequsitos/perfildeUsuario.md
-      - Personas: analisedeRequsitos/personas.md
-      - Cenários: analisedeRequsitos/cenarios.md
+      - Aspectos Éticos: analise_de_requsitos/aspectos_eticos.md
+      - Perfíl de Usuario: analise_de_requsitos/perfil_de_usuario.md
+      - Personas: analise_de_requsitos/personas.md
+      - Cenários: analise_de_requsitos/cenarios.md
       - Analise de Tarefas:
-          - GOMS: analisedeRequsitos/analise_tarefas/goms.md
-      - Termo de Consentimento: analisedeRequsitos/termodeConsentimento.md
-      - Principios Gerais: analisedeRequsitos/principiosGerais.md
-      - Metas de Usabilidade: analisedeRequsitos/metas_de_usabilidade.md
-      - Guia de estilo: analisedeRequsitos/guiaDeEstilo.md
-      - Caracteristicas Gerais: analisedeRequsitos/caracteristicas.md
+          - GOMS: analise_de_requsitos/analise_tarefas/goms.md
+      - Termo de Consentimento: analise_de_requsitos/termo_de_consentimento.md
+      - Principios Gerais: analise_de_requsitos/principios_gerais.md
+      - Metas de Usabilidade: analise_de_requsitos/metas_de_usabilidade.md
+      - Guia de estilo: analise_de_requsitos/guia_de_estilo.md
+      - Caracteristicas Gerais: analise_de_requsitos/caracteristicas.md
   - Design, Avaliação e Desenvolvimento:
-    - Nivel 1:
-      - Análise de Tarefas:
-        - Planejamento da Avaliação da Análise de Tarefas: designAvaliacaoDesenvolvimento/nivel01/analisedeTarefas/planejamentoAvaliacao.md
-        - Planejamento do Relato dos Resultados da Avaliação: designAvaliacaoDesenvolvimento/nivel01/analisedeTarefas/planejamentoRelatoResultadosAvaliacao.md
-        - Relato do Resultado: designAvaliacaoDesenvolvimento/nivel01/analisedeTarefas/relatoResultado.md
-      - Storyboard:
-        - Planejamento da Avaliação do Storyboard: designAvaliacaoDesenvolvimento/nivel01/storyboard/planejamentoAvaliacao.md
-        - Planejamento do Relato dos Resultados: designAvaliacaoDesenvolvimento/nivel01/storyboard/planejamentoRelatoResultadosAvaliacao.md
-        - Relato do Resultado: designAvaliacaoDesenvolvimento/nivel01/storyboard/relatoResultado.md
-        - Storyboards: designAvaliacaoDesenvolvimento/nivel01/storyboard/storyboards.md
-      
-
+      - Nivel 1:
+          - Análise de Tarefas:
+              - Planejamento da Avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel01/analise_de_tarefas/planejamento_avaliacao.md
+              - Planejamento do Relato dos Resultados da Avaliação: design_avaliacao_desenvolvimento/nivel01/analise_de_tarefas/planejamento_relato_resultados_avaliacao.md
+              - Relato do Resultado: design_avaliacao_desenvolvimento/nivel01/analise_de_tarefas/relato_resultado.md
+          - Storyboard:
+              - Planejamento da Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel01/storyboard/planejamento_avaliacao.md
+              - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento/nivel01/storyboard/planejamento_relato_resultados_avaliacao.md
+              - Relato do Resultado: design_avaliacao_desenvolvimento/nivel01/storyboard/relato_resultado.md
+              - Storyboards: design_avaliacao_desenvolvimento\nivel01\storyboard\storyboards.md
+  - Apresentações:
+      - Entrega 1: apresentacoes/entrega1.md
+      - Entrega 2: apresentacoes/entrega2.md
+      - Entrega 3: apresentacoes/entrega3.md
 extra:
   version:
     provider:
