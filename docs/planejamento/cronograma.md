@@ -168,11 +168,14 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da Entrega 4
 
 | Atividade                                                                | Realização                    | Responsáveis                            | Revisão                       | Revisores                               |
 | ------------------------------------------------------------------------ | ----------------------------- | --------------------------------------- | ----------------------------- | --------------------------------------- |
-| Planejamento da Avaliação do Storyboard                                  | Início: 03/12<br />Fim: 07/12 | A definir                               | Início: 07/12<br />Fim: 09/12 | A definir                               |
-| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: 03/12<br />Fim: 07/12 | A definir                               | Início: 07/12<br />Fim: 09/12 | A definir                               |
-| Planejamento da Avaliação da Análise de Tarefas                          | Início: 03/12<br />Fim: 07/12 | A definir                               | Início: 07/12<br />Fim: 09/12 | A definir                               |
-| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: 03/12<br />Fim: 07/12 | A definir                               | Início: 07/12<br />Fim: 09/12 | A definir                               |
-| Gravar vídeo da apresentação                                             | Início: 09/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 09/12<br />Fim: 09/12 | Mateus                                  |
+| Realizar Storyboards                                                     | Início: 05/12<br />Fim: 08/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 08/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Planejamento da Avaliação do Storyboard                                  | Início: 05/12<br />Fim: 08/12 | Lucena                                  | Início: 08/12<br />Fim: 09/12 | Mateus                                  |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: 05/12<br />Fim: 08/12 | Fernandes                               | Início: 08/12<br />Fim: 09/12 | Felipe                                  |
+| Planejamento da Avaliação da Análise de Tarefas                          | Início: 05/12<br />Fim: 08/12 | Mateus                                  | Início: 08/12<br />Fim: 09/12 | Fernandes                               |
+| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: 05/12<br />Fim: 08/12 | Felipe                                  | Início: 08/12<br />Fim: 09/12 | Lucena                                  |
+| Verificação dos Artefatos                                                | Início: 09/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 09/12<br />Fim: 10/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Gravar vídeo da apresentação                                             | Início: 09/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 09/12<br />Fim: 10/12 | Mateus                                  |
+| Verificação Grupo +1                                                     | Início: 09/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 09/12<br />Fim: 10/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
 | Correção pós apresentação                                                | Início: 12/12<br />Fim: 13/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 12/12<br />Fim: 13/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
@@ -181,14 +184,17 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da Entrega 
 
 **Tabela 8**
 
-| Atividade                                                                | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ------------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Planejamento da Avaliação do Storyboard                                  | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Planejamento da Avaliação da Análise de Tarefas                          | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                                | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                                                | Realização                    | Responsáveis                            | Revisão                       | Revisores                               |
+| ------------------------------------------------------------------------ | ----------------------------- | --------------------------------------- | ----------------------------- | --------------------------------------- |
+| Realizar Storyboards                                                     | Início: 05/12<br />Fim: 08/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 08/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Planejamento da Avaliação do Storyboard                                  | Início: 05/12<br />Fim: 08/12 | A definir                               | Início: 08/12<br />Fim: 09/12 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: 05/12<br />Fim: 08/12 | A definir                               | Início: 08/12<br />Fim: 09/12 | A definir                               |
+| Planejamento da Avaliação da Análise de Tarefas                          | Início: 05/12<br />Fim: 08/12 | A definir                               | Início: 08/12<br />Fim: 09/12 | A definir                               |
+| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: 05/12<br />Fim: 08/12 | A definir                               | Início: 08/12<br />Fim: 09/12 | A definir                               |
+| Verificação dos Artefatos                                                | Início: 09/12<br />Fim: 09/12 | A definir                               | Início: 09/12<br />Fim: 10/12 | A definir                               |
+| Gravar vídeo da apresentação                                             | Início: 09/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 09/12<br />Fim: 10/12 | A definir                               |
+| Verificação Grupo +1                                                     | Início: 09/12<br />Fim: 09/12 | A definir                               | Início: 09/12<br />Fim: 10/12 | A definir                               |
+| Correção pós apresentação                                                | Início: 12/12<br />Fim: 13/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 12/12<br />Fim: 13/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
@@ -327,3 +333,4 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da Entrega
 | 12/11/2024 |        12/11/2024        |  1.1   | Atualização do cronograma |  Mateus   | Fernandes |
 | 24/11/2024 |        25/11/2024        |  1.2   | Atualização pós entrega 1 |  Mateus   | Fernandes |
 | 26/11/2024 |        27/11/2024        |  1.3   | Finalização das correções |  Mateus   | Fernandes |
+| 05/12/2024 |        09/12/2024        |  1.4   |   Atualização entrega 4   |  Mateus   | Fernandes |
