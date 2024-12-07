@@ -17,11 +17,18 @@ O storyboard é um exemplo de protótipo de baixa fidelidade, muito útil devido
 
 Na figura 1, apresenta-se um storyboard no qual o usuário percebe a perda do cartão, acessa o site, preenche o formulário, realiza o pagamento da taxa e finaliza a solicitação, aguardando o prazo informado.
 
-Figura 1 - Storyboard solicitação 2ª via
+<center>
 
-![Storyboard solicitação segunda via](../../../assets/Storyboard2via.png)
+**Figura 1** - Storyboard solicitação 2ª via
 
-Fonte: Breno Fernandes (2024)
+
+![Figura 1 - Storyboard solicitação segunda via](../../../assets/Storyboard2via.png)<figcaption>Fonte: Breno Fernandes (2024)
+
+
+</center>
+
+
+
 
 
 
