@@ -103,7 +103,7 @@ O objetivo principal dessa atividade é validar o artefato com o auxílio de usu
 
 A Tabela 3 apresenta um cronograma sugerido para o reprojeto, com início planejado para um dia após a entrevista. O horário é flexível e não precisa ser seguido rigorosamente, permitindo ajustes conforme as necessidades da equipe.
 
-### Tabela 3 - Cronograma da Entrevista  
+### Tabela 3 - Cronograma do Reprojeto  
 
 | **Executador**        | **Horário de Início**  | **Horário de Fim** | **Data**     | 
 |-----------------------|------------------------|--------------------|--------------|
