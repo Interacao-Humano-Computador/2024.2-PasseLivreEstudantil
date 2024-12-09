@@ -34,10 +34,10 @@ Cada entrevistador deve incluir uma tabela específica contendo as entrevistas r
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início**  | **Horário de Fim** | **Data**     | **Local**                   |
 |-----------------------|---------------------|------------------------|--------------------|--------------|-----------------------------|
-| Breno Lucena          | A definir           | A definir              | A definir          |   A definir  | A definir                   |
-| Breno Soares          | Maria Clara         | 16:00                  | 16:30              |   13/12/2024 | Teans                       |
-| Felipe Verrissimo     | A definir           | A definir              | A definir          |   A definir  | A definir                   |
-| Mateus Vieira         | A definir           | A definir              | A definir          |   A definir  | A definir                   |
+| Breno Lucena| A definir | A definir  | A definir  |   A definir  | A definir   |
+| Breno Soares  | Maria Clara   | 16:00| 16:30 |   13/12/2024 | Teans |
+| Felipe Verrissimo| A definir    | A definir  | A definir |   A definir  | A definir  |
+| Mateus Vieira|Yasmim Oliveira Rosa| 16:00 | 16:30|  13/12/2024  | Teams  |
 
 **Fonte:** Breno Lucena & Breno Fernandes
 
