@@ -35,17 +35,17 @@ Cada entrevistador deve incluir uma tabela específica contendo as entrevistas r
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início**  | **Horário de Fim** | **Data**     | **Local**                   |
 |-----------------------|---------------------|------------------------|--------------------|--------------|-----------------------------|
 | Breno Lucena          | A definir           | A definir              | A definir          |   A definir  | A definir                   |
-| Breno Soares          | A definir           | A definir              | A definir          |   A definir  | A definir                   |
+| Breno Soares          | Maria Clara         | 16:00                  | 16:30              |   13/12/2024 | Teans                       |
 | Felipe Verrissimo     | A definir           | A definir              | A definir          |   A definir  | A definir                   |
 | Mateus Vieira         | A definir           | A definir              | A definir          |   A definir  | A definir                   |
 
-**Fonte:** Breno Lucena
+**Fonte:** Breno Lucena & Breno Fernandes
 
 
 ### Seleção dos Participantes
 Após preencher o cronograma, é essencial justificar a escolha dos entrevistados, verificando se eles se encaixam no perfil de usuário definido no projeto. Os participantes devem apresentar características similares às personas desenvolvidas, já que estas representam o público-alvo do Passe livre. Dessa forma, é possível captar com maior precisão os desejos, necessidades e expectativas dos usuários.
 
-Os participantes selecionados, conforme explicitado na Tabela 1, têm idades entre 16 e 67  anos e atendem ao perfil de usuário estabelecido. Esse aspecto deve ser destacado no relato dos resultados para reforçar a relevância da seleção.
+Os participantes selecionados, conforme explicitado na Tabela 1, têm idades entre 16 e 60  anos e atendem ao perfil de usuário estabelecido. Esse aspecto deve ser destacado no relato dos resultados para reforçar a relevância da seleção.
 
 ### Problemas e Dificuldades Encontradas
 Nesta seção, o entrevistador deve listar, de forma detalhada e objetiva, os problemas e dificuldades específicos enfrentados pelo usuário durante a sessão de entrevista. Cada obstáculo, erro, falha ou desafio observado na interação com o sistema ou produto avaliado deve ser registrado com clareza, garantindo que os pontos críticos sejam identificados e analisados.
@@ -92,7 +92,11 @@ A apresentação dos dados pode ser realizada em formato de texto ou por meio de
 | 5      | A motivação do usuário para utilizar a aplicação do Passe Livre fica clara no storyboard?                        | ( ) SIM ( ) NÃO |                                  |
 | 6      | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | ( ) SIM ( ) NÃO |                                  | 
 
-**Fonte:** Breno Lucena
+**Fonte:** Breno Lucena & Breno Fernandes
+
+### Questões que motivaram o estudo
+
+O objetivo desta entrevista é validar o storyboard desenvolvido para o projeto do Passe Livre Estudantil, verificando sua aderência às necessidades dos usuários e a clareza da narrativa. Os participantes responderão a perguntas específicas sobre o storyboard apresentado, contribuindo para refinamentos e ajustes necessários.
 
 ### Planejamento de Reprojeto
 O objetivo principal dessa atividade é validar o artefato com o auxílio de usuários reais. Assim, as mudanças sugeridas e os problemas identificados durante a análise devem ser considerados para o desenvolvimento de um reprojeto. No entanto, é fundamental preservar a essência do projeto original, implementando apenas as alterações realmente necessárias.
@@ -101,14 +105,14 @@ A Tabela 3 apresenta um cronograma sugerido para o reprojeto, com início planej
 
 ### Tabela 3 - Cronograma da Entrevista  
 
-| **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início**  | **Horário de Fim** | **Data**     | **Local**                   |
-|-----------------------|---------------------|------------------------|--------------------|--------------|-----------------------------|
-| Breno Lucena          | A definir           | A definir              | A definir          |   A definir  | A definir                   |
-| Breno Soares          | A definir           | A definir              | A definir          |   A definir  | A definir                   |
-| Felipe Verrissimo     | A definir           | A definir              | A definir          |   A definir  | A definir                   |
-| Mateus Vieira         | A definir           | A definir              | A definir          |   A definir  | A definir                   |
+| **Executador**        | **Horário de Início**  | **Horário de Fim** | **Data**     | 
+|-----------------------|------------------------|--------------------|--------------|
+| Breno Lucena          | 16:00                  | 18:00              |  15/12       | 
+| Breno Soares          | 16:00                  | 18:00              |  15/12       | 
+| Felipe Verrissimo     | 16:00                  | 18:00              |  15/12       | 
+| Mateus Vieira         | 16:00                  | 18:00              |  15/12       | 
 
-**Fonte:** Breno Lucena
+**Fonte:** Breno Lucena & Breno Fernandes
 
 ## Bibliografia
 
@@ -118,4 +122,4 @@ BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: E
 
 |    Data    | Data Prevista de Revisão | Versão |     Descrição     |                   Autor                    | Revisor |
 | :--------: | :----------------------: | :----: | :---------------: | :----------------------------------------: | :-----: |
-| 08/12/2024 |        09/12/2024        |  1.0   | Criação da página | [Breno Lucena](https://github.com/BrenoLUCO)|  Breno Soares       |
+| 06/12/2024 |        07/12/2024        |  1.0   | Criação da página | [Breno Lucena](https://github.com/BrenoLUCO) [Breno Fernandes](https://github.com/Brenofrds)  |  Mateus |

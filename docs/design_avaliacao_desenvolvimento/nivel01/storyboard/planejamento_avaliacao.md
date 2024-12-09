@@ -80,12 +80,12 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início**  | **Horário de Fim** | **Data**     | **Local**                   |
 |-----------------------|---------------------|------------------------|--------------------|--------------|-----------------------------|
 | Breno Lucena          | A definir           | A definir              | A definir          |   A definir  | A definir                   |
-| Breno Soares          | A definir           | A definir              | A definir          |   A definir  | A definir                   |
+| Breno Soares          | Maria Clara         | 16:00                  | 16:30              |   13/12/2024 | Teans                       |
 | Felipe Verrissimo     | A definir           | A definir              | A definir          |   A definir  | A definir                   |
 | Mateus Vieira         | A definir           | A definir              | A definir          |   A definir  | A definir                   |
 
 
-**Fonte:** Breno Lucena
+**Fonte:** Breno Lucena & Breno Soares
 
 ### Roteiro de Perguntas  
 
@@ -102,7 +102,7 @@ Durante a entrevista, serão apresentadas capturas de tela para que o usuário v
 | 5      | A motivação do usuário para utilizar a aplicação do Passe Livre fica clara no storyboard?                        | ( ) SIM ( ) NÃO |
 | 6      | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?                  | ( ) SIM ( ) NÃO |
 
-**Fonte:** Breno Lucena
+**Fonte:** Breno Lucena & Breno Fernandes
 
 ### Execução do Roteiro
 O entrevistador deve incentivar o usuário a expressar suas ideias, seja de forma verbal ou por meio de representações ilustrativas, especialmente nos casos em que houver discordância com o Storyboard proposto. Todas as sugestões ou alterações mencionadas pelo usuário devem ser registradas pelo entrevistador. Posteriormente, essas propostas serão analisadas em conjunto e validadas com o usuário ao final da atividade.
@@ -115,7 +115,8 @@ As questões éticas consideradas nesta avaliação incluem a utilização de um
 - Beneficência: assegurar que os resultados do estudo tragam benefícios aos participantes e à sociedade.
 - Não-maleficência: evitar qualquer tipo de dano ou prejuízo aos envolvidos.
 - Justiça e equidade: promover um tratamento justo e igualitário para todos os participantes.
-- Esses aspectos éticos foram definidos pelo grupo no contexto da disciplina e visam assegurar a integridade e a ética durante a realização da avaliação.
+
+Esses aspectos éticos foram definidos pelo grupo no contexto da disciplina e visam assegurar a integridade e a ética durante a realização da avaliação.
 
 ### E - Avaliar, Interpretar e Apresentar os Dados
 Após a conclusão da avaliação, os dados coletados serão documentados e analisados, considerando o contexto em que foram produzidos. O objetivo é determinar sua confiabilidade e verificar se podem ser generalizados para representar a população de usuários do site.
@@ -134,10 +135,12 @@ Após essa análise, os dados serão apresentados ao time de desenvolvimento, bu
 
 O objetivo do teste piloto é avaliar o planejamento da avaliação e verificar se ele gera os dados necessários para responder às questões e objetivos do estudo. O avaliador deve conduzir o teste piloto de forma similar a uma sessão normal de avaliação, permitindo assim a verificação da clareza e objetividade da linguagem utilizada nas explicações e nos materiais fornecidos. Além disso, é importante confirmar se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
 
-Dito isso, a execução do teste-piloto será feito no dia **A DEFINIR**  às **A DEFINIR** e com a presença dos integrantes **Breno Lucena** e **Breno Soares**.
+Dito isso, a execução do teste-piloto será feito no dia 09/12/2024  às 18:00 e com a presença dos integrantes **Breno Lucena** e **Breno Soares**.
 
 ### Resultado do Teste Piloto
-A seguir, está o vídeo do teste piloto realizado conforme o cronograma mencionado anteriormente, no qual **Breno Lucena** atuou como usuário e **Breno Soares** como entrevistador. Durante o teste, foram apresentados o termo de consentimento, o questionário com as perguntas a serem feitas, os storyboards e os cenários nos quais os storyboards foram baseados.
+A seguir, está o vídeo do teste piloto realizado conforme o cronograma mencionado anteriormente, no qual **Breno Soares** atuou como usuário e **Breno Lucena** como entrevistador. Durante o teste, foram apresentados o termo de consentimento, o questionário com as perguntas a serem feitas, os storyboards e os cenários nos quais os storyboards foram baseados.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d7wOOCrPx4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- ## Referências Bibliográficas
 Usar apenas se houver alguma referência bibliográfica
@@ -145,11 +148,10 @@ Usar apenas se houver alguma referência bibliográfica
 
 ## Bibliografia
 
-<!-- livro utilizado pelo professor na disciplina. -->
-<!-- > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. -->
+ BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. 
 
 ## Histórico de Versão
 
 |    Data    | Data Prevista de Revisão | Versão |     Descrição     |                   Autor                    | Revisor |
 | :--------: | :----------------------: | :----: | :---------------: | :----------------------------------------: | :-----: |
-| 06/12/2024 |        07/12/2024        |  1.0   | Criação da página | [Mateus Vieira](https://github.com/matix0) |         |
+| 06/12/2024 |        07/12/2024        |  1.0   | Criação da página | [Breno Lucena](https://github.com/BrenoLUCO) [Breno Fernandes](https://github.com/Brenofrds)  |  Mateus |
