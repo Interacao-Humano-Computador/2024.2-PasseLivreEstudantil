@@ -28,6 +28,7 @@ Na Figura 2, apresenta-se um storyboard no qual o usuário percebe a necessidade
 
 **Figura 2**  
 
+
 ![Figura 2 - Storyboard Retirada do Cartão](../../../assets/storyboar-breno.png)<figcaption>Fonte: Breno Lucena (2024)
 
 
