@@ -77,14 +77,14 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 
 ### Tabela 2 - Cronograma da Entrevista
 
-| **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**  | **Local** |
-| --------------------- | ------------------- | --------------------- | ------------------ | --------- | --------- |
-| Breno Lucena          | A definir           | A definir             | A definir          | A definir | A definir |
-| Breno Soares          | A definir           | A definir             | A definir          | A definir | A definir |
-| Felipe Verrissimo     | A definir           | A definir             | A definir          | A definir | A definir |
-| Mateus Vieira         | A definir           | A definir             | A definir          | A definir | A definir |
+| **Entrevistador(es)** | **Entrevistado(s)**  | **Horário de Início** | **Horário de Fim** | **Data**   | **Local** |
+| --------------------- | -------------------- | --------------------- | ------------------ | ---------- | --------- |
+| Breno Lucena          | Emily                | 11:00                 | 11:30              | 11/12/2024 | Teams     |
+| Breno Soares          | Maria Clara          | 16:00                 | 16:30              | 13/12/2024 | Teams     |
+| Felipe Verrissimo     | Samuel Santos        | 20:00                 | 20:30              | 11/12/2024 | Teams     |
+| Mateus Vieira         | Yasmim Oliveira Rosa | 21:00                 | 21:30              | 13/12/2024 | Teams     |
 
-**Fonte:** Breno Lucena
+**Fonte:** Breno Lucena & Breno Soares
 
 ### Roteiro de Perguntas
 
@@ -101,7 +101,7 @@ Durante a entrevista, serão apresentadas capturas de tela para que o usuário v
 | 5      | A motivação do usuário para utilizar a aplicação do Passe Livre fica clara no storyboard?       | ( ) SIM ( ) NÃO |
 | 6      | Você considera que o ator principal completou seu objetivo na história contada pelo storyboard? | ( ) SIM ( ) NÃO |
 
-**Fonte:** Breno Lucena
+**Fonte:** Breno Lucena & Breno Fernandes
 
 ### Execução do Roteiro
 
@@ -115,7 +115,8 @@ As questões éticas consideradas nesta avaliação incluem a utilização de um
 - Beneficência: assegurar que os resultados do estudo tragam benefícios aos participantes e à sociedade.
 - Não-maleficência: evitar qualquer tipo de dano ou prejuízo aos envolvidos.
 - Justiça e equidade: promover um tratamento justo e igualitário para todos os participantes.
-- Esses aspectos éticos foram definidos pelo grupo no contexto da disciplina e visam assegurar a integridade e a ética durante a realização da avaliação.
+
+Esses aspectos éticos foram definidos pelo grupo no contexto da disciplina e visam assegurar a integridade e a ética durante a realização da avaliação.
 
 ### E - Avaliar, Interpretar e Apresentar os Dados
 
@@ -135,27 +136,24 @@ Após essa análise, os dados serão apresentados ao time de desenvolvimento, bu
 
 O objetivo do teste piloto é avaliar o planejamento da avaliação e verificar se ele gera os dados necessários para responder às questões e objetivos do estudo. O avaliador deve conduzir o teste piloto de forma similar a uma sessão normal de avaliação, permitindo assim a verificação da clareza e objetividade da linguagem utilizada nas explicações e nos materiais fornecidos. Além disso, é importante confirmar se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
 
-Dito isso, a execução do teste-piloto será feito no dia **A DEFINIR** às **A DEFINIR** e com a presença dos integrantes **Breno Lucena** e **Breno Soares**.
+Dito isso, a execução do teste-piloto será feito no dia 09/12/2024 às 18:00 e com a presença dos integrantes **Breno Lucena** e **Breno Soares**.
 
 ### Resultado do Teste Piloto
 
-A seguir, está o vídeo do teste piloto realizado conforme o cronograma mencionado anteriormente, no qual **Breno Lucena** atuou como usuário e **Breno Soares** como entrevistador. Durante o teste, foram apresentados o termo de consentimento, o questionário com as perguntas a serem feitas, os storyboards e os cenários nos quais os storyboards foram baseados.
+A seguir, está o vídeo do teste piloto realizado conforme o cronograma mencionado anteriormente, no qual **Breno Soares** atuou como usuário e **Breno Lucena** como entrevistador. Durante o teste, foram apresentados o termo de consentimento, o questionário com as perguntas a serem feitas, os storyboards e os cenários nos quais os storyboards foram baseados.
 
-[![Teste Piloto](https://img.youtube.com/vi/d7wOOCrPx4M/0.jpg)](https://youtu.be/d7wOOCrPx4M)
-
-**Fonte:** Breno Lucena e Breno Fernandes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d7wOOCrPx4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- ## Referências Bibliográficas
 Usar apenas se houver alguma referência bibliográfica
-<a id="REF1" href="#anchor_1">1. </a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. -->
+<!-- <a id="REF1" href="#anchor_1">1. </a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. --> -->
 
 ## Bibliografia
 
-<!-- livro utilizado pelo professor na disciplina. -->
-<!-- > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. -->
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versão
 
-|    Data    | Data Prevista de Revisão | Versão |     Descrição     |                   Autor                    | Revisor |
-| :--------: | :----------------------: | :----: | :---------------: | :----------------------------------------: | :-----: |
-| 06/12/2024 |        07/12/2024        |  1.0   | Criação da página | [Mateus Vieira](https://github.com/matix0) |         |
+|    Data    | Data Prevista de Revisão | Versão |     Descrição     |                                            Autor                                             | Revisor |
+| :--------: | :----------------------: | :----: | :---------------: | :------------------------------------------------------------------------------------------: | :-----: |
+| 06/12/2024 |        07/12/2024        |  1.0   | Criação da página | [Breno Lucena](https://github.com/BrenoLUCO) [Breno Fernandes](https://github.com/Brenofrds) | Mateus  |

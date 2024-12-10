@@ -144,7 +144,7 @@ Usar apenas se houver alguma referência bibliográfica
 
 ## Histórico de Versão
 
-|    Data    | Data Prevista de Revisão | Versão |       Descrição        |                   Autor                    | Revisor |
-| :--------: | :----------------------: | :----: | :--------------------: | :----------------------------------------: | :-----: |
-| 06/12/2024 |        07/12/2024        |  1.0   |   Criação da página    | [Mateus Vieira](https://github.com/matix0) |         |
-| 09/12/2024 |        09/12/2024        |  1.1   | Adição do Planejamento | [Mateus Vieira](https://github.com/matix0) |         |
+|    Data    | Data Prevista de Revisão | Versão |       Descrição        |                   Autor                    |     Revisor     |
+| :--------: | :----------------------: | :----: | :--------------------: | :----------------------------------------: | :-------------: |
+| 06/12/2024 |        07/12/2024        |  1.0   |   Criação da página    | [Mateus Vieira](https://github.com/matix0) |  Breno Lucena   |
+| 09/12/2024 |        09/12/2024        |  1.1   | Adição do Planejamento | [Mateus Vieira](https://github.com/matix0) | Breno Fernandes |
