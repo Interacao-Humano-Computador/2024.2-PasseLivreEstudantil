@@ -19,6 +19,8 @@ Na figura 1, apresenta-se um storyboard no qual o usuário percebe a perda do ca
 
 **Figura 1** - Storyboard solicitação 2ª via
 
+<center>
+
 ![Figura 1 - Storyboard solicitação segunda via](../../../assets/Storyboard1.png)<figcaption>Fonte:Mateus Vieira (2024)
 
 </center>
@@ -39,7 +41,7 @@ Na figura 2, apresenta-se um storyboard no qual o usuário percebe a perda do ca
 
 _Figura 3_
 
-![Figura 3 - Storyboard Retirada do Cartão](../../../assets/storyboardlucena.png.png)<figcaption>Fonte: Breno Lucena (2024)
+![Figura 3 - Storyboard Retirada do Cartão](../../../assets/storyboardlucena.png)<figcaption>Fonte: Breno Lucena (2024)
 
 ## Tarefa 5: Verificação de acessos em um dia específico
 

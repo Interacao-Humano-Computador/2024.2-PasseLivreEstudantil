@@ -89,14 +89,29 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 
 ##### Tabela 2 - Cronograma da Entrevista
 
-| **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**  | **Local** |
-| --------------------- | ------------------- | --------------------- | ------------------ | --------- | --------- |
-| Breno Lucena          | A definir           | A definir             | A definir          | A definir | A definir |
-| Breno Soares          | A definir           | A definir             | A definir          | A definir | A definir |
-| Felipe Verrissimo     | A definir           | A definir             | A definir          | A definir | A definir |
-| Mateus Vieira         | A definir           | A definir             | A definir          | A definir | A definir |
+| **Entrevistador(es)** | **Entrevistado(s)**  | **Horário de Início** | **Horário de Fim** | **Data**   | **Local** |
+| --------------------- | -------------------- | --------------------- | ------------------ | ---------- | --------- |
+| Breno Lucena          | Emily                | 11:00                 | 11:30              | 11/12/2024 | Teams     |
+| Breno Soares          | Maria Clara          | 16:00                 | 16:30              | 13/12/2024 | Teams     |
+| Felipe Verrissimo     | Samuel Santos        | 20:00                 | 20:30              | 11/12/2024 | Teams     |
+| Mateus Vieira         | Yasmim Oliveira Rosa | 21:00                 | 21:30              | 13/12/2024 | Teams     |
 
 **Fonte:** Breno Lucena
+
+### Roteiro de Perguntas
+
+Durante a entrevista, serão apresentadas capturas de tela para que o usuário visualize a tarefa mencionada pelo entrevistador, assim como a tabela com seu fluxo. O roteiro de perguntas, mostrado na Tabela 3, foi elaborado com base nas questões a serem respondidas na avaliação.
+
+### Tabela 3 - Roteiro de Perguntas
+
+| **ID** | **Enunciado**                                                                               | **Resposta**    |
+| ------ | ------------------------------------------------------------------------------------------- | --------------- |
+| 1      | As tarefas apresentadas estão condizente com o título?                                      | ( ) SIM ( ) NÃO |
+| 2      | O ambiente em que ocorre a tarefa é condizente com a realidade?                             | ( ) SIM ( ) NÃO |
+| 3      | A tarefa apresenta os principais aspectos da realização daquela tarefa?                     | ( ) SIM ( ) NÃO |
+| 4      | As ações realizadas no tarefa seguem uma ordem sequencial, fluida e lógica?                 | ( ) SIM ( ) NÃO |
+| 5      | A motivação do usuário para utilizar a aplicação do Passe Livre fica clara no tarefa?       | ( ) SIM ( ) NÃO |
+| 6      | Você considera que o ator principal completou seu objetivo na história contada pelo tarefa? | ( ) SIM ( ) NÃO |
 
 ### Decidir
 
@@ -126,11 +141,11 @@ Após essa análise, os dados serão apresentados ao time de desenvolvimento, bu
 
 O objetivo do teste piloto é avaliar o planejamento da avaliação e verificar se ele gera os dados necessários para responder às questões e objetivos do estudo. O avaliador deve conduzir o teste piloto de forma similar a uma sessão normal de avaliação, permitindo assim a verificação da clareza e objetividade da linguagem utilizada nas explicações e nos materiais fornecidos. Além disso, é importante confirmar se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
 
-Dito isso, a execução do teste-piloto será feito no dia **A DEFINIR** às **A DEFINIR** e com a presença dos integrantes **Breno Lucena** e **Breno Soares**.
+Dito isso, a execução do teste-piloto será feito no dia **10/12/2024** às **21:00** e com a presença dos integrantes **Mateus Vieira** e **Felipe Santos**.
 
 ### Resultado do Teste Piloto
 
-A seguir, está o vídeo do teste piloto realizado conforme o cronograma mencionado anteriormente, no qual **Breno Lucena** atuou como usuário e **Breno Soares** como entrevistador. Durante o teste, foram apresentados o termo de consentimento, o questionário com as perguntas a serem feitas, os storyboards e os cenários nos quais os storyboards foram baseados.
+A seguir, está o vídeo do teste piloto realizado conforme o cronograma mencionado anteriormente, no qual **Mateus Vieira** atuou como usuário e **Felipe Santos** como entrevistador. Durante o teste, foram apresentados o termo de consentimento, o questionário com as perguntas a serem feitas, as análises de tarefa e os cenários nos quais as análises de tarefa foram baseados.
 
 <!-- ## Referências Bibliográficas
 Usar apenas se houver alguma referência bibliográfica
