@@ -35,15 +35,21 @@ Na figura 2, apresenta-se um storyboard no qual o usuário percebe a perda do ca
 
 </center>
 
+## Tarefa 3: Retirada de cartão
+
+_Figura 3_
+
+![Figura 3 - Storyboard Retirada do Cartão](../../../assets/storyboardlucena.png.png)<figcaption>Fonte: Breno Lucena (2024)
+
 ## Tarefa 5: Verificação de acessos em um dia específico
 
-Na figura 3, apresenta-se um storyboard no qual o usuário se depara com um problema na qual ele irá precisar de informacoes detalhas acerca de suas viagens
+Na figura 4, apresenta-se um storyboard no qual o usuário se depara com um problema na qual ele irá precisar de informacoes detalhas acerca de suas viagens
 
 <center>
 
-**Figura 3** - Storyboard de acesso em um dia específico
+**Figura 4** - Storyboard de acesso em um dia específico
 
-![Figura 3 - Storyboard solicitação segunda via](../../../assets/svv.jpeg)<figcaption>Fonte: Felipe Verissimo (2024)
+![Figura 4 - Storyboard solicitação segunda via](../../../assets/svv.jpeg)<figcaption>Fonte: Felipe Verissimo (2024)
 
 </center>
 
