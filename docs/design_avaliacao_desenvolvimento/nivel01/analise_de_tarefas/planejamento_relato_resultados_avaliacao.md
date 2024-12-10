@@ -27,12 +27,12 @@ O método adotado será a observação e entrevista com usuários, conforme o cr
 
 #### Tabela 1 - Cronograma Planejado
 
-| **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início**  | **Horário de Fim** | **Data**     | **Local**                   |
-|-----------------------|---------------------|------------------------|--------------------|--------------|-----------------------------|
-| Breno Lucena          | A definir           | A definir              | A definir          |   A definir  | A definir                   |
-| Breno Soares          | A definir           | A definir              | A definir          |   A definir  | A definir                   |
-| Felipe Verrissimo     | A definir           | A definir              | A definir          |   A definir  | A definir                   |
-| Mateus Vieira         | A definir           | A definir              | A definir          |   A definir  | A definir                   |
+| **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**  | **Local** |
+| --------------------- | ------------------- | --------------------- | ------------------ | --------- | --------- |
+| Breno Lucena          | A definir           | A definir             | A definir          | A definir | A definir |
+| Breno Soares          | A definir           | A definir             | A definir          | A definir | A definir |
+| Felipe Verrissimo     | A definir           | A definir             | A definir          | A definir | A definir |
+| Mateus Vieira         | A definir           | A definir             | A definir          | A definir | A definir |
 
 **Fonte:** Breno Lucena
 
@@ -60,12 +60,12 @@ Com base nos resultados, será elaborado um plano de reprojeto, respeitando a es
 
 #### Tabela 2 - Cronograma de Reprojeto
 
-| Executor(a) do Reprojeto (participante) | Horário de Início | Horário de Fim | Data       |
-|-----------------------------------------|-------------------|----------------|------------|
-| Breno Lucena                            | 00:00            | 00:00          | 12/05/2024 |
-| Breno Soares                            | 00:00            | 00:00          | 12/05/2024 |
-| Felipe Verissimo                        | 00:00            | 00:00          | 12/05/2024 |
-| Mateus Vieira                           | 00:00            | 00:00          | 12/05/2024 |
+| Executor(a) do Reprojeto (participante) | Horário de Início | Horário de Fim | Data        |
+| --------------------------------------- | ----------------- | -------------- | ----------- |
+| Breno Lucena                            | (A definir)       | (A definir)    | (A definir) |
+| Breno Soares                            | (A definir)       | (A definir)    | (A definir) |
+| Felipe Verissimo                        | (A definir)       | (A definir)    | (A definir) |
+| Mateus Vieira                           | (A definir)       | (A definir)    | (A definir) |
 
 *Fonte: Breno Lucena*
 
@@ -75,8 +75,8 @@ Com base nos resultados, será elaborado um plano de reprojeto, respeitando a es
 
 ## Histórico de Versão
 
-|    Data    | Data Prevista de Revisão | Versão |     Descrição     |                   Autor                    | Revisor |
-| :--------: | :----------------------: | :----: | :---------------: | :----------------------------------------: | :-----: |
-| 06/12/2024 |        07/12/2024        |  1.0   | Criação da página | [Mateus Vieira](https://github.com/matix0) |         |
-| 09/12/2024 |        10/12/2024        |  2.0   | Ajustes da verificação | Felipe Verissimo                      |         |
+|    Data    | Data Prevista de Revisão | Versão |       Descrição        |                       Autor                       | Revisor |
+| :--------: | :----------------------: | :----: | :--------------------: | :-----------------------------------------------: | :-----: |
+| 06/12/2024 |        07/12/2024        |  1.0   |   Criação da página    |    [Mateus Vieira](https://github.com/matix0)     |         |
+| 09/12/2024 |        10/12/2024        |  2.0   | Ajustes da verificação | [Felipe Verissimo](https://github.com/verissimoo) |         |
  

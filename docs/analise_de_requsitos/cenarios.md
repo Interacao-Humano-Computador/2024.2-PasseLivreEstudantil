@@ -15,6 +15,9 @@ O estudante realiza o login na plataforma para verificar o status do seu cartão
 ## Cenário 4: Atualização de foto do cartão
 O estudante deseja atualizar sua foto no sistema. Após realizar o login, ele navega até a aba "Alteração de Foto". A página é carregada com um formulário simples, explicando que, para a atualização, não será necessário um novo cartão físico, a menos que o estudante opte por solicitar uma segunda via mediante pagamento de uma taxa. Ele insere suas observações no campo apropriado e anexa a nova foto. No entanto, ao tentar salvar a solicitação ele consegue finalizar o processo com sucesso.
 
+## Cenário 5: Verificação de acessos em um dia específico
+Lucas Oliveira realiza o login na plataforma e deseja verificar os acessos realizados em um dia específico. Ele precisa dessa informação para confirmar se sua entrada foi registrada corretamente. Acessando o site pelo celular, ele encontra inicialmente a aba "Minha Frequência" e clica nela, acreditando que seria o local adequado para essa consulta. No entanto, ele percebe que as informações de acessos não estão disponíveis nessa seção. Sentindo certa frustração, Lucas volta ao menu principal e localiza a aba "Meus Acessos". Ao tocar nela, ele é direcionado para a pagina correta, onde encontra um campo para selecionar as datas de início e fim. Após escolher as datas desejadas, ele aguarda alguns segundos enquanto as informações são carregadas. Quando a página é atualizada, Lucas consegue visualizar os acessos realizados, com os horários e locais de cada entrada, tudo de forma clara e organizada. Mesmo com a pequena dificuldade inicial para encontrar a aba certa, ele consegue concluir sua tarefa sem maiores problemas.
+
 
 ## Bibliografia
 
