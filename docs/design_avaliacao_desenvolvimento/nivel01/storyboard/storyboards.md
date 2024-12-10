@@ -24,6 +24,12 @@ Na figura 1, apresenta-se um storyboard no qual o usuário percebe a perda do ca
 
 ![Figura 1 - Storyboard solicitação segunda via](../../../assets/Storyboard2via.png)<figcaption>Fonte: Breno Fernandes (2024)
 
+Na Figura 2, apresenta-se um storyboard no qual o usuário percebe a necessidade de retirar o cartão, acessa o site, localiza a seção de retirada, verifica o local que seu cartão estara para a retirada.
+
+**Figura 2**  
+
+![Figura 2 - Storyboard Retirada do Cartão](../../../assets/storyboar-breno.png)<figcaption>Fonte: Breno Lucena (2024)
+
 
 </center>
 
