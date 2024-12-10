@@ -13,38 +13,39 @@ O storyboard é um exemplo de protótipo de baixa fidelidade, muito útil devido
 - A satisfação da pessoa ao completar a tarefa, no final do storyboard.
 - Os protótipos foram desenvolvidos com base nas tarefas definidas nos cenários.
 
-## Tarefa 2: Solicitação de segunda via de cartão
+## Tarefa 1: Verificação de status do cartão
 
 Na figura 1, apresenta-se um storyboard no qual o usuário percebe a perda do cartão, acessa o site, preenche o formulário, realiza o pagamento da taxa e finaliza a solicitação, aguardando o prazo informado.
 
-<center>
-
 **Figura 1** - Storyboard solicitação 2ª via
 
+![Figura 1 - Storyboard solicitação segunda via](../../../assets/Storyboard1.png)<figcaption>Fonte:Mateus Vieira (2024)
 
-![Figura 1 - Storyboard solicitação segunda via](../../../assets/Storyboard2via.png)<figcaption>Fonte: Breno Fernandes (2024)
+</center>
 
+## Tarefa 2: Solicitação de segunda via de cartão
+
+Na figura 2, apresenta-se um storyboard no qual o usuário percebe a perda do cartão, acessa o site, preenche o formulário, realiza o pagamento da taxa e finaliza a solicitação, aguardando o prazo informado.
+
+<center>
+
+**Figura 2** - Storyboard solicitação 2ª via
+
+![Figura 2 - Storyboard solicitação segunda via](../../../assets/Storyboard2via.png)<figcaption>Fonte: Breno Fernandes (2024)
 
 </center>
 
 ## Tarefa 5: Verificação de acessos em um dia específico
 
-Na figura 2, apresenta-se um storyboard no qual o usuário se depara com um problema na qual ele irá precisar de informacoes detalhas acerca de suas viagens
+Na figura 3, apresenta-se um storyboard no qual o usuário se depara com um problema na qual ele irá precisar de informacoes detalhas acerca de suas viagens
 
 <center>
 
-**Figura 2** - Storyboard de acesso em um dia específico 
+**Figura 3** - Storyboard de acesso em um dia específico
 
-
-![Figura 2 - Storyboard solicitação segunda via](../../../assets/svv.jpeg)<figcaption>Fonte: Felipe Verissimo (2024)
-
+![Figura 3 - Storyboard solicitação segunda via](../../../assets/svv.jpeg)<figcaption>Fonte: Felipe Verissimo (2024)
 
 </center>
-
-
-
-
-
 
 <!-- ## Referências Bibliográficas
 Usar apenas se houver alguma referência bibliográfica
@@ -57,7 +58,7 @@ Usar apenas se houver alguma referência bibliográfica
 
 ## Histórico de Versão
 
-|    Data    | Data Prevista de Revisão | Versão |     Descrição     |                   Autor                    | Revisor |
-| :--------: | :----------------------: | :----: | :---------------: | :----------------------------------------: | :-----: |
-| 06/12/2024 |        07/12/2024        |  1.0   | Criação da página | [Mateus Vieira](https://github.com/matix0) |     Breno Fernandes    |
-| 06/12/2024 |        08/12/2024        |  1.1   | Adicionando Storyboard 2ª via | [Breno Fernandes](https://github.com/brenofrds) |     Breno Lucena    |
+|    Data    | Data Prevista de Revisão | Versão |           Descrição           |                      Autor                      |     Revisor     |
+| :--------: | :----------------------: | :----: | :---------------------------: | :---------------------------------------------: | :-------------: |
+| 06/12/2024 |        07/12/2024        |  1.0   |       Criação da página       |   [Mateus Vieira](https://github.com/matix0)    | Breno Fernandes |
+| 06/12/2024 |        08/12/2024        |  1.1   | Adicionando Storyboard 2ª via | [Breno Fernandes](https://github.com/brenofrds) |  Breno Lucena   |
