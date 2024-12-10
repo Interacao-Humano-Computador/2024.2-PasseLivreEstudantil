@@ -2,9 +2,16 @@
 
 ## Introdução
 
+## Entregáveis
+
+## Gravação
+
+[![Entrega2](https://img.youtube.com/vi/ncItwIRez38/0.jpg)](https://youtu.be/ncItwIRez38)
+
 ## Bibliografia
 
 <!-- livro utilizado pelo professor na disciplina. -->
+
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versão
