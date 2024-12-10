@@ -62,3 +62,4 @@ Usar apenas se houver alguma referência bibliográfica
 | :--------: | :----------------------: | :----: | :---------------------------: | :---------------------------------------------: | :-------------: |
 | 06/12/2024 |        07/12/2024        |  1.0   |       Criação da página       |   [Mateus Vieira](https://github.com/matix0)    | Breno Fernandes |
 | 06/12/2024 |        08/12/2024        |  1.1   | Adicionando Storyboard 2ª via | [Breno Fernandes](https://github.com/brenofrds) |  Breno Lucena   |
+| 10/12/2024 |        10/12/2024        |  1.2   | Adicionando Storyboard Status |   [Mateus Vieira](https://github.com/matix0)    |  Breno Lucena   |
