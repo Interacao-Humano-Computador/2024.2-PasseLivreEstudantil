@@ -27,6 +27,20 @@ Na figura 1, apresenta-se um storyboard no qual o usuário percebe a perda do ca
 
 </center>
 
+## Tarefa 5: Verificação de acessos em um dia específico
+
+Na figura 2, apresenta-se um storyboard no qual o usuário se depara com um problema na qual ele irá precisar de informacoes detalhas acerca de suas viagens
+
+<center>
+
+**Figura 2** - Storyboard de acesso em um dia específico 
+
+
+![Figura 2 - Storyboard solicitação segunda via](../../../assets/svv.jpeg)<figcaption>Fonte: Felipe Verissimo (2024)
+
+
+</center>
+
 
 
 
