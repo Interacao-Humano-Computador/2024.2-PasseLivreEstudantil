@@ -2,48 +2,54 @@
 
 **Data:** 26/11/2024  
 **Horário:** 23:00  
-**Local:** Reunião online pelo teams  
+**Local:** Reunião online pelo teams
 
 ---
 
 ## 1. Checklist de Participantes
-- [X] Breno Fernandes
-- [X] Breno Lucena
-- [X] Mateus Viera
-- [X] Felipe Verissimo
-- [] Dion Vitor
+
+- [x] Breno Fernandes
+- [x] Breno Lucena
+- [x] Mateus Viera
+- [x] Felipe Verissimo
 
 ---
 
 ## 2. Discussão
-Descreva os principais pontos discutidos durante a reunião, incluindo tópicos abordados, desafios levantados e qualquer informação relevante compartilhada entre os participantes.
 
-- **Tópico 1:**Discutimos quais dos sites analisados anteriormente usaríamos no projeto.
-- **Tópico 2:** Discutimos qual metodologia iríamos usar.
+- Planejamento da execução da Entrega 4
+- Quem vai ficar responsável pela confecção de cada artefato
 
 ---
 
 ## 3. Decisões
-Liste as decisões tomadas durante a reunião, incluindo responsáveis por cada ação e prazos, se aplicável.
 
-- **Decisão 1:** Definimos que iríamos fazer um novo site para o Passe Livre do BRB Mobilidade.
-- **Decisão 2:** Definimos que iríamos usar o método ágil.
+- Todos os membros devem confeccionar um Storyboard
+- O Planejamento da Avaliação do Storyboard será realizada pelo Breno Lucena
+
+- O Planejamento do Relato dos Resultados da Avaliação do Storyboard será realizado pelo Breno Fernandes
+
+- O Planejamento da Avaliação da Análise de Tarefas será realizado pelo Mateus Vieira
+
+- O Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas pelo Felipe Verissimo
 
 ---
 
 ## 4. Link da Gravação
-https://youtu.be/EkSj-nNlqWI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ao4h1kjnobc" frameborder="0" allowfullscreen></iframe>
 
 ---
 
 ## 5. Data da Próxima Reunião
-**Data:** 19/11/2024  
-**Horário:** 17:00  
+
+**Data:** 12/12/2024  
+**Horário:** 17:00
 
 ---
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição               | Autor(es) | Revisor(es) |
-|--------|------------|-------------------------|-----------|-------------|
-|    1.0    |      11/11/2024      |            Criação da pagina             |     Breno Fernandes      |      Mateus Viera       |
+| Versão | Data       | Descrição         | Autor(es)    | Revisor(es)     |
+| ------ | ---------- | ----------------- | ------------ | --------------- |
+| 1.0    | 10/12/2024 | Criação da pagina | Mateus Viera | Breno Fernandes |

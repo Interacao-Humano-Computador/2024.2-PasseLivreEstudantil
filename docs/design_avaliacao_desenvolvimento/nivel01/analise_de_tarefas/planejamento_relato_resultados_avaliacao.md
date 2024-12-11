@@ -69,14 +69,14 @@ Será feito um resumo com os tópicos essenciais, destacando as melhorias priori
 
 Com base nos resultados, será elaborado um plano de reprojeto, respeitando a estrutura inicial do sistema e implementando apenas as mudanças necessárias. O cronograma do reprojeto é mostrado na Tabela 2.
 
-#### Tabela 2 - Cronograma de Reprojeto
+#### Tabela 2 - Cronograma do Reprojeto
 
-| Executor(a) do Reprojeto (participante) | Horário de Início | Horário de Fim | Data        |
-| --------------------------------------- | ----------------- | -------------- | ----------- |
-| Breno Lucena                            | (A definir)       | (A definir)    | (A definir) |
-| Breno Soares                            | (A definir)       | (A definir)    | (A definir) |
-| Felipe Verissimo                        | (A definir)       | (A definir)    | (A definir) |
-| Mateus Vieira                           | (A definir)       | (A definir)    | (A definir) |
+| **Executador**    | **Horário de Início** | **Horário de Fim** | **Data** |
+| ----------------- | --------------------- | ------------------ | -------- |
+| Breno Lucena      | 16:00                 | 18:00              | 15/12    |
+| Breno Soares      | 16:00                 | 18:00              | 15/12    |
+| Felipe Verrissimo | 16:00                 | 18:00              | 15/12    |
+| Mateus Vieira     | 16:00                 | 18:00              | 15/12    |
 
 _Fonte: Breno Lucena_
 
@@ -95,4 +95,4 @@ _Fonte: Breno Lucena_
 |    Data    | Data Prevista de Revisão | Versão |       Descrição        |                       Autor                       |     Revisor     |
 | :--------: | :----------------------: | :----: | :--------------------: | :-----------------------------------------------: | :-------------: |
 | 06/12/2024 |        07/12/2024        |  1.0   |   Criação da página    |    [Mateus Vieira](https://github.com/matix0)     |  Breno Lucena   |
-| 09/12/2024 |        10/12/2024        |  2.0   | Ajustes da verificação | [Felipe Verissimo](https://github.com/verissimoo) | Breno Fernandes |
+| 09/12/2024 |        10/12/2024        |  1.1   | Ajustes da verificação | [Felipe Verissimo](https://github.com/verissimoo) | Breno Fernandes |

@@ -2,11 +2,27 @@
 
 ## Introdução
 
+Essa página é referente aos artefatos referentes a Entrega 1, caso não consiga abrir o vídeo na página por favor clique em "Assistir no Youtube".
+
 ## Entregáveis
+
+[Cronograma](../../planejamento/cronograma.md)
+
+[Design](../../planejamento/design.md)
+
+[Ferramentas](../../planejamento/ferramentas.md)
+
+[Heatmap](../../planejamento/heatmap.md)
+
+[Metodologia](../../planejamento/metodologia.md)
+
+[Sites Avaliados](../../planejamento/sites_avaliados.md)
+
+[Sites Escolhidos](../../planejamento/sites_escolhidos.md)
 
 ## Gravação
 
-[![Entrega2](https://img.youtube.com/vi/ncItwIRez38/0.jpg)](https://youtu.be/ncItwIRez38)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pYS7qqoDCc0" frameborder="0" allowfullscreen></iframe>
 
 ## Bibliografia
 
