@@ -6,11 +6,11 @@ Essa página é referente aos artefatos referentes a Entrega 2, caso não consig
 
 ## Entregáveis
 
-[Perfil do usuário](../../planejamento/perfil_de_usuario.md)
+[Perfil do usuário](../../analise_de_requsitos/perfil_de_usuario.md)
 
-[Aspectos Éticos de Pesquisas Envolvendo Pessoas](../../planejamento/aspectos_eticos.md)
+[Aspectos Éticos de Pesquisas Envolvendo Pessoas](../../analise_de_requsitos/aspectos_eticos.md)
 
-[Análise de tarefas](../../planejamento/analise_tarefas.md)
+[Análise de tarefas](../../analise_de_requsitos/analise_tarefas/goms.md)
 
 ## Gravação
 

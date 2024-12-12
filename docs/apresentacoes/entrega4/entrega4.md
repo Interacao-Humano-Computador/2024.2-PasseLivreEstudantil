@@ -14,13 +14,13 @@ Essa página é referente aos artefatos referentes a Entrega 4, caso não consig
 
 ### Análise de Tarefas
 
-[Planejamento da Avaliação](../../design_avaliacao_desenvolvimento/nivel01/analise_de_tarefas/planejamento_avaliacao)
+[Planejamento da Avaliação](../../design_avaliacao_desenvolvimento/nivel01/analise_de_tarefas/planejamento_avaliacao.md)
 
 [Planejamento do Relato dos Resultados da Avaliação](../../design_avaliacao_desenvolvimento/nivel01/analise_de_tarefas/planejamento_relato_resultados_avaliacao.md)
 
 ## Gravação
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ncItwIRez38" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BDSHmSowZpc" frameborder="0" allowfullscreen></iframe>
 
 ## Bibliografia
 
