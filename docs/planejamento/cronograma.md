@@ -46,17 +46,18 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da Entrega 1
 
 **Tabela 1 - Planejamento do Projeto**
 
-| Atividade                                             | Realização | Responsáveis                            | Revisão  | Revisores                               |
-| ----------------------------------------------------- | ---------- | --------------------------------------- | -------- | --------------------------------------- |
-| Apresentação da equipe                                | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus                                  | Sprint 0 | Fernandes                               |
-| Avaliação de sites                                    | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Seleção do site para o projeto                        | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Definição das ferramentas do projeto                  | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Seleção do Processo de Design                         | Sprint 1   | Lucena                                  | Sprint 1 | Fernandes                               |
-| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus                                  | Sprint 1 | Fernandes                               |
-| Gravar vídeo da apresentação                          | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                             | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                             | Realização    | Responsáveis                            | Revisão       | Revisores                               |
+| ----------------------------------------------------- | ------------- | --------------------------------------- | ------------- | --------------------------------------- |
+| Apresentação da equipe                                | 22/10 - 25/10 | Mateus, Fernandes, Lucena, Felipe, Dion | 26/10 - 27/10 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Criação do Heatmap de disponibilidade dos integrantes | 22/10 - 25/10 | Mateus                                  | 26/10 - 27/10 | Fernandes                               |
+| Avaliação de sites                                    | 22/10 - 25/10 | Mateus, Fernandes, Lucena, Felipe, Dion | 26/10 - 27/10 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Seleção do site para o projeto                        | 05/11 - 08/11 | Mateus, Fernandes, Lucena, Felipe, Dion | 09/11 - 10/11 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Definição das ferramentas do projeto                  | 05/11 - 08/11 | Mateus, Fernandes, Lucena, Felipe, Dion | 09/11 - 10/11 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Seleção do Processo de Design                         | 05/11 - 08/11 | Lucena                                  | 09/11 - 10/11 | Fernandes                               |
+| Elaboração do cronograma detalhado das atividades     | 05/11 - 08/11 | Mateus                                  | 09/11 - 10/11 | Fernandes                               |
+| Gravar vídeo da apresentação                          | 09/11         | Mateus, Fernandes, Lucena, Felipe, Dion | 09/11 - 10/11 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Verificação Grupo +1                                  | 13/11         | Mateus, Fernandes, Lucena, Felipe, Dion | 13/11         | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                             | 14/11 - 15/11 | Mateus, Fernandes, Lucena, Felipe, Dion | 16/11         | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ### Cronograma Executado
 
@@ -64,18 +65,18 @@ Na Tabela 2, tem-se o cronograma executado para todas as atividades da Entrega 1
 
 **Tabela 2 - Planejamento do Projeto**
 
-| Atividade                                             | Realização | Responsáveis                            | Revisão  | Revisores                               |
-| ----------------------------------------------------- | ---------- | --------------------------------------- | -------- | --------------------------------------- |
-| Apresentação da equipe                                | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus                                  | Sprint 0 | Fernandes                               |
-| Avaliação de sites                                    | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Seleção do site para o projeto                        | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Definição das ferramentas do projeto                  | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Avaliação do novo site escolhido                      | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Seleção do Processo de Design                         | Sprint 1   | Lucena                                  | Sprint 1 | Fernandes, Mateus                       |
-| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus                                  | Sprint 1 | Fernandes, Lucena                       |
-| Gravar vídeo da apresentação                          | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                             | Sprint 2   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 2 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                             | Realização    | Responsáveis                            | Revisão       | Revisores                               |
+| ----------------------------------------------------- | ------------- | --------------------------------------- | ------------- | --------------------------------------- |
+| Apresentação da equipe                                | 22/10 - 25/10 | Mateus, Fernandes, Lucena, Felipe, Dion | 26/10 - 27/10 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Criação do Heatmap de disponibilidade dos integrantes | 22/10 - 25/10 | Mateus                                  | 26/10 - 27/10 | Fernandes                               |
+| Avaliação de sites                                    | 22/10 - 25/10 | Mateus, Fernandes, Lucena, Felipe, Dion | 26/10 - 27/10 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Seleção do site para o projeto                        | 05/11 - 12/11 | Mateus, Fernandes, Lucena, Felipe, Dion | 12/11         | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Definição das ferramentas do projeto                  | 05/11 - 12/11 | Mateus, Fernandes, Lucena, Felipe, Dion | 12/11         | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Seleção do Processo de Design                         | 05/11 - 12/11 | Lucena                                  | 12/11         | Fernandes                               |
+| Elaboração do cronograma detalhado das atividades     | 05/11 - 12/11 | Mateus                                  | 12/11         | Fernandes                               |
+| Gravar vídeo da apresentação                          | 12/11         | Mateus, Fernandes, Lucena, Felipe, Dion | 12/11         | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Verificação Grupo +1                                  | 13/11         | Mateus, Fernandes, Lucena, Felipe, Dion | 13/11         | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                             | 14/11 - 15/11 | Mateus, Fernandes, Lucena, Felipe, Dion | 16/11         | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
