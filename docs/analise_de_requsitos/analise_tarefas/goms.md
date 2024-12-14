@@ -16,6 +16,19 @@ GOAL 0: Fazer login na página para visualizar o status do passe livre
         OP 1.1: Identificar e ler as informações sobre o status do passe
         OP 1.2: Interpretar que o passe ainda está "em análise"
 
+### Cenário 2: Solicitação de segunda via de cartão
+
+
+GOAL 0: Fazer login na página para solicitar a segunda via do cartão
+    GOAL 1: Navegar até a aba de solicitação de segunda via
+        OP 1.1: Procurar no menu a opção correspondente à segunda via
+        OP 1.2: Pressionar o botão para acessá-la
+    GOAL 2: Preencher as informações para solicitar a segunda via
+        OP 2.1: Ler as instruções apresentadas na página
+        OP 2.2: Preencher os campos obrigatórios
+        OP 2.3: Fazer upload do comprovante de pagamento
+        OP 2.4: Fazer upload do boletim de ocorrência
+        OP 2.5: Pressionar o botão "Registrar Solicitação"
 
 
 ### Cenário 3: Consulta do status do cartão e informações de retirada

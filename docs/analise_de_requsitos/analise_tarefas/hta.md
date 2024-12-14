@@ -35,22 +35,22 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 
 | **Objetivos/Operações**             | **Problemas e Recomendações**                                                                    |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|
-| **0. Solicitar extensão de acessos** | Garantir que todos os campos sejam preenchidos corretamente e os documentos anexados.          |
-| **1. Fazer login no sistema**       | Pode haver falhas de autenticação; exibir mensagens claras de erro ao usuário.                 |
-| **1.1. Inserir login e senha**      | Certificar-se de que o campo de senha está seguro e funcional.                                 |
-| **1.2. Confirmar autenticação**     | Redirecionar o usuário corretamente para a página inicial após o login.                       |
-| **2. Acessar a aba "Extensão de Acesso"** | A aba deve ser facilmente localizável no menu.                                                 |
-| **2.1. Localizar a aba no menu principal** | Garantir que o menu seja acessível em diferentes dispositivos (computadores e celulares).      |
-| **2.2. Clicar na aba para abrir a página** | Certificar-se de que o carregamento da página seja rápido e sem erros.                       |
-| **3. Preencher o formulário de solicitação** | Validar todos os campos obrigatórios e os arquivos anexados antes do envio.                  |
-| **3.1. Ler e aceitar o Termo de Uso** | O texto do termo deve ser claro e objetivo, permitindo fácil compreensão pelo usuário.         |
-| **3.2. Selecionar o motivo da solicitação** | Listar os motivos disponíveis de forma clara e objetiva.                                      |
-| **3.3. Preencher os campos obrigatórios** | Exibir mensagens de erro em tempo real caso algum campo obrigatório não seja preenchido.      |
-| **3.4. Anexar os documentos necessários** | Garantir suporte para os formatos indicados e informar os limites de tamanho.                |
-| **3.5. Confirmar o envio do formulário** | Informar ao usuário que a solicitação foi enviada com sucesso, exibindo uma mensagem clara.  |
-| **4. Acompanhar o status da solicitação** | O status da solicitação deve ser atualizado em tempo real e exibir informações claras.        |
-| **4.1. Acessar a aba "Acompanhar Solicitações"** | Certificar-se de que a aba seja facilmente acessível pelo menu.                              |
-| **4.2. Verificar o status atual da solicitação** | Exibir os status ("Solicitado", "Em análise", "Aprovado", "Rejeitado") de forma clara.        |
+| **0. Solicitar extensão de acessos** |        |
+| **1. Fazer login no sistema**       |             |
+| **1.1. Inserir login e senha**      |             |
+| **1.2. Confirmar autenticação**     |         |
+| **2. Acessar a aba "Extensão de Acesso"** |                         |
+| **2.1. Localizar a aba no menu principal** |      |
+| **2.2. Clicar na aba para abrir a página** |          |
+| **3. Preencher o formulário de solicitação** |                 |
+| **3.1. Ler e aceitar o Termo de Uso** |          |
+| **3.2. Selecionar o motivo da solicitação** |             |
+| **3.3. Preencher os campos obrigatórios** |       |
+| **3.4. Anexar os documentos necessários** |             |
+| **3.5. Confirmar o envio do formulário** |   |
+| **4. Acompanhar o status da solicitação** |         |
+| **4.1. Acessar a aba "Acompanhar Solicitações"** |                        |
+| **4.2. Verificar o status atual da solicitação** |      |
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
 
