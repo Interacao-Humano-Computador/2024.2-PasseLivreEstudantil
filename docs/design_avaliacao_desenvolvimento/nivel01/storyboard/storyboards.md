@@ -33,7 +33,7 @@ Na figura 2, apresenta-se um storyboard no qual o usuário percebe a perda do ca
 
 **Figura 2** - Storyboard solicitação 2ª via
 
-![Figura 2 - Storyboard solicitação segunda via](../../../assets/Storyboard2via.png)<figcaption>Fonte: Breno Fernandes (2024)
+![Figura 2 - Storyboard solicitação segunda via](../../../assets/storyboardSegundaVia2.png)<figcaption>Fonte: Breno Fernandes (2024)
 
 </center>
 
