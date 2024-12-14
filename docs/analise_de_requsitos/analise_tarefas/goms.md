@@ -10,14 +10,14 @@ Escolhemos o CMN-GOMS pois o mesmo é utilizado para fornecer uma visualização
 
 ### Cenário 1: Visualização da obtenção do passe livre
 
-```
+
 GOAL 0: Fazer login na página para visualizar o status do passe livre
     GOAL 1: Verificar o status do passe livre
         OP 1.1: Identificar e ler as informações sobre o status do passe
         OP 1.2: Interpretar que o passe ainda está "em análise"
-```
 
----
+
+
 ### Cenário 3: Consulta do status do cartão e informações de retirada
 
 
@@ -42,6 +42,20 @@ GOAL 0: Fazer login na página para atualizar a foto do cartão
         OP 2.3: Fazer upload da nova foto
         OP 2.4: Confirmar a atualização da foto
 
+### Cenário 7: Solicitação de Extensão de Acesso
+
+GOAL 0: Fazer login na página para solicitar extensão de acesso  
+    GOAL 1: Navegar até a aba "Extensão de Acesso"  
+        OP 1.1: Identificar a aba no menu  
+        OP 1.2: Clicar na aba para acessá-la  
+    GOAL 2: Fazer uma nova solicitação  
+        OP 2.1: Ler e aceitar o Termo de Uso  
+        OP 2.2: Preencher o formulário com informações obrigatórias  
+        OP 2.3: Anexar os documentos necessários  
+        OP 2.4: Enviar a solicitação  
+    GOAL 3: Acompanhar o status da solicitação  
+        OP 3.1: Navegar até a aba "Acompanhar Solicitações"  
+        OP 3.2: Ler o status atual da solicitação (e.g., "Solicitado", "Em análise").  
 
 
 ## Referências Bibliográficas
