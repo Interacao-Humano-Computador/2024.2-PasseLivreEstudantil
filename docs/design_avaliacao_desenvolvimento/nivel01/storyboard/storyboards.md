@@ -33,7 +33,7 @@ Na figura 2, apresenta-se um storyboard no qual o usuário percebe a perda do ca
 
 **Figura 2** - Storyboard solicitação 2ª via
 
-![Figura 2 - Storyboard solicitação segunda via](../../../assets/Storyboard2via.png)<figcaption>Fonte: Breno Fernandes (2024)
+![Figura 2 - Storyboard solicitação segunda via](../../../assets/storyboardSegundaVia2.png)<figcaption>Fonte: Breno Fernandes (2024)
 
 </center>
 
@@ -52,6 +52,18 @@ Na figura 4, apresenta-se um storyboard no qual o usuário se depara com um prob
 **Figura 4** - Storyboard de acesso em um dia específico
 
 ![Figura 4 - Storyboard solicitação segunda via](../../../assets/svv.jpeg)<figcaption>Fonte: Felipe Verissimo (2024)
+
+</center>
+
+## Tarefa 7: Solicitação de Extensão de acessos
+
+Na figura __, apresenta-se um storyboard no qual o usuário percebe os acessos restantes, acessa o site, preenche o formulário, realiza o envio da Declaração da segunda Instituição de Ensino e finaliza a solicitação, aguardando o prazo informado.
+
+<center>
+
+**Figura 4** - Storyboard de solicitação de extensão de acessos
+
+![Figura 4 - Storyboard solicitação de extensão de acessos](../../../assets/storyboardExtensãoAcessos.png)<figcaption>Fonte: Breno Fernandes (2024)
 
 </center>
 

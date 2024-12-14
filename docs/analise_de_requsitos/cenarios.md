@@ -18,6 +18,11 @@ O estudante deseja atualizar sua foto no sistema. Após realizar o login, ele na
 ## Cenário 5: Verificação de acessos em um dia específico
 Lucas Oliveira realiza o login na plataforma e deseja verificar os acessos realizados em um dia específico. Ele precisa dessa informação para confirmar se sua entrada foi registrada corretamente. Acessando o site pelo celular, ele encontra inicialmente a aba "Minha Frequência" e clica nela, acreditando que seria o local adequado para essa consulta. No entanto, ele percebe que as informações de acessos não estão disponíveis nessa seção. Sentindo certa frustração, Lucas volta ao menu principal e localiza a aba "Meus Acessos". Ao tocar nela, ele é direcionado para a pagina correta, onde encontra um campo para selecionar as datas de início e fim. Após escolher as datas desejadas, ele aguarda alguns segundos enquanto as informações são carregadas. Quando a página é atualizada, Lucas consegue visualizar os acessos realizados, com os horários e locais de cada entrada, tudo de forma clara e organizada. Mesmo com a pequena dificuldade inicial para encontrar a aba certa, ele consegue concluir sua tarefa sem maiores problemas.
 
+## Cenário 7: Solicitação de extensão de acesso
+
+Lucas Oliveira realiza o login na plataforma para solicitar a extensão de acessos no Passe Livre Estudantil devido à matrícula em mais de uma Instituição de Ensino. Ele acessa a aba "Extensão de Acesso" e clica em "Nova Solicitação". Na nova página, ele lê e aceita o Termo de Uso, que informa o prazo de análise e os documentos necessários. Em seguida, preenche o formulário indicando o motivo da solicitação, insere seus dados, e anexa a declaração da segunda Instituição de Ensino. Após revisar as informações, clica em "Enviar". Depois, Lucas acessa a aba "Acompanhar Solicitações" para verificar que o status da solicitação está como "Solicitado" e aguarda o retorno.
+
+
 
 ## Bibliografia
 
