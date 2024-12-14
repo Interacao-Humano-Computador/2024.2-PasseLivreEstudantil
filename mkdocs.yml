@@ -36,7 +36,7 @@ theme:
 
 # Configura a navegação do site
 nav:
-  - Introducao: index.md
+  - Introdução: index.md
   - Atas:
       - Ata 1: atas/ata-1.md
       - Ata 2: atas/ata-2.md
@@ -50,7 +50,7 @@ nav:
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/sites_escolhidos.md
       - Indice: planejamento/index.md
-  - Verificacao:
+  - Verificação:
       - Verificacao do Grupo 7:
           - Entrega 01:
               - Inspecao: verificacoes/grupo07/entrega01/verificacaoGrupo07.md
@@ -106,7 +106,7 @@ nav:
                   - Planejamento da Avaliacao do Storyboard: verificacoes/grupo08/entrega04/planejamento_avaliacao_storyboard.md
                   - Planejamento do Relato dos Resultados: verificacoes/grupo08/entrega04/planejamento_relato_resultados_avaliacao_storyboard.md
               - Storyboards: verificacoes/grupo08/entrega04/storyboards.md
-  - Analise de Requisitos:
+  - Análise de Requisitos:
       - Aspectos Eticos: analise_de_requsitos/aspectos_eticos.md
       - Perfil de Usuario: analise_de_requsitos/perfil_de_usuario.md
       - Personas: analise_de_requsitos/personas.md
@@ -129,7 +129,7 @@ nav:
               - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento/nivel01/storyboard/planejamento_relato_resultados_avaliacao.md
               - Relato do Resultado: design_avaliacao_desenvolvimento/nivel01/storyboard/relato_resultado.md
               - Storyboards: design_avaliacao_desenvolvimento/nivel01/storyboard/storyboards.md
-  - Apresentacoes:
+  - Apresentações:
       - Entrega 1: apresentacoes/entrega1/entrega1.md
       - Entrega 2: apresentacoes/entrega2/entrega2.md
       - Entrega 3: apresentacoes/entrega3/entrega3.md

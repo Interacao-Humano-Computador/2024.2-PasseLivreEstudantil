@@ -16,7 +16,7 @@ Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo.
 
 ## Gravação
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ncItwIRez38" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2f10_CWUsm4" frameborder="0" allowfullscreen></iframe>
 
 ## Bibliografia
 
