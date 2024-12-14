@@ -8,13 +8,13 @@
 
 ## Entrega 1
 
-**Tabela 1 - Fase atual do projeto e data de entrega dos artefatos**
+_Tabela 1 - Fase atual do projeto e data de entrega dos artefatos_
 
 |          Fase           | Data de Entrega |
 | :---------------------: | :-------------: |
 | Planejamento do Projeto |      12/11      |
 
-**Tabela 2 - Cronograma de Planejamento da Entrega 1**
+_Tabela 2 - Cronograma de Planejamento da Entrega 1_
 
 | Atividade                                             | Realização                                 | Responsável(eis)                        | Revisão                                    | Revisor(es)                             |
 | ----------------------------------------------------- | ------------------------------------------ | --------------------------------------- | ------------------------------------------ | --------------------------------------- |
@@ -34,13 +34,13 @@
 
 ## Entrega 2
 
-**Tabela 3 - Fase atual do projeto no ciclo de vida de Mayhew e data de entrega dos artefatos**
+_Tabela 3 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
 |         Fase          | Data de Entrega |
 | :-------------------: | :-------------: |
 | Análise de Requisitos |      03/12      |
 
-**Tabela 4 - Cronograma de Planejamento da Entrega 2**
+_Tabela 4 - Cronograma de Planejamento da Entrega 2_
 
 | Atividade                                       | Realização                                 | Responsável(eis)                        | Revisão                                    | Revisor(es)                             |
 | ----------------------------------------------- | ------------------------------------------ | --------------------------------------- | ------------------------------------------ | --------------------------------------- |
@@ -58,13 +58,13 @@
 
 ## Entrega 3
 
-**Tabela 5 - Fase atual do projeto no ciclo de vida de Mayhew e data de entrega dos artefatos**
+_Tabela 5 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
 |         Fase          | Data de Entrega |
 | :-------------------: | :-------------: |
 | Análise de Requisitos |      03/12      |
 
-**Tabela 6 - Cronograma de Planejamento da Entrega 3**
+_Tabela 6 - Cronograma de Planejamento da Entrega 3_
 
 | Atividade                                    | Realização                                 | Responsável(eis)                  | Revisão                                    | Revisor(es)                       |
 | -------------------------------------------- | ------------------------------------------ | --------------------------------- | ------------------------------------------ | --------------------------------- |
@@ -81,13 +81,13 @@
 
 ## Entrega 4
 
-**Tabela 7 - Fase atual do projeto no ciclo de vida de Mayhew e data de entrega dos artefatos**
+_Tabela 7 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
 |                     Fase                     | Data de Entrega |
 | :------------------------------------------: | :-------------: |
 | Design, Avaliação, Desenvolvimento - Nível 1 |      10/12      |
 
-**Tabela 8 - Cronograma de Planejamento da Entrega 4**
+_Tabela 8 - Cronograma de Planejamento da Entrega 4_
 
 | Atividade                                                                | Realização                                | Responsável(eis)                  | Revisão                                   | Revisor(es)                       |
 | ------------------------------------------------------------------------ | ----------------------------------------- | --------------------------------- | ----------------------------------------- | --------------------------------- |
@@ -105,79 +105,83 @@
 
 ## Entrega 5
 
-**Tabela 9 - Fase atual do projeto no ciclo de vida de Mayhew e data de entrega dos artefatos**
+_Tabela 9 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
 |                     Fase                     | Data de Entrega |
 | :------------------------------------------: | :-------------: |
 | Design, Avaliação, Desenvolvimento - Nível 1 |      05/01      |
 
-**Tabela 10 - Cronograma de Planejamento da Entrega 5**
+_Tabela 10 - Cronograma de Planejamento da Entrega 5_
 
-| Atividade                                                                | Realização                                | Responsável(eis)                  | Revisão                        | Revisor(es)                       |
-| ------------------------------------------------------------------------ | ----------------------------------------- | --------------------------------- | ------------------------------ | --------------------------------- |
-| Relato dos Resultados da Avaliação do Storyboard                         | Início:<br /> 18/12<br />Fim: <br />21/12 | A definir                         | Início:<br /> <br />Fim:<br /> | A definir                         |
-| Relato da Avaliação da Análise de Tarefas                                | Início:<br /> 18/12<br />Fim: <br />21/12 | A definir                         | Início:<br /> <br />Fim:<br /> | A definir                         |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início:<br /> 18/12<br />Fim: <br />21/12 | A definir                         | Início:<br /> <br />Fim:<br /> | A definir                         |
-| Gravar vídeo da apresentação                                             | Início: <br /> <br />Fim: <br />          | Mateus, Fernandes, Lucena, Felipe | Início:<br /> <br />Fim:<br /> | Mateus, Fernandes, Lucena, Felipe |
-| Correção pós apresentação                                                | Início: <br /> <br />Fim: <br />          | Mateus, Fernandes, Lucena, Felipe | Início:<br /> <br />Fim:<br /> | Mateus, Fernandes, Lucena, Felipe |
+| Atividade                                                                | Realização                                | Responsável(eis)                  | Revisão                                   | Revisor(es)                       |
+| ------------------------------------------------------------------------ | ----------------------------------------- | --------------------------------- | ----------------------------------------- | --------------------------------- |
+| Relato dos Resultados da Avaliação do Storyboard                         | Início:<br /> 17/12<br />Fim:<br /> 21/12 | A definir                         | Início:<br /> 22/12<br />Fim:<br /> 23/12 | A definir                         |
+| Relato da Avaliação da Análise de Tarefas                                | Início:<br /> 17/12<br />Fim:<br /> 21/12 | A definir                         | Início:<br /> 22/12<br />Fim:<br /> 23/12 | A definir                         |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início:<br /> 17/12<br />Fim:<br /> 21/12 | A definir                         | Início:<br /> 22/12<br />Fim:<br /> 23/12 | A definir                         |
+| Verificação dos Artefatos                                                | Início:<br /> 22/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 23/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe |
+| Gravar vídeo da apresentação                                             | Início:<br /> 23/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 23/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe |
+| Correção pós apresentação                                                | Início:<br /> 07/01<br />Fim:<br /> 08/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 08/01<br />Fim:<br /> 08/01 | Mateus, Fernandes, Lucena, Felipe |
 
 ---
 
 ## Entrega 6
 
-**Tabela 11 - Fase atual do projeto no ciclo de vida de Mayhew e data de entrega dos artefatos**
+_Tabela 11 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
 |                     Fase                     | Data de Entrega |
 | :------------------------------------------: | :-------------: |
 | Design, Avaliação, Desenvolvimento - Nível 2 |      14/01      |
 
-**Tabela 12 - Cronograma de Planejamento da Entrega 1**
+_Tabela 12 - Cronograma de Planejamento da Entrega 1_
 
-| Atividade                                                                          | Realização        | Responsável(eis)                  | Revisão            | Revisor(es)                       |
-| ---------------------------------------------------------------------------------- | ----------------- | --------------------------------- | ------------------ | --------------------------------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Início:<br />Fim: | A definir                         | Início: <br />Fim: | A definir                         |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início:<br />Fim: | A definir                         | Início: <br />Fim: | A definir                         |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início:<br />Fim: | A definir                         | Início: <br />Fim: | A definir                         |
-| Gravar vídeo da apresentação                                                       | Início:<br />Fim: | Mateus, Fernandes, Lucena, Felipe | Início: <br />Fim: | Mateus, Fernandes, Lucena, Felipe |
-| Correção pós apresentação                                                          | Início:<br />Fim: | Mateus, Fernandes, Lucena, Felipe | Início: <br />Fim: | Mateus, Fernandes, Lucena, Felipe |
+| Atividade                                                                          | Realização                                 | Responsável(eis)                  | Revisão                                    | Revisor(es)                       |
+| ---------------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Início:<br /> 07/01 <br />Fim:<br /> 11/01 | A definir                         | Início:<br /> 12/01 <br />Fim:<br /> 13/01 | A definir                         |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início:<br /> 07/01 <br />Fim:<br /> 11/01 | A definir                         | Início:<br /> 12/01 <br />Fim:<br /> 13/01 | A definir                         |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início:<br /> 07/01 <br />Fim:<br /> 11/01 | A definir                         | Início:<br /> 12/01 <br />Fim:<br /> 13/01 | A definir                         |
+| Verificação dos Artefatos                                                          | Início:<br /> 12/01 <br />Fim:<br /> 13/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 13/01 <br />Fim:<br /> 14/01 | Mateus, Fernandes, Lucena, Felipe |
+| Gravar vídeo da apresentação                                                       | Início:<br /> 14/01 <br />Fim:<br /> 14/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 14/01 <br />Fim:<br /> 14/01 | Mateus, Fernandes, Lucena, Felipe |
+| Correção pós apresentação                                                          | Início:<br /> 16/01 <br />Fim:<br /> 17/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 18/01 <br />Fim:<br /> 18/01 | Mateus, Fernandes, Lucena, Felipe |
 
 ---
 
 ## Entrega 7
 
-**Tabela 13 - Fase atual do projeto no ciclo de vida de Mayhew e data de entrega dos artefatos**
+_Tabela 13 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
 |                     Fase                     | Data de Entrega |
 | :------------------------------------------: | :-------------: |
 | Design, Avaliação, Desenvolvimento - Nível 3 |      26/01      |
 
-**Tabela 14 - Cronograma de Planejamento da Entrega 1**
+_Tabela 14 - Cronograma de Planejamento da Entrega 1_
 
-| Atividade                                                                          | Realização         | Responsável(eis)                  | Revisão            | Revisor(es)                       |
-| ---------------------------------------------------------------------------------- | ------------------ | --------------------------------- | ------------------ | --------------------------------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Início: <br />Fim: | A definir                         | Início: <br />Fim: | A definir                         |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: <br />Fim: | A definir                         | Início: <br />Fim: | A definir                         |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: <br />Fim: | A definir                         | Início: <br />Fim: | A definir                         |
-| Gravar vídeo da apresentação                                                       | Início: <br />Fim: | Mateus, Fernandes, Lucena, Felipe | Início: <br />Fim: | Mateus, Fernandes, Lucena, Felipe |
-| Correção pós apresentação                                                          | Início: <br />Fim: | Mateus, Fernandes, Lucena, Felipe | Início: <br />Fim: | Mateus, Fernandes, Lucena, Felipe |
+| Atividade                                                                          | Realização                                | Responsável(eis)                  | Revisão                                   | Revisor(es)                       |
+| ---------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------- | ----------------------------------------- | --------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Início:<br /> 14/01<br />Fim:<br /> 17/01 | A definir                         | Início:<br /> 18/01<br />Fim:<br /> 19/01 | A definir                         |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início:<br /> 14/01<br />Fim:<br /> 17/01 | A definir                         | Início:<br /> 18/01<br />Fim:<br /> 19/01 | A definir                         |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início:<br /> 14/01<br />Fim:<br /> 17/01 | A definir                         | Início:<br /> 18/01<br />Fim:<br /> 19/01 | A definir                         |
+| Verificação dos Artefatos                                                          | Início:<br /> 18/01<br />Fim:<br /> 19/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 18/01<br />Fim:<br /> 19/01 | Mateus, Fernandes, Lucena, Felipe |
+| Gravar vídeo da apresentação                                                       | Início:<br /> 23/01<br />Fim:<br /> 23/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 23/01<br />Fim:<br /> 23/01 | Mateus, Fernandes, Lucena, Felipe |
+| Correção pós apresentação                                                          | Início:<br /> 28/01<br />Fim:<br /> 29/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 30/01<br />Fim:<br /> 30/01 | Mateus, Fernandes, Lucena, Felipe |
 
 ---
 
 ## Entrega 8
 
-**Tabela 15 - Fase atual do projeto no ciclo de vida de Mayhew e data de entrega dos artefatos**
+_Tabela 15 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
 |                     Fase                     | Data de Entrega |
 | :------------------------------------------: | :-------------: |
 | Design, Avaliação, Desenvolvimento - Nível 3 |      10/02      |
 
-**Tabela 16 - Cronograma de Planejamento da Entrega 1**
+_Tabela 16 - Cronograma de Planejamento da Entrega 1_
 
-| Atividade                                                          | Realização         | Responsável(eis)                  | Revisão            | Revisor(es)                       |
-| ------------------------------------------------------------------ | ------------------ | --------------------------------- | ------------------ | --------------------------------- |
-| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: <br />Fim: | A definir                         | Início: <br />Fim: | A definir                         |
-| Gravar vídeo da apresentação                                       | Início: <br />Fim: | Mateus, Fernandes, Lucena, Felipe | Início: <br />Fim: | Mateus, Fernandes, Lucena, Felipe |
-| Correção pós apresentação                                          | Início: <br />Fim: | Mateus, Fernandes, Lucena, Felipe | Início: <br />Fim: | Mateus, Fernandes, Lucena, Felipe |
+| Atividade                                                          | Realização                                | Responsável(eis)                  | Revisão                                   | Revisor(es)                       |
+| ------------------------------------------------------------------ | ----------------------------------------- | --------------------------------- | ----------------------------------------- | --------------------------------- |
+| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início:<br /> 28/01<br />Fim:<br /> 31/01 | A definir                         | Início:<br /> 01/02<br />Fim:<br /> 02/02 | A definir                         |
+| Verificação dos Artefatos                                          | Início:<br /> 02/02<br />Fim:<br /> 03/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 03/02<br />Fim:<br /> 04/02 | Mateus, Fernandes, Lucena, Felipe |
+| Gravar vídeo da apresentação                                       | Início:<br /> 04/02<br />Fim:<br /> 04/02 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 04/02<br />Fim:<br /> 04/02 | Mateus, Fernandes, Lucena, Felipe |
+| Correção pós apresentação                                          | Início:<br /> 11/02<br />Fim:<br /> 12/02 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 12/02<br />Fim:<br /> 12/02 | Mateus, Fernandes, Lucena, Felipe |
 
 ## Bibliografia
 

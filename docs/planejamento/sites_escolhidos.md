@@ -1,3 +1,5 @@
+# Site Escolhido
+
 ## Introdução
 
 Em atividades anteriores da disciplina, alguns membros do grupo sugeriram diferentes sites, apresentando argumentos para justificar suas escolhas. Posteriormente, foi realizada uma revisão, onde cada site foi avaliado com base em critérios específicos, com o objetivo de chegar a um consenso. Abaixo, é possível conferir em mais detalhes as alternativas propostas pelos demais integrantes do grupo.
@@ -27,7 +29,13 @@ Durante nossa avaliação inicial, baseada no framework DECIDE e nas heurística
 
 [Link para a avaliação de IHC completa do site](https://github.com/Interacao-Humano-Computador/2024.2-Grupo07/blob/main/docs/arquivos/planejamento_passe_livre.pdf)<br>
 
+## Bibliografia
+
+<!-- livro utilizado pelo professor na disciplina. -->
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 |    Data    | Data Prevista de Revisão | Versão |                        Descrição                         |      Autor      |   Revisor    |
 | :--------: | :----------------------: | :----: | :------------------------------------------------------: | :-------------: | :----------: |
 | 11/11/2024 |        11/11/2024        |  1.0   |                    Criação da pagina                     | Breno Fernandes | Mateus Viera |
-| 12/11/2024 |        12/11/2024        |  1.0   | Atualização da pagina com os link do pdf de planejamento | Breno Fernandes | Mateus Viera |
+| 12/11/2024 |        12/11/2024        |  1.1   | Atualização da pagina com os link do pdf de planejamento | Breno Fernandes | Mateus Viera |

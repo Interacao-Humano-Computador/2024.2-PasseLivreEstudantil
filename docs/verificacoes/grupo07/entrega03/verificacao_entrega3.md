@@ -1,3 +1,7 @@
+# Nome do Artefato
+
+## Introdução
+
 | **Categoria**                            | **Questão**                                                                                                                                                                                                                                   | **Resposta** (Sim/Não/Incompleto) | **Versão** | **Data e Hora da Avaliação** | **Observações** |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ---------- | ---------------------------- | --------------- |
 | **#Itens do Desenvolvimento do projeto** | 1. Todos os 9 itens.                                                                                                                                                                                                                          |                                   |            |                              |                 |
@@ -24,3 +28,18 @@
 |                                          | • 5. Elementos de ação • Preenchimento de campos • Seleção • Ativação                                                                                                                                                                         |                                   |            |                              |                 |
 |                                          | • 6. Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)                                                                                 |                                   |            |                              |                 |
 |                                          | 9. O Guia de Estilo corresponde ao site avaliado?                                                                                                                                                                                             |                                   |            |                              |                 |
+
+<!-- ## Referências Bibliográficas
+Usar apenas se houver alguma referência bibliográfica
+<a id="REF1" href="#anchor_1">1. </a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. -->
+
+## Bibliografia
+
+<!-- livro utilizado pelo professor na disciplina. -->
+<!-- > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. -->
+
+## Histórico de Versão
+
+|    Data    | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
+| :--------: | :----------------------: | :----: | :-------: | :---: | :-----: |
+| XX/12/2024 |        XX/12/2024        |  1.0   |           |       |         |

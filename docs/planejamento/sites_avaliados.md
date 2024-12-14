@@ -1,4 +1,6 @@
-# Introdução
+# Sites Avaliados
+
+## Introdução
 
 Baseado nas heurísticas de Nielsen, cada integrante realizou o planejamento e execução de alguns sites candidatos a escolhidos para o projeto. A Tabela 1, a seguir, apresenta o site que cada integrante escolheu:
 
@@ -10,7 +12,7 @@ Baseado nas heurísticas de Nielsen, cada integrante realizou o planejamento e e
 
 **Tabela 1**: Tabela de sites avaliados.
 
-## Printi
+### Printi
 
 O responsável pela avaliação deste site foi o integrante Breno Fernandes. O site passou recentemente por uma reformulação visual para um estilo minimalista, o que gerou algumas reclamações de usuários sobre a usabilidade excessivamente simplificada. Foram avaliados alguns fluxos de interação, como a compra e personalização de produtos. Durante a avaliação, foram identificados os seguintes processos com seus respectivos graus de severidade:
 
@@ -20,7 +22,7 @@ O responsável pela avaliação deste site foi o integrante Breno Fernandes. O s
 
 - **Envio da arte após a compra**: A impossibilidade de enviar a arte antes de finalizar a compra compromete a transparência e a experiência de customização para o cliente. Além disso, o usuário pode se frustrar ao perceber, por exemplo, que a arte enviada para um cartão de visita não corresponde às suas expectativas. Como a compra já foi concluída, isso pode gerar insatisfação, pois ele terá que solicitar um reembolso ou passar por um processo de ajuste pós-compra.
 
-## Processos Judiciais Eletrônicos (PJe)
+### Processos Judiciais Eletrônicos (PJe)
 
 O site do Sistema de Processos Judiciais Eletrônicos (PJe) apresenta pontos positivos, como uma interface inicial objetiva e uma linguagem acessível, que facilitam a **interação humano-computador**. No entanto, falhas nas **heurísticas de Nielsen** comprometem a usabilidade:
 
@@ -32,7 +34,7 @@ O site do Sistema de Processos Judiciais Eletrônicos (PJe) apresenta pontos pos
 
 Essas falhas impactam a usabilidade e a satisfação do usuário no uso do sistema.
 
-## Análise do Site INSS Mobile
+### Análise do Site INSS Mobile
 
 O aplicativo INSS Mobile foi analisado quanto à sua interface e usabilidade, focando em aspectos de organização visual e clareza para os usuários. O aplicativo oferece acesso a diversos serviços do INSS, como consulta de pedidos, revisão de benefícios e informações sobre empréstimos. No entanto, foram identificados problemas que afetam a experiência do usuário.
 
@@ -47,9 +49,15 @@ O aplicativo INSS Mobile foi analisado quanto à sua interface e usabilidade, fo
 
 Esses problemas comprometem a experiência geral, dificultando a interação e reduzindo a eficiência do aplicativo para os usuários.
 
+## Bibliografia
+
+<!-- livro utilizado pelo professor na disciplina. -->
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ## Histórico de Versão
 
 |    Data    | Data Prevista de Revisão | Versão |                     Descrição                      |      Autor      |   Revisor    |
 | :--------: | :----------------------: | :----: | :------------------------------------------------: | :-------------: | :----------: |
 | 11/11/2024 |        11/11/2024        |  1.0   |                 Criação da pagina                  | Breno Fernandes | Mateus Viera |
-| 12/11/2024 |        12/11/2024        |  1.0   | Atualização da pagina com os sites avaliados antes | Breno Fernandes | Mateus Viera |
+| 12/11/2024 |        12/11/2024        |  1.1   | Atualização da pagina com os sites avaliados antes | Breno Fernandes | Mateus Viera |
