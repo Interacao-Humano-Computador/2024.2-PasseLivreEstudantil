@@ -39,12 +39,6 @@ Para garantir o sucesso deste projeto, utilizamos diversas ferramentas computaci
 
 8. YouTube. Disponível em: [https://about.youtube/](https://about.youtube/). Acesso em: 29 de nov. de 2024..
 
-## Bibliografia
-
-<!-- livro utilizado pelo professor na disciplina. -->
-
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-
 ## Histórico de Versão
 
 |    Data    | Data Prevista de Revisão | Versão |                  Descrição                  |      Autor      |   Revisor    |

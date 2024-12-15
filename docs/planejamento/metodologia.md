@@ -1,8 +1,9 @@
 # Metodologia
 
 ## Introdução
-
+<div style="text-align: justify">
 A metodologia do projeto define como o processo foi conduzido, englobando as práticas e estratégias aplicadas no planejamento e na execução de suas etapas. Para o desenvolvimento deste projeto, a equipe optou por utilizar o método ágil, aproveitando a familiaridade do grupo com essa abordagem.
+</div>
 
 ## Metodologia Escolhida
 

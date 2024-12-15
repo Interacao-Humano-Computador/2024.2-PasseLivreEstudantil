@@ -50,6 +50,6 @@
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição         | Autor(es)    | Revisor(es)     |
+| Versão | Data       | Descrição         | Autor        | Revisor         |
 | ------ | ---------- | ----------------- | ------------ | --------------- |
 | 1.0    | 10/12/2024 | Criação da pagina | Mateus Viera | Breno Fernandes |
