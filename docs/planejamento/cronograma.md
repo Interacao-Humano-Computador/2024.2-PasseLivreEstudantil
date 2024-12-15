@@ -1,329 +1,191 @@
 # Cronograma
 
-**Descrição:**
-Este cronograma tem como objetivo organizar todas as tarefas que deverão ser realizadas ao longo da disciplina de Interação Humano-Computador, garantindo o cumprimento dos prazos e a clareza das responsabilidades.
+## Introdução
 
-| _Sprint_              | _Etapa_                                         | _Data Início_ | _Data Fim_ |
-| --------------------- | ----------------------------------------------- | ------------- | ---------- |
-| Sprint 0              | [Entrega 1](#entrega-1-planejamento-do-projeto) | 22/10         | 05/11      |
-| Sprint 1              | [Entrega 1](#entrega-1-planejamento-do-projeto) | 05/11         | 12/11      |
-| Sprint 2              | [Entrega 2](#entrega-2)                         | 12/11         | 19/11      |
-| Sprint 3              | [Entrega 3](#entrega-3)                         | 19/11         | 26/11      |
-| Sprint 4              | [Entrega 4](#entrega-4)                         | 26/11         | 03/12      |
-| Sprint 5              | [Entrega 5](#entrega-5)                         | 03/12         | 10/12      |
-| **Recesso de Festas** |                                                 | 23/12         | 03/01      |
-| Sprint 6              | [Entrega 6](#entrega-6)                         | 04/01         | 10/01      |
-| Sprint 7              | [Entrega 7](#entrega-7)                         | 10/01         | 17/01      |
-| Sprint 8              | [Entrega 8](#entrega-8)                         | 17/01         | 24/01      |
-
-## Datas de entrega das etapas:
-
-**Etapa 1** - 12/11
-
-**Etapa 2** - 03/12
-
-**Etapa 3** - 03/12
-
-**Etapa 4** - 10/12
-
-**Etapa 5** - 05/01
-
-**Etapa 6** - 14/01
-
-**Etapa 7** - 26/01
-
-**Etapa 8** - 10/02
+<p align="justify">Esse artefato tem como objetivo organizar todas as tarefas que deverão ser realizadas ao longo da disciplina de Interação Humano-Computador em formato de cronograma. Isso garante o cumprimento dos prazos e a clareza das responsabilidades, facilitando a gestão do projeto e a colaboração entre os membros da equipe.</p>
 
 ---
 
-## Entrega 1 - Planejamento do Projeto
+## Entrega 1
 
-Um ponto importante a adicionar sobre nossa primeira entrega, foi que como equipe estávamos desorganizados no quesito delegar tarefas, então fizemos as atividades de forma conjunta e sem um planejamento muito bem executado
+_Tabela 1 - Fase atual do projeto e data de entrega dos artefatos_
 
-### Cronograma Planejado
+|          Fase           | Data de Entrega |
+| :---------------------: | :-------------: |
+| Planejamento do Projeto |      12/11      |
 
-Na Tabela 1, tem-se o cronograma planejado para todas as atividades da Entrega 1
+_Tabela 2 - Cronograma de Planejamento da Entrega 1_
 
-**Tabela 1 - Planejamento do Projeto**
-
-| Atividade                                             | Realização | Responsáveis                            | Revisão  | Revisores                               |
-| ----------------------------------------------------- | ---------- | --------------------------------------- | -------- | --------------------------------------- |
-| Apresentação da equipe                                | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus                                  | Sprint 0 | Fernandes                               |
-| Avaliação de sites                                    | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Seleção do site para o projeto                        | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Definição das ferramentas do projeto                  | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Seleção do Processo de Design                         | Sprint 1   | Lucena                                  | Sprint 1 | Fernandes                               |
-| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus                                  | Sprint 1 | Fernandes                               |
-| Gravar vídeo da apresentação                          | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                             | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-
-### Cronograma Executado
-
-Na Tabela 2, tem-se o cronograma executado para todas as atividades da Entrega 1
-
-**Tabela 2 - Planejamento do Projeto**
-
-| Atividade                                             | Realização | Responsáveis                            | Revisão  | Revisores                               |
-| ----------------------------------------------------- | ---------- | --------------------------------------- | -------- | --------------------------------------- |
-| Apresentação da equipe                                | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Criação do Heatmap de disponibilidade dos integrantes | Sprint 0   | Mateus                                  | Sprint 0 | Fernandes                               |
-| Avaliação de sites                                    | Sprint 0   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 0 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Seleção do site para o projeto                        | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Definição das ferramentas do projeto                  | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Avaliação do novo site escolhido                      | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Seleção do Processo de Design                         | Sprint 1   | Lucena                                  | Sprint 1 | Fernandes, Mateus                       |
-| Elaboração do cronograma detalhado das atividades     | Sprint 1   | Mateus                                  | Sprint 1 | Fernandes, Lucena                       |
-| Gravar vídeo da apresentação                          | Sprint 1   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 1 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                             | Sprint 2   | Mateus, Fernandes, Lucena, Felipe, Dion | Sprint 2 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                             | Realização                                 | Responsável(eis)                        | Revisão                                    | Revisor(es)                             |
+| ----------------------------------------------------- | ------------------------------------------ | --------------------------------------- | ------------------------------------------ | --------------------------------------- |
+| Apresentação da equipe                                | Início:<br /> 22/10<br /> Fim:<br /> 25/10 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 26/10 <br />Fim:<br /> 27/10 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Criação do Heatmap de disponibilidade dos integrantes | Início:<br /> 22/10<br /> Fim:<br /> 25/10 | Mateus                                  | Início:<br /> 26/10 <br />Fim:<br /> 27/10 | Fernandes                               |
+| Avaliação de sites                                    | Início:<br /> 22/10<br /> Fim:<br /> 26/10 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 26/10 <br />Fim:<br /> 27/10 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Seleção do site para o projeto                        | Início:<br /> 05/11<br /> Fim:<br /> 11/11 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 12/11 <br />Fim:<br /> 12/11 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Definição das ferramentas do projeto                  | Início:<br /> 05/11<br /> Fim:<br /> 11/11 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 12/11 <br />Fim:<br /> 12/11 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Seleção do Processo de Design                         | Início:<br /> 05/11<br /> Fim:<br /> 11/11 | Lucena                                  | Início:<br /> 12/11 <br />Fim:<br /> 12/11 | Fernandes                               |
+| Elaboração do cronograma detalhado das atividades     | Início:<br /> 05/11<br /> Fim:<br /> 11/11 | Mateus                                  | Início:<br /> 12/11 <br />Fim:<br /> 12/11 | Fernandes                               |
+| Verificação dos Artefatos                             | Início:<br /> 10/11<br /> Fim:<br /> 12/11 | Fernandes                               | Início:<br /> 12/11 <br />Fim:<br /> 12/11 | Mateus                                  |
+| Gravar vídeo da apresentação                          | Início:<br /> 12/11<br /> Fim:<br /> 12/11 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 12/11 <br />Fim:<br /> 12/11 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Verificação Grupo +1                                  | Início:<br /> 13/11<br /> Fim:<br /> 13/11 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 13/11 <br />Fim:<br /> 13/11 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Correção pós apresentação                             | Início:<br /> 14/11<br /> Fim:<br /> 15/11 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 16/11 <br />Fim:<br /> 16/11 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
-## Entrega 2 - Análise de Requisitos
+## Entrega 2
 
-Nesse entrega, realizaremos as atividades relacionadas ao Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Análise de tarefas e a confecção do Termo de Compromisso
+_Tabela 3 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
-### Cronograma Planejado
+|         Fase          | Data de Entrega |
+| :-------------------: | :-------------: |
+| Análise de Requisitos |      03/12      |
 
-Na Tabela 3, tem-se o cronograma planejado para todas as atividades da Entrega 2
+_Tabela 4 - Cronograma de Planejamento da Entrega 2_
 
-**Tabela 3**
-
-| Atividade                                       | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ----------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Perfil do usuário                               | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                  |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                  |
-| Análise de Tarefas                              | Início: Sprint 2<br />Fim: Sprint 3 | Mateus e Dion                           | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                  |
-| Termo de Compromisso                            | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                  |
-| Cenários                                        | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Dion e Felipe                   | Início: Sprint 3<br />Fim: Sprint 4 | Felipe                                  |
-| Gravar vídeo da apresentação                    | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Verificação Grupo +1                            | Início: Sprint 2<br />Fim: Sprint 3 | Felipe                                  | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                  |
-| Correção pós apresentação                       | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
-
-### Cronograma Executado
-
-Na Tabela 4, tem-se o cronograma executado para todas as atividades da Entrega 2
-
-**Tabela 4**
-
-| Atividade                                       | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ----------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Perfil do usuário                               | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | A definir                               |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | A definir                               |
-| Análise de Tarefas                              | Início: Sprint 2<br />Fim: Sprint 3 | Mateus e Dion                           | Início: Sprint 3<br />Fim: Sprint 4 | A definir                               |
-| Termo de Compromisso                            | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes e Lucena                      | Início: Sprint 3<br />Fim: Sprint 4 | A definir                               |
-| Cenários                                        | Início: Sprint 2<br />Fim: Sprint 3 | Dion e Mateus                           | Início: Sprint 3<br />Fim: Sprint 4 | A definir                               |
-| Verificação dos Artefatos                       | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes                               | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                  |
-| Gravar vídeo da apresentação                    | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Verificação Grupo +1                            | Início: Sprint 2<br />Fim: Sprint 3 | Felipe                                  | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                  |
-| Correção pós apresentação                       | Início: Sprint 2<br />Fim: Sprint 3 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 3<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                       | Realização                                 | Responsável(eis)                        | Revisão                                    | Revisor(es)                             |
+| ----------------------------------------------- | ------------------------------------------ | --------------------------------------- | ------------------------------------------ | --------------------------------------- |
+| Perfil do usuário                               | Início:<br /> 25/11<br /> Fim:<br /> 28/11 | Fernandes e Lucena                      | Início:<br /> 02/12<br /> Fim:<br /> 02/12 | Felipe                                  |
+| Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início:<br /> 25/11<br /> Fim:<br /> 28/11 | Fernandes e Lucena                      | Início:<br /> 02/12<br /> Fim:<br /> 02/12 | Felipe                                  |
+| Análise de Tarefas                              | Início:<br /> 25/11<br /> Fim:<br /> 28/11 | Mateus e Dion                           | Início:<br /> 02/12<br /> Fim:<br /> 02/12 | Felipe                                  |
+| Termo de Consentimento                          | Início:<br /> 25/11<br /> Fim:<br /> 28/11 | Fernandes e Lucena                      | Início:<br /> 02/12<br /> Fim:<br /> 02/12 | Felipe                                  |
+| Cenários                                        | Início:<br /> 25/11<br /> Fim:<br /> 28/11 | Mateus, Dion e Felipe                   | Início:<br /> 02/12<br /> Fim:<br /> 02/12 | Felipe                                  |
+| Verificação dos Artefatos                       | Início:<br /> 28/11<br /> Fim:<br /> 30/11 | Felipe                                  | Início:<br /> 02/12<br /> Fim:<br /> 02/12 | Mateus                                  |
+| Gravar vídeo da apresentação                    | Início:<br /> 02/12<br /> Fim:<br /> 02/12 | Mateus, Fernandes, Lucena, Felipe       | Início:<br /> 02/12<br /> Fim:<br /> 02/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Verificação Grupo +1                            | Início:<br /> 04/12<br /> Fim:<br /> 04/12 | Felipe                                  | Início:<br /> 04/12<br /> Fim:<br /> 04/12 | Mateus                                  |
+| Correção pós apresentação                       | Início:<br /> 05/12<br /> Fim:<br /> 06/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 06/12<br /> Fim:<br /> 07/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
 ---
 
-## Entrega 3 - Análise de Requisitos
+## Entrega 3
 
-### Cronograma Planejado
+_Tabela 5 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
-Na Tabela 5, tem-se o cronograma planejado para todas as atividades da Entrega 3
+|         Fase          | Data de Entrega |
+| :-------------------: | :-------------: |
+| Análise de Requisitos |      03/12      |
 
-**Tabela 5**
+_Tabela 6 - Cronograma de Planejamento da Entrega 3_
 
-| Atividade                                    | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| -------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Princípios Gerais de Projeto                 | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes e Lucena                      | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               |
-| Metas de Usabilidade                         | Início: Sprint 4<br />Fim: Sprint 4 | Mateus e Dion                           | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               |
-| Guia de Estilo                               | Início: Sprint 4<br />Fim: Sprint 4 | Verissimo e Lucena                      | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               |
-| Características da Plataforma para o Projeto | Início: Sprint 4<br />Fim: Sprint 4 | Verissimo e Dion                        | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               |
-| Verificação dos Artefatos                    | Início: Sprint 2<br />Fim: Sprint 3 | Fernandes                               | Início: Sprint 3<br />Fim: Sprint 4 | Mateus                                  |
-| Verificação Grupo +1                         | Início: Sprint 2<br />Fim: Sprint 3 | Lucena e Mateus                         | Início: Sprint 3<br />Fim: Sprint 4 | Fernandes                               |
-| Gravar vídeo da apresentação                 | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                    | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
-
-### Cronograma Executado
-
-Na Tabela 6, tem-se o cronograma planejado para todas as atividades da Entrega 3
-
-**Tabela 6**
-
-| Atividade                                    | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| -------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Princípios Gerais de Projeto                 | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               |
-| Metas de Usabilidade                         | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Dion                            | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               |
-| Guia de Estilo                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               |
-| Características da Plataforma para o Projeto | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               |
-| Verificação dos Artefatos                    | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               | Início: Sprint 4<br />Fim: Sprint 4 | A definir                               |
-| Verificação Grupo +1                         | Início: Sprint 4<br />Fim: Sprint 4 | Lucena e Mateus                         | Início: Sprint 4<br />Fim: Sprint 4 | Fernandes                               |
-| Gravar vídeo da apresentação                 | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                    | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 4<br />Fim: Sprint 4 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                    | Realização                                 | Responsável(eis)                  | Revisão                                    | Revisor(es)                       |
+| -------------------------------------------- | ------------------------------------------ | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| Princípios Gerais de Projeto                 | Início:<br /> 26/11<br /> Fim:<br /> 30/11 | Fernandes e Lucena                | Início:<br /> 30/11<br /> Fim:<br /> 01/12 | Fernandes                         |
+| Metas de Usabilidade                         | Início:<br /> 26/11<br /> Fim:<br /> 30/11 | Mateus e Dion                     | Início:<br /> 30/11<br /> Fim:<br /> 01/12 | Fernandes                         |
+| Guia de Estilo                               | Início:<br /> 26/11<br /> Fim:<br /> 30/11 | Verissimo e Lucena                | Início:<br /> 30/11<br /> Fim:<br /> 01/12 | Fernandes                         |
+| Características da Plataforma para o Projeto | Início:<br /> 26/11<br /> Fim:<br /> 30/11 | Verissimo e Dion                  | Início:<br /> 30/11<br /> Fim:<br /> 01/12 | Fernandes                         |
+| Verificação dos Artefatos                    | Início:<br /> 02/12<br /> Fim:<br /> 02/12 | Fernandes                         | Início:<br /> 03/12<br /> Fim:<br /> 03/12 | Mateus                            |
+| Verificação Grupo +1                         | Início:<br /> 04/12<br /> Fim:<br /> 04/12 | Lucena e Mateus                   | Início:<br /> 04/12<br /> Fim:<br /> 04/12 | Fernandes                         |
+| Gravar vídeo da apresentação                 | Início:<br /> 03/12<br /> Fim:<br /> 03/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 03/12<br /> Fim:<br /> 03/12 | Mateus, Fernandes, Lucena, Felipe |
+| Correção pós apresentação                    | Início:<br /> 05/12<br /> Fim:<br /> 06/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 06/12<br /> Fim:<br /> 06/12 | Mateus, Fernandes, Lucena, Felipe |
 
 ---
 
 ## Entrega 4
 
-### Cronograma Planejado
+_Tabela 7 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
-Na Tabela 7, tem-se o cronograma planejado para todas as atividades da Entrega 4.
+|                     Fase                     | Data de Entrega |
+| :------------------------------------------: | :-------------: |
+| Design, Avaliação, Desenvolvimento - Nível 1 |      10/12      |
 
-**Tabela 7**
+_Tabela 8 - Cronograma de Planejamento da Entrega 4_
 
-| Atividade                                                                | Realização                    | Responsáveis                            | Revisão                       | Revisores                               |
-| ------------------------------------------------------------------------ | ----------------------------- | --------------------------------------- | ----------------------------- | --------------------------------------- |
-| Realizar Storyboards                                                     | Início: 05/12<br />Fim: 08/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 08/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Planejamento da Avaliação do Storyboard                                  | Início: 05/12<br />Fim: 08/12 | Lucena                                  | Início: 08/12<br />Fim: 09/12 | Mateus                                  |
-| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: 05/12<br />Fim: 08/12 | Fernandes                               | Início: 08/12<br />Fim: 09/12 | Felipe                                  |
-| Planejamento da Avaliação da Análise de Tarefas                          | Início: 05/12<br />Fim: 08/12 | Mateus                                  | Início: 08/12<br />Fim: 09/12 | Fernandes                               |
-| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: 05/12<br />Fim: 08/12 | Felipe                                  | Início: 08/12<br />Fim: 09/12 | Lucena                                  |
-| Verificação dos Artefatos                                                | Início: 09/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 09/12<br />Fim: 10/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Gravar vídeo da apresentação                                             | Início: 09/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 09/12<br />Fim: 10/12 | Mateus                                  |
-| Verificação Grupo +1                                                     | Início: 09/12<br />Fim: 09/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 09/12<br />Fim: 10/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                                | Início: 12/12<br />Fim: 13/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: 12/12<br />Fim: 13/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
-
-### Cronograma Executado
-
-Na Tabela 8, está explicitado o cronograma executado das atividades da Entrega 4.
-
-**Tabela 8**
-
-| Atividade                                                                | Realização                    | Responsáveis                      | Revisão                       | Revisores                         |
-| ------------------------------------------------------------------------ | ----------------------------- | --------------------------------- | ----------------------------- | --------------------------------- |
-| Realizar Storyboards                                                     | Início: 05/12<br />Fim: 10/12 | Mateus, Fernandes, Lucena, Felipe | Início: 10/12<br />Fim: 10/12 | Mateus, Fernandes, Lucena, Felipe |
-| Planejamento da Avaliação do Storyboard                                  | Início: 05/12<br />Fim: 09/12 | Lucena                            | Início: 10/12<br />Fim: 10/12 | Mateus                            |
-| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início: 05/12<br />Fim: 09/12 | Fernandes                         | Início: 10/12<br />Fim: 10/12 | Felipe                            |
-| Planejamento da Avaliação da Análise de Tarefas                          | Início: 05/12<br />Fim: 09/12 | Mateus                            | Início: 10/12<br />Fim: 10/12 | Fernandes                         |
-| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início: 05/12<br />Fim: 09/12 | Felipe                            | Início: 10/12<br />Fim: 10/12 | Lucena                            |
-| Verificação dos Artefatos                                                | Início: 09/12<br />Fim: 10/12 | Mateus, Fernandes, Lucena, Felipe | Início: 10/12<br />Fim: 10/12 | Mateus, Fernandes, Lucena, Felipe |
-| Gravar vídeo da apresentação                                             | Início: 10/12<br />Fim: 10/12 | Mateus, Fernandes, Lucena, Felipe | Início: 10/12<br />Fim: 10/12 | Mateus                            |
-| Verificação Grupo +1                                                     | Início: 11/12<br />Fim: 11/12 | Mateus, Fernandes, Lucena, Felipe | Início: 09/12<br />Fim: 10/12 | Mateus, Fernandes, Lucena, Felipe |
-| Correção pós apresentação                                                | Início: 12/12<br />Fim: 13/12 | Mateus, Fernandes, Lucena, Felipe | Início: 12/12<br />Fim: 13/12 | Mateus, Fernandes, Lucena, Felipe |
+| Atividade                                                                | Realização                                | Responsável(eis)                  | Revisão                                   | Revisor(es)                       |
+| ------------------------------------------------------------------------ | ----------------------------------------- | --------------------------------- | ----------------------------------------- | --------------------------------- |
+| Realizar Storyboards                                                     | Início:<br /> 05/12<br />Fim:<br /> 10/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 10/12<br />Fim:<br /> 10/12 | Mateus, Fernandes, Lucena, Felipe |
+| Planejamento da Avaliação do Storyboard                                  | Início:<br /> 05/12<br />Fim:<br /> 09/12 | Lucena                            | Início:<br /> 10/12<br />Fim:<br /> 10/12 | Mateus                            |
+| Planejamento do Relato dos Resultados da Avaliação do Storyboard         | Início:<br /> 05/12<br />Fim:<br /> 09/12 | Fernandes                         | Início:<br /> 10/12<br />Fim:<br /> 10/12 | Felipe                            |
+| Planejamento da Avaliação da Análise de Tarefas                          | Início:<br /> 05/12<br />Fim:<br /> 09/12 | Mateus                            | Início:<br /> 10/12<br />Fim:<br /> 10/12 | Fernandes                         |
+| Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Início:<br /> 05/12<br />Fim:<br /> 09/12 | Felipe                            | Início:<br /> 10/12<br />Fim:<br /> 10/12 | Lucena                            |
+| Verificação dos Artefatos                                                | Início:<br /> 09/12<br />Fim:<br /> 10/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 10/12<br />Fim:<br /> 10/12 | Mateus, Fernandes, Lucena, Felipe |
+| Gravar vídeo da apresentação                                             | Início:<br /> 10/12<br />Fim:<br /> 10/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 10/12<br />Fim:<br /> 10/12 | Mateus                            |
+| Verificação Grupo +1                                                     | Início:<br /> 11/12<br />Fim:<br /> 11/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 09/12<br />Fim:<br /> 10/12 | Mateus, Fernandes, Lucena, Felipe |
+| Correção pós apresentação                                                | Início:<br /> 12/12<br />Fim:<br /> 17/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 12/12<br />Fim:<br /> 17/12 | Mateus, Fernandes, Lucena, Felipe |
 
 ---
 
 ## Entrega 5
 
-### Cronograma Planejado
+_Tabela 9 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
-Na Tabela 9, tem-se o cronograma planejado para todas as atividades da Entrega 5.
+|                     Fase                     | Data de Entrega |
+| :------------------------------------------: | :-------------: |
+| Design, Avaliação, Desenvolvimento - Nível 1 |      05/01      |
 
-**Tabela 9**
+_Tabela 10 - Cronograma de Planejamento da Entrega 5_
 
-| Atividade                                                                | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ------------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Relato dos Resultados da Avaliação do Storyboard                         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Relato da Avaliação da Análise de Tarefas                                | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                                | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
-
-### Cronograma Executado
-
-Na Tabela 10, está explicitado o cronograma executado das atividades da Entrega 5.
-
-**Tabela 10**
-
-| Atividade                                                                | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ------------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Relato dos Resultados da Avaliação do Storyboard                         | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Relato da Avaliação da Análise de Tarefas                                | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               | Início: Sprint 5<br />Fim: Sprint 5 | A definir                               |
-| Gravar vídeo da apresentação                                             | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                                | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 5<br />Fim: Sprint 5 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                                                | Realização                                | Responsável(eis)                  | Revisão                                   | Revisor(es)                       |
+| ------------------------------------------------------------------------ | ----------------------------------------- | --------------------------------- | ----------------------------------------- | --------------------------------- |
+| Relato dos Resultados da Avaliação do Storyboard                         | Início:<br /> 17/12<br />Fim:<br /> 21/12 | A definir                         | Início:<br /> 22/12<br />Fim:<br /> 23/12 | A definir                         |
+| Relato da Avaliação da Análise de Tarefas                                | Início:<br /> 17/12<br />Fim:<br /> 21/12 | A definir                         | Início:<br /> 22/12<br />Fim:<br /> 23/12 | A definir                         |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início:<br /> 17/12<br />Fim:<br /> 21/12 | A definir                         | Início:<br /> 22/12<br />Fim:<br /> 23/12 | A definir                         |
+| Verificação dos Artefatos                                                | Início:<br /> 22/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 23/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe |
+| Gravar vídeo da apresentação                                             | Início:<br /> 23/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 23/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe |
+| Correção pós apresentação                                                | Início:<br /> 07/01<br />Fim:<br /> 08/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 08/01<br />Fim:<br /> 08/01 | Mateus, Fernandes, Lucena, Felipe |
 
 ---
 
 ## Entrega 6
 
-### Cronograma Planejado
+_Tabela 11 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
-Na Tabela 11, tem-se o cronograma planejado para todas as atividades da Entrega 6.
+|                     Fase                     | Data de Entrega |
+| :------------------------------------------: | :-------------: |
+| Design, Avaliação, Desenvolvimento - Nível 2 |      14/01      |
 
-**Tabela 11 -**
+_Tabela 12 - Cronograma de Planejamento da Entrega 1_
 
-| Atividade                                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ---------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
-| Gravar vídeo da apresentação                                                       | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                                          | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
-
-### Cronograma Executado
-
-Na Tabela 12, está explicitado o cronograma executado das atividades da Entrega 6.
-
-**Tabela 12 -**
-
-| Atividade                                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ---------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               | Início: Sprint 6<br />Fim: Sprint 6 | A definir                               |
-| Gravar vídeo da apresentação                                                       | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                                          | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 6<br />Fim: Sprint 6 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                                                          | Realização                                 | Responsável(eis)                  | Revisão                                    | Revisor(es)                       |
+| ---------------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------- | ------------------------------------------ | --------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Início:<br /> 07/01 <br />Fim:<br /> 11/01 | A definir                         | Início:<br /> 12/01 <br />Fim:<br /> 13/01 | A definir                         |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início:<br /> 07/01 <br />Fim:<br /> 11/01 | A definir                         | Início:<br /> 12/01 <br />Fim:<br /> 13/01 | A definir                         |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início:<br /> 07/01 <br />Fim:<br /> 11/01 | A definir                         | Início:<br /> 12/01 <br />Fim:<br /> 13/01 | A definir                         |
+| Verificação dos Artefatos                                                          | Início:<br /> 12/01 <br />Fim:<br /> 13/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 13/01 <br />Fim:<br /> 14/01 | Mateus, Fernandes, Lucena, Felipe |
+| Gravar vídeo da apresentação                                                       | Início:<br /> 14/01 <br />Fim:<br /> 14/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 14/01 <br />Fim:<br /> 14/01 | Mateus, Fernandes, Lucena, Felipe |
+| Correção pós apresentação                                                          | Início:<br /> 16/01 <br />Fim:<br /> 17/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 18/01 <br />Fim:<br /> 18/01 | Mateus, Fernandes, Lucena, Felipe |
 
 ---
 
 ## Entrega 7
 
-### Cronograma Planejado
+_Tabela 13 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
-Na Tabela 13, tem-se o cronograma planejado para todas as atividades da Entrega 7.
+|                     Fase                     | Data de Entrega |
+| :------------------------------------------: | :-------------: |
+| Design, Avaliação, Desenvolvimento - Nível 3 |      26/01      |
 
-**Tabela 13**
+_Tabela 14 - Cronograma de Planejamento da Entrega 1_
 
-| Atividade                                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ---------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
-| Gravar vídeo da apresentação                                                       | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                                          | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion |
-
-### Cronograma Executado
-
-Na Tabela 14, está explicitado o cronograma executado das atividades da Entrega 7.
-
-**Tabela 14**
-
-| Atividade                                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ---------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Relato dos Resultados do Protótipo de Papel                                        | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
-| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
-| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               | Início: Sprint 7<br />Fim: Sprint 7 | A definir                               |
-| Gravar vídeo da apresentação                                                       | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                                          | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 7 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                                                          | Realização                                | Responsável(eis)                  | Revisão                                   | Revisor(es)                       |
+| ---------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------- | ----------------------------------------- | --------------------------------- |
+| Relato dos Resultados do Protótipo de Papel                                        | Início:<br /> 14/01<br />Fim:<br /> 17/01 | A definir                         | Início:<br /> 18/01<br />Fim:<br /> 19/01 | A definir                         |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                          | Início:<br /> 14/01<br />Fim:<br /> 17/01 | A definir                         | Início:<br /> 18/01<br />Fim:<br /> 19/01 | A definir                         |
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início:<br /> 14/01<br />Fim:<br /> 17/01 | A definir                         | Início:<br /> 18/01<br />Fim:<br /> 19/01 | A definir                         |
+| Verificação dos Artefatos                                                          | Início:<br /> 18/01<br />Fim:<br /> 19/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 18/01<br />Fim:<br /> 19/01 | Mateus, Fernandes, Lucena, Felipe |
+| Gravar vídeo da apresentação                                                       | Início:<br /> 23/01<br />Fim:<br /> 23/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 23/01<br />Fim:<br /> 23/01 | Mateus, Fernandes, Lucena, Felipe |
+| Correção pós apresentação                                                          | Início:<br /> 28/01<br />Fim:<br /> 29/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 30/01<br />Fim:<br /> 30/01 | Mateus, Fernandes, Lucena, Felipe |
 
 ---
 
 ## Entrega 8
 
-### Cronograma Planejado
+_Tabela 15 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
-Na Tabela 15, tem-se o cronograma planejado para todas as atividades da Entrega 8.
+|                     Fase                     | Data de Entrega |
+| :------------------------------------------: | :-------------: |
+| Design, Avaliação, Desenvolvimento - Nível 3 |      10/02      |
 
-**Tabela 15**
+_Tabela 16 - Cronograma de Planejamento da Entrega 1_
 
-| Atividade                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 8 | A definir                               | Início: Sprint 7<br />Fim: Sprint 8 | A definir                               |
-| Gravar vídeo da apresentação                                       | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                          | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion |
-
-### Cronograma Executado
-
-Na Tabela 16, está explicitado o cronograma executado das atividades da Entrega 8.
-
-**Tabela 16**
-
-| Atividade                                                          | Realização                          | Responsáveis                            | Revisão                             | Revisores                               |
-| ------------------------------------------------------------------ | ----------------------------------- | --------------------------------------- | ----------------------------------- | --------------------------------------- |
-| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início: Sprint 7<br />Fim: Sprint 8 | A definir                               | Início: Sprint 7<br />Fim: Sprint 8 | A definir                               |
-| Gravar vídeo da apresentação                                       | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion |
-| Correção pós apresentação                                          | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion | Início: Sprint 7<br />Fim: Sprint 8 | Mateus, Fernandes, Lucena, Felipe, Dion |
+| Atividade                                                          | Realização                                | Responsável(eis)                  | Revisão                                   | Revisor(es)                       |
+| ------------------------------------------------------------------ | ----------------------------------------- | --------------------------------- | ----------------------------------------- | --------------------------------- |
+| Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | Início:<br /> 28/01<br />Fim:<br /> 31/01 | A definir                         | Início:<br /> 01/02<br />Fim:<br /> 02/02 | A definir                         |
+| Verificação dos Artefatos                                          | Início:<br /> 02/02<br />Fim:<br /> 03/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 03/02<br />Fim:<br /> 04/02 | Mateus, Fernandes, Lucena, Felipe |
+| Gravar vídeo da apresentação                                       | Início:<br /> 04/02<br />Fim:<br /> 04/02 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 04/02<br />Fim:<br /> 04/02 | Mateus, Fernandes, Lucena, Felipe |
+| Correção pós apresentação                                          | Início:<br /> 11/02<br />Fim:<br /> 12/02 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 12/02<br />Fim:<br /> 12/02 | Mateus, Fernandes, Lucena, Felipe |
 
 ## Bibliografia
 
-- [Cronograma Disponiblizado via Aprender3](https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
-- [Cronograma de Referência Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/#executado)
+> [Cronograma Disponiblizado via Aprender3](https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
 
 ## Histórico de Versão
 
@@ -334,3 +196,4 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da Entrega
 | 24/11/2024 |        25/11/2024        |  1.2   | Atualização pós entrega 1 |  Mateus   | Fernandes |
 | 26/11/2024 |        27/11/2024        |  1.3   | Finalização das correções |  Mateus   | Fernandes |
 | 05/12/2024 |        09/12/2024        |  1.4   |   Atualização entrega 4   |  Mateus   | Fernandes |
+| 14/12/2024 |        16/12/2024        |  1.5   | Atualização pós entrega 4 |  Mateus   | Fernandes |
