@@ -67,6 +67,7 @@ nav:
       - Cenarios: analise_de_requsitos/cenarios.md
       - Analise de Tarefas:
           - GOMS: analise_de_requsitos/analise_tarefas/goms.md
+          - HTA: analise_de_requsitos/analise_tarefas/hta.md
       - Termo de Consentimento: analise_de_requsitos/termo_de_consentimento.md
       - Principios Gerais: analise_de_requsitos/principios_gerais.md
       - Metas de Usabilidade: analise_de_requsitos/metas_de_usabilidade.md
