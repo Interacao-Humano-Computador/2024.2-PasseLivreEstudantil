@@ -37,7 +37,7 @@ theme:
 # Configura a navegação do site
 nav:
   - Introdução: index.md
-  - Atas:
+  - Reuniões:
       - Ata 1: atas/ata-1.md
       - Ata 2: atas/ata-2.md
       - Ata 3: atas/ata_3.md
@@ -49,6 +49,11 @@ nav:
       - Heatmap: planejamento/heatmap.md
       - Sites avaliados: planejamento/sites_avaliados.md
       - Site escolhido: planejamento/sites_escolhidos.md
+  - Apresentações:
+      - Entrega 1: apresentacoes/entrega1/entrega1.md
+      - Entrega 2: apresentacoes/entrega2/entrega2.md
+      - Entrega 3: apresentacoes/entrega3/entrega3.md
+      - Entrega 4: apresentacoes/entrega4/entrega4.md
   - Listas de Verificação:
       - Grupo 7:
           - Entrega 01: verificacoes/grupo07/entrega01/verificacao_entrega01_grupo07.md
@@ -84,11 +89,6 @@ nav:
               - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento/nivel01/storyboard/planejamento_relato_resultados_avaliacao.md
               - Relato do Resultado: design_avaliacao_desenvolvimento/nivel01/storyboard/relato_resultado.md
               - Storyboards: design_avaliacao_desenvolvimento/nivel01/storyboard/storyboards.md
-  - Apresentações:
-      - Entrega 1: apresentacoes/entrega1/entrega1.md
-      - Entrega 2: apresentacoes/entrega2/entrega2.md
-      - Entrega 3: apresentacoes/entrega3/entrega3.md
-      - Entrega 4: apresentacoes/entrega4/entrega4.md
 extra:
   version:
     provider:
