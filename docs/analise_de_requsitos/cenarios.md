@@ -34,9 +34,30 @@ Mais dois dias se passam e finalmente a foto de Lucas está atualizada, agora ba
 
 Lucas Oliveira realiza o login na plataforma e deseja verificar os acessos realizados em um dia específico. Ele precisa dessa informação para confirmar se sua entrada foi registrada corretamente. Acessando o site pelo celular, ele encontra inicialmente a aba "Minha Frequência" e clica nela, acreditando que seria o local adequado para essa consulta. No entanto, ele percebe que as informações de acessos não estão disponíveis nessa seção. Sentindo certa frustração, Lucas volta ao menu principal e localiza a aba "Meus Acessos". Ao tocar nela, ele é direcionado para a pagina correta, onde encontra um campo para selecionar as datas de início e fim. Após escolher as datas desejadas, ele aguarda alguns segundos enquanto as informações são carregadas. Quando a página é atualizada, Lucas consegue visualizar os acessos realizados, com os horários e locais de cada entrada, tudo de forma clara e organizada. Mesmo com a pequena dificuldade inicial para encontrar a aba certa, ele consegue concluir sua tarefa sem maiores problemas.
 
+## Cenário 6: roca de Instituição no site Passe Livre Estudantil
+
+Mariana Silva precisa realizar a troca de instituição no sistema Passe Livre Estudantil. Ao acessar o site, ela navega até a tela de "Troca de Instituição" e seleciona a opção "Nova Solicitação".
+
+Na nova tela, Mariana preenche os seguintes campos obrigatórios:
+
+Matrícula, Instituição de Ensino, Modalidade, Curso, Série/Período/Ano.
+
+Adicionalmente, há um campo opcional para inserir observações e outro para anexar arquivos necessários. Mariana preenche todos os dados obrigatórios, anexa os documentos solicitados e, por fim, salva a solicitação.
+
+Em seguida, ela acessa a seção "Acompanhar Solicitação", onde visualiza um indicador de status dividido em quatro etapas:
+
+Solicitado, Em análise, Aprovado, Rejeitado
+No caso de Mariana, o status atual da solicitação aparece como "Solicitado".
+
+
+
+
+
 ## Cenário 7: Solicitação de extensão de acesso
 
 Lucas Oliveira realiza o login na plataforma para solicitar a extensão de acessos no Passe Livre Estudantil devido à matrícula em mais de uma Instituição de Ensino. Ele acessa a aba "Extensão de Acesso" e clica em "Nova Solicitação". Na nova página, ele lê e aceita o Termo de Uso, que informa o prazo de análise e os documentos necessários. Em seguida, preenche o formulário indicando o motivo da solicitação, insere seus dados, e anexa a declaração da segunda Instituição de Ensino. Após revisar as informações, clica em "Enviar". Depois, Lucas acessa a aba "Acompanhar Solicitações" para verificar que o status da solicitação está como "Solicitado" e aguarda o retorno.
+
+
 
 ## Bibliografia
 
