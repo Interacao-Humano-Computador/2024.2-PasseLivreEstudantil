@@ -38,6 +38,11 @@ Lucas Oliveira realiza o login na plataforma e deseja verificar os acessos reali
 
 Lucas Oliveira realiza o login na plataforma para solicitar a extensão de acessos no Passe Livre Estudantil devido à matrícula em mais de uma Instituição de Ensino. Ele acessa a aba "Extensão de Acesso" e clica em "Nova Solicitação". Na nova página, ele lê e aceita o Termo de Uso, que informa o prazo de análise e os documentos necessários. Em seguida, preenche o formulário indicando o motivo da solicitação, insere seus dados, e anexa a declaração da segunda Instituição de Ensino. Após revisar as informações, clica em "Enviar". Depois, Lucas acessa a aba "Acompanhar Solicitações" para verificar que o status da solicitação está como "Solicitado" e aguarda o retorno.
 
+## Cenário 8: Troca de endereço 
+
+Mariana Silva, estudante universitária, precisa atualizar seu endereço cadastrado na plataforma após mudar de residência. Ao acessar o sistema pelo computador, ela navega até a aba "Meus Dados", mas não encontra a opção de editar o endereço.
+Após retornar ao menu principal, Maria localiza a aba "Atualizar Cadastro" e, na seção "Endereço", insere as novas informações. Após salvar as alterações, a plataforma exibe uma mensagem de sucesso confirmando a atualização. Maria verifica o novo endereço e conclui a tarefa de forma rápida e eficiente.
+
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
