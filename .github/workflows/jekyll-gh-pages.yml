@@ -4,7 +4,8 @@ on:
     branches:
       - main
     paths:
-      - '2024.2-GRUPO07/**'
+      - 'docs/**'
+      - '2024.2-Grupo07/**'
   workflow_dispatch:
 permissions:
   contents: write
