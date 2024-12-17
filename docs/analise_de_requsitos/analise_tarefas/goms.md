@@ -102,3 +102,4 @@ GOAL 0: Fazer login na página para solicitar extensão de acesso
 | 02/12/2024 |        03/12/2024        |  1.0   | Criação da Página |     Mateus      | Lucena  |
 | 03/12/2024 |        03/12/2024        |  1.1   |  Adição de goms   |  Breno Lucena   | Mateus  |
 | 03/12/2024 |        03/12/2024        |  1.2   |  Adição de goms   | Breno Fernandes | Mateus  |
+| 17/12/2024 |        23/12/2024        |  1.3   |  Adição de goms   | Felipe Verissimo | Mateus  |
