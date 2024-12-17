@@ -77,3 +77,4 @@ Em poucos segundos, a versão digital do cartão aparece na tela, com um QR Code
 | 03/12/2024 |        03/12/2024        |  1.2   |   Criação dp cenário 3   |  Breno Lucena   |  Mateus   |
 | 03/12/2024 |        03/12/2024        |  1.3   |   Criação dp cenário 4   | Breno Fernandes |  Mateus   |
 | 16/12/2024 |        17/12/2024        |  1.4   | Atualização do cenário 4 |     Mateus      | Verissimo |
+| 17/12/2024 |        20/12/2024        |  1.5   | Atualização do cenário 8 e 9 | Verissimo   | Mateus    |

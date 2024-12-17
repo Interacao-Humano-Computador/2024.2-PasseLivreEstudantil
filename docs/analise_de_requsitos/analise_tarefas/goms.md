@@ -66,6 +66,23 @@ GOAL 0: Fazer login na página para solicitar extensão de acesso
  OP 3.1: Navegar até a aba "Acompanhar Solicitações"  
  OP 3.2: Ler o status atual da solicitação (e.g., "Solicitado", "Em análise").
 
+## Cenario 9: Criação do Cartão Virtual do Passe Livre Estudantil
+
+- **GOAL 0: Obter o cartão virtual do passe livre estudantil**
+- **GOAL 1: Fazer login na página para acessar a funcionalidade**
+- **GOAL 2: Navegar até a aba "Cartão Virtual"**
+  -  **OP 2.1:** Procurar no menu a opção "Cartão Virtual"  
+  -  **OP 2.2:** Pressionar a opção para acessá-la  
+- **GOAL 3: Preencher os dados necessários para criar o cartão virtual**
+  - **OP 3.1:** Inserir nome completo  
+  - **OP 3.2:** Inserir CPF  
+  - **OP 3.3:** Inserir o número do cartão físico  
+  - **OP 3.4:** Confirmar os dados pressionando o botão "Gerar Cartão Virtual"  
+- **GOAL 4: Finalizar o processo e acessar o cartão virtual gerado**
+  - **OP 4.1:** Visualizar o cartão virtual com QR Code na tela  
+  - **OP 4.2:** Escolher uma das opções para integrar o cartão a aplicativos como Google Pay ou Apple Wallet  
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1. </a>Kieras, David (2001). Using the keystroke-level model to estimate execution times.
@@ -85,3 +102,4 @@ GOAL 0: Fazer login na página para solicitar extensão de acesso
 | 02/12/2024 |        03/12/2024        |  1.0   | Criação da Página |     Mateus      | Lucena  |
 | 03/12/2024 |        03/12/2024        |  1.1   |  Adição de goms   |  Breno Lucena   | Mateus  |
 | 03/12/2024 |        03/12/2024        |  1.2   |  Adição de goms   | Breno Fernandes | Mateus  |
+| 17/12/2024 |        23/12/2024        |  1.3   |  Adição de goms   | Felipe Verissimo | Mateus  |
