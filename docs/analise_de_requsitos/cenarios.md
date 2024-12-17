@@ -50,9 +50,6 @@ Solicitado, Em análise, Aprovado, Rejeitado
 No caso de Mariana, o status atual da solicitação aparece como "Solicitado".
 
 
-
-
-
 ## Cenário 7: Solicitação de extensão de acesso
 
 Lucas Oliveira realiza o login na plataforma para solicitar a extensão de acessos no Passe Livre Estudantil devido à matrícula em mais de uma Instituição de Ensino. Ele acessa a aba "Extensão de Acesso" e clica em "Nova Solicitação". Na nova página, ele lê e aceita o Termo de Uso, que informa o prazo de análise e os documentos necessários. Em seguida, preenche o formulário indicando o motivo da solicitação, insere seus dados, e anexa a declaração da segunda Instituição de Ensino. Após revisar as informações, clica em "Enviar". Depois, Lucas acessa a aba "Acompanhar Solicitações" para verificar que o status da solicitação está como "Solicitado" e aguarda o retorno.
@@ -61,6 +58,12 @@ Lucas Oliveira realiza o login na plataforma para solicitar a extensão de acess
 
 Mariana Silva, estudante universitária, precisa atualizar seu endereço cadastrado na plataforma após mudar de residência. Ao acessar o sistema pelo computador, ela navega até a aba "Meus Dados", mas não encontra a opção de editar o endereço.
 Após retornar ao menu principal, Maria localiza a aba "Atualizar Cadastro" e, na seção "Endereço", insere as novas informações. Após salvar as alterações, a plataforma exibe uma mensagem de sucesso confirmando a atualização. Maria verifica o novo endereço e conclui a tarefa de forma rápida e eficiente.
+
+## Cenário 9: Criação do Cartão Virtual do Passe Livre Estudantil
+
+Joana Silva, estudante universitária, frequentemente esquece ou perde o cartão físico do passe livre estudantil. Ao acessar a plataforma, ela descobre uma nova funcionalidade que permite transformar o cartão físico em um cartão virtual.
+Após realizar o login no celular, Joana acessa a aba "Cartão Virtual" no menu principal. O sistema solicita a confirmação de dados pessoais, como nome, CPF e o número do cartão físico. Com todas as informações preenchidas, ela clica em "Gerar Cartão Virtual".
+Em poucos segundos, a versão digital do cartão aparece na tela, com um QR Code para uso imediato e a opção de integrá-lo ao Apple Wallet ou Google Pay. No dia seguinte, Joana utiliza o cartão virtual no transporte público, confirmando sua praticidade e funcionamento perfeito.
 
 ## Bibliografia
 
