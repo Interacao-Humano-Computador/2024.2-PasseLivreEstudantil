@@ -18,17 +18,13 @@ O estudante realiza o login na plataforma para verificar o status do seu cartão
 
 ## Cenário 4: Atualização de foto do cartão
 
-Lucas Oliveira, que utiliza diariamente o transporte público para ir à universidade, deseja atualizar sua foto no sistema do Passe Livre Estudantil. A foto atual, cadastrada há dois anos, já não reflete sua aparência atual, fator que o incomoda quando o mesmo olha para seu cartão físico. Decidido a resolver a situação, Lucas acessa o sistema pelo portal oficial do Passe Livre.
+Mariana Silva, que utiliza diariamente o transporte público para ir à universidade, deseja atualizar sua foto no sistema do Passe Livre Estudantil. A foto atual, cadastrada há dois anos, já não reflete sua aparência atual, fator que o incomoda quando o mesmo olha para seu cartão físico. Decidido a resolver a situação, Mariana acessa o sistema pelo portal oficial do Passe Livre.
 
-Após realizar o login utilizando suas credenciais (número de CPF e senha cadastrada), Lucas navega até a aba "Alteração de Foto", localizada no menu. A página carrega um formulário intuitivo, acompanhado da seguinte descrição: "Com a atualização de sua foto, não haverá necessidade de nova impressão de seu cartão, caso queira o cartão com sua foto atualizada será necessário solicitar a 2ª via de seu cartão mediante o pagamento de taxa no valor de $5.40."
+Após realizar o login , Mariana navega até a aba "Alteração de Foto", localizada no menu. A página carrega um formulário intuitivo, acompanhado da seguinte descrição: "Com a atualização de sua foto, não haverá necessidade de nova impressão de seu cartão, caso queira o cartão com sua foto atualizada será necessário solicitar a 2ª via de seu cartão mediante o pagamento de taxa no valor de $5.40."
 
-Lucas fica com dúvidas referente ao formato da foto, visto que não há um direcionamento quanto ao formato (PNG,JPEG e afins), ou sobre a resolução da foto, então ele apenas tira uma foto de seu rosto e envia.
+Mariana fica com dúvidas referente ao formato da foto, visto que não há um direcionamento quanto ao formato (PNG,JPEG e afins), ou sobre a resolução da foto, então ela apenas tira uma foto de seu rosto e envia. Ao clicar no botão "Salvar", a imagem selecionada é enviada para um processo de verificação, processo que não é feito de forma síncrona com o envio, o que deixa Mariana desapontado visto que ela queria alterar a foto e pedir uma nova via de seu cartão já com a foto atualizada.
 
-Ao clicar no botão "Salvar", a imagem selecionada é enviada para um processo de verificação, processo que não é feito de forma síncrona com o envio, o que deixa Lucas desapontado visto que ele queria alterar a foto e pedir uma nova via de seu cartão já com a foto atualizada.
-
-Após dois dias Lucas volta no site para verificar o andamento da troca de foto e se depara com a seguinte mensagem na aba inicial do sistema: "FOTO RECUSADA FORA DO PADRÃO SOLICITADO, POSTE FOTO COLORIDA, RECENTE, DE FRENTE COM FUNDO BRANCO, NO LINK ENVIO DE ARQUIVOS E FOTO", o que o incomoda bastante visto que se houvesse uma verificação feita ao enviar a foto ele não precisaria aguardar dias para ver uma mensagem de erro, mesmo irritado, Lucas tira uma nova foto de acordo com o que foi pedido e envia novamente.
-
-Mais dois dias se passam e finalmente a foto de Lucas está atualizada, agora basta solicitar uma segunda via do cartão para retirar um cartão com foto atualizada.
+Após a validação da foto ser concluída, Mariana consegue visualizar sua nova foto do passe livre e vai em busca do seu novo cartão com foto atualizada.
 
 ## Cenário 5: Verificação de acessos em um dia específico
 
@@ -49,12 +45,11 @@ Em seguida, ela acessa a seção "Acompanhar Solicitação", onde visualiza um i
 Solicitado, Em análise, Aprovado, Rejeitado
 No caso de Mariana, o status atual da solicitação aparece como "Solicitado".
 
-
 ## Cenário 7: Solicitação de extensão de acesso
 
 Lucas Oliveira realiza o login na plataforma para solicitar a extensão de acessos no Passe Livre Estudantil devido à matrícula em mais de uma Instituição de Ensino. Ele acessa a aba "Extensão de Acesso" e clica em "Nova Solicitação". Na nova página, ele lê e aceita o Termo de Uso, que informa o prazo de análise e os documentos necessários. Em seguida, preenche o formulário indicando o motivo da solicitação, insere seus dados, e anexa a declaração da segunda Instituição de Ensino. Após revisar as informações, clica em "Enviar". Depois, Lucas acessa a aba "Acompanhar Solicitações" para verificar que o status da solicitação está como "Solicitado" e aguarda o retorno.
 
-## Cenário 8: Troca de endereço 
+## Cenário 8: Troca de endereço
 
 Mariana Silva, estudante universitária, precisa atualizar seu endereço cadastrado na plataforma após mudar de residência. Ao acessar o sistema pelo computador, ela navega até a aba "Meus Dados", mas não encontra a opção de editar o endereço.
 Após retornar ao menu principal, Maria localiza a aba "Atualizar Cadastro" e, na seção "Endereço", insere as novas informações. Após salvar as alterações, a plataforma exibe uma mensagem de sucesso confirmando a atualização. Maria verifica o novo endereço e conclui a tarefa de forma rápida e eficiente.
@@ -72,7 +67,6 @@ Em poucos segundos, a versão digital do cartão aparece na tela, com um QR Code
 > https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/metas-usabilidade.md#REF1
 
 > https://github.com/Interacao-Humano-Computador/2022.1-AgenciaVirtualNeoenergia/blob/master/ghpages08/docs/analise_de_requisitos/metas_usabilidade.md
-
 
 ## Histórico de Versão
 
