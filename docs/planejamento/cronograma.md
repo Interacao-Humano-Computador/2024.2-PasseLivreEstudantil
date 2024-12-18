@@ -187,7 +187,7 @@ _Tabela 16 - Cronograma de Planejamento da Entrega 1_
 
 > [Cronograma Disponiblizado via Aprender3](https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
 
-## Histórico de Versão
+## Histórico de Versões
 
 |    Data    | Data Prevista de Revisão | Versão |         Descrição         |   Autor   |  Revisor  |
 | :--------: | :----------------------: | :----: | :-----------------------: | :-------: | :-------: |

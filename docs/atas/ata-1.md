@@ -42,7 +42,7 @@ Não gravamos a reunião
 
 ---
 
-## Histórico de Versão
+## Histórico de Versões
 
 | Versão | Data       | Descrição               | Autor(es) | Revisor(es) |
 |--------|------------|-------------------------|-----------|-------------|

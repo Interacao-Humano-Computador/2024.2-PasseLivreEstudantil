@@ -27,7 +27,7 @@ _Tabela 1: Lista de verificação da entrega 02_
 
 > [Lista de Verificação disponibilizada via Aprender3.](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
 
-## Histórico de Versão
+## Histórico de Versões
 
 |    Data    | Data Prevista de Revisão | Versão |        Descrição        |     Autor     |     Revisor     |
 | :--------: | :----------------------: | :----: | :---------------------: | :-----------: | :-------------: |

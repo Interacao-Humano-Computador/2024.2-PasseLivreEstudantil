@@ -12,7 +12,7 @@ _Figura 1 - Heatmap de Disponibilidade da Equipe_
 
 > [Heatmap disponibilizado pelo professor via Aprender3](https://docs.google.com/spreadsheets/d/1qsrnEGGf6XWL3buII_7EzXH1-NXewr9G0aicRZ9fVAs/edit?gid=96807035#gid=96807035)
 
-## Histórico de Versão
+## Histórico de Versões
 
 |    Data    | Data Prevista de Revisão | Versão |         Descrição         |      Autor      |   Revisor    |
 | :--------: | :----------------------: | :----: | :-----------------------: | :-------------: | :----------: |

@@ -40,7 +40,7 @@ A ser definida
 
 ---
 
-## Histórico de Versão
+## Histórico de Versões
 
 | Versão | Data       | Descrição               | Autor(es) | Revisor(es) |
 |--------|------------|-------------------------|-----------|-------------|

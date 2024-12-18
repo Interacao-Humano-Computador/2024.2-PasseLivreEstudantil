@@ -1,12 +1,16 @@
 # Cenários
 
-## Objetivo
+## Introdução
+Cenários são narrativas detalhadas que descrevem situações de uso de uma aplicação, envolvendo atores, processos e dados reais ou potenciais. Eles têm como objetivo capturar requisitos, explorar soluções de design e avaliar a satisfação do usuário. Com um custo e tempo menores do que modelos complexos, os cenários são uma ferramenta importante no design de interfaces. Cada cenário apresenta um ator principal, com um objetivo central que pode ser desdobrado em subobjetivos. Além disso, inclui sequências de ações, eventos e planejamento que ajudam ou dificultam o alcance dos objetivos.
 
-Essa documentação tem o objetivo explorar e explicar os mais diversos cenários da interação do usuário com o sistema. Onde podemos elucidar os fluxos que o usuário pode percorrer, e onde naturamente podemos identificar os dados e serviços utilizados em cada cenário. Analisar esses cenários podem ter diversas utilidades, como por exemplo, auxiliar o usuário em seu nível de satisfação e entendimento do sistema, ou até mesmo auxiliar o desenvolvedor a entender o que o usuário espera do sistema.
+<font size="3"><p style="text-align: center">Figura 1 - Explicação dos Cenários</p></font>
+
+<center>![Figura 1](../assets/livro_cenarios_170.png)</center>
+<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font>
 
 ## Cenário 1: Visualização da obtenção do passe livre
 
-Lucas Oliveira faz o login na plataforma e deseja entender se seu cartão está quase pronto para ser utilizado. Como é sua primeira vez obtendo um passe livre este deseja se planejar sobre a obtenção do passe livre. Ele acessa pelo seu celular, sua única forma de acessar a internet na rua, onde não estava com mais nenhum dispositivo que se conecta-se com a internet. Abre pelo Google Chrome o site online e sente certa dificuldade em rolar pelo site pouco responsivo, até troca a orientação do conteúdo na tela, por fim entende que seu processo apenas ainda está em análise.
+Lucas Oliveira acessa a plataforma pela primeira vez para verificar se seu cartão de passe livre está quase pronto para uso. Como é sua primeira experiência com o benefício, ele deseja se organizar melhor em relação ao processo. Utilizando apenas seu celular, que é seu único meio de acesso à internet fora de casa, ele abre o site pelo Google Chrome. No entanto, encontra dificuldades para navegar devido à baixa responsividade da página. Tentando contornar o problema, ele até muda a orientação da tela, mas ainda assim enfrenta desafios para visualizar o conteúdo. Por fim, consegue entender que seu processo está apenas em análise.
 
 ## Cenário 2: Solicitação de segunda via de cartão
 
@@ -30,7 +34,7 @@ Após a validação da foto ser concluída, Mariana consegue visualizar sua nova
 
 Lucas Oliveira realiza o login na plataforma e deseja verificar os acessos realizados em um dia específico. Ele precisa dessa informação para confirmar se sua entrada foi registrada corretamente. Acessando o site pelo celular, ele encontra inicialmente a aba "Minha Frequência" e clica nela, acreditando que seria o local adequado para essa consulta. No entanto, ele percebe que as informações de acessos não estão disponíveis nessa seção. Sentindo certa frustração, Lucas volta ao menu principal e localiza a aba "Meus Acessos". Ao tocar nela, ele é direcionado para a pagina correta, onde encontra um campo para selecionar as datas de início e fim. Após escolher as datas desejadas, ele aguarda alguns segundos enquanto as informações são carregadas. Quando a página é atualizada, Lucas consegue visualizar os acessos realizados, com os horários e locais de cada entrada, tudo de forma clara e organizada. Mesmo com a pequena dificuldade inicial para encontrar a aba certa, ele consegue concluir sua tarefa sem maiores problemas.
 
-## Cenário 6: roca de Instituição no site Passe Livre Estudantil
+## Cenário 6: Troca de Instituição no site Passe Livre Estudantil
 
 Mariana Silva precisa realizar a troca de instituição no sistema Passe Livre Estudantil. Ao acessar o site, ela navega até a tela de "Troca de Instituição" e seleciona a opção "Nova Solicitação".
 
@@ -68,13 +72,13 @@ Em poucos segundos, a versão digital do cartão aparece na tela, com um QR Code
 
 > https://github.com/Interacao-Humano-Computador/2022.1-AgenciaVirtualNeoenergia/blob/master/ghpages08/docs/analise_de_requisitos/metas_usabilidade.md
 
-## Histórico de Versão
+## Histórico de Versões
 
-|    Data    | Data Prevista de Revisão | Versão |        Descrição         |      Autor      |  Revisor  |
-| :--------: | :----------------------: | :----: | :----------------------: | :-------------: | :-------: |
-| 02/12/2024 |        02/12/2024        |  1.0   |    Criação da Página     |     Mateus      |   Dion    |
-| 02/12/2024 |        02/12/2024        |  1.1   |   Criação do cenário 2   |      Dion       |  Mateus   |
-| 03/12/2024 |        03/12/2024        |  1.2   |   Criação dp cenário 3   |  Breno Lucena   |  Mateus   |
-| 03/12/2024 |        03/12/2024        |  1.3   |   Criação dp cenário 4   | Breno Fernandes |  Mateus   |
-| 16/12/2024 |        17/12/2024        |  1.4   | Atualização do cenário 4 |     Mateus      | Verissimo |
-| 17/12/2024 |        20/12/2024        |  1.5   | Atualização do cenário 8 e 9 | Verissimo   | Mateus    |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |      Autor      |  Revisor  |
+| :--------: | :----------------------: | :----: | :--------------------------: | :-------------: | :-------: |
+| 02/12/2024 |        02/12/2024        |  1.0   |      Criação da Página       |     Mateus      |   Dion    |
+| 02/12/2024 |        02/12/2024        |  1.1   |     Criação do cenário 2     |      Dion       |  Mateus   |
+| 03/12/2024 |        03/12/2024        |  1.2   |     Criação dp cenário 3     |  Breno Lucena   |  Mateus   |
+| 03/12/2024 |        03/12/2024        |  1.3   |     Criação dp cenário 4     | Breno Fernandes |  Mateus   |
+| 16/12/2024 |        17/12/2024        |  1.4   |   Atualização do cenário 4   |     Mateus      | Verissimo |
+| 17/12/2024 |        20/12/2024        |  1.5   | Atualização do cenário 8 e 9 |    Verissimo    |  Mateus   |

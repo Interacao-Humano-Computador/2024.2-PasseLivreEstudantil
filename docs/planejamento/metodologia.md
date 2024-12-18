@@ -29,7 +29,7 @@ Para garantir o alinhamento da equipe e promover a transparência no desenvolvim
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 > Software Engineering Body of Knowledge (SWEBOK) V3.0 | IEEE Computer Society» (em inglês).
 
-## Histórico de Versão
+## Histórico de Versões
 
 |    Data    | Data Prevista de Revisão | Versão |               Descrição                |      Autor      |     Revisor     |
 | :--------: | :----------------------: | :----: | :------------------------------------: | :-------------: | :-------------: |

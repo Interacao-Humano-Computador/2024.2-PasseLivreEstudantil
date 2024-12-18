@@ -28,7 +28,7 @@ Essa página é referente aos artefatos referentes a Entrega 4, caso não consig
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-## Histórico de Versão
+## Histórico de Versões
 
 |    Data    | Data Prevista de Revisão | Versão |     Descrição     |                   Autor                    | Revisor |
 | :--------: | :----------------------: | :----: | :---------------: | :----------------------------------------: | :-----: |

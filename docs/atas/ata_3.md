@@ -48,7 +48,7 @@
 
 ---
 
-## Histórico de Versão
+## Histórico de Versões
 
 | Versão | Data       | Descrição         | Autor        | Revisor         |
 | ------ | ---------- | ----------------- | ------------ | --------------- |

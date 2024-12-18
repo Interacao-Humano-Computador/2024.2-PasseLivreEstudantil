@@ -1,10 +1,21 @@
-# Introdução
+# Aspectos Éticos de Pesquisas Envolvendo Pessoas
 
-O Termo de Consentimento Livre e Esclarecido (TCLE) é um instrumento essencial para garantir que os participantes de pesquisas científicas sejam informados sobre os detalhes da pesquisa, como seus objetivos, metodologia, possíveis riscos e benefícios, além de assegurar que a participação seja voluntária e sem coação. O TCLE é um documento formal, assinado pelo participante (ou seu responsável, no caso de menores de idade ou incapazes), confirmando que ele compreende completamente o que está sendo proposto e concorda com sua participação.
+## Introdução
 
-O TCLE deve estar em conformidade com os princípios éticos estabelecidos pela Resolução nº 466/2012 do Conselho Nacional de Saúde, garantindo, assim, o respeito à autonomia, dignidade e integridade dos participantes. O documento deve ser claro e compreensível, considerando a vulnerabilidade dos participantes, especialmente em casos de grupos específicos, como menores de idade ou pessoas com alguma limitação cognitiva.
+Pesquisas em Computação que envolvem pessoas demandam forte atenção aos aspectos éticos, seguindo diretrizes de associações como a ACM e a IEEE. É fundamental evitar causar danos ou consequências negativas, respeitar a privacidade, manter a confidencialidade de informações e prevenir impactos indesejados, como perda de dados ou danos ambientais. Além disso, deve-se proteger a integridade, reputação e emprego dos envolvidos. No Brasil, embora ainda não exista um código de ética específico pela Sociedade Brasileira de Computação, a ética é abordada nos currículos de referência, refletindo a preocupação com práticas responsáveis na área.
+<font size="3"><p style="text-align: center">Figura 1 - Explicação de Aspectos Éticos de Pesquisas Envolvendo Pessoas</p></font>
 
-No Brasil, a resolução nº 466/2012 do Conselho Nacional de Saúde rege as questões ligadas às pesquisas científicas envolvendo pessoas com base nos seguintes princípios:
+<center>![Figura 1](../assets/livro_aspectos_138.png)</center>
+<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font>
+
+## Os 4 Princípios
+
+Segundo a Resolução No 466/2012 do Conselho Nacional de Saúde, devemos considerar os seguintes princípios para orientar o avaliador durante seu trabalho:
+
+<font size="3"><p style="text-align: center">Figura 2 - Explicação dos princípios</p></font>
+
+<center>![Figura 2](../assets/livro_aspectos_139.png)</center>
+<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font>
 
 ### Princípio da autonomia
 
@@ -22,30 +33,43 @@ Busca garantir que danos previsíveis relacionados à pesquisa sejam evitados, t
 
 Está relacionado à relevância social da pesquisa, buscando vantagens significativas para os participantes e minimização do ônus para aqueles que são vulneráveis. É importante garantir a igual consideração dos interesses envolvidos em todas as etapas da pesquisa.
 
-# Termo de Consentimento Livre e Esclarecido
+## Termo de Consentimento Livre e Esclarecido
 
-Somos uma equipe da disciplina de Interação Humano-Computador, que está realizando uma avaliação sobre o **passe livre estudantil**. Os resultados deste projeto podem ser observados através deste [link](https://interacao-humano-computador.github.io/2024.2-Grupo07/). Nesta etapa do projeto, **[DESCREVER ETAPA]**. Estamos realizando uma série de pesquisas e solicitamos seu consentimento para a realização de uma atividade de **[DESCRIÇÃO DA ATIVIDADE]**, com duração aproximada de **[TEMPO DE DURAÇÃO]**.
+<font size="3"><p style="text-align: center">Figura 3 - Explicação do Termo de Consentimento Livre e Esclarecido</p></font>
+
+<center>![Figura 3](../assets/livro_aspectos_140.png)</center>
+<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font>
+
+Somos uma equipe da disciplina de Interação Humano-Computador, que está realizando uma avaliação sobre o passe livre estudantil. Nessa etapa do projeto, queremos conhecer o que alguns usuários e/ou pessoas afetadas pelo sistema pensam a respeito do processo atual e como imaginam que o novo sistema poderia apoiar o seu uso. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de uma entrevista, com duração aproximada de [TEMPO DE DURAÇÃO].
 
 Para decidir sobre o seu consentimento, é importante que você tenha conhecimento das seguintes informações sobre a pesquisa:
 
-- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente.
-- O consentimento para a participação na atividade é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
-- A atividade pode ser interrompida a qualquer momento, de acordo com sua disponibilidade e vontade.
-- Será necessário gravar a atividade, e as gravações efetuadas serão divulgadas nos resultados do projeto.
-- Os dados coletados durante a atividade serão utilizados exclusivamente para análise e elaboração de melhorias no sistema de passe livre estudantil.
+- Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do sistema de passe livre estudantil.
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação desses resultados será feita com respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documentos que elaborarmos.
+- O consentimento para a participação na entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+- A entrevista pode ser interrompida a qualquer momento, de acordo com sua disponibilidade e vontade.
+- Será necessário gravar o áudio e vídeo da entrevista, e as gravações realizadas serão divulgadas nos resultados do projeto.
 
-Diante das explicações, você se considera suficientemente informado(a) sobre a pesquisa que será realizada e concorda de livre e espontânea vontade em participar, como colaborador(a)? Caso o participante seja menor de idade, é necessária a permissão do responsável legal.
+Diante dessas informações, gostaríamos que você se pronunciasse acerca da sua participação:
 
-- [ ] Sim
-- [ ] Não
+Dou meu consentimento para a realização da entrevista.
+Não consinto com a sua realização.
+
+[local], [data]
+
+[assinatura do entrevistador] [assinatura do entrevistado]
+
+[nome do entrevistador] [nome do entrevistado]
 
 ## Bibliografia
 
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-BRASIL. Resolução nº 466, de 12 de dezembro de 2012. Aprova as diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos. Diário Oficial da União, Brasília, 13 dez. 2012. Seção 1, p. 59-62.
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
-## **Histórico de Versão**
+> BRASIL. Resolução nº 466, de 12 de dezembro de 2012. Aprova as diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos. Diário Oficial da União, Brasília, 13 dez. 2012. Seção 1, p. 59-62.
 
-| **Versão** | **Data**   | **Descrição**                     | **Autor(es)** | **Revisor**     |
-| ---------- | ---------- | --------------------------------- | ------------- | --------------- |
-| 1.0        | 24/11/2024 | Criação do Termo de Consentimento | Breno Lucena  | Breno Fernandes |
+## Histórico de Versões
+
+|    Data    | Data Prevista de Revisão | Versão |             Descrição             |     Autor     |     Revisor     |
+| :--------: | :----------------------: | :----: | :-------------------------------: | :-----------: | :-------------: |
+| 24/11/2024 |        25/11/2024        |  1.0   | Criação do Termo de Consentimento | Breno Lucena  | Breno Fernandes |
+| 18/12/2024 |        19/12/2024        |  1.1   |        Correção Entrega 2         | Mateus Vieira | Breno Fernandes |
