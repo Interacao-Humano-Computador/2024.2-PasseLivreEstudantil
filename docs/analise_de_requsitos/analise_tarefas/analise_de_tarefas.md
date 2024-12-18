@@ -6,12 +6,8 @@ A análise de tarefas visa entender o trabalho dos usuários, seus objetivos, co
 
 <font size="3"><p style="text-align: center">Figura 1 - Explicação da Análise de Tarefas</p></font>
 
-<center>![Figura 1](../assets/livro_analise_176.png)</center>
+<center>![Figura 1](../../assets/livro_analise_176.png)</center>
 <font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font>
-
-<!-- ## Referências Bibliográficas
-Usar apenas se houver alguma referência bibliográfica
-<a id="REF1" href="#anchor_1">1. </a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. -->
 
 ## Bibliografia
 
