@@ -101,8 +101,8 @@ BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: E
 
 ## Histórico de Versões
 
-|    Data    | Data Prevista de Revisão | Versão |                Descrição                 |      Autor      |   Revisor    |
-| :--------: | :----------------------: | :----: | :--------------------------------------: | :-------------: | :----------: |
-| 28/11/2024 |        29/11/2024        |  1.0   |            Criação da página             | Breno Fernandes | Breno Lucena |
-| 29/11/2024 |        31/11/2024        |  1.1   | Adição de conclusão e Perfis priorizados | Breno Fernandes | Breno Lucena |
-| 18/12/2024 |        19/12/2024        |  1.2   |          Atualização da página           |     Mateus      |  Fernandes   |
+|    Data    | Data Prevista de Revisão | Versão |                Descrição                 |                   Autor                    |   Revisor    |
+| :--------: | :----------------------: | :----: | :--------------------------------------: | :----------------------------------------: | :----------: |
+| 28/11/2024 |        29/11/2024        |  1.0   |            Criação da página             |              Breno Fernandes               | Breno Lucena |
+| 29/11/2024 |        31/11/2024        |  1.1   | Adição de conclusão e Perfis priorizados |              Breno Fernandes               | Breno Lucena |
+| 18/12/2024 |        19/12/2024        |  1.2   |          Atualização da página           | [Mateus Vieira](https://github.com/matix0) |  Fernandes   |
