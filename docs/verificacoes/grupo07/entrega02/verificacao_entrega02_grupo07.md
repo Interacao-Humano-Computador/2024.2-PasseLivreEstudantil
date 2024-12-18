@@ -21,7 +21,7 @@ _Tabela 1: Lista de verificação da entrega 02_
 |                                         | 9. Os Cenários?                                                                                                            | Fernandes,Lucena,Mateus,Verissimo |     Sim      |                                      |                                                      |
 |                                         | 10. A Análise de tarefas?                                                                                                  |              Mateus               |     Sim      |                                      |                                                      |
 |                                         | 11. Uma atividade para cada integrante do grupo modelizada em ao menos duas técnicas para especificar as tarefas?          | Fernandes,Lucena,Mateus,Verissimo |  Incompleto  |                                      | Faltam ser realizados GOMS e HTA de alguns cenários. |
-|                                         | 12. Utilizaram alguma técnica para especificar as tarefas?                                                                 |                ---                |              |                                      |                                                      |
+|                                         | 12. Utilizaram alguma técnica para especificar as tarefas?                                                                 |                ---                |     Sim      |                                      |                                                      |
 
 ## Bibliografia
 
