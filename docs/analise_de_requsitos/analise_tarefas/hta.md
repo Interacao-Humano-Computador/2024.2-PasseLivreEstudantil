@@ -76,7 +76,7 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 
 ## Histórico de Revisão
 
-|    Data    | Data Prevista de Revisão | Versão |     Descrição     |   Autor   |  Revisor  |
-| :--------: | :----------------------: | :----: | :---------------: | :-------: | :-------: |
-| 14/12/2024 |        16/12/2024        |  1.0   | Criação da Página | Fernandes |  Mateus   |
-| 16/12/2024 |        17/12/2024        |  1.1   |   Adição HTA 4    |  Mateus   | Fernandes |
+|    Data    | Data Prevista de Revisão | Versão |     Descrição     |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :---------------: | :----------------------------------------: | :----------------------------------------: |
+| 14/12/2024 |        16/12/2024        |  1.0   | Criação da Página |                 Fernandes                  | [Mateus Vieira](https://github.com/matix0) |
+| 16/12/2024 |        17/12/2024        |  1.1   |   Adição HTA 4    | [Mateus Vieira](https://github.com/matix0) |                 Fernandes                  |

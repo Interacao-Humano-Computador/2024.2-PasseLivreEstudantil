@@ -69,7 +69,7 @@ Não consinto com a sua realização.
 
 ## Histórico de Versões
 
-|    Data    | Data Prevista de Revisão | Versão |             Descrição             |     Autor     |     Revisor     |
-| :--------: | :----------------------: | :----: | :-------------------------------: | :-----------: | :-------------: |
-| 24/11/2024 |        25/11/2024        |  1.0   | Criação do Termo de Consentimento | Breno Lucena  | Breno Fernandes |
-| 18/12/2024 |        19/12/2024        |  1.1   |        Correção Entrega 2         | Mateus Vieira | Breno Fernandes |
+|    Data    | Data Prevista de Revisão | Versão |             Descrição             |                   Autor                    |     Revisor     |
+| :--------: | :----------------------: | :----: | :-------------------------------: | :----------------------------------------: | :-------------: |
+| 24/11/2024 |        25/11/2024        |  1.0   | Criação do Termo de Consentimento |                Breno Lucena                | Breno Fernandes |
+| 18/12/2024 |        19/12/2024        |  1.1   |        Correção Entrega 2         | [Mateus Vieira](https://github.com/matix0) | Breno Fernandes |

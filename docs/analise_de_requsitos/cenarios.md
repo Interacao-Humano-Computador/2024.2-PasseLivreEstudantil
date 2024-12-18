@@ -74,11 +74,11 @@ Em poucos segundos, a versão digital do cartão aparece na tela, com um QR Code
 
 ## Histórico de Versões
 
-|    Data    | Data Prevista de Revisão | Versão |          Descrição           |      Autor      |  Revisor  |
-| :--------: | :----------------------: | :----: | :--------------------------: | :-------------: | :-------: |
-| 02/12/2024 |        02/12/2024        |  1.0   |      Criação da Página       |     Mateus      |   Dion    |
-| 02/12/2024 |        02/12/2024        |  1.1   |     Criação do cenário 2     |      Dion       |  Mateus   |
-| 03/12/2024 |        03/12/2024        |  1.2   |     Criação dp cenário 3     |  Breno Lucena   |  Mateus   |
-| 03/12/2024 |        03/12/2024        |  1.3   |     Criação dp cenário 4     | Breno Fernandes |  Mateus   |
-| 16/12/2024 |        17/12/2024        |  1.4   |   Atualização do cenário 4   |     Mateus      | Verissimo |
-| 17/12/2024 |        20/12/2024        |  1.5   | Atualização do cenário 8 e 9 |    Verissimo    |  Mateus   |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 02/12/2024 |        02/12/2024        |  1.0   |      Criação da Página       | [Mateus Vieira](https://github.com/matix0) |                    Dion                    |
+| 02/12/2024 |        02/12/2024        |  1.1   |     Criação do cenário 2     |                    Dion                    | [Mateus Vieira](https://github.com/matix0) |
+| 03/12/2024 |        03/12/2024        |  1.2   |     Criação dp cenário 3     |                Breno Lucena                | [Mateus Vieira](https://github.com/matix0) |
+| 03/12/2024 |        03/12/2024        |  1.3   |     Criação dp cenário 4     |              Breno Fernandes               | [Mateus Vieira](https://github.com/matix0) |
+| 16/12/2024 |        17/12/2024        |  1.4   |   Atualização do cenário 4   | [Mateus Vieira](https://github.com/matix0) |                 Verissimo                  |
+| 17/12/2024 |        20/12/2024        |  1.5   | Atualização do cenário 8 e 9 |                 Verissimo                  | [Mateus Vieira](https://github.com/matix0) |

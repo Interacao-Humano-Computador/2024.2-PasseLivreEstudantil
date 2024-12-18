@@ -41,7 +41,7 @@ Para garantir o sucesso deste projeto, utilizamos diversas ferramentas computaci
 
 ## Histórico de Versões
 
-|    Data    | Data Prevista de Revisão | Versão |                  Descrição                  |      Autor      |   Revisor    |
-| :--------: | :----------------------: | :----: | :-----------------------------------------: | :-------------: | :----------: |
-| 11/11/2024 |        11/11/2024        |  1.0   |      Criação da pagina de ferramentas       | Breno Fernandes | Mateus Viera |
-| 29/11/2024 |        30/11/2024        |  1.1   | Adicionando mais ferramentas e bibliografia | Breno Fernandes | Breno Lucena |
+|    Data    | Data Prevista de Revisão | Versão |                  Descrição                  |      Autor      |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :-----------------------------------------: | :-------------: | :----------------------------------------: |
+| 11/11/2024 |        11/11/2024        |  1.0   |      Criação da pagina de ferramentas       | Breno Fernandes | [Mateus Vieira](https://github.com/matix0) |
+| 29/11/2024 |        30/11/2024        |  1.1   | Adicionando mais ferramentas e bibliografia | Breno Fernandes |                Breno Lucena                |
