@@ -22,9 +22,9 @@ Aqui estão os documentos e artefatos essenciais para a entrega da atividade. Vo
 
 ## **Gravação**
 
-Assista à gravação da apresentação abaixo. Se não conseguir visualizar o vídeo, **clique em "Assistir no Youtube"**:
+Assista à gravação da apresentação abaixo. Se não conseguir visualizar o vídeo, [clique aqui](https://www.youtube.com/watch?v=pYS7qqoDCc0)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pYS7qqoDCc0" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/pYS7qqoDCc0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
