@@ -39,7 +39,7 @@ Para garantir o sucesso deste projeto, utilizamos diversas ferramentas computaci
 
 8. YouTube. Disponível em: [https://about.youtube/](https://about.youtube/). Acesso em: 29 de nov. de 2024..
 
-## Histórico de Versão
+## Histórico de Versões
 
 |    Data    | Data Prevista de Revisão | Versão |                  Descrição                  |      Autor      |   Revisor    |
 | :--------: | :----------------------: | :----: | :-----------------------------------------: | :-------------: | :----------: |

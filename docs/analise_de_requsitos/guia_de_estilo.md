@@ -110,7 +110,7 @@ Outros princípios importantes incluem eficiência do usuário, visibilidade e r
   *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2011. Capítulo 10.  
   Disponível em: [https://aprender3.unb.br/pluginfile.php/2972723/mod_resource/content/4/ihc-ux%20Cap.%2010.pdf](https://aprender3.unb.br/pluginfile.php/2972723/mod_resource/content/4/ihc-ux%20Cap.%2010.pdf)  
 
-## Histórico de Versão
+## Histórico de Versões
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |

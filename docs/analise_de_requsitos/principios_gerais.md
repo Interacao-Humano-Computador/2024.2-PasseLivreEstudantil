@@ -128,7 +128,7 @@ Fonte Passe Livre Estudantil
 
 
 
-## Histórico de Versão
+## Histórico de Versões
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |

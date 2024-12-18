@@ -65,8 +65,7 @@ Por mais que o sistema pareça de fácil uso inicialmente, existem tarefas que n
 
 ## Bibliografia
 
-> Nielsen, Jakob (1994c). Usability Engineering. Morgan Kaufmann Publishers Inc., San Francisco, CA,
-> USA.
+> Nielsen, Jakob (1994c). Usability Engineering. Morgan Kaufmann Publishers Inc., San Francisco, CA,USA.
 
 > https://github.com/Interacao-Humano-Computador/2022.2-Lichess/blob/main/docs/analise_requisitos/metas_usabilidade.md
 
@@ -74,7 +73,7 @@ Por mais que o sistema pareça de fácil uso inicialmente, existem tarefas que n
 
 > https://github.com/Interacao-Humano-Computador/2022.1-AgenciaVirtualNeoenergia/blob/master/ghpages08/docs/analise_de_requisitos/metas_usabilidade.md
 
-## Histórico de Versão
+## Histórico de Versões
 
 |    Data    | Data Prevista de Revisão | Versão |     Descrição     | Autor  | Revisor |
 | :--------: | :----------------------: | :----: | :---------------: | :----: | :-----: |
