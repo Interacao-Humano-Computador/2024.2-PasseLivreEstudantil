@@ -64,6 +64,15 @@ Joana Silva, estudante universitária, frequentemente esquece ou perde o cartão
 Após realizar o login no celular, Joana acessa a aba "Cartão Virtual" no menu principal. O sistema solicita a confirmação de dados pessoais, como nome, CPF e o número do cartão físico. Com todas as informações preenchidas, ela clica em "Gerar Cartão Virtual".
 Em poucos segundos, a versão digital do cartão aparece na tela, com um QR Code para uso imediato e a opção de integrá-lo ao Apple Wallet ou Google Pay. No dia seguinte, Joana utiliza o cartão virtual no transporte público, confirmando sua praticidade e funcionamento perfeito.
 
+## Cenário 10: Retirada do Cartão
+
+Mariana Silva, estudante universitária, percebeu que havia perdido seu cartão do Passe Livre Estudantil. Preocupada com a situação, ela acessou a plataforma do benefício para solicitar a emissão de um novo cartão. Durante o processo, notou uma nova funcionalidade que tornava o procedimento mais prático: a possibilidade de escolher o local de retirada do cartão.
+
+Ao iniciar o pedido, Mariana foi direcionada para uma etapa onde podia selecionar o ponto de retirada mais conveniente. Entre as opções disponíveis, como Asa Sul, Ceilândia e Taguatinga, ela escolheu o Gama, local próximo de sua residência. Em seguida, a plataforma solicitou que ela indicasse quem realizaria a retirada do cartão. Mariana optou pela opção "Eu mesma", mas também havia a alternativa de indicar um terceiro autorizado.
+
+Na etapa seguinte, Mariana foi instruída a escolher a data e o horário para a retirada. Usando um calendário interativo, selecionou um dia conveniente e escolheu o período da manhã. Após revisar todos os dados fornecidos, a plataforma exibiu uma mensagem de confirmação, informando que o pedido havia sido realizado com sucesso e destacando a necessidade de apresentar um documento de identificação no momento da retirada.
+
+
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
