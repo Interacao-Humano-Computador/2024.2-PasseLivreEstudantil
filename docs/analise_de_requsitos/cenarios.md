@@ -12,9 +12,20 @@ Cenários são narrativas detalhadas que descrevem situações de uso de uma apl
 
 Lucas Oliveira acessa a plataforma pela primeira vez para verificar se seu cartão de passe livre está quase pronto para uso. Como é sua primeira experiência com o benefício, ele deseja se organizar melhor em relação ao processo. Utilizando apenas seu celular, que é seu único meio de acesso à internet fora de casa, ele abre o site pelo Google Chrome. No entanto, encontra dificuldades para navegar devido à baixa responsividade da página. Tentando contornar o problema, ele até muda a orientação da tela, mas ainda assim enfrenta desafios para visualizar o conteúdo. Por fim, consegue entender que seu processo está apenas em análise.
 
-## Cenário 2: Solicitação de segunda via de cartão
+## Cenário 2: Solicitação de segunda via de cartão por perda
 
-Lucas Oliveira faz seu login na plataforma como já compreendido antes, mas dessa vez precisa procurar informações sobre segunda via, visto que, seu cartão acabou sendo danificado. Logo depois do login já é possível encontrar a uma aba que sugere que está perto de seu objetivo. Logo após clicar na aba, a página mostra que precisará enviar o comprovante de pagamento da taxa para obtenção da segunda via e que seu cartão atual será bloqueado imediatamente. Assim, a solicitação corre de maneira fluida, em seu celular ele viu que essa parte do site é responsivo e que não foi complicado a obtenção.
+Mariana Silva, ao perceber que perdeu seu cartão estudantil, decide realizar as tarefas necessárias para solicitar uma segunda via. Primeiro, ela utiliza suas credenciais para acessar o sistema responsável pela emissão do cartão. Após autenticar-se, ela localiza a área destinada à solicitação da segunda via e se direciona ao local correto para iniciar o processo.
+
+Antes de avançar para o pagamento, Mariana é orientada a escolher o motivo da solicitação. As opções disponíveis incluem **perda**, **roubo ou furto**, e **cartão danificado**. Com clareza sobre sua situação, Mariana seleciona a opção "perda" e prossegue com os próximos passos.
+
+Ao acessar as instruções, Mariana verifica que é necessário efetuar o pagamento da taxa de **R$ 5,40** para dar continuidade à solicitação. Ela escolhe uma forma de pagamento dentre as opções disponíveis — **boleto**, **PIX** ou **cartão de crédito** — e realiza a transação, que é automaticamente reconhecida pelo sistema. Durante o processo, é informada de que, ao confirmar a solicitação, o cartão perdido será imediatamente bloqueado para evitar qualquer uso indevido, uma medida que ela compreende e aceita.
+
+Antes de finalizar a solicitação, Mariana tem a oportunidade de escolher o **local de retirada** do novo cartão. Por padrão, a plataforma já apresenta como sugestão o **local mais próximo de sua localização**, mas ela pode alterar essa escolha caso prefira outra opção. Satisfeita com o local sugerido, Mariana mantém a escolha e prossegue para finalizar o processo.
+
+Após seguir todas as etapas indicadas, Mariana conclui a solicitação, garantindo que os dados e comprovantes necessários foram corretamente enviados. Ela recebe uma confirmação de que sua solicitação foi registrada com sucesso, incluindo informações detalhadas sobre o prazo estimado para a confecção da nova via e a confirmação do local escolhido para retirada.
+
+Com o processo concluído, Mariana aguarda o período necessário para que o cartão seja confeccionado e se organiza para buscar a segunda via no local selecionado.
+
 
 ## Cenário 3: Consulta do status do cartão e informações de retirada
 
@@ -49,9 +60,24 @@ Em seguida, ela acessa a seção "Acompanhar Solicitação", onde visualiza um i
 Solicitado, Em análise, Aprovado, Rejeitado
 No caso de Mariana, o status atual da solicitação aparece como "Solicitado".
 
-## Cenário 7: Solicitação de extensão de acesso
+## Cenário 7: Solicitação de extensão de acessos por estágio obrigatório
 
-Lucas Oliveira realiza o login na plataforma para solicitar a extensão de acessos no Passe Livre Estudantil devido à matrícula em mais de uma Instituição de Ensino. Ele acessa a aba "Extensão de Acesso" e clica em "Nova Solicitação". Na nova página, ele lê e aceita o Termo de Uso, que informa o prazo de análise e os documentos necessários. Em seguida, preenche o formulário indicando o motivo da solicitação, insere seus dados, e anexa a declaração da segunda Instituição de Ensino. Após revisar as informações, clica em "Enviar". Depois, Lucas acessa a aba "Acompanhar Solicitações" para verificar que o status da solicitação está como "Solicitado" e aguarda o retorno.
+Mariana Silva, estudante universitária, precisa solicitar uma extensão de acessos devido ao início de seu estágio obrigatório. Para isso, ela utiliza suas credenciais para acessar o sistema acadêmico responsável por gerenciar os serviços de extensão. Após realizar o login, Mariana localiza a opção "Solicitar Extensão de Acessos" e é direcionada para a área específica desse serviço.
+
+No início do processo, Mariana é orientada a selecionar o motivo da solicitação. As opções disponíveis incluem:
+- **Matrícula em mais de uma IE (Instituição de Ensino)**;
+- **Estágio Obrigatório**;
+- **Insuficiência de Acessos**;
+- **Programa Bora Vencer**.
+
+Mariana, consciente de sua necessidade, seleciona a opção **Estágio Obrigatório** e prossegue. Com essa escolha, o sistema exibe apenas as informações e exigências específicas para esse motivo de solicitação. Ao avançar, Mariana encontra o **termo de uso** referente ao estágio obrigatório. Durante a leitura, percebe que é necessário apresentar uma **Declaração de Estágio Obrigatório**, que deve conter:
+- Matrícula, nome e CPF do estudante;
+- Assinatura do supervisor do estágio obrigatório;
+- Grade horária que comprove a disciplina de estágio obrigatório.
+
+Após compreender as exigências, Mariana reúne os documentos necessários e realiza o upload da declaração diretamente no sistema. Ela confirma que os arquivos foram enviados corretamente e prossegue para a finalização da solicitação.
+
+Ao concluir todas as etapas indicadas, Mariana recebe uma confirmação de que sua solicitação foi registrada com sucesso. A mensagem também informa o prazo estimado para a análise dos documentos e a ativação da extensão de acessos, caso a solicitação seja aprovada. Satisfeita com o processo, Mariana aguarda o prazo informado e acompanha o status de sua solicitação pelo sistema para garantir que tudo esteja dentro do esperado.
 
 ## Cenário 8: Troca de endereço
 
