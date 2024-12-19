@@ -20,18 +20,34 @@ Escolhemos o CMN-GOMS pois o mesmo é utilizado para fornecer uma visualização
 &emsp;&emsp;**OP 1.1:** Identificar e ler as informações sobre o status do passe  
 &emsp;&emsp;**OP 1.2:** Interpretar que o passe ainda está "em análise"
 
-### Cenário 2: Solicitação de segunda via de cartão
+### Cenário 2: Solicitação de segunda via de cartão por perda
 
-**GOAL 0:** Fazer login na página para solicitar a segunda via do cartão  
-&emsp;**GOAL 1:** Navegar até a aba de solicitação de segunda via  
-&emsp;&emsp;**OP 1.1:** Procurar no menu a opção correspondente à segunda via  
-&emsp;&emsp;**OP 1.2:** Pressionar o botão para acessá-la  
-&emsp;**GOAL 2:** Preencher as informações para solicitar a segunda via  
-&emsp;&emsp;**OP 2.1:** Ler as instruções apresentadas na página  
-&emsp;&emsp;**OP 2.2:** Preencher os campos obrigatórios  
-&emsp;&emsp;**OP 2.3:** Fazer upload do comprovante de pagamento  
-&emsp;&emsp;**OP 2.4:** Fazer upload do boletim de ocorrência  
-&emsp;&emsp;**OP 2.5:** Pressionar o botão "Registrar Solicitação"
+**GOAL 0:** Solicitar a segunda via do cartão por perda  
+&emsp;**GOAL 1:** Fazer login no sistema para acessar a funcionalidade  
+&emsp;**GOAL 2:** Navegar até a funcionalidade "Solicitar Segunda Via"  
+&emsp;&emsp;**OP 2.1:** Identificar a opção "Solicitar Segunda Via" no menu  
+&emsp;&emsp;**OP 2.2:** Pressionar a opção para acessá-la  
+&emsp;**GOAL 3:** Selecionar o motivo da solicitação  
+&emsp;&emsp;**OP 3.1:** Ler as opções disponíveis (Perda, Roubo ou Furto, Cartão Danificado)  
+&emsp;&emsp;**OP 3.2:** Selecionar "Perda"  
+&emsp;**GOAL 4:** Efetuar o pagamento da taxa  
+&emsp;&emsp;**OP 4.1:** Verificar o valor da taxa (R$ 5,40)  
+&emsp;&emsp;**OP 4.2:** Escolher a forma de pagamento (boleto, PIX ou cartão de crédito)  
+&emsp;&emsp;**OP 4.3:** Realizar o pagamento na plataforma  
+&emsp;&emsp;**OP 4.4:** Confirmar que o pagamento foi reconhecido automaticamente pelo sistema  
+&emsp;**GOAL 5:** Escolher o local de retirada do novo cartão  
+&emsp;&emsp;**OP 5.1:** Verificar o local de retirada sugerido (mais próximo da localização)  
+&emsp;&emsp;**OP 5.2:** Alterar o local, caso necessário  
+&emsp;&emsp;**OP 5.3:** Confirmar a escolha do local de retirada  
+&emsp;**GOAL 6:** Finalizar a solicitação  
+&emsp;&emsp;**OP 6.1:** Pressionar o botão "Finalizar Solicitação"  
+&emsp;&emsp;**OP 6.2:** Visualizar a mensagem de confirmação da solicitação registrada  
+&emsp;&emsp;**OP 6.3:** Receber as informações sobre o prazo de confecção e o local de retirada  
+&emsp;**GOAL 7:** Buscar o cartão no local selecionado  
+&emsp;&emsp;**OP 7.1:** Aguardar o período necessário para a confecção do cartão  
+&emsp;&emsp;**OP 7.2:** Dirigir-se ao local de retirada com a documentação necessária  
+&emsp;&emsp;**OP 7.3:** Retirar o novo cartão no local selecionado  
+
 
 ### Cenário 3: Consulta do status do cartão e informações de retirada
 
@@ -56,20 +72,29 @@ Escolhemos o CMN-GOMS pois o mesmo é utilizado para fornecer uma visualização
 &emsp;&emsp;**SEL. RULE:** O usuário escolheu uma foto do dispositivo para upload  
 &emsp;&emsp;**OP 2.4:** Salvar a foto desejada  
 
-### Cenário 7: Solicitação de Extensão de Acesso
+### Cenário 7: Solicitação de Extensão de Acesso por estágio obrigatório
 
-**GOAL 0:** Fazer login na página para solicitar extensão de acesso  
-&emsp;**GOAL 1:** Navegar até a aba "Extensão de Acesso"  
-&emsp;&emsp;**OP 1.1:** Identificar a aba no menu  
-&emsp;&emsp;**OP 1.2:** Clicar na aba para acessá-la  
-&emsp;**GOAL 2:** Fazer uma nova solicitação  
-&emsp;&emsp;**OP 2.1:** Ler e aceitar o Termo de Uso  
-&emsp;&emsp;**OP 2.2:** Preencher o formulário com informações obrigatórias  
-&emsp;&emsp;**OP 2.3:** Anexar os documentos necessários  
-&emsp;&emsp;**OP 2.4:** Enviar a solicitação  
-&emsp;**GOAL 3:** Acompanhar o status da solicitação  
-&emsp;&emsp;**OP 3.1:** Navegar até a aba "Acompanhar Solicitações"  
-&emsp;&emsp;**OP 3.2:** Ler o status atual da solicitação (e.g., "Solicitado", "Em análise").
+**GOAL 0:** Solicitar extensão de acessos por estágio obrigatorio
+&emsp;**GOAL 1:**Fazer login no sistema acadêmico para acessar a funcionalidade
+&emsp;**GOAL 2:** Navegar até a aba "Extensão de Acesso"  
+&emsp;&emsp;**OP 2.1:** Identificar a aba no menu  
+&emsp;&emsp;**OP 2.2:** Clicar na aba para acessá-la  
+&emsp;**GOAL 3:** Selecionar o motivo da solicitação  
+&emsp;&emsp;**OP 3.1:** Ler as opções disponíveis (Matrícula em mais de uma IE, Estágio Obrigatório, Insuficiência de Acessos, Programa Bora Vencer)  
+&emsp;&emsp;**OP 3.2:** Selecionar "Estágio Obrigatório"  
+&emsp;**GOAL 4:** Ler o termo de uso referente ao motivo escolhido  
+&emsp;&emsp;**OP 4.1:** Abrir o termo de uso exibido  
+&emsp;&emsp;**OP 4.2:** Identificar as exigências específicas (declaração de estágio obrigatório com matrícula, nome, CPF, assinatura do supervisor e grade horária)  
+&emsp;**GOAL 5:** Realizar o upload da documentação exigida  
+&emsp;&emsp;**OP 5.1:** Escolher o arquivo da declaração de estágio obrigatório no dispositivo  
+&emsp;&emsp;**OP 5.2:** Confirmar o envio do arquivo  
+&emsp;**GOAL 6:** Finalizar a solicitação  
+&emsp;&emsp;**OP 6.1:** Pressionar o botão "Finalizar Solicitação"  
+&emsp;&emsp;**OP 6.2:** Visualizar a mensagem de confirmação da solicitação registrada  
+&emsp;**GOAL 7:** Acompanhar o status da solicitação  
+&emsp;&emsp;**OP 7.1:** Acessar a aba "Solicitações Pendentes" no sistema  
+&emsp;&emsp;**OP 7.2:** Visualizar o status e prazos estimados de análise 
+
 
 ## Cenário 9: Criação do Cartão Virtual do Passe Livre Estudantil
 
