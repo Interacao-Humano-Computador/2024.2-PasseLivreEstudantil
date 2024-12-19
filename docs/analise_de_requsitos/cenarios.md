@@ -16,11 +16,11 @@ Lucas Oliveira acessa a plataforma pela primeira vez para verificar se seu cart�
 
 Mariana Silva, ao perceber que perdeu seu cartão estudantil, decide realizar as tarefas necessárias para solicitar uma segunda via. Primeiro, ela utiliza suas credenciais para acessar o sistema responsável pela emissão do cartão. Após autenticar-se, ela localiza a área destinada à solicitação da segunda via e se direciona ao local correto para iniciar o processo.
 
-Antes de avançar para o pagamento, Mariana é orientada a escolher o motivo da solicitação. As opções disponíveis incluem **perda**, **roubo ou furto**, e **cartão danificado**. Com clareza sobre sua situação, Mariana seleciona a opção "perda" e prossegue com os próximos passos.
+Antes de avançar para o pagamento, Mariana é orientada a escolher o motivo da solicitação. As opções disponíveis incluem perda, roubo ou furto, e cartão danificado. Com clareza sobre sua situação, Mariana seleciona a opção "perda" e prossegue com os próximos passos.
 
-Ao acessar as instruções, Mariana verifica que é necessário efetuar o pagamento da taxa de **R$ 5,40** para dar continuidade à solicitação. Ela escolhe uma forma de pagamento dentre as opções disponíveis — **boleto**, **PIX** ou **cartão de crédito** — e realiza a transação, que é automaticamente reconhecida pelo sistema. Durante o processo, é informada de que, ao confirmar a solicitação, o cartão perdido será imediatamente bloqueado para evitar qualquer uso indevido, uma medida que ela compreende e aceita.
+Ao acessar as instruções, Mariana verifica que é necessário efetuar o pagamento da taxa de R$ 5,40 para dar continuidade à solicitação. Ela escolhe uma forma de pagamento dentre as opções disponíveis — boleto, PIX ou cartão de crédito — e realiza a transação, que é automaticamente reconhecida pelo sistema. Durante o processo, é informada de que, ao confirmar a solicitação, o cartão perdido será imediatamente bloqueado para evitar qualquer uso indevido, uma medida que ela compreende e aceita.
 
-Antes de finalizar a solicitação, Mariana tem a oportunidade de escolher o **local de retirada** do novo cartão. Por padrão, a plataforma já apresenta como sugestão o **local mais próximo de sua localização**, mas ela pode alterar essa escolha caso prefira outra opção. Satisfeita com o local sugerido, Mariana mantém a escolha e prossegue para finalizar o processo.
+Antes de finalizar a solicitação, Mariana tem a oportunidade de escolher o local de retirada do novo cartão. Por padrão, a plataforma já apresenta como sugestão o local mais próximo de sua localização, mas ela pode alterar essa escolha caso prefira outra opção. Satisfeita com o local sugerido, Mariana mantém a escolha e prossegue para finalizar o processo.
 
 Após seguir todas as etapas indicadas, Mariana conclui a solicitação, garantindo que os dados e comprovantes necessários foram corretamente enviados. Ela recebe uma confirmação de que sua solicitação foi registrada com sucesso, incluindo informações detalhadas sobre o prazo estimado para a confecção da nova via e a confirmação do local escolhido para retirada.
 
@@ -64,16 +64,7 @@ No caso de Mariana, o status atual da solicitação aparece como "Solicitado".
 
 Mariana Silva, estudante universitária, precisa solicitar uma extensão de acessos devido ao início de seu estágio obrigatório. Para isso, ela utiliza suas credenciais para acessar o sistema acadêmico responsável por gerenciar os serviços de extensão. Após realizar o login, Mariana localiza a opção "Solicitar Extensão de Acessos" e é direcionada para a área específica desse serviço.
 
-No início do processo, Mariana é orientada a selecionar o motivo da solicitação. As opções disponíveis incluem:
-- **Matrícula em mais de uma IE (Instituição de Ensino)**;
-- **Estágio Obrigatório**;
-- **Insuficiência de Acessos**;
-- **Programa Bora Vencer**.
-
-Mariana, consciente de sua necessidade, seleciona a opção **Estágio Obrigatório** e prossegue. Com essa escolha, o sistema exibe apenas as informações e exigências específicas para esse motivo de solicitação. Ao avançar, Mariana encontra o **termo de uso** referente ao estágio obrigatório. Durante a leitura, percebe que é necessário apresentar uma **Declaração de Estágio Obrigatório**, que deve conter:
-- Matrícula, nome e CPF do estudante;
-- Assinatura do supervisor do estágio obrigatório;
-- Grade horária que comprove a disciplina de estágio obrigatório.
+No início do processo, Mariana é orientada a selecionar o motivo da solicitação. As opções disponíveis são matrícula em mais de uma IE (Instituição de Ensino), estágio obrigatório, insuficiência de acessos e o programa Bora Vencer. Consciente de sua necessidade, Mariana seleciona a opção estágio obrigatório e prossegue. Com essa escolha, o sistema exibe apenas as informações e exigências específicas para esse motivo de solicitação. Ao avançar, Mariana encontra o termo de uso referente ao estágio obrigatório e, durante a leitura, percebe que é necessário apresentar uma declaração de estágio obrigatório, que deve conter matrícula, nome e CPF do estudante; assinatura do supervisor do estágio obrigatório; e a grade horária que comprove a disciplina de estágio obrigatório.
 
 Após compreender as exigências, Mariana reúne os documentos necessários e realiza o upload da declaração diretamente no sistema. Ela confirma que os arquivos foram enviados corretamente e prossegue para a finalização da solicitação.
 
