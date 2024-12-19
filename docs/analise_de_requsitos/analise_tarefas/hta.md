@@ -59,37 +59,14 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 
 ![Notação diagrama HTA](../../assets/HTA_cenario4.png)
 
-| **Objetivos / Operações**                                      | **Problemas e Recomendações**                                                                                                                           |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **0: Atualizar foto no sistema do Passe Livre Estudantil 1>2** |                                                                                                                                                         |
-| **1: Acessar o sistema do Passe Livre Estudantil**             | **Input:** Credenciais (número de CPF e senha).                                                                                                         |
-|                                                                | **Feedback:** Acesso ao sistema.                                                                                                                        |
-|                                                                | **Plano:** Informar as credenciais e clicar no botão de login.                                                                                          |
-| **1.1:Localizar no menu a opção "Alteração de Foto"**          |                                                                                                                                                         |
-|                                                                |                                                                                                                                                         |
-|                                                                | **Plano:** Localizar e clicar na aba "Alteração de Foto" no menu.                                                                                       |
-|                                                                |                                                                                                                                                         |
-| **3: Preencher o formulário de alteração de foto 1/2**         | **Input:** Campo de observação de alteração de foto.                                                                                                    |
-|                                                                |                                                                                                                                                         |
-|                                                                | **Plano:** Informar motivação da troca de foto                                                                                                          |
-|                                                                | **Problema:** Falta de informações claras sobre o formato e a resolução da foto.                                                                        |
-|                                                                | **Recomendação:** Incluir informações detalhadas sobre os requisitos da foto, como formato (PNG, JPEG) e resolução.                                     |
-| **4: Enviar foto para o sistema 1>2**                          | **Input:** Foto selecionada.                                                                                                                            |
-|                                                                | **Feedback:** Foto é enviada e armazenada no sistema.                                                                                                   |
-|                                                                | **Plano:** Selecionar a foto e clicar em "Enviar".                                                                                                      |
-|                                                                | **Problema:** O processo de verificação da foto não é feito de forma síncrona.                                                                          |
-|                                                                | **Recomendação:** Implementar verificação de foto imediata após o envio, com feedback instantâneo ao usuário sobre a aceitação.                         |
-| **5: Verificar o status da foto**                              |                                                                                                                                                         |
-|                                                                | **Feedback:** Status da foto e mensagem de erro, se houver.                                                                                             |
-|                                                                | **Plano:** Voltar ao site para consultar o status da alteração.                                                                                         |
-|                                                                | **Problema:** Devido ao fato da verificação de foto não ser imediata, otempo de espera para verificar a aceitação da foto é longo, causando frustração. |
-| **6: Resolver o erro da foto recusada**                        |                                                                                                                                                         |
-|                                                                | **Feedback:** Nova foto é enviada com os requisitos corretos.                                                                                           |
-|                                                                |                                                                                                                                                         |
-| **7: Solicitar a segunda via do cartão**                       |                                                                                                                                                         |
-|                                                                | **Feedback:** Solicitação da segunda via do cartão registrada.                                                                                          |
-|                                                                | **Plano:** Solicitar a segunda via do cartão com a nova foto.                                                                                           |
-|                                                                |                                                                                                                                                         |
+| **Objetivos / Operações**                         | **Problemas e Recomendações**                                                                                                                                                                                                                                   |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0. Alterar a foto do cartão 1>2**               | _input_: arquivo de foto do usuário <br/> _feedback_: foto do usuário atualizada na tela de início <br/> _plano_: enviar o arquivo de foto para que seja validado e após isso alterado <br/> _recomendação_: enviar foto centralizada do rosto com fundo branco |
+| **1. Enviar os arquvios necessários 1+2**         | _plano_: enviar a foto e informar observação caso seja necessário                                                                                                                                                                                               |
+| **1.1 Enviar a foto**                             |                                                                                                                                                                                                                                                                 |
+| **1.2 Informar observação referente à alteração** |                                                                                                                                                                                                                                                                 |
+| **2. Aguardar validação da foto**                 |                                                                                                                                                                                                                                                                 |
+| **3. Visualizar a nova foto**                     |                                                                                                                                                                                                                                                                 |
 
 <font size="3"><p style="text-align: center">Fonte: [Mateus Vieira](https://github.com/matix0).</p></font>
 
@@ -99,7 +76,7 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 
 ## Histórico de Revisão
 
-|    Data    | Data Prevista de Revisão | Versão |     Descrição     |   Autor   |  Revisor  |
-| :--------: | :----------------------: | :----: | :---------------: | :-------: | :-------: |
-| 14/12/2024 |        16/12/2024        |  1.0   | Criação da Página | Fernandes |  Mateus   |
-| 16/12/2024 |        17/12/2024        |  1.1   |   Adição HTA 4    |  Mateus   | Fernandes |
+|    Data    | Data Prevista de Revisão | Versão |     Descrição     |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :---------------: | :----------------------------------------: | :----------------------------------------: |
+| 14/12/2024 |        16/12/2024        |  1.0   | Criação da Página |                 Fernandes                  | [Mateus Vieira](https://github.com/matix0) |
+| 16/12/2024 |        17/12/2024        |  1.1   |   Adição HTA 4    | [Mateus Vieira](https://github.com/matix0) |                 Fernandes                  |

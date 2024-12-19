@@ -187,13 +187,13 @@ _Tabela 16 - Cronograma de Planejamento da Entrega 1_
 
 > [Cronograma Disponiblizado via Aprender3](https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
 
-## Histórico de Versão
+## Histórico de Versões
 
-|    Data    | Data Prevista de Revisão | Versão |         Descrição         |   Autor   |  Revisor  |
-| :--------: | :----------------------: | :----: | :-----------------------: | :-------: | :-------: |
-| 11/11/2024 |        11/11/2024        |  1.0   |   Criação do cronograma   | Fernandes |  Mateus   |
-| 12/11/2024 |        12/11/2024        |  1.1   | Atualização do cronograma |  Mateus   | Fernandes |
-| 24/11/2024 |        25/11/2024        |  1.2   | Atualização pós entrega 1 |  Mateus   | Fernandes |
-| 26/11/2024 |        27/11/2024        |  1.3   | Finalização das correções |  Mateus   | Fernandes |
-| 05/12/2024 |        09/12/2024        |  1.4   |   Atualização entrega 4   |  Mateus   | Fernandes |
-| 14/12/2024 |        16/12/2024        |  1.5   | Atualização pós entrega 4 |  Mateus   | Fernandes |
+|    Data    | Data Prevista de Revisão | Versão |         Descrição         |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :-----------------------: | :----------------------------------------: | :----------------------------------------: |
+| 11/11/2024 |        11/11/2024        |  1.0   |   Criação do cronograma   |                 Fernandes                  | [Mateus Vieira](https://github.com/matix0) |
+| 12/11/2024 |        12/11/2024        |  1.1   | Atualização do cronograma | [Mateus Vieira](https://github.com/matix0) |                 Fernandes                  |
+| 24/11/2024 |        25/11/2024        |  1.2   | Atualização pós entrega 1 | [Mateus Vieira](https://github.com/matix0) |                 Fernandes                  |
+| 26/11/2024 |        27/11/2024        |  1.3   | Finalização das correções | [Mateus Vieira](https://github.com/matix0) |                 Fernandes                  |
+| 05/12/2024 |        09/12/2024        |  1.4   |   Atualização entrega 4   | [Mateus Vieira](https://github.com/matix0) |                 Fernandes                  |
+| 14/12/2024 |        16/12/2024        |  1.5   | Atualização pós entrega 4 | [Mateus Vieira](https://github.com/matix0) |                 Fernandes                  |

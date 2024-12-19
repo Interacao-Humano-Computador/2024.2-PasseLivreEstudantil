@@ -29,7 +29,7 @@ O objetivo deste projeto é avaliar a usabilidade e acessibilidade do site BRB M
 
 Para mais informações, visite nosso [repositório no GitHub](https://github.com/Interacao-Humano-Computador/2024.2-Grupo07).
 
-## Histórico de Versão
+## Histórico de Versões
 
 |    Data    | Data Prevista de Revisão | Versão |               Descrição               |     Autor     |      Revisor       |
 | :--------: | :----------------------: | :----: | :-----------------------------------: | :-----------: | :----------------: |

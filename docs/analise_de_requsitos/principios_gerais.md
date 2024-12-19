@@ -1,4 +1,4 @@
-## Princípios Gerais do Projeto
+# Princípios Gerais do Projeto
 
 ## Introdução
 Os princípios e diretrizes gerais de um projeto são essenciais para orientar o design de interfaces que sejam eficientes, eficazes e proporcionem uma experiência satisfatória aos usuários. No contexto do Passe Livre Estudantil, esses princípios ajudam a garantir que as plataformas digitais relacionadas ao serviço atendam às necessidades específicas de estudantes, facilitando o acesso, a usabilidade e a confiabilidade do sistema.
@@ -128,10 +128,10 @@ Fonte Passe Livre Estudantil
 
 
 
-## Histórico de Versão
+## Histórico de Versões
 
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|30/11/2024| 01/12/2024 |1.0|Criação da pagina Princípios Gerais do Projeto|Breno Lucena| Breno Fernandes |
-|01/11/2024| 02/12/2024 |1.1| Correções feitas na pagina |Breno Fernandes| Breno Lucena |
+|    Data    | Data Prevista de Revisão | Versão |                   Descrição                    |      Autor      |     Revisor     |
+| :--------: | :----------------------: | :----: | :--------------------------------------------: | :-------------: | :-------------: |
+| 30/11/2024 |        01/12/2024        |  1.0   | Criação da pagina Princípios Gerais do Projeto |  Breno Lucena   | Breno Fernandes |
+| 01/11/2024 |        02/12/2024        |  1.1   |           Correções feitas na pagina           | Breno Fernandes |  Breno Lucena   |
 

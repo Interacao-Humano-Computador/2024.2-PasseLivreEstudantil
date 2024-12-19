@@ -1,9 +1,11 @@
+# Guia de Estilo
+
 ## Introdução
 O guia de estilo "trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final". Esse documento serve como uma ferramenta comunicativa para os stakeholders da equipe, garantindo que as decisões de design possam ser consultadas com facilidade e discutidas para futuras atualizações ou projeções.
 
 No contexto do passe livre estudantil, a criação de interfaces eficientes é crucial para atender às necessidades e expectativas dos estudantes, proporcionando uma experiência de usuário que seja não apenas funcional, mas também inclusiva. Para alcançar esses objetivos, é fundamental que o guia de estilo seja construído de maneira a garantir consistência visual e de interação em todo o sistema. Durante o desenvolvimento do artefato, foram adotados as Metas de Usabilidade e os Princípios Gerais, documentos que discutem como o site do sistema de passe livre estudantil pode ser aprimorado, oferecendo uma interface mais intuitiva e acessível para os usuários.
 
-## Objetivo do Guia de Estilo
+### Objetivo do Guia de Estilo
 
 O objetivo deste guia de estilo é fornecer diretrizes e melhores práticas para o design e desenvolvimento de interfaces de usuário eficazes e usáveis no sistema de passe livre estudantil. Este documento visa analisar e orientar a implementação dos seguintes elementos:
 
@@ -12,18 +14,18 @@ O objetivo deste guia de estilo é fornecer diretrizes e melhores práticas para
 - Elementos de ação: diretrizes para o preenchimento de campos, seleção de opções e ativação de comandos, garantindo uma navegação intuitiva e sem obstáculos para o usuário final.
 Este guia visa assegurar que o sistema de passe livre estudantil ofereça uma experiência eficiente e satisfatória, atendendo às necessidades dos usuários enquanto promove a consistência e a acessibilidade em todas as interações.
 
-## Organização e Conteúdo do Guia de Estilo
+### Organização e Conteúdo do Guia de Estilo
 O guia de estilo do Passe Livre Estudantil será feito a partir dos elementos analisados que foram citados no parágrafo anterior.
 
-## Público-alvo do Guia de Estilo
+### Público-alvo do Guia de Estilo
 
 Este guia de estilo foi elaborado para atender às necessidades dos estudantes que utilizam o sistema de passe livre estudantil, bem como da equipe de design e desenvolvedores responsáveis pela criação e manutenção da plataforma. O objetivo é fornecer uma base de diretrizes e melhores práticas que possam orientar as decisões de design, garantindo uma interface eficiente, intuitiva e acessível. A partir deste guia, os envolvidos no desenvolvimento poderão tomar decisões informadas, alinhadas com as Metas de Usabilidade e os Princípios Gerais, promovendo uma experiência de usuário otimizada para os estudantes.
 
-## Como utilizar o Guia
+### Como utilizar o Guia
 
 Este guia de estilo pode ser utilizado como uma referência ao longo de todo o ciclo de vida do projeto do sistema de passe livre estudantil, incluindo tanto a fase de desenvolvimento quanto a fase de manutenção. As diretrizes e melhores práticas apresentadas neste guia são essenciais para orientar a equipe de design e desenvolvimento na tomada de decisões, garantindo que a interface de usuário seja eficaz, intuitiva e acessível. O objetivo é assegurar que a plataforma atenda às necessidades dos estudantes, promovendo uma interação eficiente e satisfatória com o sistema, tanto para novos usuários quanto para os que já utilizam o serviço.
 
-## Como manter o Guia
+### Como manter o Guia
 
 É fundamental atualizar o guia de estilo sempre que a equipe (composta por alunos e/ou designers e desenvolvedores responsáveis pelo sistema do passe livre estudantil) tomar decisões que impactem o design ou a funcionalidade da plataforma. Isso garante que todas as alterações sejam consistentes com as diretrizes e padrões estabelecidos no guia. A manutenção contínua do guia assegura que o sistema permaneça visual e interativamente coerente, proporcionando a melhor experiência possível para os estudantes e evitando problemas de usabilidade e acessibilidade à medida que o sistema evolui.
 
@@ -31,7 +33,7 @@ Este guia de estilo pode ser utilizado como uma referência ao longo de todo o c
 
 ## Resultados da Análise
 
-## Descrição do Ambiente de Trabalho do Usuário
+### Descrição do Ambiente de Trabalho do Usuário
 
 A plataforma Passe Livre Estudantil é predominantemente acessada por estudantes através de dispositivos como desktops, notebooks e smartphones. Considerando a diversidade de dispositivos usados pelos usuários, é crucial projetar e desenvolver uma interface que seja responsiva e adaptável a diferentes tamanhos de tela. A experiência de usuário deve ser satisfatória e eficaz, independentemente do dispositivo utilizado.
 
@@ -45,40 +47,40 @@ Os elementos de interface, adaptados para esses diferentes perfis e dispositivos
 Fonte: Breno Lucena, 2024.
 
 
-## Elementos de Interção
+## Elementos de Interação
 
-## Estilo de Interação
+### Estilo de Interação
 Os usuários podem interagir com o site na barra de serviços: Troca de instituição, Segunda via, Extensão de Acesso, Troca de Endereço, Alteração de Contato, Retirada de Cartão, Minha Frequência, Meus Acessos, Liberar Cartão e Troca de Nome Social. Essa interação é realizada através de botões localizados em uma barra superior.
 
-## Selção de Estilos
+### Selção de Estilos
 A interface do Passe Livre Estudantil é simples e focada em atender aos objetivos relacionados ao uso do benefício. Suas páginas seguem padrões comuns, garantindo uma experiência uniforme e intuitiva para os usuários.
 
-## Aceleradores (Teclas de Atalho)
+### Aceleradores (Teclas de Atalho)
 No site não foi encontrado teclas de atalho.
 
 ## Elementos de Ação
 
-## Preenchimento de Campos
+### Preenchimento de Campos
 
 A interface do sistema disponibiliza campos de preenchimento que exigem que o usuário insira informações manualmente, conforme suas necessidades e objetivos. Esses campos incluem opções como botões dropdown e caixas de texto presentes nos serviços, que demandam a entrada de dados diretamente pelo usuário.
 
-## Seleção
+### Seleção
 Considerando os elementos de seleção localizados na barra superior, como na tela de Troca de Instituição, incluem-se opções como a escolha da modalidade de ensino, a seleção da instituição e outros campos relacionados ao gerenciamento do benefício. Esses elementos facilitam a escolha de opções específicas de maneira prática e organizada.
 E em em todo o site apresenta botões de seleções nos mesmos padrões.
 
-## Ativação 
+### Ativação 
 Incluem botões, ícones e outros elementos clicáveis. No sistema, encontramos elementos como botões para solicitação de serviços, links para visualização de informações e opções de gerenciamento do benefício.
 
-## Vocabulários e padrões
+## Vocabulários e Padrões
 
-## Terminologia
+### Terminologia
 O site utiliza termos relacionados aos serviços de forma clara e com vocabulário acessível para os usuários. No entanto, na tela de login, o termo está em inglês ("Login"), assim como na tela inicial, onde aparece "Logout". Fora essas exceções, as terminologias em todo o restante do site são simples e compreensíveis.
 
-## Tipos de Tela
+### Tipos de Tela
 
 As telas adotam um padrão simples e minimalista, mantendo uma identidade visual consistente, sem grandes variações entre elas.
 
-## Sequência de Diálogos
+### Sequência de Diálogos
 
 As sequências seguem um padrão, com botões como "Salvar", "Registrar Solicitação", "Anexar Arquivo" e outros são semelhantes em páginas diferentes
 
@@ -110,9 +112,9 @@ Outros princípios importantes incluem eficiência do usuário, visibilidade e r
   *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2011. Capítulo 10.  
   Disponível em: [https://aprender3.unb.br/pluginfile.php/2972723/mod_resource/content/4/ihc-ux%20Cap.%2010.pdf](https://aprender3.unb.br/pluginfile.php/2972723/mod_resource/content/4/ihc-ux%20Cap.%2010.pdf)  
 
-## Histórico de Versão
+## Histórico de Versões
 
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|01/12/2024| 03/12/2024 |1.0|Criação da pagina Guia de estilo|Breno Lucena| Breno Soares |
+|    Data    | Data Prevista de Revisão | Versão |            Descrição             |    Autor     |   Revisor    |
+| :--------: | :----------------------: | :----: | :------------------------------: | :----------: | :----------: |
+| 01/12/2024 |        03/12/2024        |  1.0   | Criação da pagina Guia de estilo | Breno Lucena | Breno Soares |
 

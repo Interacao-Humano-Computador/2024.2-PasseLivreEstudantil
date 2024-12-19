@@ -54,6 +54,6 @@ O foco na simplicidade e clareza das operações, aliado ao suporte técnico e a
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                 | Autor| Revisor |
-| ------ | ---------- | ------------------------- | ---- |  ------ |
-| 1.0  | 02/12/2024 | Criação da página inicial | Dion | Felipe |
+| Versão | Data       | Descrição                 | Autor | Revisor |
+| ------ | ---------- | ------------------------- | ----- | ------- |
+| 1.0    | 02/12/2024 | Criação da página inicial | Dion  | Felipe  |

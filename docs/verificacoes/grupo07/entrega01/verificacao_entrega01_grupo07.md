@@ -33,9 +33,9 @@ _Tabela 1: Lista de verificação do entrega 01_
 
 > [Lista de Verificação disponibilizada via Aprender3.](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
 
-## Histórico de Versão
+## Histórico de Versões
 
-|    Data    | Data Prevista de Revisão | Versão |          Descrição          |      Autor       |     Revisor     |
-| :--------: | :----------------------: | :----: | :-------------------------: | :--------------: | :-------------: |
-| 11/11/2024 |        11/11/2024        |  1.0   | Análise e criação da página | Felipe Verissimo | Breno Fernandes |
-| 14/12/2024 |        17/12/2024        |  1.1   |   Correções pós entrega 4   |  Mateus Vieira   | Breno Fernandes |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição          |                   Autor                    |     Revisor     |
+| :--------: | :----------------------: | :----: | :-------------------------: | :----------------------------------------: | :-------------: |
+| 11/11/2024 |        11/11/2024        |  1.0   | Análise e criação da página |              Felipe Verissimo              | Breno Fernandes |
+| 14/12/2024 |        17/12/2024        |  1.1   |   Correções pós entrega 4   | [Mateus Vieira](https://github.com/matix0) | Breno Fernandes |

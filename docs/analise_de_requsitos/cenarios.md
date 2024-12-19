@@ -1,12 +1,16 @@
 # Cenários
 
-## Objetivo
+## Introdução
+Cenários são narrativas detalhadas que descrevem situações de uso de uma aplicação, envolvendo atores, processos e dados reais ou potenciais. Eles têm como objetivo capturar requisitos, explorar soluções de design e avaliar a satisfação do usuário. Com um custo e tempo menores do que modelos complexos, os cenários são uma ferramenta importante no design de interfaces. Cada cenário apresenta um ator principal, com um objetivo central que pode ser desdobrado em subobjetivos. Além disso, inclui sequências de ações, eventos e planejamento que ajudam ou dificultam o alcance dos objetivos.
 
-Essa documentação tem o objetivo explorar e explicar os mais diversos cenários da interação do usuário com o sistema. Onde podemos elucidar os fluxos que o usuário pode percorrer, e onde naturamente podemos identificar os dados e serviços utilizados em cada cenário. Analisar esses cenários podem ter diversas utilidades, como por exemplo, auxiliar o usuário em seu nível de satisfação e entendimento do sistema, ou até mesmo auxiliar o desenvolvedor a entender o que o usuário espera do sistema.
+<font size="3"><p style="text-align: center">Figura 1 - Explicação dos Cenários</p></font>
+
+<center>![Figura 1](../assets/livro_cenarios_170.png)</center>
+<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font>
 
 ## Cenário 1: Visualização da obtenção do passe livre
 
-Lucas Oliveira faz o login na plataforma e deseja entender se seu cartão está quase pronto para ser utilizado. Como é sua primeira vez obtendo um passe livre este deseja se planejar sobre a obtenção do passe livre. Ele acessa pelo seu celular, sua única forma de acessar a internet na rua, onde não estava com mais nenhum dispositivo que se conecta-se com a internet. Abre pelo Google Chrome o site online e sente certa dificuldade em rolar pelo site pouco responsivo, até troca a orientação do conteúdo na tela, por fim entende que seu processo apenas ainda está em análise.
+Lucas Oliveira acessa a plataforma pela primeira vez para verificar se seu cartão de passe livre está quase pronto para uso. Como é sua primeira experiência com o benefício, ele deseja se organizar melhor em relação ao processo. Utilizando apenas seu celular, que é seu único meio de acesso à internet fora de casa, ele abre o site pelo Google Chrome. No entanto, encontra dificuldades para navegar devido à baixa responsividade da página. Tentando contornar o problema, ele até muda a orientação da tela, mas ainda assim enfrenta desafios para visualizar o conteúdo. Por fim, consegue entender que seu processo está apenas em análise.
 
 ## Cenário 2: Solicitação de segunda via de cartão por perda
 
@@ -29,21 +33,32 @@ O estudante realiza o login na plataforma para verificar o status do seu cartão
 
 ## Cenário 4: Atualização de foto do cartão
 
-Lucas Oliveira, que utiliza diariamente o transporte público para ir à universidade, deseja atualizar sua foto no sistema do Passe Livre Estudantil. A foto atual, cadastrada há dois anos, já não reflete sua aparência atual, fator que o incomoda quando o mesmo olha para seu cartão físico. Decidido a resolver a situação, Lucas acessa o sistema pelo portal oficial do Passe Livre.
+Mariana Silva, que utiliza diariamente o transporte público para ir à universidade, deseja atualizar sua foto no sistema do Passe Livre Estudantil. A foto atual, cadastrada há dois anos, já não reflete sua aparência atual, fator que o incomoda quando o mesmo olha para seu cartão físico. Decidido a resolver a situação, Mariana acessa o sistema pelo portal oficial do Passe Livre.
 
-Após realizar o login utilizando suas credenciais (número de CPF e senha cadastrada), Lucas navega até a aba "Alteração de Foto", localizada no menu. A página carrega um formulário intuitivo, acompanhado da seguinte descrição: "Com a atualização de sua foto, não haverá necessidade de nova impressão de seu cartão, caso queira o cartão com sua foto atualizada será necessário solicitar a 2ª via de seu cartão mediante o pagamento de taxa no valor de $5.40."
+Após realizar o login , Mariana navega até a aba "Alteração de Foto", localizada no menu. A página carrega um formulário intuitivo, acompanhado da seguinte descrição: "Com a atualização de sua foto, não haverá necessidade de nova impressão de seu cartão, caso queira o cartão com sua foto atualizada será necessário solicitar a 2ª via de seu cartão mediante o pagamento de taxa no valor de $5.40."
 
-Lucas fica com dúvidas referente ao formato da foto, visto que não há um direcionamento quanto ao formato (PNG,JPEG e afins), ou sobre a resolução da foto, então ele apenas tira uma foto de seu rosto e envia.
+Mariana fica com dúvidas referente ao formato da foto, visto que não há um direcionamento quanto ao formato (PNG,JPEG e afins), ou sobre a resolução da foto, então ela apenas tira uma foto de seu rosto e envia. Ao clicar no botão "Salvar", a imagem selecionada é enviada para um processo de verificação, processo que não é feito de forma síncrona com o envio, o que deixa Mariana desapontado visto que ela queria alterar a foto e pedir uma nova via de seu cartão já com a foto atualizada.
 
-Ao clicar no botão "Salvar", a imagem selecionada é enviada para um processo de verificação, processo que não é feito de forma síncrona com o envio, o que deixa Lucas desapontado visto que ele queria alterar a foto e pedir uma nova via de seu cartão já com a foto atualizada.
-
-Após dois dias Lucas volta no site para verificar o andamento da troca de foto e se depara com a seguinte mensagem na aba inicial do sistema: "FOTO RECUSADA FORA DO PADRÃO SOLICITADO, POSTE FOTO COLORIDA, RECENTE, DE FRENTE COM FUNDO BRANCO, NO LINK ENVIO DE ARQUIVOS E FOTO", o que o incomoda bastante visto que se houvesse uma verificação feita ao enviar a foto ele não precisaria aguardar dias para ver uma mensagem de erro, mesmo irritado, Lucas tira uma nova foto de acordo com o que foi pedido e envia novamente.
-
-Mais dois dias se passam e finalmente a foto de Lucas está atualizada, agora basta solicitar uma segunda via do cartão para retirar um cartão com foto atualizada.
+Após a validação da foto ser concluída, Mariana consegue visualizar sua nova foto do passe livre e vai em busca do seu novo cartão com foto atualizada.
 
 ## Cenário 5: Verificação de acessos em um dia específico
 
 Lucas Oliveira realiza o login na plataforma e deseja verificar os acessos realizados em um dia específico. Ele precisa dessa informação para confirmar se sua entrada foi registrada corretamente. Acessando o site pelo celular, ele encontra inicialmente a aba "Minha Frequência" e clica nela, acreditando que seria o local adequado para essa consulta. No entanto, ele percebe que as informações de acessos não estão disponíveis nessa seção. Sentindo certa frustração, Lucas volta ao menu principal e localiza a aba "Meus Acessos". Ao tocar nela, ele é direcionado para a pagina correta, onde encontra um campo para selecionar as datas de início e fim. Após escolher as datas desejadas, ele aguarda alguns segundos enquanto as informações são carregadas. Quando a página é atualizada, Lucas consegue visualizar os acessos realizados, com os horários e locais de cada entrada, tudo de forma clara e organizada. Mesmo com a pequena dificuldade inicial para encontrar a aba certa, ele consegue concluir sua tarefa sem maiores problemas.
+
+## Cenário 6: Troca de Instituição no site Passe Livre Estudantil
+
+Mariana Silva precisa realizar a troca de instituição no sistema Passe Livre Estudantil. Ao acessar o site, ela navega até a tela de "Troca de Instituição" e seleciona a opção "Nova Solicitação".
+
+Na nova tela, Mariana preenche os seguintes campos obrigatórios:
+
+Matrícula, Instituição de Ensino, Modalidade, Curso, Série/Período/Ano.
+
+Adicionalmente, há um campo opcional para inserir observações e outro para anexar arquivos necessários. Mariana preenche todos os dados obrigatórios, anexa os documentos solicitados e, por fim, salva a solicitação.
+
+Em seguida, ela acessa a seção "Acompanhar Solicitação", onde visualiza um indicador de status dividido em quatro etapas:
+
+Solicitado, Em análise, Aprovado, Rejeitado
+No caso de Mariana, o status atual da solicitação aparece como "Solicitado".
 
 ## Cenário 7: Solicitação de extensão de acessos por estágio obrigatório
 
@@ -64,12 +79,25 @@ Após compreender as exigências, Mariana reúne os documentos necessários e re
 
 Ao concluir todas as etapas indicadas, Mariana recebe uma confirmação de que sua solicitação foi registrada com sucesso. A mensagem também informa o prazo estimado para a análise dos documentos e a ativação da extensão de acessos, caso a solicitação seja aprovada. Satisfeita com o processo, Mariana aguarda o prazo informado e acompanha o status de sua solicitação pelo sistema para garantir que tudo esteja dentro do esperado.
 
-
-
-## Cenário 8: Troca de endereço 
+## Cenário 8: Troca de endereço
 
 Mariana Silva, estudante universitária, precisa atualizar seu endereço cadastrado na plataforma após mudar de residência. Ao acessar o sistema pelo computador, ela navega até a aba "Meus Dados", mas não encontra a opção de editar o endereço.
 Após retornar ao menu principal, Maria localiza a aba "Atualizar Cadastro" e, na seção "Endereço", insere as novas informações. Após salvar as alterações, a plataforma exibe uma mensagem de sucesso confirmando a atualização. Maria verifica o novo endereço e conclui a tarefa de forma rápida e eficiente.
+
+## Cenário 9: Criação do Cartão Virtual do Passe Livre Estudantil
+
+Joana Silva, estudante universitária, frequentemente esquece ou perde o cartão físico do passe livre estudantil. Ao acessar a plataforma, ela descobre uma nova funcionalidade que permite transformar o cartão físico em um cartão virtual.
+Após realizar o login no celular, Joana acessa a aba "Cartão Virtual" no menu principal. O sistema solicita a confirmação de dados pessoais, como nome, CPF e o número do cartão físico. Com todas as informações preenchidas, ela clica em "Gerar Cartão Virtual".
+Em poucos segundos, a versão digital do cartão aparece na tela, com um QR Code para uso imediato e a opção de integrá-lo ao Apple Wallet ou Google Pay. No dia seguinte, Joana utiliza o cartão virtual no transporte público, confirmando sua praticidade e funcionamento perfeito.
+
+## Cenário 10: Retirada do Cartão
+
+Mariana Silva, estudante universitária, percebeu que havia perdido seu cartão do Passe Livre Estudantil. Preocupada com a situação, ela acessou a plataforma do benefício para solicitar a emissão de um novo cartão. Durante o processo, notou uma nova funcionalidade que tornava o procedimento mais prático: a possibilidade de escolher o local de retirada do cartão.
+
+Ao iniciar o pedido, Mariana foi direcionada para uma etapa onde podia selecionar o ponto de retirada mais conveniente. Entre as opções disponíveis, como Asa Sul, Ceilândia e Taguatinga, ela escolheu o Gama, local próximo de sua residência. Em seguida, a plataforma solicitou que ela indicasse quem realizaria a retirada do cartão. Mariana optou pela opção "Eu mesma", mas também havia a alternativa de indicar um terceiro autorizado.
+
+Na etapa seguinte, Mariana foi instruída a escolher a data e o horário para a retirada. Usando um calendário interativo, selecionou um dia conveniente e escolheu o período da manhã. Após revisar todos os dados fornecidos, a plataforma exibiu uma mensagem de confirmação, informando que o pedido havia sido realizado com sucesso e destacando a necessidade de apresentar um documento de identificação no momento da retirada.
+
 
 ## Bibliografia
 
@@ -79,13 +107,13 @@ Após retornar ao menu principal, Maria localiza a aba "Atualizar Cadastro" e, n
 
 > https://github.com/Interacao-Humano-Computador/2022.1-AgenciaVirtualNeoenergia/blob/master/ghpages08/docs/analise_de_requisitos/metas_usabilidade.md
 
+## Histórico de Versões
 
-## Histórico de Versão
-
-|    Data    | Data Prevista de Revisão | Versão |        Descrição         |      Autor      |  Revisor  |
-| :--------: | :----------------------: | :----: | :----------------------: | :-------------: | :-------: |
-| 02/12/2024 |        02/12/2024        |  1.0   |    Criação da Página     |     Mateus      |   Dion    |
-| 02/12/2024 |        02/12/2024        |  1.1   |   Criação do cenário 2   |      Dion       |  Mateus   |
-| 03/12/2024 |        03/12/2024        |  1.2   |   Criação dp cenário 3   |  Breno Lucena   |  Mateus   |
-| 03/12/2024 |        03/12/2024        |  1.3   |   Criação dp cenário 4   | Breno Fernandes |  Mateus   |
-| 16/12/2024 |        17/12/2024        |  1.4   | Atualização do cenário 4 |     Mateus      | Verissimo |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 02/12/2024 |        02/12/2024        |  1.0   |      Criação da Página       | [Mateus Vieira](https://github.com/matix0) |                    Dion                    |
+| 02/12/2024 |        02/12/2024        |  1.1   |     Criação do cenário 2     |                    Dion                    | [Mateus Vieira](https://github.com/matix0) |
+| 03/12/2024 |        03/12/2024        |  1.2   |     Criação dp cenário 3     |                Breno Lucena                | [Mateus Vieira](https://github.com/matix0) |
+| 03/12/2024 |        03/12/2024        |  1.3   |     Criação dp cenário 4     |              Breno Fernandes               | [Mateus Vieira](https://github.com/matix0) |
+| 16/12/2024 |        17/12/2024        |  1.4   |   Atualização do cenário 4   | [Mateus Vieira](https://github.com/matix0) |                 Verissimo                  |
+| 17/12/2024 |        20/12/2024        |  1.5   | Atualização do cenário 8 e 9 |                 Verissimo                  | [Mateus Vieira](https://github.com/matix0) |

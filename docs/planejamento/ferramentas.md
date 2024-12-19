@@ -39,9 +39,9 @@ Para garantir o sucesso deste projeto, utilizamos diversas ferramentas computaci
 
 8. YouTube. Disponível em: [https://about.youtube/](https://about.youtube/). Acesso em: 29 de nov. de 2024..
 
-## Histórico de Versão
+## Histórico de Versões
 
-|    Data    | Data Prevista de Revisão | Versão |                  Descrição                  |      Autor      |   Revisor    |
-| :--------: | :----------------------: | :----: | :-----------------------------------------: | :-------------: | :----------: |
-| 11/11/2024 |        11/11/2024        |  1.0   |      Criação da pagina de ferramentas       | Breno Fernandes | Mateus Viera |
-| 29/11/2024 |        30/11/2024        |  1.1   | Adicionando mais ferramentas e bibliografia | Breno Fernandes | Breno Lucena |
+|    Data    | Data Prevista de Revisão | Versão |                  Descrição                  |      Autor      |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :-----------------------------------------: | :-------------: | :----------------------------------------: |
+| 11/11/2024 |        11/11/2024        |  1.0   |      Criação da pagina de ferramentas       | Breno Fernandes | [Mateus Vieira](https://github.com/matix0) |
+| 29/11/2024 |        30/11/2024        |  1.1   | Adicionando mais ferramentas e bibliografia | Breno Fernandes |                Breno Lucena                |

@@ -55,9 +55,9 @@ Esses problemas comprometem a experiência geral, dificultando a interação e r
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-## Histórico de Versão
+## Histórico de Versões
 
-|    Data    | Data Prevista de Revisão | Versão |                     Descrição                      |      Autor      |   Revisor    |
-| :--------: | :----------------------: | :----: | :------------------------------------------------: | :-------------: | :----------: |
-| 11/11/2024 |        11/11/2024        |  1.0   |                 Criação da pagina                  | Breno Fernandes | Mateus Viera |
-| 12/11/2024 |        12/11/2024        |  1.1   | Atualização da pagina com os sites avaliados antes | Breno Fernandes | Mateus Viera |
+|    Data    | Data Prevista de Revisão | Versão |                     Descrição                      |      Autor      |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------------------------------------: | :-------------: | :----------------------------------------: |
+| 11/11/2024 |        11/11/2024        |  1.0   |                 Criação da pagina                  | Breno Fernandes | [Mateus Vieira](https://github.com/matix0) |
+| 12/11/2024 |        12/11/2024        |  1.1   | Atualização da pagina com os sites avaliados antes | Breno Fernandes | [Mateus Vieira](https://github.com/matix0) |
