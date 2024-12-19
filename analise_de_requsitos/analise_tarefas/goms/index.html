@@ -1436,9 +1436,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#cenario-2-solicitacao-de-segunda-via-de-cartao" class="md-nav__link">
+  <a href="#cenario-2-solicitacao-de-segunda-via-de-cartao-por-perda" class="md-nav__link">
     <span class="md-ellipsis">
-      Cenário 2: Solicitação de segunda via de cartão
+      Cenário 2: Solicitação de segunda via de cartão por perda
     </span>
   </a>
   
@@ -1463,9 +1463,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#cenario-7-solicitacao-de-extensao-de-acesso" class="md-nav__link">
+  <a href="#cenario-7-solicitacao-de-extensao-de-acesso-por-estagio-obrigatorio" class="md-nav__link">
     <span class="md-ellipsis">
-      Cenário 7: Solicitação de Extensão de Acesso
+      Cenário 7: Solicitação de Extensão de Acesso por estágio obrigatório
     </span>
   </a>
   
@@ -2056,9 +2056,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#cenario-2-solicitacao-de-segunda-via-de-cartao" class="md-nav__link">
+  <a href="#cenario-2-solicitacao-de-segunda-via-de-cartao-por-perda" class="md-nav__link">
     <span class="md-ellipsis">
-      Cenário 2: Solicitação de segunda via de cartão
+      Cenário 2: Solicitação de segunda via de cartão por perda
     </span>
   </a>
   
@@ -2083,9 +2083,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#cenario-7-solicitacao-de-extensao-de-acesso" class="md-nav__link">
+  <a href="#cenario-7-solicitacao-de-extensao-de-acesso-por-estagio-obrigatorio" class="md-nav__link">
     <span class="md-ellipsis">
-      Cenário 7: Solicitação de Extensão de Acesso
+      Cenário 7: Solicitação de Extensão de Acesso por estágio obrigatório
     </span>
   </a>
   
@@ -2172,17 +2172,32 @@
 &emsp;<strong>GOAL 1:</strong> Verificar o status do passe livre<br />
 &emsp;&emsp;<strong>OP 1.1:</strong> Identificar e ler as informações sobre o status do passe<br />
 &emsp;&emsp;<strong>OP 1.2:</strong> Interpretar que o passe ainda está "em análise"</p>
-<h3 id="cenario-2-solicitacao-de-segunda-via-de-cartao">Cenário 2: Solicitação de segunda via de cartão</h3>
-<p><strong>GOAL 0:</strong> Fazer login na página para solicitar a segunda via do cartão<br />
-&emsp;<strong>GOAL 1:</strong> Navegar até a aba de solicitação de segunda via<br />
-&emsp;&emsp;<strong>OP 1.1:</strong> Procurar no menu a opção correspondente à segunda via<br />
-&emsp;&emsp;<strong>OP 1.2:</strong> Pressionar o botão para acessá-la<br />
-&emsp;<strong>GOAL 2:</strong> Preencher as informações para solicitar a segunda via<br />
-&emsp;&emsp;<strong>OP 2.1:</strong> Ler as instruções apresentadas na página<br />
-&emsp;&emsp;<strong>OP 2.2:</strong> Preencher os campos obrigatórios<br />
-&emsp;&emsp;<strong>OP 2.3:</strong> Fazer upload do comprovante de pagamento<br />
-&emsp;&emsp;<strong>OP 2.4:</strong> Fazer upload do boletim de ocorrência<br />
-&emsp;&emsp;<strong>OP 2.5:</strong> Pressionar o botão "Registrar Solicitação"</p>
+<h3 id="cenario-2-solicitacao-de-segunda-via-de-cartao-por-perda">Cenário 2: Solicitação de segunda via de cartão por perda</h3>
+<p><strong>GOAL 0:</strong> Solicitar a segunda via do cartão por perda<br />
+&emsp;<strong>GOAL 1:</strong> Fazer login no sistema para acessar a funcionalidade<br />
+&emsp;<strong>GOAL 2:</strong> Navegar até a funcionalidade "Solicitar Segunda Via"<br />
+&emsp;&emsp;<strong>OP 2.1:</strong> Identificar a opção "Solicitar Segunda Via" no menu<br />
+&emsp;&emsp;<strong>OP 2.2:</strong> Pressionar a opção para acessá-la<br />
+&emsp;<strong>GOAL 3:</strong> Selecionar o motivo da solicitação<br />
+&emsp;&emsp;<strong>OP 3.1:</strong> Ler as opções disponíveis (Perda, Roubo ou Furto, Cartão Danificado)<br />
+&emsp;&emsp;<strong>OP 3.2:</strong> Selecionar "Perda"<br />
+&emsp;<strong>GOAL 4:</strong> Efetuar o pagamento da taxa<br />
+&emsp;&emsp;<strong>OP 4.1:</strong> Verificar o valor da taxa (R$ 5,40)<br />
+&emsp;&emsp;<strong>OP 4.2:</strong> Escolher a forma de pagamento (boleto, PIX ou cartão de crédito)<br />
+&emsp;&emsp;<strong>OP 4.3:</strong> Realizar o pagamento na plataforma<br />
+&emsp;&emsp;<strong>OP 4.4:</strong> Confirmar que o pagamento foi reconhecido automaticamente pelo sistema<br />
+&emsp;<strong>GOAL 5:</strong> Escolher o local de retirada do novo cartão<br />
+&emsp;&emsp;<strong>OP 5.1:</strong> Verificar o local de retirada sugerido (mais próximo da localização)<br />
+&emsp;&emsp;<strong>OP 5.2:</strong> Alterar o local, caso necessário<br />
+&emsp;&emsp;<strong>OP 5.3:</strong> Confirmar a escolha do local de retirada<br />
+&emsp;<strong>GOAL 6:</strong> Finalizar a solicitação<br />
+&emsp;&emsp;<strong>OP 6.1:</strong> Pressionar o botão "Finalizar Solicitação"<br />
+&emsp;&emsp;<strong>OP 6.2:</strong> Visualizar a mensagem de confirmação da solicitação registrada<br />
+&emsp;&emsp;<strong>OP 6.3:</strong> Receber as informações sobre o prazo de confecção e o local de retirada<br />
+&emsp;<strong>GOAL 7:</strong> Buscar o cartão no local selecionado<br />
+&emsp;&emsp;<strong>OP 7.1:</strong> Aguardar o período necessário para a confecção do cartão<br />
+&emsp;&emsp;<strong>OP 7.2:</strong> Dirigir-se ao local de retirada com a documentação necessária<br />
+&emsp;&emsp;<strong>OP 7.3:</strong> Retirar o novo cartão no local selecionado  </p>
 <h3 id="cenario-3-consulta-do-status-do-cartao-e-informacoes-de-retirada">Cenário 3: Consulta do status do cartão e informações de retirada</h3>
 <p><strong>GOAL 0:</strong> Fazer login na página para verificar as informações do cartão<br />
 &emsp;<strong>GOAL 1:</strong> Navegar até a aba de retirada de cartão<br />
@@ -2202,19 +2217,27 @@
 &emsp;&emsp;<strong>OP 2.3:</strong> Fazer upload da nova foto<br />
 &emsp;&emsp;<strong>SEL. RULE:</strong> O usuário escolheu uma foto do dispositivo para upload<br />
 &emsp;&emsp;<strong>OP 2.4:</strong> Salvar a foto desejada  </p>
-<h3 id="cenario-7-solicitacao-de-extensao-de-acesso">Cenário 7: Solicitação de Extensão de Acesso</h3>
-<p><strong>GOAL 0:</strong> Fazer login na página para solicitar extensão de acesso<br />
-&emsp;<strong>GOAL 1:</strong> Navegar até a aba "Extensão de Acesso"<br />
-&emsp;&emsp;<strong>OP 1.1:</strong> Identificar a aba no menu<br />
-&emsp;&emsp;<strong>OP 1.2:</strong> Clicar na aba para acessá-la<br />
-&emsp;<strong>GOAL 2:</strong> Fazer uma nova solicitação<br />
-&emsp;&emsp;<strong>OP 2.1:</strong> Ler e aceitar o Termo de Uso<br />
-&emsp;&emsp;<strong>OP 2.2:</strong> Preencher o formulário com informações obrigatórias<br />
-&emsp;&emsp;<strong>OP 2.3:</strong> Anexar os documentos necessários<br />
-&emsp;&emsp;<strong>OP 2.4:</strong> Enviar a solicitação<br />
-&emsp;<strong>GOAL 3:</strong> Acompanhar o status da solicitação<br />
-&emsp;&emsp;<strong>OP 3.1:</strong> Navegar até a aba "Acompanhar Solicitações"<br />
-&emsp;&emsp;<strong>OP 3.2:</strong> Ler o status atual da solicitação (e.g., "Solicitado", "Em análise").</p>
+<h3 id="cenario-7-solicitacao-de-extensao-de-acesso-por-estagio-obrigatorio">Cenário 7: Solicitação de Extensão de Acesso por estágio obrigatório</h3>
+<p><strong>GOAL 0:</strong> Solicitar extensão de acessos por estágio obrigatorio
+&emsp;<strong>GOAL 1:</strong>Fazer login no sistema acadêmico para acessar a funcionalidade
+&emsp;<strong>GOAL 2:</strong> Navegar até a aba "Extensão de Acesso"<br />
+&emsp;&emsp;<strong>OP 2.1:</strong> Identificar a aba no menu<br />
+&emsp;&emsp;<strong>OP 2.2:</strong> Clicar na aba para acessá-la<br />
+&emsp;<strong>GOAL 3:</strong> Selecionar o motivo da solicitação<br />
+&emsp;&emsp;<strong>OP 3.1:</strong> Ler as opções disponíveis (Matrícula em mais de uma IE, Estágio Obrigatório, Insuficiência de Acessos, Programa Bora Vencer)<br />
+&emsp;&emsp;<strong>OP 3.2:</strong> Selecionar "Estágio Obrigatório"<br />
+&emsp;<strong>GOAL 4:</strong> Ler o termo de uso referente ao motivo escolhido<br />
+&emsp;&emsp;<strong>OP 4.1:</strong> Abrir o termo de uso exibido<br />
+&emsp;&emsp;<strong>OP 4.2:</strong> Identificar as exigências específicas (declaração de estágio obrigatório com matrícula, nome, CPF, assinatura do supervisor e grade horária)<br />
+&emsp;<strong>GOAL 5:</strong> Realizar o upload da documentação exigida<br />
+&emsp;&emsp;<strong>OP 5.1:</strong> Escolher o arquivo da declaração de estágio obrigatório no dispositivo<br />
+&emsp;&emsp;<strong>OP 5.2:</strong> Confirmar o envio do arquivo<br />
+&emsp;<strong>GOAL 6:</strong> Finalizar a solicitação<br />
+&emsp;&emsp;<strong>OP 6.1:</strong> Pressionar o botão "Finalizar Solicitação"<br />
+&emsp;&emsp;<strong>OP 6.2:</strong> Visualizar a mensagem de confirmação da solicitação registrada<br />
+&emsp;<strong>GOAL 7:</strong> Acompanhar o status da solicitação<br />
+&emsp;&emsp;<strong>OP 7.1:</strong> Acessar a aba "Solicitações Pendentes" no sistema<br />
+&emsp;&emsp;<strong>OP 7.2:</strong> Visualizar o status e prazos estimados de análise </p>
 <h2 id="cenario-9-criacao-do-cartao-virtual-do-passe-livre-estudantil">Cenário 9: Criação do Cartão Virtual do Passe Livre Estudantil</h2>
 <p><strong>GOAL 0:</strong> Obter o cartão virtual do passe livre estudantil<br />
 &emsp;<strong>GOAL 1:</strong> Fazer login na página para acessar a funcionalidade<br />
