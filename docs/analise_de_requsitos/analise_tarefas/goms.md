@@ -70,7 +70,43 @@ Escolhemos o CMN-GOMS pois o mesmo é utilizado para fornecer uma visualização
 &emsp;&emsp;**OP 2.2:** Pressionar o botão "Anexar Foto" para selecionar a nova foto  
 &emsp;&emsp;**OP 2.3:** Fazer upload da nova foto  
 &emsp;&emsp;**SEL. RULE:** O usuário escolheu uma foto do dispositivo para upload  
-&emsp;&emsp;**OP 2.4:** Salvar a foto desejada  
+&emsp;&emsp;**OP 2.4:** Salvar a foto desejada 
+
+### Cenário 5: Verificação de acessos em um dia específico
+
+**GOAL 0:** Verificar os acessos realizados em um dia específico  
+&emsp;**GOAL 1:** Localizar a aba correta para consulta  
+&emsp;&emsp;**OP 1.1:** Identificar a aba "Minha Frequência" no menu  
+&emsp;&emsp;**OP 1.2:** Clicar na aba "Minha Frequência"  
+&emsp;&emsp;**OP 1.3:** Perceber que as informações desejadas não estão disponíveis  
+&emsp;&emsp;**OP 1.4:** Retornar ao menu principal  
+&emsp;&emsp;**OP 1.5:** Identificar a aba "Meus Acessos" no menu  
+&emsp;&emsp;**OP 1.6:** Clicar na aba "Meus Acessos"  
+&emsp;**GOAL 2:** Selecionar as datas para a consulta  
+&emsp;&emsp;**OP 2.1:** Localizar os campos para inserir as datas de início e fim  
+&emsp;&emsp;**OP 2.2:** Preencher as datas desejadas  
+&emsp;&emsp;**OP 2.3:** Confirmar as datas selecionadas  
+&emsp;**GOAL 3:** Visualizar as informações de acessos  
+&emsp;&emsp;**OP 3.1:** Aguardar o carregamento das informações  
+&emsp;&emsp;**OP 3.2:** Conferir os registros exibidos, incluindo horários e locais de entrada  
+
+### Cenário 6: Troca de Instituição no site Passe Livre Estudantil
+
+**GOAL 0:** Realizar a troca de instituição no sistema  
+&emsp;**GOAL 1:** Navegar até a tela de "Troca de Instituição"  
+&emsp;&emsp;**OP 1.1:** Localizar a aba "Troca de Instituição" no menu principal  
+&emsp;&emsp;**OP 1.2:** Clicar na aba para acessar a funcionalidade  
+&emsp;**GOAL 2:** Preencher os dados para a nova solicitação  
+&emsp;&emsp;**OP 2.1:** Selecionar a opção "Nova Solicitação"  
+&emsp;&emsp;**OP 2.2:** Preencher os campos obrigatórios: Matrícula, Instituição de Ensino, Modalidade, Curso, Série/Período/Ano  
+&emsp;&emsp;**OP 2.3:** Preencher o campo opcional de observações, caso necessário  
+&emsp;&emsp;**OP 2.4:** Anexar os documentos necessários  
+&emsp;&emsp;**OP 2.5:** Salvar a solicitação  
+&emsp;**GOAL 3:** Acompanhar o status da solicitação  
+&emsp;&emsp;**OP 3.1:** Acessar a seção "Acompanhar Solicitação"  
+&emsp;&emsp;**OP 3.2:** Verificar o indicador de status da solicitação (Solicitado, Em análise, Aprovado, Rejeitado)  
+&emsp;&emsp;**OP 3.3:** Confirmar que o status atual está como "Solicitado"  
+
 
 ### Cenário 7: Solicitação de Extensão de Acesso por estágio obrigatório
 
@@ -94,6 +130,20 @@ Escolhemos o CMN-GOMS pois o mesmo é utilizado para fornecer uma visualização
 &emsp;**GOAL 7:** Acompanhar o status da solicitação  
 &emsp;&emsp;**OP 7.1:** Acessar a aba "Solicitações Pendentes" no sistema  
 &emsp;&emsp;**OP 7.2:** Visualizar o status e prazos estimados de análise 
+
+### Cenário 8: Troca de endereço
+
+**GOAL 0:** Atualizar o endereço cadastrado na plataforma  
+&emsp;**GOAL 1:** Navegar até a aba "Atualizar Cadastro"  
+&emsp;&emsp;**OP 1.1:** Localizar a aba "Atualizar Cadastro" no menu principal  
+&emsp;&emsp;**OP 1.2:** Clicar na aba "Atualizar Cadastro"  
+&emsp;**GOAL 2:** Inserir as novas informações de endereço  
+&emsp;&emsp;**OP 2.1:** Navegar até a seção "Endereço"  
+&emsp;&emsp;**OP 2.2:** Editar o campo de endereço com as novas informações  
+&emsp;&emsp;**OP 2.3:** Salvar as alterações realizadas  
+&emsp;**GOAL 3:** Confirmar a atualização do endereço  
+&emsp;&emsp;**OP 3.1:** Verificar a mensagem de sucesso exibida pela plataforma  
+&emsp;&emsp;**OP 3.2:** Confirmar visualmente que o novo endereço está atualizado 
 
 
 ## Cenário 9: Criação do Cartão Virtual do Passe Livre Estudantil
