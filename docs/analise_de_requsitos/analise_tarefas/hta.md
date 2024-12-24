@@ -16,7 +16,7 @@ A Análise Hierárquica de Tarefas (HTA) é um método de análise de tarefas qu
 
 No que diz respeito às tarefas para análise com o método HTA, foram escolhidas o acesso ao meu painel e o compartilhamento de eventos, conforme explicitado nas figuras de ** a ** e nas tabelas de ** a **.
 
-### Extensão de Acessos
+### cenario 2: Extensão de Acessos
 
 Nessa tarefa, o usuário possui o objetivo de visualizar um pedido dentro dos pedidos realizados. A figura 2 apresenta o diagrama HTA relativa a tarefa, já a tabela 1 representa o mesmo HTA em tabela
 
@@ -26,30 +26,23 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 
 <font size="3"><b>Figura \_\_</b> - Diagrama HTA de Extensão de Acessos.</font>
 
-![Notação diagrama HTA](../../assets/extensaoAcessosDiagrama.png){width: 300}
+![Notação diagrama HTA](../../assets/hta_extensao_acessos.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
 
 <font size="3"><b>Tabela \_\_</b> - HTA de Extensão de Acessos.</font>
 
-| **Objetivos/Operações**                          | **Problemas e Recomendações** |
-| ------------------------------------------------ | ----------------------------- |
-| **0. Solicitar extensão de acessos**             |                               |
-| **1. Fazer login no sistema**                    |                               |
-| **1.1. Inserir login e senha**                   |                               |
-| **1.2. Confirmar autenticação**                  |                               |
-| **2. Acessar a aba "Extensão de Acesso"**        |                               |
-| **2.1. Localizar a aba no menu principal**       |                               |
-| **2.2. Clicar na aba para abrir a página**       |                               |
-| **3. Preencher o formulário de solicitação**     |                               |
-| **3.1. Ler e aceitar o Termo de Uso**            |                               |
-| **3.2. Selecionar o motivo da solicitação**      |                               |
-| **3.3. Preencher os campos obrigatórios**        |                               |
-| **3.4. Anexar os documentos necessários**        |                               |
-| **3.5. Confirmar o envio do formulário**         |                               |
-| **4. Acompanhar o status da solicitação**        |                               |
-| **4.1. Acessar a aba "Acompanhar Solicitações"** |                               |
-| **4.2. Verificar o status atual da solicitação** |                               |
+| **Objetivos / Operações**                         | **Problemas e Recomendações**                                                                                                                                                                                                                                   |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0. Solicitar Extensão de Acessos 1 > 2**        | _plano_: seguir todas as etapas de forma sequencial para garantir que os termos de uso sejam apresentados corretamente de acordo com o motivo escolhido.                                                                                                         |
+| **1. Nova Solicitação 1 > 2**                     | _problema_: anteriormente, essa etapa era paralela, o que dificultava a apresentação dos termos específicos. <br/> _recomendação_: o fluxo foi ajustado para ser sequencial, garantindo que o termo de uso seja exibido logo após a seleção do motivo.            |
+| **1.1 Selecionar o motivo da solicitação**        |                                                                                                                                                                                                                                                                 |
+| **1.2 Ler o termo de uso referente ao motivo escolhido** | _problema_: termos extensos podem desmotivar a leitura. <br/> _recomendação_: mostrar os termos de acordo com a escolha do motivo da solicitação                                                                        |
+| **1.3 Realizar o upload da documentação exigida** | _problema_: ao realizar o upload do documento, o usuário não tem a opção de excluir ou editar o arquivo antes de enviar a solicitação.  
+_recomendação_: permitir que o usuário revise, substitua ou exclua o arquivo enviado antes de concluir a solicitação, garantindo maior controle sobre os dados enviados.                                                 |
+| **1.4 Finalizar a solicitação**                   |                                                                                                                                                                                                                                                                 |
+| **2. Acompanhar o status da solicitação**         |                                                                                                                                                                                                                                                                 |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
 
@@ -68,7 +61,37 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 | **2. Aguardar validação da foto**                 |                                                                                                                                                                                                                                                                 |
 | **3. Visualizar a nova foto**                     |                                                                                                                                                                                                                                                                 |
 
-<font size="3"><p style="text-align: center">Fonte: [Mateus Vieira](https://github.com/matix0).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Matheus Viera](https://github.com/matix0).</p></font>
+
+### cenario 7: Segunda via
+
+Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda via do seu cartão do passe livre estudantil. A figura ** apresenta o diagrama HTA relativa a tarefa, já a tabela ** representa o mesmo HTA em tabela
+
+<center>
+
+<font size="3"><b>Figura \_\_</b> - Diagrama HTA de Segunda via.</font>
+
+![Notação diagrama HTA](../../assets/hta_segunda_via.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
+
+<font size="3"><b>Tabela \_\_</b> - HTA de Segunda via.</font>
+
+| **Objetivos / Operações**                         | **Problemas e Recomendações**                                                                                                                                                                                                                                   |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0. Solicitar Segunda Via 1 > 2**                | _plano_: seguir todas as etapas de forma sequencial, garantindo que o pagamento e a escolha do local de retirada sejam realizados diretamente na plataforma para maior conveniência.                                                                             |
+| **1. Nova Solicitação 1 > 2**                     |                                                                                                                                                                                                                                                                 |
+| **1.1 Selecionar o motivo da solicitação**        |                                                                                                                                                                                                                                                                 |
+| **1.2 Efetuar o pagamento da taxa**               | _problema_: anteriormente, o pagamento era realizado presencialmente em uma agência bancária e o usuário precisava enviar manualmente um comprovante com informações como CPF e conta bancária. <br/> _recomendação_: o pagamento agora é feito diretamente na plataforma (boleto, PIX ou cartão de crédito), agilizando o processo e eliminando etapas manuais. Além disso, o sistema reconhece o pagamento automaticamente e bloqueia o cartão perdido de imediato.  |
+| **1.3 Escolher o local de retirada do novo cartão** | _problema_: anteriormente, o local de retirada não era informado com antecedência, e o usuário não podia escolher onde buscar o cartão. <br/> _recomendação_: o sistema agora sugere automaticamente o local mais próximo da residência do usuário, mas permite que ele altere a escolha para maior conveniência.                                                                                     |
+| **1.4 Finalizar a solicitação**                   |                                                                                                                                                                                                                                                                 |
+| **2. Acompanhar o status da solicitação**         |                                                                                                                                                                                                                                                                 |
+| **2.1 Buscar o cartão no local selecionado**      |                                                                                                                                                                                                                                                                 |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
+
+</center>
 
 ## Bibliografia
 
@@ -80,3 +103,4 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 | :--------: | :----------------------: | :----: | :---------------: | :----------------------------------------: | :----------------------------------------: |
 | 14/12/2024 |        16/12/2024        |  1.0   | Criação da Página |                 Fernandes                  | [Mateus Vieira](https://github.com/matix0) |
 | 16/12/2024 |        17/12/2024        |  1.1   |   Adição HTA 4    | [Mateus Vieira](https://github.com/matix0) |                 Fernandes                  |
+| 24/12/2024 |        30/12/2024        |  1.2   |   Adição HTA 2 e 7    | [Breno Fernandes](https://github.com/Brenofrds) |                 Matheus                  |
