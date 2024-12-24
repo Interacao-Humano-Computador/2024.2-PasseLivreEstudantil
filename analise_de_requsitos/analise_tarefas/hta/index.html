@@ -1444,9 +1444,9 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#extensao-de-acessos" class="md-nav__link">
+  <a href="#cenario-2-extensao-de-acessos" class="md-nav__link">
     <span class="md-ellipsis">
-      Extensão de Acessos
+      cenario 2: Extensão de Acessos
     </span>
   </a>
   
@@ -1463,6 +1463,21 @@
       Cenário 04 - Alteração de Foto
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Cenário 04 - Alteração de Foto">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cenario-7-segunda-via" class="md-nav__link">
+    <span class="md-ellipsis">
+      cenario 7: Segunda via
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1987,9 +2002,9 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#extensao-de-acessos" class="md-nav__link">
+  <a href="#cenario-2-extensao-de-acessos" class="md-nav__link">
     <span class="md-ellipsis">
-      Extensão de Acessos
+      cenario 2: Extensão de Acessos
     </span>
   </a>
   
@@ -2006,6 +2021,21 @@
       Cenário 04 - Alteração de Foto
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Cenário 04 - Alteração de Foto">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cenario-7-segunda-via" class="md-nav__link">
+    <span class="md-ellipsis">
+      cenario 7: Segunda via
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -2056,84 +2086,52 @@
 <p></center></p>
 <h2 id="analise-de-tarefas">Análise de Tarefas</h2>
 <p>No que diz respeito às tarefas para análise com o método HTA, foram escolhidas o acesso ao meu painel e o compartilhamento de eventos, conforme explicitado nas figuras de ** a ** e nas tabelas de ** a **.</p>
-<h3 id="extensao-de-acessos">Extensão de Acessos</h3>
+<h3 id="cenario-2-extensao-de-acessos">cenario 2: Extensão de Acessos</h3>
 <p>Nessa tarefa, o usuário possui o objetivo de visualizar um pedido dentro dos pedidos realizados. A figura 2 apresenta o diagrama HTA relativa a tarefa, já a tabela 1 representa o mesmo HTA em tabela</p>
 <p>Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão de acessos do seu cartão do passe livre estudantil. A figura ** apresenta o diagrama HTA relativa a tarefa, já a tabela ** representa o mesmo HTA em tabela</p>
 <p><center></p>
 <p><font size="3"><b>Figura __</b> - Diagrama HTA de Extensão de Acessos.</font></p>
-<p><img alt="Notação diagrama HTA" src="../../../assets/extensaoAcessosDiagrama.png" />{width: 300}</p>
+<p><img alt="Notação diagrama HTA" src="../../../assets/hta_extensao_acessos.png" /></p>
 <p><font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Brenofrds">Breno Fernandes</a>.</p></font></p>
 <p><font size="3"><b>Tabela __</b> - HTA de Extensão de Acessos.</font></p>
 <table>
 <thead>
 <tr>
-<th><strong>Objetivos/Operações</strong></th>
+<th><strong>Objetivos / Operações</strong></th>
 <th><strong>Problemas e Recomendações</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>0. Solicitar extensão de acessos</strong></td>
+<td><strong>0. Solicitar Extensão de Acessos 1 &gt; 2</strong></td>
+<td><em>plano</em>: seguir todas as etapas de forma sequencial para garantir que os termos de uso sejam apresentados corretamente de acordo com o motivo escolhido.</td>
+</tr>
+<tr>
+<td><strong>1. Nova Solicitação 1 &gt; 2</strong></td>
+<td><em>problema</em>: anteriormente, essa etapa era paralela, o que dificultava a apresentação dos termos específicos. <br/> <em>recomendação</em>: o fluxo foi ajustado para ser sequencial, garantindo que o termo de uso seja exibido logo após a seleção do motivo.</td>
+</tr>
+<tr>
+<td><strong>1.1 Selecionar o motivo da solicitação</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><strong>1. Fazer login no sistema</strong></td>
+<td><strong>1.2 Ler o termo de uso referente ao motivo escolhido</strong></td>
+<td><em>problema</em>: termos extensos podem desmotivar a leitura. <br/> <em>recomendação</em>: mostrar os termos de acordo com a escolha do motivo da solicitação</td>
+</tr>
+<tr>
+<td><strong>1.3 Realizar o upload da documentação exigida</strong></td>
+<td><em>problema</em>: ao realizar o upload do documento, o usuário não tem a opção de excluir ou editar o arquivo antes de enviar a solicitação.</td>
+</tr>
+<tr>
+<td><em>recomendação</em>: permitir que o usuário revise, substitua ou exclua o arquivo enviado antes de concluir a solicitação, garantindo maior controle sobre os dados enviados.</td>
 <td></td>
 </tr>
 <tr>
-<td><strong>1.1. Inserir login e senha</strong></td>
+<td><strong>1.4 Finalizar a solicitação</strong></td>
 <td></td>
 </tr>
 <tr>
-<td><strong>1.2. Confirmar autenticação</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>2. Acessar a aba "Extensão de Acesso"</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>2.1. Localizar a aba no menu principal</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>2.2. Clicar na aba para abrir a página</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>3. Preencher o formulário de solicitação</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>3.1. Ler e aceitar o Termo de Uso</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>3.2. Selecionar o motivo da solicitação</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>3.3. Preencher os campos obrigatórios</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>3.4. Anexar os documentos necessários</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>3.5. Confirmar o envio do formulário</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>4. Acompanhar o status da solicitação</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>4.1. Acessar a aba "Acompanhar Solicitações"</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>4.2. Verificar o status atual da solicitação</strong></td>
+<td><strong>2. Acompanhar o status da solicitação</strong></td>
 <td></td>
 </tr>
 </tbody>
@@ -2176,7 +2174,58 @@
 </tr>
 </tbody>
 </table>
-<p><font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/matix0">Mateus Vieira</a>.</p></font></p>
+<p><font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/matix0">Matheus Viera</a>.</p></font></p>
+<h3 id="cenario-7-segunda-via">cenario 7: Segunda via</h3>
+<p>Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda via do seu cartão do passe livre estudantil. A figura ** apresenta o diagrama HTA relativa a tarefa, já a tabela ** representa o mesmo HTA em tabela</p>
+<p><center></p>
+<p><font size="3"><b>Figura __</b> - Diagrama HTA de Segunda via.</font></p>
+<p><img alt="Notação diagrama HTA" src="../../../assets/hta_segunda_via.png" /></p>
+<p><font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Brenofrds">Breno Fernandes</a>.</p></font></p>
+<p><font size="3"><b>Tabela __</b> - HTA de Segunda via.</font></p>
+<table>
+<thead>
+<tr>
+<th><strong>Objetivos / Operações</strong></th>
+<th><strong>Problemas e Recomendações</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>0. Solicitar Segunda Via 1 &gt; 2</strong></td>
+<td><em>plano</em>: seguir todas as etapas de forma sequencial, garantindo que o pagamento e a escolha do local de retirada sejam realizados diretamente na plataforma para maior conveniência.</td>
+</tr>
+<tr>
+<td><strong>1. Nova Solicitação 1 &gt; 2</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>1.1 Selecionar o motivo da solicitação</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>1.2 Efetuar o pagamento da taxa</strong></td>
+<td><em>problema</em>: anteriormente, o pagamento era realizado presencialmente em uma agência bancária e o usuário precisava enviar manualmente um comprovante com informações como CPF e conta bancária. <br/> <em>recomendação</em>: o pagamento agora é feito diretamente na plataforma (boleto, PIX ou cartão de crédito), agilizando o processo e eliminando etapas manuais. Além disso, o sistema reconhece o pagamento automaticamente e bloqueia o cartão perdido de imediato.</td>
+</tr>
+<tr>
+<td><strong>1.3 Escolher o local de retirada do novo cartão</strong></td>
+<td><em>problema</em>: anteriormente, o local de retirada não era informado com antecedência, e o usuário não podia escolher onde buscar o cartão. <br/> <em>recomendação</em>: o sistema agora sugere automaticamente o local mais próximo da residência do usuário, mas permite que ele altere a escolha para maior conveniência.</td>
+</tr>
+<tr>
+<td><strong>1.4 Finalizar a solicitação</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>2. Acompanhar o status da solicitação</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>2.1 Buscar o cartão no local selecionado</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/Brenofrds">Breno Fernandes</a>.</p></font></p>
+<p></center></p>
 <h2 id="bibliografia">Bibliografia</h2>
 <blockquote>
 <p>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.</p>
@@ -2209,6 +2258,14 @@
 <td style="text-align: center;">Adição HTA 4</td>
 <td style="text-align: center;"><a href="https://github.com/matix0">Mateus Vieira</a></td>
 <td style="text-align: center;">Fernandes</td>
+</tr>
+<tr>
+<td style="text-align: center;">24/12/2024</td>
+<td style="text-align: center;">30/12/2024</td>
+<td style="text-align: center;">1.2</td>
+<td style="text-align: center;">Adição HTA 2 e 7</td>
+<td style="text-align: center;"><a href="https://github.com/Brenofrds">Breno Fernandes</a></td>
+<td style="text-align: center;">Matheus</td>
 </tr>
 </tbody>
 </table>
