@@ -63,6 +63,26 @@ _recomendação_: permitir que o usuário revise, substitua ou exclua o arquivo 
 
 <font size="3"><p style="text-align: center">Fonte: [Matheus Viera](https://github.com/matix0).</p></font>
 
+# Cenário 5: Verificação de acessos em um dia específico
+
+## Análise de Tarefas HTA
+
+| **Objetivos / Operações**                           | **Problemas e Recomendações**                                                                                                                                                                                                                                   |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0. Verificar os acessos realizados em um dia específico** |  _feedback_: Registros de acessos exibidos na tela <br/> _plano_: Navegar até a aba correta, selecionar as datas e visualizar os resultados.                                                                          |                                                                                                   |
+| **1. Identificar a aba "Meus Acessos" no menu**    |                                                                                                                                                                                                                                                                 |
+| **1.1 Clicar na aba "Meus Acessos"**                |                                                                                                                                                                                                                                                                 |
+| **2. Selecionar as datas para a consulta**          | _plano_: Preencher os campos de data de início e fim para filtrar os registros corretamente.                                                                                                                                                                    |
+| **2.1 Localizar os campos para inserir as datas de início e fim** |                                                                                                                                                                                                                                                                 |
+| **2.2 Preencher as datas desejadas**                | _problema_: Formato de data pode ser confuso para o usuário. <br/> _recomendação_: Implementar um seletor de datas (date picker) para facilitar a entrada de dados.                                                                                              |
+| **2.3 Confirmar as datas selecionadas**             | _problema_: Falta de botão ou indicador claro de confirmação. <br/> _recomendação_: Utilizar botões evidentes como "Confirmar" ou "Filtrar".                                                                                                                    |
+| **3. Visualizar as informações de acessos**         | _plano_: Conferir os registros carregados na tela, verificando a exatidão dos dados apresentados.                                                                                                                                                               |
+| **3.1 Aguardar o carregamento das informações**     | _problema_: Carregamento demorado pode gerar frustração. <br/> _recomendação_: Exibir uma barra ou indicador de progresso durante o carregamento.                                                                                                               |
+| **3.2 Conferir os registros exibidos, incluindo horários e locais de entrada** | _problema_: Informações podem ser extensas ou difíceis de interpretar. <br/> _recomendação_: Exibir os dados em tabelas ou gráficos de fácil leitura, com opção de exportação.                                                                                   |
+
+---
+
+
 ### cenario 7: Segunda via
 
 Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda via do seu cartão do passe livre estudantil. A figura ** apresenta o diagrama HTA relativa a tarefa, já a tabela ** representa o mesmo HTA em tabela
@@ -92,6 +112,45 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda vi
 <font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
 
 </center>
+
+### Cenário 8: Troca de Endereço
+
+| **Objetivos / Operações**                         | **Problemas e Recomendações**                                                                                                                                                                                                 |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0. Atualizar o endereço cadastrado na plataforma** | _input_: Novas informações de endereço fornecidas pelo usuário <br/> _feedback_: Confirmação visual de que o endereço foi atualizado <br/> _plano_: Acessar a aba correta, editar o campo de endereço e confirmar a atualização. |
+| **1. Navegar até a aba "Atualizar Cadastro"**     | _plano_: Usar o menu principal para acessar a funcionalidade de atualização de cadastro.                                                                                                                                      |
+| **1.1 Localizar a aba "Atualizar Cadastro" no menu principal** | _problema_: Usuários podem ter dificuldade em identificar a aba devido a nomes pouco intuitivos. <br/> _recomendação_: Usar um nome claro, como "Editar Dados", e adicionar ícones para facilitar a localização.            |
+| **1.2 Clicar na aba "Atualizar Cadastro"**        | _problema_: Possíveis atrasos ou erros ao carregar a página. <br/> _recomendação_: Incluir um indicador de progresso para manter o usuário informado sobre o status de carregamento.                                           |
+| **2. Inserir as novas informações de endereço**   | _plano_: Editar diretamente o campo de endereço e salvar as alterações.                                                                                                                                                       |
+| **2.1 Navegar até a seção "Endereço"**            | _problema_: Usuários podem não perceber como acessar a seção desejada. <br/> _recomendação_: Adicionar um menu de navegação lateral ou destacar as seções no topo da página.                                                   |
+| **2.2 Editar o campo de endereço com as novas informações** | _problema_: Possíveis erros no formato do endereço (CEP, estado, etc.). <br/> _recomendação_: Implementar validação em tempo real para evitar entradas inválidas.                                                             |
+| **2.3 Salvar as alterações realizadas**           | _problema_: Botão de salvar pode não estar visível ou ser pouco destacado. <br/> _recomendação_: Garantir que o botão seja grande, de fácil visualização e posicionado em uma área lógica da página (por exemplo, no final).  |
+| **3. Confirmar a atualização do endereço**        | _plano_: Validar se as mudanças foram feitas corretamente através de mensagens de sucesso e confirmação visual.                                                                                                               |
+| **3.1 Verificar a mensagem de sucesso exibida pela plataforma** | _problema_: Mensagens podem ser muito genéricas ou não aparecer imediatamente. <br/> _recomendação_: Exibir mensagens claras, como "Endereço atualizado com sucesso", em destaque e por tempo adequado.                     |
+| **3.2 Confirmar visualmente que o novo endereço está atualizado** | _problema_: Usuários podem não encontrar onde validar o novo endereço. <br/> _recomendação_: Redirecionar automaticamente para a visualização do perfil atualizado ou destacar o campo atualizado na tela atual.             |
+
+---
+
+### Cenário 9: Criação do Cartão Virtual do Passe Livre Estudantil
+
+| **Objetivos / Operações**                         | **Problemas e Recomendações**                                                                                                                                                                                                                                     |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0. Obter o cartão virtual do passe livre estudantil** | _input_: Dados do usuário (nome, CPF, número do cartão físico) <br/> _feedback_: Cartão virtual com QR Code exibido na tela e integração com aplicativos <br/> _plano_: Realizar login, navegar até a aba correta, preencher os dados e acessar o cartão virtual. |
+| **1. Fazer login na página para acessar a funcionalidade** | _problema_: Usuário pode esquecer as credenciais ou enfrentar problemas com recuperação de senha. <br/> _recomendação_: Oferecer uma opção de recuperação de senha simples e destacada na tela de login.                                                         |
+| **2. Navegar até a aba "Cartão Virtual"**         | _plano_: Utilizar o menu principal para localizar e acessar a aba.                                                                                                                                                                                                |
+| **2.1 Procurar no menu a opção "Cartão Virtual"** | _problema_: Nome da aba pode ser pouco intuitivo ou difícil de localizar. <br/> _recomendação_: Garantir que a aba tenha um nome claro e ícones que facilitem a identificação.                                                                                     |
+| **2.2 Pressionar a opção para acessá-la**         | _problema_: Possíveis atrasos no carregamento da página. <br/> _recomendação_: Exibir um indicador de progresso para que o usuário saiba que o sistema está processando a solicitação.                                                                            |
+| **3. Preencher os dados necessários para criar o cartão virtual** | _plano_: Inserir corretamente as informações exigidas nos campos indicados.                                                                                                                                                                                       |
+| **3.1 Inserir nome completo**                     | _problema_: Campo pode não validar corretamente o formato esperado. <br/> _recomendação_: Implementar validação em tempo real para evitar erros e informar o formato adequado ao usuário.                                                                         |
+| **3.2 Inserir CPF**                               | _problema_: Usuários podem digitar o CPF no formato errado. <br/> _recomendação_: Adicionar máscara no campo para formatação automática (ex.: 123.456.789-00).                                                                                                   |
+| **3.3 Inserir o número do cartão físico**         | _problema_: Número pode ser longo e propenso a erros de digitação. <br/> _recomendação_: Permitir a digitalização ou leitura automática do cartão físico (se disponível).                                                                                         |
+| **3.4 Confirmar os dados pressionando o botão "Gerar Cartão Virtual"** | _problema_: Usuário pode não perceber o botão de confirmação. <br/> _recomendação_: Garantir que o botão seja destacado visualmente e que exiba mensagens de erro caso algum campo obrigatório esteja vazio ou preenchido incorretamente.                        |
+| **4. Finalizar o processo e acessar o cartão virtual gerado** | _plano_: Exibir o cartão virtual gerado e oferecer opções de integração com outros serviços.                                                                                                                                                                     |
+| **4.1 Visualizar o cartão virtual com QR Code na tela** | _problema_: QR Code pode ser de difícil leitura dependendo do tamanho ou resolução. <br/> _recomendação_: Garantir que o QR Code seja grande o suficiente e contrastante para leitura fácil.                                                                      |
+| **4.2 Escolher uma das opções para integrar o cartão a aplicativos como Google Pay ou Apple Wallet** | _problema_: Usuários podem não saber como utilizar a integração. <br/> _recomendação_: Adicionar instruções claras sobre como integrar o cartão virtual aos aplicativos suportados.                                                                               |
+
+---
+
 
 ## Bibliografia
 

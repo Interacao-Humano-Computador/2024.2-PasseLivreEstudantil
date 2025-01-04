@@ -75,13 +75,9 @@ Escolhemos o CMN-GOMS pois o mesmo é utilizado para fornecer uma visualização
 ### Cenário 5: Verificação de acessos em um dia específico
 
 **GOAL 0:** Verificar os acessos realizados em um dia específico  
-&emsp;**GOAL 1:** Localizar a aba correta para consulta  
-&emsp;&emsp;**OP 1.1:** Identificar a aba "Minha Frequência" no menu  
-&emsp;&emsp;**OP 1.2:** Clicar na aba "Minha Frequência"  
-&emsp;&emsp;**OP 1.3:** Perceber que as informações desejadas não estão disponíveis  
-&emsp;&emsp;**OP 1.4:** Retornar ao menu principal  
-&emsp;&emsp;**OP 1.5:** Identificar a aba "Meus Acessos" no menu  
-&emsp;&emsp;**OP 1.6:** Clicar na aba "Meus Acessos"  
+&emsp;**GOAL 1:** Localizar a aba correta para consulta   
+&emsp;&emsp;**OP 1.1:** Identificar a aba "Meus Acessos" no menu  
+&emsp;&emsp;**OP 1.2:** Clicar na aba "Meus Acessos"  
 &emsp;**GOAL 2:** Selecionar as datas para a consulta  
 &emsp;&emsp;**OP 2.1:** Localizar os campos para inserir as datas de início e fim  
 &emsp;&emsp;**OP 2.2:** Preencher as datas desejadas  
