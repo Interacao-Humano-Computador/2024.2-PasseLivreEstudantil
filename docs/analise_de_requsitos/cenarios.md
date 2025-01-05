@@ -3,10 +3,10 @@
 ## Introdução
 Cenários são narrativas detalhadas que descrevem situações de uso de uma aplicação, envolvendo atores, processos e dados reais ou potenciais. Eles têm como objetivo capturar requisitos, explorar soluções de design e avaliar a satisfação do usuário. Com um custo e tempo menores do que modelos complexos, os cenários são uma ferramenta importante no design de interfaces. Cada cenário apresenta um ator principal, com um objetivo central que pode ser desdobrado em subobjetivos. Além disso, inclui sequências de ações, eventos e planejamento que ajudam ou dificultam o alcance dos objetivos.
 
-<font size="3"><p style="text-align: center">Figura 1 - Explicação dos Cenários</p></font>
+<!-- <font size="3"><p style="text-align: center">Figura 1 - Explicação dos Cenários</p></font>
 
 <center>![Figura 1](../assets/livro_cenarios_170.png)</center>
-<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font>
+<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font> -->
 
 ## Cenário 1: Visualização da obtenção do passe livre
 

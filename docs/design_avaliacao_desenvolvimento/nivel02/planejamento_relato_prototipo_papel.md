@@ -1,9 +1,6 @@
-# Relato dos Resultados da Análise de Tarefas
+#  Planejamento do relato dos resultados da avaliação do Protótipo de Papel.
 
 ## Introdução
-Essa seção tem como fim apresentar o relato das entrevistas feitas, referente à Análise de Tarefas.
-
-### Entrevista 01:
 
 <!-- ## Referências Bibliográficas
 Usar apenas se houver alguma referência bibliográfica

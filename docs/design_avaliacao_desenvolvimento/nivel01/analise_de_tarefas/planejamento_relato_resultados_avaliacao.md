@@ -32,12 +32,12 @@ O método adotado será a observação e entrevista com usuários, conforme o cr
 
 #### Tabela 1 - Cronograma Planejado
 
-| **Entrevistador(es)** | **Entrevistado(s)**  | **Horário de Início** | **Horário de Fim** | **Data**   | **Local** |
-| --------------------- | -------------------- | --------------------- | ------------------ | ---------- | --------- |
-| Breno Lucena          | Emily                | 11:00                 | 11:30              | 11/12/2024 | Teams     |
-| Breno Soares          | Maria Clara          | 16:00                 | 16:30              | 13/12/2024 | Teams     |
-| Felipe Verrissimo     | Samuel Santos        | 20:00                 | 20:30              | 11/12/2024 | Teams     |
-| Mateus Vieira         | Yasmim Oliveira Rosa | 21:00                 | 21:30              | 13/12/2024 | Teams     |
+| **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**   | **Local**  |
+| --------------------- | ------------------- | --------------------- | ------------------ | ---------- | ---------- |
+| Breno Lucena          | Emily               | 11:00                 | 11:30              | 11/12/2024 | Teams      |
+| Breno Soares          | Maria Clara         | 16:00                 | 16:30              | 13/12/2024 | Teams      |
+| Felipe Verrissimo     | Samuel Santos       | 20:00                 | 20:30              | 11/12/2024 | Teams      |
+| Mateus Vieira         | Camila Alencar      | 21:00                 | 21:30              | 05/01/2024 | Presencial |
 
 **Fonte:** Breno Lucena
 
@@ -71,12 +71,12 @@ Com base nos resultados, será elaborado um plano de reprojeto, respeitando a es
 
 #### Tabela 2 - Cronograma do Reprojeto
 
-| **Executador**    | **Horário de Início** | **Horário de Fim** | **Data** |
-| ----------------- | --------------------- | ------------------ | -------- |
-| Breno Lucena      | 16:00                 | 18:00              | 15/12    |
-| Breno Soares      | 16:00                 | 18:00              | 15/12    |
-| Felipe Verrissimo | 16:00                 | 18:00              | 15/12    |
-| Mateus Vieira     | 16:00                 | 18:00              | 15/12    |
+| **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**   | **Local**  |
+| --------------------- | ------------------- | --------------------- | ------------------ | ---------- | ---------- |
+| Breno Lucena          | Emily               | 16:00                 | 18:30              | 15/12/2024 | Teams      |
+| Breno Soares          | Maria Clara         | 16:00                 | 18:30              | 15/12/2024 | Teams      |
+| Felipe Verrissimo     | Samuel Santos       | 16:00                 | 18:30              | 15/12/2024 | Teams      |
+| Mateus Vieira         | Camila Alencar      | 16:00                 | 18:30              | 05/01/2024 | Presencial |
 
 _Fonte: Breno Lucena_
 

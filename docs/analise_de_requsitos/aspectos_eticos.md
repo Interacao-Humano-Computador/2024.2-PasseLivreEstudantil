@@ -3,19 +3,19 @@
 ## Introdução
 
 Pesquisas em Computação que envolvem pessoas demandam forte atenção aos aspectos éticos, seguindo diretrizes de associações como a ACM e a IEEE. É fundamental evitar causar danos ou consequências negativas, respeitar a privacidade, manter a confidencialidade de informações e prevenir impactos indesejados, como perda de dados ou danos ambientais. Além disso, deve-se proteger a integridade, reputação e emprego dos envolvidos. No Brasil, embora ainda não exista um código de ética específico pela Sociedade Brasileira de Computação, a ética é abordada nos currículos de referência, refletindo a preocupação com práticas responsáveis na área.
-<font size="3"><p style="text-align: center">Figura 1 - Explicação de Aspectos Éticos de Pesquisas Envolvendo Pessoas</p></font>
+<!-- <font size="3"><p style="text-align: center">Figura 1 - Explicação de Aspectos Éticos de Pesquisas Envolvendo Pessoas</p></font>
 
 <center>![Figura 1](../assets/livro_aspectos_138.png)</center>
-<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font>
+<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font> -->
 
 ## Os 4 Princípios
 
 Segundo a Resolução No 466/2012 do Conselho Nacional de Saúde, devemos considerar os seguintes princípios para orientar o avaliador durante seu trabalho:
 
-<font size="3"><p style="text-align: center">Figura 2 - Explicação dos princípios</p></font>
+<!-- <font size="3"><p style="text-align: center">Figura 2 - Explicação dos princípios</p></font>
 
 <center>![Figura 2](../assets/livro_aspectos_139.png)</center>
-<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font>
+<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font> -->
 
 ### Princípio da autonomia
 
@@ -35,10 +35,10 @@ Está relacionado à relevância social da pesquisa, buscando vantagens signific
 
 ## Termo de Consentimento Livre e Esclarecido
 
-<font size="3"><p style="text-align: center">Figura 3 - Explicação do Termo de Consentimento Livre e Esclarecido</p></font>
+<!-- <font size="3"><p style="text-align: center">Figura 3 - Explicação do Termo de Consentimento Livre e Esclarecido</p></font>
 
 <center>![Figura 3](../assets/livro_aspectos_140.png)</center>
-<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font>
+<font size="3"><p style="text-align: center">Fonte: (BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.)</p></font> -->
 
 Somos uma equipe da disciplina de Interação Humano-Computador, que está realizando uma avaliação sobre o passe livre estudantil. Nessa etapa do projeto, queremos conhecer o que alguns usuários e/ou pessoas afetadas pelo sistema pensam a respeito do processo atual e como imaginam que o novo sistema poderia apoiar o seu uso. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de uma entrevista, com duração aproximada de [TEMPO DE DURAÇÃO].
 

@@ -54,12 +54,14 @@ nav:
       - Entrega 2: apresentacoes/entrega2/entrega2.md
       - Entrega 3: apresentacoes/entrega3/entrega3.md
       - Entrega 4: apresentacoes/entrega4/entrega4.md
-  - Listas de Verificação:
+      - Entrega 5: apresentacoes/entrega5/entrega5.md
+  - Verificação e Inspeção:
       - Grupo 7:
           - Entrega 01: verificacoes/grupo07/entrega01/verificacao_entrega01_grupo07.md
           - Entrega 02: verificacoes/grupo07/entrega02/verificacao_entrega02_grupo07.md
           - Entrega 03: verificacoes/grupo07/entrega03/verificacao_entrega03_grupo07.md
           - Entrega 04: verificacoes/grupo07/entrega04/verificacao_entrega04_grupo07.md
+          - Entrega 05: verificacoes\grupo07\entrega05\verificacao_entrega05_grupo07.md
       - Grupo 8:
           - Entrega 01: verificacoes/grupo08/entrega01/verificacao_entrega01_grupo08.md
           - Entrega 02: verificacoes/grupo08/entrega02/verificacao_entrega02_grupo08.md
@@ -90,6 +92,12 @@ nav:
               - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento/nivel01/storyboard/planejamento_relato_resultados_avaliacao.md
               - Relato do Resultado: design_avaliacao_desenvolvimento/nivel01/storyboard/relato_resultado.md
               - Storyboards: design_avaliacao_desenvolvimento/nivel01/storyboard/storyboards.md
+      - Nivel 2:
+          - Protótipo de papel:
+              - Planejamento da Avaliacao do Protótipo de Papel: design_avaliacao_desenvolvimento\nivel02\planejamento_avaliacao_prototipo_papel.md
+              - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento\nivel02\planejamento_relato_prototipo_papel.md
+              # - Relato do Resultado: design_avaliacao_desenvolvimento/nivel02/relato_resultado.md
+              # - Protótipos de Papel: design_avaliacao_desenvolvimento/nivel02/prototipos_papel.md
 extra:
   version:
     provider:
