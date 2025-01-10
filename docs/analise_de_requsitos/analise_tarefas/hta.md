@@ -148,6 +148,31 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda vi
 | **4.2 Escolher uma das opções para integrar o cartão a aplicativos como Google Pay ou Apple Wallet** | _problema_: Usuários podem não saber como utilizar a integração. <br/> _recomendação_: Adicionar instruções claras sobre como integrar o cartão virtual aos aplicativos suportados.                                                                               |
 
 ---
+### Cenário 10: Retirada do cartão
+![Notação diagrama HTA](../../assets/hta-breno-lucena.png)
+## Objetivos / Operações e Recomendações
+
+| **Objetivos / Operações**                       | **Problemas e Recomendações**                                                                                       |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **0. Solicitar emissão de um novo cartão**    | **input**: Dados de login do estudante na plataforma; formulário para selecionar opções de retirada.             |
+|                                                | **feedback**: Confirmação ao final do processo com os dados da solicitação.                                      |
+|                                                | **plano**: Realizar as etapas do processo e exibir mensagem de sucesso após a revisão das informações fornecidas.|
+|                                                | **recomendação**: Garantir que todas as etapas sejam intuitivas e oferecer opções claras para o usuário.         |
+| **1. Selecionar local de retirada do cartão**  | **plano**: Exibir lista de locais disponíveis para escolha, destacando opções próximas ao endereço do usuário.    |
+| **1.1. Exibir locais disponíveis**             |                                                                                                                   |
+| **1.2. Confirmar local escolhido**             | **recomendação**: Adicionar um mapa interativo para facilitar a escolha do local.                                |
+| **2. Indicar responsável pela retirada**       | **plano**: Oferecer ao usuário a opção de indicar "Eu mesma" ou cadastrar um terceiro responsável.               |
+| **2.1. Escolher "Eu mesma"**                  |                                                                                                                   |
+| **2.2. Indicar terceiro responsável**          | **problema**: Falta de clareza sobre quais informações do terceiro precisam ser fornecidas.                       |
+|                                                | **recomendação**: Exibir um exemplo de preenchimento para os dados do terceiro.                                  |
+| **3. Escolher data e horário para retirada**   | **plano**: Exibir calendário interativo com períodos disponíveis para seleção.                                   |
+| **3.1. Selecionar dia**                        |                                                                                                                   |
+| **3.2. Selecionar horário**                    | **problema**: Calendário pouco responsivo em dispositivos móveis pode dificultar o uso.                          |
+|                                                | **recomendação**: Otimizar o calendário para dispositivos móveis e exibir feedback imediato de disponibilidade.   |
+| **4. Confirmar solicitação**                   | **ação**: Exibir mensagem de confirmação com detalhes da retirada, incluindo local, data, horário e instrução para apresentar documento de identificação. |
+|                                                | **recomendação 1**: Adicionar botão para salvar ou imprimir os dados da confirmação.                             |
+|                                                | **recomendação 2**: Enviar notificação por e-mail ou SMS com os dados confirmados para facilitar o acesso ao usuário. |
+
 
 
 ## Bibliografia
