@@ -148,7 +148,8 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda vi
 | **4.2 Escolher uma das opções para integrar o cartão a aplicativos como Google Pay ou Apple Wallet** | _problema_: Usuários podem não saber como utilizar a integração. <br/> _recomendação_: Adicionar instruções claras sobre como integrar o cartão virtual aos aplicativos suportados.                                                                               |
 
 ---
-### Cenário 10: Retirada do cartão
+### Cenário 10: Solicitação de retirada de cartão
+
 ![Notação diagrama HTA](../../assets/hta-breno-lucena.png)
 ## Objetivos / Operações e Recomendações
 
@@ -172,7 +173,6 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda vi
 | **4. Confirmar solicitação**                   | **ação**: Exibir mensagem de confirmação com detalhes da retirada, incluindo local, data, horário e instrução para apresentar documento de identificação. |
 |                                                | **recomendação 1**: Adicionar botão para salvar ou imprimir os dados da confirmação.                             |
 |                                                | **recomendação 2**: Enviar notificação por e-mail ou SMS com os dados confirmados para facilitar o acesso ao usuário. |
-
 
 
 ## Bibliografia
