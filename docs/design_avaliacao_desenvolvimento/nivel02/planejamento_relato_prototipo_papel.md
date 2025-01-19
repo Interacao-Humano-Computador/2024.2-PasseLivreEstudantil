@@ -6,7 +6,7 @@ Este artefato tem o objetivo de documentar o planejamento para o relato dos resu
 
 # Metodologia
 
-Tendo como base os tópicos relatados, além da avaliação de intersujeito descrita por Barbosa e Silva (2011, p. 279), e adaptando-os para o documento a ser desenvolvido pela equipe, os seguintes tópicos serão incluídos:
+Tendo como base os tópicos relatados, além da avaliação de intersujeito descrita por Barbosa e Silva, e adaptando-os para o documento a ser desenvolvido pela equipe, os seguintes tópicos serão incluídos:
 
 - Objetivo e escopo da avaliação
 - Método de avaliação
