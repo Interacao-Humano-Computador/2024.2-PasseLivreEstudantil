@@ -87,6 +87,24 @@ Escolhemos o CMN-GOMS pois o mesmo é utilizado para fornecer uma visualização
 &emsp;&emsp;**OP 4.1:** Visualizar o cartão virtual com QR Code na tela  
 &emsp;&emsp;**OP 4.2:** Escolher uma das opções para integrar o cartão a aplicativos como Google Pay ou Apple Wallet
 
+## Cenário 10: Solicitação de Retirada de Cartão  
+
+**GOAL 0:** Solicitar a emissão de um novo cartão  
+&emsp;**GOAL 1:** Selecionar o local de retirada do cartão  
+&emsp;&emsp;**OP 1.1:** Exibir lista de locais disponíveis  
+&emsp;&emsp;**OP 1.2:** Confirmar o local escolhido  
+&emsp;**GOAL 2:** Indicar o responsável pela retirada  
+&emsp;&emsp;**OP 2.1:** Escolher "Eu mesma" como responsável  
+&emsp;&emsp;**OP 2.2:** Indicar terceiro responsável, preenchendo os dados necessários (nome, CPF, contato)  
+&emsp;**GOAL 3:** Escolher data e horário para a retirada  
+&emsp;&emsp;**OP 3.1:** Selecionar o dia no calendário interativo  
+&emsp;&emsp;**OP 3.2:** Selecionar o horário disponível  
+&emsp;**GOAL 4:** Confirmar a solicitação  
+&emsp;&emsp;**OP 4.1:** Revisar os dados fornecidos na solicitação  
+&emsp;&emsp;**OP 4.2:** Pressionar o botão de confirmação  
+&emsp;&emsp;**OP 4.3:** Visualizar a mensagem de confirmação com os detalhes da retirada (local, data, horário)  
+&emsp;&emsp;**OP 4.4:** Escolher salvar, imprimir ou receber os dados por e-mail ou SMS
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1. </a>Kieras, David (2001). Using the keystroke-level model to estimate execution times.
