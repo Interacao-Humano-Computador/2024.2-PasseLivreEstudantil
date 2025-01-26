@@ -125,4 +125,4 @@ As mudanças sugeridas e os outras vicissitudes encontradas ao se fazer a análi
 
 | Versão | Data       | Descrição            | Autor                                            | Revisor                                        |
 | ------ | ---------- | -------------------- | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`    | 26/01/2025 | Criação da página e documentação dos resultados. | [Breno Fernandes](https://github.com/Brenofrds)   | [Breno Lucena](https://github.com/BrenoLuco)    |
+| `1.0`    | 24/01/2025 | Criação da página e documentação dos resultados. | [Breno Fernandes](https://github.com/Brenofrds)   | [Breno Lucena](https://github.com/BrenoLuco)    |
