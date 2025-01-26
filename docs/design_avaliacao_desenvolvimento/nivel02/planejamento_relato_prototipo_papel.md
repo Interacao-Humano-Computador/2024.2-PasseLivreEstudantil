@@ -57,7 +57,7 @@ APRESENTAR AQUI PROTOTIPO DE PAPEL
 
 # Seleção dos Participantes
 
-Após o preenchimento do cronograma, será necessário fornecer uma justificativa da seleção do entrevistado, verificando se ele se encaixa no perfil de usuário definido no projeto. É importante que os entrevistados possuam semelhanças com o nosso elenco de personas, pois são o público-alvo que se deseja atingir, permitindo captar os desejos dos usuários do Bilheteira Digital. No caso, os participantes escolhidos e explicitados na Tabela 1 estão de acordo com o perfil de usuário e possuem idades entre 20 e 35 anos. Esse detalhe deve ser reforçado no relato dos resultados.
+Após o preenchimento do cronograma, será necessário fornecer uma justificativa da seleção do entrevistado, verificando se ele se encaixa no perfil de usuário definido no projeto. É importante que os entrevistados possuam semelhanças com o nosso elenco de personas, pois são o público-alvo que se deseja atingir, permitindo captar os desejos dos usuários do Passe livre estudantil. No caso, os participantes escolhidos e explicitados na Tabela 1 estão de acordo com o perfil de usuário.
 
 # Problemas e Dificuldades Encontradas
 
