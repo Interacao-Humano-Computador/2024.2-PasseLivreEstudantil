@@ -39,12 +39,11 @@ Com base no objetivo da avaliação, foram preparadas perguntas com foco nos seg
 
 As perguntas selecionadas foram:
 
-1. A interface segue o padrão do sistema operacional?  
-2. Foi possível testar a interação e a facilidade de uso do protótipo para identificar problemas de usabilidade?  
-3. Foi possível avaliar a aparência e o estilo visual do protótipo, garantindo que ele atenda às expectativas dos usuários, transmita a identidade da marca e seja esteticamente agradável?  
-4. Todas as funcionalidades planejadas estão presentes e funcionam corretamente?  
-5. Foi possível obter opiniões, percepções e sugestões dos usuários em relação ao protótipo?  
-6. Foram identificados problemas, erros ou áreas que precisam de ajustes antes da implementação final?  
+1. Foi possível testar a interação e a facilidade de uso do protótipo para identificar problemas de usabilidade?  
+2. Foi possível avaliar a aparência e o estilo visual do protótipo, garantindo que ele atenda às expectativas dos usuários, transmita a identidade da marca e seja esteticamente agradável?  
+3. Todas as funcionalidades planejadas estão presentes e funcionam corretamente?  
+4. Foi possível obter opiniões, percepções e sugestões dos usuários em relação ao protótipo?  
+5. Foram identificados problemas, erros ou áreas que precisam de ajustes antes da implementação final?  
 
 ---
 
