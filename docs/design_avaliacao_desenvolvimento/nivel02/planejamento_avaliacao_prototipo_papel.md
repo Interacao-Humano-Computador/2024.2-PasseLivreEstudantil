@@ -29,7 +29,6 @@ Para realizar esse planejamento será utilizado o framework DECIDE, onde cada le
 
 Esta avaliação tem como objetivo, por meio do método de prototipação em papel, identificar eventuais problemas de usabilidade nas interfaces, comparar ideias e alternativas de design e verificar a conformidade com o padrão, com tarefas elaboradas. Já este artefato tem por objetivo planejar como será realizada essa avaliação, detalhando a metodologia, cronograma, quais telas serão criadas e como será feita a avaliação com o usuário.
 
-<a id="met1"></a>
 
 ## E - Explorar Perguntas Respondidas com a Avaliação
 
@@ -39,7 +38,7 @@ Com base no objetivo da avaliação foram preparadas perguntas baseadas nos segu
 - comparar ideias e alternativas de design;
 - identificar problemas na interação e interface.
 
-As perguntas selecionadas tem o intuito de serem respondidas com essa avaliação e foram feitas com base no _Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)_<a id="anchor_1" href="#REF1">^1^</a> as perguntas selecionadas foram as seguintes:
+As perguntas selecionadas tem o intuito de serem respondidas com essa avaliação as perguntas selecionadas foram as seguintes:
 
 - Com o protótipo de papel foi possível explorar conceitos de design?
 - Foi observado alguma sugestão de melhoria para o protótipo proposto?
@@ -56,9 +55,8 @@ A escolha se dá pelo fato de ser um método investigativo que permite coletar m
 
 ### Recrutamento
 
-Para avaliação foram convidadas 2 pessoas que se encaixem no [perfil de usuário](/analise_de_requisitos/personas).
+Para avaliação foram convidadas 2 pessoas que se encaixem no perfil de usuário.
 
-<a id="met2"></a>
 
 ### Preparação
 
@@ -67,7 +65,6 @@ As tarefas definidas para os participantes executarem foram diferentes para cada
 - funcionalidade de solicitar segunda via
 - funcionalidade de criação do Cartão Virtual 
 
-<a id="met5"></a>
 
 #### Solicitar a segunda via
 
@@ -116,15 +113,11 @@ Em relação aos prazos, as entrevistas estão documentadas na tabela 2, sendo a
 
 **Tabela 2** - Cronograma provável da Avaliação.
 
-| Entrevistadores                                                                               | Usuário                                                 | Data       | Início-Fim  | Local   |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- | ----------- | ------- |
-| Breno Fernandes | <span style = "color: orange"> Livia Sena </span>    | 24/01/25| 16h até 18h | presencial |
-| Breno Lucena | <span style = "color: orange"> Geovanna </span>      | 24/01/25 | 16h até 18h | Presencial|
+| Entrevistadores | Usuário      | Data       | Início-Fim  | Local     |
+| ----------------| -------------| ---------- | ----------- | --------- |
+| Breno Fernandes | Livia Sena   | 24/01/2025 | 16h até 18h | presencial|
+| Breno Fernandes | Geovanna     | 24/01/2025 | 16h até 18h | Presencial|
 
-
-</center>
-
-<center>
 
 **Fonte** - [Breno Fernandes](https://github.com/Brenofrds).
 
@@ -140,7 +133,6 @@ Para a execução do roteiro, será apresentada ao participante uma tarefa espec
 
 ## D - Lidando com as Questões Éticas
 
-<a id="met3"></a>
 
 Em cada entrevista será apresentado a eles um termo de consentimento, e a avaliação continuará somente caso haja o consentimento destes.
 
@@ -152,11 +144,10 @@ O que envolve registrar os problemas, dificuldades durante a interação, podem 
 
 Realizada a etapa anteriormente mencionada, os dados serão apresentados ao time de desenvolvimento, procurando com isso obter o máximo de informação relevante para o desenvolvimento do projeto.
 
-<a id="met4"></a>
 
 ## Planejamento do Teste Piloto
 
-Segundo Barbosa e Silva (2011, p.276) o objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
+O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
 
 Dito isso, a execução do teste-piloto será feito no dia 24/01/2024 às 16:00 e com a presença dos integrantes [Breno Fernandes](https://github.com/brenofrds) e [Breno Lucena](https://github.com/BrenoLUCO).
 
@@ -164,9 +155,10 @@ Dito isso, a execução do teste-piloto será feito no dia 24/01/2024 às 16:00 
 
 Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado anteriormente em que nele foi verificacadas as condições codizentes para se realizar uma entrevista e como ela deve ser realiazada.
 
-<p style="text-align: center"><a href="" target="blanket">Clique aqui</a></p>
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sjkpVU9wXbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds) e [Breno Lucena](https://github.com/BrenoLUCO).</p></font>
 
