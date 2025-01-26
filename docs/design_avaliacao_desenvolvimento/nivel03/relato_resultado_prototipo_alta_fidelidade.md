@@ -109,7 +109,7 @@ Com base nos testes e no feedback dos participantes, foram sugeridas algumas mel
 
 ## Feedback dos Usuários
 
-### Teste 1 - Josué Teixeira
+### Teste 1 - Geovanna Almeida
 
 A participante Geovanna Almeida conseguiu realizar todas as atividades propostas, como criar o cartão virtual e solicitar a segunda via do Passe Livre Estudantil. Apesar de ter concluído as tarefas sem grandes dificuldades, ela mencionou um pequeno problema ao localizar a barra de navegação (navbar) na tela inicial. Segundo Geovanna, a cor cinza escolhida para a navbar dificultou sua visualização, o que a fez demorar um pouco mais para identificar os botões disponíveis. Fora esse ponto, ela considerou o sistema intuitivo e destacou que os passos para realizar as tarefas foram claros e bem estruturados. Seu feedback aponta a necessidade de melhorar o contraste da navbar para facilitar a navegação.
 
