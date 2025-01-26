@@ -61,7 +61,7 @@ nav:
           - Entrega 02: verificacoes/grupo07/entrega02/verificacao_entrega02_grupo07.md
           - Entrega 03: verificacoes/grupo07/entrega03/verificacao_entrega03_grupo07.md
           - Entrega 04: verificacoes/grupo07/entrega04/verificacao_entrega04_grupo07.md
-          - Entrega 05: verificacoes\grupo07\entrega05\verificacao_entrega05_grupo07.md
+          - Entrega 05: verificacoes/grupo07/entrega05/verificacao_entrega05_grupo07.md
       - Grupo 8:
           - Entrega 01: verificacoes/grupo08/entrega01/verificacao_entrega01_grupo08.md
           - Entrega 02: verificacoes/grupo08/entrega02/verificacao_entrega02_grupo08.md
@@ -94,15 +94,16 @@ nav:
               - Storyboards: design_avaliacao_desenvolvimento/nivel01/storyboard/storyboards.md
       - Nivel 2:
           - Protótipo de papel:
-              - Planejamento da Avaliacao do Protótipo de Papel: design_avaliacao_desenvolvimento\nivel02\planejamento_avaliacao_prototipo_papel.md
-              - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento\nivel02\planejamento_relato_prototipo_papel.md
-              # - Relato do Resultado: design_avaliacao_desenvolvimento/nivel02/relato_resultado.md
+              - Planejamento da Avaliacao do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel02/planejamento_avaliacao_prototipo_papel.md
+              - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento/nivel02/planejamento_relato_prototipo_papel.md
+              - Relato do Resultado: design_avaliacao_desenvolvimento/nivel02/relato_resultado_prototipo_papel.md
               # - Protótipos de Papel: design_avaliacao_desenvolvimento/nivel02/prototipos_papel.md
       - Nivel 3:
           - Protótipo de Alta Fidelidade:
-              - Planejamento da Avaliacao do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento\nivel03\planejamento_avaliacao_prototipo_alta_fidelidade.md
-              - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento\nivel03\planejamento_relato_prototipo_alta_fidelidade.md
+              - Planejamento da Avaliacao do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel03/planejamento_avaliacao_prototipo_alta_fidelidade.md
+              - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento/nivel03/planejamento_relato_prototipo_alta_fidelidade.md
               # - Relato do Resultado: design_avaliacao_desenvolvimento/nivel03/relato_resultado.md
               # - Protótipos de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel03/prototipos_alta_fidelidade.md
+extra:
   version:
-    provider:
+    provider: mike
