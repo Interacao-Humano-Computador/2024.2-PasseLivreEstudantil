@@ -97,4 +97,4 @@ Capítulo  10.2.3 Prototipação em Papel Barbosa e Silva
 
 |    Data    | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--------: | :----------------------: | :----: | :-------: | :---: | :-----: |
-| 18/01/24   |   19/01/2025      |  1.0   |  Criação do documento.|Breno Lucena| Breno Fernandes|
+| 18/01/24   |   24/01/2025      |  1.0   |  Criação do documento.|Breno Lucena| Breno Fernandes|

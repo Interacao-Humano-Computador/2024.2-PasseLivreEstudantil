@@ -83,11 +83,11 @@ Em poucos segundos, a versão digital do cartão aparece na tela, com um QR Code
 
 ## Cenário 10: Retirada do Cartão
 
-Mariana Silva, estudante universitária, percebeu que havia perdido seu cartão do Passe Livre Estudantil. Preocupada com a situação, ela acessou a plataforma do benefício para solicitar a emissão de um novo cartão. Durante o processo, notou uma nova funcionalidade que tornava o procedimento mais prático: a possibilidade de escolher o local de retirada do cartão.
+Mariana Silva, estudante de ensino médio, acabou de renovar seu Passe Livre Estudantil e descobriu que agora pode utilizar um cartão virtual diretamente em seu celular. Frequentemente, Mariana esquece o cartão físico em casa, e a nova funcionalidade promete facilitar sua rotina.
 
-Ao iniciar o pedido, Mariana foi direcionada para uma etapa onde podia selecionar o ponto de retirada mais conveniente. Entre as opções disponíveis, como Asa Sul, Ceilândia e Taguatinga, ela escolheu o Gama, local próximo de sua residência. Em seguida, a plataforma solicitou que ela indicasse quem realizaria a retirada do cartão. Mariana optou pela opção "Eu mesma", mas também havia a alternativa de indicar um terceiro autorizado.
+Após realizar o login no site do Passe Livre Estudantil pelo celular, Lucas acessa a aba "Cartão Virtual" no menu principal. Ele seleciona a opção "Gerar Cartão Virtual", preenche os dados necessários (nome, CPF e número do cartão físico) e confirma as informações. Em segundos, o sistema exibe um QR Code e um código alfanumérico. Mariana opta por escanear o QR Code com sua carteira digital Google Pay e, imediatamente, o cartão virtual do Passe Livre Estudantil aparece integrado ao aplicativo, com todos os dados necessários, como validade e identificação visual.
 
-Na etapa seguinte, Mariana foi instruída a escolher a data e o horário para a retirada. Usando um calendário interativo, selecionou um dia conveniente e escolheu o período da manhã. Após revisar todos os dados fornecidos, a plataforma exibiu uma mensagem de confirmação, informando que o pedido havia sido realizado com sucesso e destacando a necessidade de apresentar um documento de identificação no momento da retirada.
+No dia seguinte, ao entrar no transporte público, Mariana  utiliza o celular para validar o cartão virtual pela primeira vez. O processo é rápido e eficiente, confirmando a praticidade da nova funcionalidade, que se torna indispensável em sua rotina.
 
 
 ## Bibliografia
