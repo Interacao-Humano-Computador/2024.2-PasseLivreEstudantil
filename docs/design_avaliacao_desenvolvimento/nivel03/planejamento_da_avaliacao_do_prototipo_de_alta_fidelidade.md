@@ -162,7 +162,10 @@ Os resultados do teste piloto devem ser documentados nesta seção.
 
 ## Bibliografia
 
-Capítulo ???? Prototipação em Papel Barbosa e Silva
+1. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
+
+Cap. 8 -Design, Prototipação e Construção - Livro Design de Interação.
+
 
 ## Histórico de Versões
 

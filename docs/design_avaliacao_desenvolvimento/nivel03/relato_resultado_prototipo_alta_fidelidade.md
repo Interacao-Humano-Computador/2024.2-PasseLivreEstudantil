@@ -272,7 +272,7 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds), 2023._
 
 ## Referências Bibliográficas
 
-
+1. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
 
 ## Histórico de Versões
 
