@@ -134,7 +134,6 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o do
 
 </center>
 
-## Bibliografia
 
 
 

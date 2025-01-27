@@ -167,6 +167,8 @@ Figura 15: Tela de sucesso e status da solicitação
 | [Breno Lucena](https://github.com/BrenoLUCO)  | Geovanna ALmeida| 23/01/2025| 16:00-18:00|Casa do Breno Fernandes|
 | [Breno Fernandes](https://github.com/Brenofrds)|Lívia Sena| 23/01/2025| 16:00-18:00|Casa do Breno Fernandes|
 
+fonte: Breno Lucena 2025
+
 
 # Seleção dos Participantes
 
@@ -201,6 +203,8 @@ Logo, a Tabela 2 explicita um cronograma de reprojeto, que seria feito 1 dia ap�
 | Executadores do projeto|Horário de início| Horário de Fim| Data |
 | -----------------------| ----------------|---------------|----- |
 |Breno Lucena & Breno Fernandes| 16:00     |   18:00       |29/01/2025 |
+
+fonte: Breno Lucena 2025
 
 ## Bibliografia
 
