@@ -66,16 +66,19 @@ O Protótipo de Alta Fidelidade utilizado nos testes é apresentado a seguir. É
 
 [Prototipo no figma](https://www.figma.com/proto/qZRrOOgHAsTKdwdlfCdHDO/IHC?node-id=0-1&t=Kc4FfuujfnJhBWLf-1)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/qZRrOOgHAsTKdwdlfCdHDO/IHC?node-id=4-2&starting-point-node-id=4%3A2&embed-host=share" allowfullscreen></iframe>
+
 ### Teste Piloto
 
 O vídeo 1 a seguir mostra o teste piloto realizado antes dos testes.
 
 <center>
 
-[Vídeo 1 - Teste Piloto](https://www.youtube.com/watch?v=tObSyp5QRR4)
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=tObSyp5QRR4" target="_blank">Teste Piloto</a></p>
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/tObSyp5QRR4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-_<font size="3">Fonte: [Breno Fenrnades](https://github.com/Brenofrds) e [Breno Lucena](https://github.com/BrenoLUCO), 2025.</p></font>_
+<font size="3"><p style="text-align: center">Fonte: Breno Lucena & Breno Fernandes.</p></font>
 
 </center>
 
@@ -152,44 +155,101 @@ No entanto, foi identificado um ponto de melhoria: a barra de navegação (navba
 De modo geral, o protótipo apresentou boa funcionalidade e organização, com feedbacks positivos sobre a clareza e o fluxo das tarefas, mas também trouxe insights importantes para ajustes visuais antes da implementação final. Os vídeos de 2 a 5 apresentam os testes realizados.
 
 <center>
-
-[Vídeo 1 - Teste 1: Geovanna Almeida](https://www.youtube.com/embed/i05UgWL16uc)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i05UgWL16uc"></iframe>
-
-_<font size="3">Fonte: [Douglas Alves](https://github.com/dougalvs) e [Matheus Henrique](https://github.com/mathonaut), 2023.</p></font>_
-
+  <h3>Vídeo 1 - Teste 1: Geovanna Almeida</h3>
+  <a href="https://www.youtube.com/watch?v=mUiPpBFdvE8" target="_blank">Assistir no YouTube</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mUiPpBFdvE8" frameborder="0" allowfullscreen></iframe>
+  <p>
+    <small>
+      Fonte: <a href="https://github.com/BrenoLUCO">Breno Lucena</a> & 
+      <a href="https://github.com/Brenofrds">Breno Fernandes</a>, 2025.
+    </small>
+  </p>
 </center>
 
 <center>
-
-[Vídeo 3 - Teste 2: Abdul Hannan](https://www.youtube.com/embed/TMVRLgYxTjM)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TMVRLgYxTjM"></iframe>
-
-_<font size="3">Fonte: [Douglas Alves](https://github.com/dougalvs) e [Matheus Henrique](https://github.com/mathonaut), 2023.</p></font>_
-
+  <h3>Vídeo 2 - Teste 1: Geovanna Almeida</h3>
+  <a href="https://www.youtube.com/watch?v=4JEkzHJ_wJg" target="_blank">Assistir no YouTube</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4JEkzHJ_wJg" frameborder="0" allowfullscreen></iframe>
+  <p>
+    <small>
+      Fonte: <a href="https://github.com/BrenoLUCO">Breno Lucena</a> & 
+      <a href="https://github.com/Brenofrds">Breno Fernandes</a>, 2025.
+    </small>
+  </p>
 </center>
 
 <center>
-
-[Vídeo 4 - Teste 3: Karen Júlia](https://www.youtube.com/embed/KsTOdRT_c_M)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KsTOdRT_c_M"></iframe>
-
-_<font size="3">Fonte: [Douglas Alves](https://github.com/dougalvs) e [Matheus Henrique](https://github.com/mathonaut), 2023.</p></font>_
-
+  <h3>Vídeo 3 - Teste 2: Geovanna Almeida</h3>
+  <a href="https://www.youtube.com/watch?v=uWJXuduXO2A" target="_blank">Assistir no YouTube</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uWJXuduXO2A" frameborder="0" allowfullscreen></iframe>
+  <p>
+    <small>
+      Fonte: <a href="https://github.com/BrenoLUCO">Breno Lucena</a> & 
+      <a href="https://github.com/Brenofrds">Breno Fernandes</a>, 2025.
+    </small>
+  </p>
 </center>
 
 <center>
-
-[Vídeo 5 - Teste 4: Sidney Fernando](https://www.youtube.com/embed/KORZWJaFPm4)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KORZWJaFPm4"></iframe>
-
-_<font size="3">Fonte: [Douglas Alves](https://github.com/dougalvs) e [Matheus Henrique](https://github.com/mathonaut), 2023.</p></font>_
-
+  <h3>Vídeo 4 - Teste 2: Geovanna Almeida</h3>
+  <a href="https://www.youtube.com/watch?v=tWcdciMxj3A" target="_blank">Assistir no YouTube</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tWcdciMxj3A" frameborder="0" allowfullscreen></iframe>
+  <p>
+    <small>
+      Fonte: <a href="https://github.com/BrenoLUCO">Breno Lucena</a> & 
+      <a href="https://github.com/Brenofrds">Breno Fernandes</a>, 2025.
+    </small>
+  </p>
 </center>
+
+<center>
+  <h3>Vídeo 5 - Teste 1: Livia Sena</h3>
+  <a href="https://www.youtube.com/watch?v=iTM6UHIQErA" target="_blank">Assistir no YouTube</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iTM6UHIQErA" frameborder="0" allowfullscreen></iframe>
+  <p>
+    <small>
+      Fonte: <a href="https://github.com/BrenoLUCO">Breno Lucena</a> & 
+      <a href="https://github.com/Brenofrds">Breno Fernandes</a>, 2025.
+    </small>
+  </p>
+</center>
+
+<center>
+  <h3>Vídeo 6 - Teste 1: Livia Sena</h3>
+  <a href="https://www.youtube.com/watch?v=TCV5U_sdGkQ" target="_blank">Assistir no YouTube</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TCV5U_sdGkQ" frameborder="0" allowfullscreen></iframe>
+  <p>
+    <small>
+      Fonte: <a href="https://github.com/BrenoLUCO">Breno Lucena</a> & 
+      <a href="https://github.com/Brenofrds">Breno Fernandes</a>, 2025.
+    </small>
+  </p>
+</center>
+
+<center>
+  <h3>Vídeo 7 - Teste 2: Livia Sena</h3>
+  <a href="https://www.youtube.com/watch?v=J7YnK-S2TMU" target="_blank">Assistir no YouTube</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/J7YnK-S2TMU" frameborder="0" allowfullscreen></iframe>
+  <p>
+    <small>
+      Fonte: <a href="https://github.com/BrenoLUCO">Breno Lucena</a> & 
+      <a href="https://github.com/Brenofrds">Breno Fernandes</a>, 2025.
+    </small>
+  </p>
+</center>
+
+<center>
+  <h3>Vídeo 8 - Teste 2: Livia Sena</h3>
+  <a href="https://www.youtube.com/watch?v=40pVMNmyQCo" target="_blank">Assistir no YouTube</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/40pVMNmyQCo" frameborder="0" allowfullscreen></iframe>
+  <p>
+    <small>
+      Fonte: <a href="https://github.com/BrenoLUCO">Breno Lucena</a> & 
+      <a href="https://github.com/Brenofrds">Breno Fernandes</a>, 2025.
+    </small>
+  </p>
+</center>
+
 
 ## Planejamento do Reprojeto
 
@@ -212,11 +272,7 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds), 2023._
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor1">1.</a> KRUG, Steve. Don’t Make Me Think, Revisited. New Riders, 2014.
 
-> <a id="REF2" href="#anchor2">2.</a> RUBIN, J. **Handbook of Usability Testing.** New York: John Wiley & Sons, 1994.
-
-> <a id="REF3" href="#anchor3">3.</a> RUBIN, J.; CHINSNELL, D. **Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests, 2ed.** Indianapolis: Wiley Publishing, Inc., 2008.
 
 ## Histórico de Versões
 

@@ -88,20 +88,35 @@ Isso posto, propõe-se as seguintes sugestões de correção:
 
 #### Entrevista 1
 
-<p style="text-align: center"><a href="https://www.youtube.com/embed/172V6xKaw0g" target="blanket">Entrevista 1</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=4fMxGkvRLwU" target="_blank">Entrevista 1</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/172V6xKaw0g"></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/4fMxGkvRLwU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Breno Lucena & Breno Fernandes.</p></font>
 
 #### Entrevista 2
 
-<p style="text-align: center"><a href="https://www.youtube.com/embed/6zlfjwXuqHM" target="blanket">Entrevista 2</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=zailcFqXteE" target="_blank">Entrevista 2</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/6zlfjwXuqHM"></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/zailcFqXteE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Breno Lucena & Breno Fernandes.</p></font>
 
+#### Entrevista 3 
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=CMn_iDt-tXg" target="_blank">Entrevista 3</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CMn_iDt-tXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: Breno Lucena & Breno Fernandes.</p></font>
+
+#### Entrevista 4 
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=AH0KOtL5bDU" target="_blank">Entrevista 4</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/AH0KOtL5bDU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: Breno Lucena & Breno Fernandes.</p></font>
 
 ### Planejamento de Reprojeto
 
