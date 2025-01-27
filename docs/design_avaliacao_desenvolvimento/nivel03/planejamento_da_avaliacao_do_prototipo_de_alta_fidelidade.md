@@ -21,8 +21,6 @@ Para realizar esse planejamento, será utilizado o framework **DECIDE**, onde ca
 
 *Fonte: BARBOSA e SILVA (2011).*
 
-# Planejamento da Avaliação do Protótipo de Alta Fidelidade
-
 ## Objetivo
 
 O objetivo da avaliação do protótipo de alta fidelidade é testar e obter feedback sobre a usabilidade, funcionalidade e aparência visual de um protótipo que se assemelha de forma mais precisa à versão final do produto ou serviço. A avaliação busca identificar problemas, avaliar a eficácia do design e da interface, além de realizar ajustes antes da implementação completa.

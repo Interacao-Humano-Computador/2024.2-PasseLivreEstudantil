@@ -3,6 +3,7 @@
 ## Introdução
 
 Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação do protótipo de alta fidelidade. Portanto, serão abordados os tópicos referidos no Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade
+
 ## Objetivo e Escopo da Avaliação
 
 A avaliação tem o objetivo de obter a opinião de usuários reais da aplicação Passe Livre Estudantil sobre a usabilidade, funcionalidade e aparência visual de um protótipo de alta fidelidade que se assemelha de forma mais precisa à versão final do produto ou serviço. Além disso, a avaliação objetiva identificar problemas no design da interface e conformidade com padrões. As seguintes perguntas apresentam formas de verificar se os referidos objetivos foram alcançados:
@@ -80,6 +81,14 @@ O vídeo 1 a seguir mostra o teste piloto realizado antes dos testes.
 
 <font size="3"><p style="text-align: center">Fonte: Breno Lucena & Breno Fernandes.</p></font>
 
+<font>
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/23IyV6mSkIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds) e [Breno Lucena](https://github.com/BrenoLUCO).</p></font>
+
 </center>
 
 ## Seleção dos Participantes
@@ -128,7 +137,7 @@ Contextualizando com as perguntas-objetivos, podemos respondê-las da seguinte m
 
 - Foi possível testar a interação e a facilidade de uso do protótipo para identificar problemas de usabilidade?
 
-Sim, foi possível identificar problemas de ao atingir as metas de usabilidade propostos para o projeto.
+Sim, foi possível identificar problemas ao atingir as metas de usabilidade propostos para o projeto.
 
 - Foi possível avaliar a aparência e o estilo visual do protótipo, garantindo que ele atenda às expectativas e necessidades dos usuários, transmita a identidade da marca e seja estéticamente agradável?
 
