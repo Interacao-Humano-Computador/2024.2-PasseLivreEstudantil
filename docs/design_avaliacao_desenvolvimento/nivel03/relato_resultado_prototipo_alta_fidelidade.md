@@ -270,12 +270,12 @@ Com base nos resultados dos testes e no feedback das participantes, o reprojeto 
 
 | **Data de Correção** | **Descrição**                                                                                                 | **Responsável(eis)**                          | **Revisor(es)**                                 |
 |-----------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|
-| 29/06/2023           | Ajustar a cor da barra de navegação para algo mais visível, reorganizar os botões na navbar e garantir que ela seja fácil de identificar. | [Breno Fernandes](https://github.com/Brenofrds) | [Breno Lucena](https://github.com/BrenoLUCO)  |
-| 25/06/2023           | Revisar o design do protótipo (cores, ícones e texto), adicionar destaques nos botões principais e conduzir novos testes para validar as mudanças. | [Breno Lucena](https://github.com/BrenoLUCO)  | [Breno Fernandes](https://github.com/Brenofrds) |
+| 30/01/2025           | Ajustar a cor da barra de navegação para algo mais visível, reorganizar os botões na navbar e garantir que ela seja fácil de identificar. | [Breno Fernandes](https://github.com/Brenofrds) | [Breno Lucena](https://github.com/BrenoLUCO)  |
+|      30/01/2025      | Revisar o design do protótipo (cores, ícones e texto), adicionar destaques nos botões principais e conduzir novos testes para validar as mudanças. | [Breno Lucena](https://github.com/BrenoLUCO)  | [Breno Fernandes](https://github.com/Brenofrds) |
 
 
 
-_Fonte: [Breno Fernandes](https://github.com/Brenofrds), 2023._
+_Fonte: [Breno Fernandes](https://github.com/Brenofrds), 2025._
 
 </center>
 
