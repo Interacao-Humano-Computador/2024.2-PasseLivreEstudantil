@@ -138,11 +138,10 @@ A **Tabela 3** apresenta um cronograma para o reprojeto, que seria realizado doi
 
 ## Referências Bibliográficas
 
-1. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
+BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
 
 ---
 
-## Bibliografia
 
 
 

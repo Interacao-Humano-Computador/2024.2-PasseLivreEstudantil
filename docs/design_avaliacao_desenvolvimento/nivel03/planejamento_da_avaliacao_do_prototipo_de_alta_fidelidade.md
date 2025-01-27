@@ -45,6 +45,8 @@ As perguntas selecionadas foram:
 4. Foi possível obter opiniões, percepções e sugestões dos usuários em relação ao protótipo?  
 5. Foram identificados problemas, erros ou áreas que precisam de ajustes antes da implementação final?  
 
+Fonte: Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)
+
 ---
 
 ### **C - Escolher os Métodos de Avaliação**
@@ -71,14 +73,39 @@ Durante a preparação, serão realizadas as seguintes atividades:
   3. Solicitar Segunda via.
   4. Solicitar cartão virtual.
 
-#### **Script**
+### **Script**
 
-O entrevistador fornecerá um script aos participantes com as seguintes informações:
+#### **Introdução**
+O entrevistador começará explicando brevemente ao participante as atividades que ele irá realizar e fornecerá instruções claras sobre como proceder. O participante será orientado a narrar em voz alta todas as suas ações, pensamentos e dúvidas durante a execução das tarefas.
 
-- Opções para realizar as tarefas acima.  
- 
+#### **Atividade 1: Criar Cartão Virtual**
+- **Início:**  
+  "Agora você irá criar um cartão virtual do Passe Livre Estudantil. Para isso, siga as instruções que aparecem na tela e, enquanto realiza as ações, explique o que está fazendo em voz alta."
+- **Passos a seguir:**  
+  1. Acesse a tela inicial e encontre o botão **"Cartão Virtual"**.
+  2. Leia as informações apresentadas sobre como funciona o cartão virtual.
+  3. Preencha ou confirme os dados solicitados, como nome, CPF e número do cartão físico.
+  4. Clique no botão **"Gerar Cartão Virtual"**.
+  5. Observe o QR Code e o código alfanumérico gerados para integração com a carteira digital e finalize a tarefa.
+- **Encerramento:**  
+  "Você concluiu a criação do cartão virtual. Agora vamos para a próxima tarefa."
 
-O participante será solicitado a narrar suas ações durante a execução das tarefas.
+---
+
+#### **Atividade 2: Solicitar Segunda Via**
+- **Início:**  
+  "Agora você irá solicitar a segunda via do cartão do Passe Livre Estudantil. Siga as instruções na tela e continue narrando suas ações em voz alta."
+- **Passos a seguir:**  
+  1. Acesse a tela inicial e encontre o botão **"Segunda Via"**.
+  2. Escolha o motivo da solicitação, como **"Roubo"** ou **"Perda"**.
+  3. Leia e aceite os termos de uso apresentados.
+  4. Decida se deseja anexar ou não o boletim de ocorrência.
+  5. Selecione o local de retirada do cartão físico (o sistema mostrará a opção mais próxima de sua residência já pré-selecionada).
+  6. Escolha a forma de pagamento, como **Pix**, e conclua o pagamento utilizando o QR Code gerado.
+  7. Verifique a mensagem de confirmação e o status da solicitação como **"Em Análise"**.
+- **Encerramento:**  
+  "Você concluiu a solicitação de segunda via do cartão. Obrigado pela sua participação!"
+
 
 ---
 
@@ -98,25 +125,11 @@ A Tabela 2 apresenta o cronograma das entrevistas:
 
 | **Entrevistadores** | **Usuário**        | **Data**      | **Início-Fim** | **Local**          |
 |---------------------|--------------------|---------------|----------------|--------------------|
-| Breno Lucena        | Geovana            | 24/01/2025    | 18:00-18:40    | Casa               |
-| Breno Fernandes     | Livia              | 24/01/2025    | 18:50-19:30    | Casa               |
+| Breno Lucena        | Geovana Almeida           | 24/01/2025    | 18:00-18:40    | Casa               |
+| Breno Fernandes     | Livia Sena             | 24/01/2025    | 18:50-19:30    | Casa               |
  
 
 *Fonte: Breno Lucena & Breno Fernandes.*  
-
----
-
-## **Roteiro de Perguntas**
-
-### **Perguntas ao Usuário (Tabela 3)**
-
-| **ID** | **Enunciado**                                                   | **Resposta** | **Justificativa**            |
-|--------|-----------------------------------------------------------------|--------------|------------------------------|
-| 1      | A interface apresentada foi de fácil utilização?                | Aberta       | Justifique                   |
-| 2      | As tarefas solicitadas correspondem a ações reais?              | Aberta       | Justifique                   |
-| 3      | Alguma sugestão sobre a disposição dos elementos na tela?       | Aberta       | Justifique                   |
-| 4      | Teve dificuldades ao realizar as tarefas?                       | Aberta       | Justifique                   |
-| 5      | Encontrou inconsistências ou erros na interface?                | Aberta       | Justifique                   |
 
 ---
 
@@ -146,7 +159,11 @@ O objetivo do teste piloto é verificar se o planejamento atinge os objetivos da
 
 ## **Resultado do Teste Piloto**
 
-Os resultados do teste piloto devem ser documentados nesta seção.
+O teste piloto é uma etapa inicial de avaliação, utilizada para verificar a viabilidade e eficácia do processo de teste antes de sua aplicação em escala maior. Ele tem como objetivo identificar possíveis ajustes necessários no protocolo de avaliação, além de garantir que as ferramentas e metodologias escolhidas sejam adequadas para alcançar os resultados esperados.
+
+No dia 23/01/2025, às 16h, realizamos o teste piloto na casa do Breno Fernandes. Contamos com a participação de dois usuários: Breno Fernandes e Breno Lucena. O foco foi avaliar um protótipo de alta fidelidade utilizando o Figma, garantindo que o fluxo de interação fosse claro e funcional.
+
+Para registrar o teste, utilizamos duas câmeras posicionadas em ângulos diferentes, capturando as reações dos usuários durante a interação. Além disso, realizamos a gravação da tela do notebook para monitorar detalhadamente as ações e interações dos participantes com o protótipo. Esse método permitiu uma análise mais completa do comportamento dos usuários, garantindo que qualquer detalhe relevante fosse registrado.
 
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/tObSyp5QRR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -162,7 +179,7 @@ Os resultados do teste piloto devem ser documentados nesta seção.
 
 ## Bibliografia
 
-1. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
+BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
 
 Cap. 8 -Design, Prototipação e Construção - Livro Design de Interação.
 

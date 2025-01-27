@@ -27,19 +27,17 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |        ID        | Descrição                                                                                              | Avaliação  | Observações                                              |
 | :--------------: | ------------------------------------------------------------------------------------------------------ | :--------: | -------------------------------------------------------- |
 | **Padronização** |                                                                                                        |            |                                                          |
-|        1         | O artefato possui introdução?                                                                          |         |                                                          |
-|        2         | O artefato possui uma bibliografia/referência bibliográfica?                                           |         |                                                          |
-|        3         | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |         |                                                          |
-|        4         | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |         |                                                          |
-|        5         | Todos os textos estão na norma padrão?                                                                 |        |                                                          |
+|        1         | O artefato possui introdução?                                                                          |    sim     |                                                          |
+|        2         | O artefato possui uma bibliografia/referência bibliográfica?                                           |     sim    |                                                          |
+|        3         | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |      sim   |                                                          |
+|        4         | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |     sim    |                                                          |
+|        5         | Todos os textos estão na norma padrão?                                                                 |      sim  |                                                          |
 |    **Relato**    |                                                                                                        |            |                                                          |
-|        6         | O documento possui um tópico sobre quais são os objetivos do relato?                                   |        |                                                          |
-|        7         | O documento possui um tópico sobre a metodologia da prototipação de alta?                              |         |                                                          |
-|        8         | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                      |  |                    |
-|        9         | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                  |  |                           |
-|        10        | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?          | | |
-|        11        | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas?  |         |                                                          |
-|        12        | O documento está estruturado conforme os relatos realizados anteriores?                                |         |                                                          |
+|        6         | O documento possui um tópico sobre quais são os objetivos do relato?                                   |    sim    |                                                          |
+|        7         | O documento possui um tópico sobre a metodologia da prototipação de alta?                              |    sim     |                                                          |
+|        8         | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                      | sim |                    |
+|        9         | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                  | sim |                           |
+
 
 _Fonte: [Breno Fernandes](https://github.com/Brenofrds), 2025._
 
@@ -47,30 +45,11 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds), 2025._
 
 ## Lista de Problemas e Análise
 
-
-## Sugestões de Correções
-
-
-
-## Retrabalho
-
-
-<center>
-
-**Tabela 3** - Cronograma de Correções.
-
-| Data de Correção | Descrição                           |                 Responsável(eis)                 |                   Revisor(es)                    |      Status      |
-| ---------------- | :---------------------------------- | :----------------------------------------------: | :----------------------------------------------: | :--------------: |
-| 18/06/2023       | Realizar os ajustes da verificação. | [Breno Fernandes](https://github.com/Brenofrds) | [Breno Lucena](https://github.com/BrenoLUCO) | :material-check: |
-
-_Fonte: Elaborado por [Breno Fernandes](https://github.com/Brenofrds), 2025._
-
-</center>
-
+Não foi identificado problemas.
 
 ## Referências Bibliográficas
 
-
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
