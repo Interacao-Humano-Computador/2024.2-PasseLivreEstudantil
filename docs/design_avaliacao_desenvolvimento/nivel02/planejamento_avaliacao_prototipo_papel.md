@@ -164,7 +164,7 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 
 ## Bibliografia
 
-Capítulo ???? Prototipação em Papel Barbosa e Silva
+Barbosa, S. D. J., & Silva, B. S. (2010). Interação Humano-Computador. Capítulo 9 - Framework DECIDE
 
 ## Histórico de Versões
 

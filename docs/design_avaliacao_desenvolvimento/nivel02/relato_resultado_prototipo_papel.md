@@ -19,8 +19,13 @@ Além disso, deve-se responder as seguintes perguntas por meio da análise da av
 
 Os dados foram coletados por meio de 4 entrevistas. No início de todas as entrevistas foi apresentado o termo de consentimento para que o entrevistado dê sua resposta, sempre reforçando o fato de que está sendo gravado e de que a gravação será publicada. As reuniões foram feitas em ambiente controlado que foi na casa do Breno Fernandes, e o método para a realização das entrevistas foi o citado no planejamento. Portanto, fez-se a parte de preparação, e depois a coleta de dados. Antes do usuário interagir com o protótipo de papel, o entrevistador instruiu as ações que o entrevistado deve realizar, e que esse deve falar em voz alta o que está fazendo. 
 
+#### Cartão Virtual
 
 A primeira atividade a ser realizada foi a de criar um cartão virtual do Passe Livre Estudantil. Para iniciar a tarefa, o usuário acessaria a página de login, onde entraria no sistema. Após o login, ele navegaria até o menu principal e selecionaria a opção "Cartão Virtual". Na tela seguinte, ele leria uma breve explicação sobre a funcionalidade e clicaria em "Iniciar Criação do Cartão Virtual". Em seguida, ele confirmaria ou preencheria os dados necessários, como nome completo, CPF e número do cartão físico, e então clicaria em "Gerar Cartão Virtual". O sistema processaria a solicitação e exibiria a versão digital do cartão com um QR Code para integração com carteiras digitais, além de um código alfanumérico para inserção manual.
+
+
+
+#### Segunda Via
 
 A segunda atividade foi a solicitação de segunda via do cartão físico. Para isso, o usuário acessaria novamente o menu principal e selecionaria a opção "Segunda Via do Cartão". Na tela exibida, ele escolheria o motivo da solicitação, como "Perda" ou "Roubo", e confirmaria os dados pessoais já preenchidos. Após clicar em "Solicitar Segunda Via", o sistema informaria a taxa para emissão e exibiria as opções de pagamento. O usuário selecionaria a forma de pagamento, confirmaria a solicitação e receberia o comprovante. Ambas as atividades foram projetadas para garantir facilidade e praticidade para o usuário. 
 
