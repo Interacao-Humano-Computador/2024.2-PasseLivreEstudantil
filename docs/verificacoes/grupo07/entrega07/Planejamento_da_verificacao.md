@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Etapa 7 do Grupo 2
+# Planejamento da Verificação da entrega 07 do Grupo 7
 
 ## Introdução
 
@@ -6,7 +6,7 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos na Etapa 7 do Grupo 7possuem os itens e o padrão exigidos para tais.
+O objetivo deste documento é verificar se os artefatos produzidos na Etapa 7 do Grupo 7 possuem os itens e o padrão exigidos para tais.
 
 ## Metodologia
 
@@ -47,7 +47,7 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds), 2025._
 
 ## Checklists
 
-As checklists foram construídas levando em conta os padrões esperados para cada artefato, as principais tarefas realizadas na elaboração dos mesmos e as sugestões de elementos de análise elaborada por Simone e Silva<a id=anchor_1 href="#REF1"><sup>1</sup></a>. Além dos itens listados anteriormente, também será analisado o relatório referente às entregas produzido pelo o monitor do Grupo 7, [Breno Fernandes](https://github.com/Brenofrds).
+As checklists foram construídas levando em conta os padrões esperados para cada artefato.
 
 Com o intuito de melhor organizar a verificação, a checklist será dividida em 3 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a geral. As checklists são as seguintes: Geral, Planejamento da verificação prototipo de alta fidelidade e Planejamento do relato dos resultados do prototipo de alta fidelidade. As tabelas de 2 a 4 apresenta as checklists de verificação.
 
@@ -67,14 +67,14 @@ A tabela 2 a seguir apresenta a checklist referente aos aspectos gerais que os a
 | 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                           |           |             |
 | 5   | Todos os textos estão na norma padrão?                                                                 |           |             |
 
-<font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
 
 </center>
 
 
 ### Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
-A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o documento de planejamento segundo Barbosa e Silva (2011, p.358-362).<a href="#REF1"><sup>1</sup></a>
+A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o documento de planejamento.
 
 <center>
 
@@ -108,13 +108,13 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o do
 | 29  | Os testes de usabilidade estão definidas apartir das metas de usabilidades?                                                                                                                                                                                                      |           |             |
 | 30  | É apresentado o protótipo de alta fidelidade?                                                                                                                                                                                                                                    |           |             |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
 
 </center>
 
 ### Planejamento da Planejamento do Relato dos Resultados
 
-A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o documento de planejamento segundo Barbosa e Silva (2011, p.358-362).<a href="#REF1"><sup>1</sup></a>
+A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o documento de planejamento.
 
 <center>
 
@@ -130,7 +130,7 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o do
 | 11  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |           |             |
 | 12  | O documento está estruturado conforme os relatos realizados anteriores?                               |           |             |
 
-<font size="3"><p style="text-align: center">Fonte: [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
 
 </center>
 
