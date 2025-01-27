@@ -1,69 +1,85 @@
-# Planejamento da Verificação da Etapa 5 do Grupo 7
+# Verificação do Planejamento da Avaliação do Protótipo de Papel
 
 ## Introdução
-A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela, os artefatos produzidos são analisados para garantir que cumpram os requisitos especificados. Este documento apresenta o planejamento da verificação dos artefatos produzidos pelo Grupo 1 na Etapa 4.
 
-## Objetivos
-O objetivo deste documento é verificar se os artefatos produzidos na Etapa 4 do Grupo 1 atendem aos itens e padrões exigidos.
+Realizado o planejamento do que verificar, é o momento de realizar a inspeção em si. Esse documento apresenta os objetivos da verificação, a metodologia utilizada e os dados da verificação. Além disso, os principais problemas encontrados são sumarizados e analisados obtendo informações valiosas que serão utilizadas para sugerir ações corretivas para os mesmos.
+
+## Objetivo
+
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato Planejamento da Avaliação do Protótipo de Papel.
 
 ## Metodologia
-A metodologia escolhida para esta verificação é a inspeção. A inspeção utiliza uma checklist com os defeitos mais comuns, que devem ser identificados, analisados e classificados. A leitura do artefato não é feita pelo autor do mesmo. Ao final da verificação, será exibido um gráfico com os resultados.
 
-## Participantes
-Os responsáveis pelas verificações são:
-- **Breno Lucena** e **Breno Fernandes**: Verificação do planejamento e relato dos resultados.
-- **Breno Lucena**e **Breno Fernandes**: Revisão dos artefatos produzidos.
+ Para responder às perguntas apresentadas nas checklist o avaliador usará as opções **Sim**, **Não** ou **Incompleto**. O avaliador poderá também escrever observações em cada pergunta detalhando pontos que achar necessários.
 
-## Objetos de Verificação.
-1. **Planejamento da Avaliação do Protótipo de Papel**
-2. **Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel** 
-3. **Protótipo de Papel** 
+## Cronograma e Participantes
 
-## Cronograma
-A verificação ocorrerá de **27/01/2025**, com os resultados sendo relatados no dia **27/01/2025** na página de documentação do Grupo 7.
+Os participantes serão os integrantes do Grupo 7 [Breno Lucena](https://github.com/BrenoLUCO), que será responsável por realizar a avaliação, e o [Breno Fernandes](https://github.com/Brenofrds) que realizará a revisão do artefato produzido pelo avaliador
 
-| Data        | Descrição                                                                                      | Responsável                  |
-|-------------|------------------------------------------------------------------------------------------------|------------------------------|
-| 27/01/2025  | Verificação do Planejamento da Avaliação do Protótipo de Papel.                                | Breno Lucena                 |
-| 27/01/2025  | Verificação do Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel.       | Rafael Ferreira             |
-| 27/01/2025  | Verificação do Protótipo de Papel.                                                             | Gabriel Campello            |
-| 27/01/2025  | Adição da documentação na página do grupo.                                                     | Arthur de Melo e Rafael Ferreira |
+## Sumário Dos Dados
 
-Fonte: Arthur de Melo e Gabriel Campello, 2023.
+A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
-## Checklists
-As checklists foram elaboradas considerando os padrões esperados para cada artefato e sugestões de análise de Simone e Silva. Estão divididas em:
-- Geral
-- Resultado da Avaliação do Storyboard
-- Resultado do Relato da Análise de Tarefas
-- Planejamento da Avaliação do Protótipo de Papel
-- Planejamento do Relato do Protótipo de Papel
+<center>
 
-### Geral
-| ID | Descrição | Avaliação | Observações |
-|----|-----------|-----------|-------------|
-| 1  | O artefato possui introdução? |           |             |
-| 2  | O artefato possui bibliografia/referência? |           |             |
-| 3  | O artefato possui histórico de versões? |           |             |
-| 4  | Tabelas e imagens são chamadas no texto, possuem legendas e fontes? |           |             |
-| 5  | Textos estão na norma padrão? |           |             |
+**Tabela 1** - Checklist de Verificação.
 
-Fonte: Matheus Henrique, 2023.
+|        ID        | Descrição                                                                                                                                                                                                                                                                        | Avaliação  | Observações                              |
+| :--------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | ---------------------------------------- |
+| **Padronização** |                                                                                                                                                                                                                                                                                  |            |                                          |
+|        1         | O artefato possui introdução?                                                                                                                                                                                                                                                    |       |                                          |
+|        2         | O artefato possui uma bibliografia/referência bibliográfica?                                                                                                                                                                                                                     |        |                                          |
+|        3         | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                                                                                                                                                                           |        |                                          |
+|        4         | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                                                                                                                                                                     |       |                                          |
+|        5         | Todos os textos estão na norma padrão?                                                                                                                                                                                                                                           |    |              |
+| **Planejamento** |                                                                                                                                                                                                                                                                                  |            |                                          |
+|        6         | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                                 |        |                                          |
+|        7         | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                         |       |                                          |
+|        8         | O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores                                                                                                                           |       |     |
+|        9         | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                          |         |                                          |
+|        10        | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                   |       |                                          |
+|        11        | As perguntas selecionadas possuem fontes indicando de onde foram baseadas?                                                                                                                                                                                                       |       |                                          |
+|        12        | O documento possui quais são os métodos a serem utilizados na avaliação?                                                                                                                                                                                                         |        |                                          |
+|        13        | O documento possui os participantes da avaliação?                                                                                                                                                                                                                                |        |                                          |
+|        14        | O documento apresenta o motivo do número da escolha dos participantes?                                                                                                                                                                                                           |       |                                          |
+|        15        | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?                                                                                                                                                                                     |        |                                          |
+|        16        | O documento apresenta o papel desempenhado por cada participantes?                                                                                                                                                                                                               |        |                                          |
+|        17        | O documento possui um cronograma com data, hora e local da realização da avaliação?                                                                                                                                                                                              |       |                                          |
+|        18        | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?                                                                                                                                                                                      |        |                                          |
+|        19        | O documento apresenta quais são os custos?                                                                                                                                                                                                                                       |       |                                          |
+|        20        | O documento apresenta quais são os recursos de mão de obra necessários?                                                                                                                                                                                                          |        |                                          |
+|        21        | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                          |        |                                          |
+|        22        | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                      |         |                                          |
+|        23        | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                            |         |                                          |
+|        24        | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |    Sim     |                                          |
+|        25        | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |         |                                          |
+|        26        | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |    Não     |                                          |
+|        27        | O protótipo de papel é apresentado?                                                                                                                                                                                                                                              |        |                                          |
 
-...
+_Fonte: Breno Lucena 2025.
 
-*(Demais tabelas omitidas por limite de espaço, mas seguem o mesmo padrão.)*
+</center>
+
+## Problemas encontrados
+
+Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
+
+
+
+## Sugestões de Correções
+
+Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
+
+
+
+
 
 ## Bibliografia
-1. BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2011.
 
----
+
 
 ## Histórico de Versões
-| Versão | Data       | Descrição                                    | Autor(es)         | Revisor(es)       |
-|--------|------------|----------------------------------------------|-------------------|-------------------|
-| 1.0    | 17/06/2023 | Criação da página.                          | Arthur de Melo    | Matheus Henrique  |
-| 1.1    | 17/06/2023 | Adição da checklist do planejamento.        | Rafael Ferreira   | Matheus Henrique  |
-| 1.2    | 18/06/2023 | Adição da checklist do relato dos resultados. | Rafael Ferreira   | Matheus Henrique  |
-| 1.3    | 18/06/2023 | Atualização das checklists dos relatos.     | Arthur de Melo    | Matheus Henrique  |
-| 1.4    | 02/07/2023 | Adição da verificação do protótipo de papel. | Gabriel Campello  | Matheus Henrique  |
+
+| Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                    |
+| ------ | ---------- | ---------------------- | ------------------------------------------------ | ---------------------------------------------- |
+| `1.0`  | 27/01/2025 | Criação da página.     | [Breno Lucena](https://github.com/BrenoLUCO)     | [Breno Fernandes](https://github.com/Brenofrds)|
