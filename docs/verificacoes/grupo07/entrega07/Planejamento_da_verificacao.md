@@ -134,6 +134,9 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o do
 
 </center>
 
+## Bibliografia
+
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Referências Bibliográficas
 

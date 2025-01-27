@@ -25,23 +25,23 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 | ID  | Descrição                                                                                                                  | Avaliação | Observações |
 | :-: | -------------------------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
-|  1  | O artefato possui Introdução?                                                                                              |           |             |
-|  2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                                      |           |             |
-|  3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                     |           |             |
-|  4  | Todos os textos estão na norma padrão?                                                                                     |           |             |
-|  5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                               |           |             |
-|  6  | Define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                 |           |             |
-|  7  | Define o método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                          |           |             |
-|  8  | O relato apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a>                                     |           |             |
-|  9  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> |           |             |
-| 10  | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados?                                       |           |             |
-| 11  | Apresenta as sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a>                                                  |           |             |
-| 12  | Apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a>                                     |           |             |
-| 13  | Aborda como foi realizada a análise da interação do usuário com o artefato?                                                |           |             |
-| 14  | Define um tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a>                             |           |             |
-| 15  | O resultado relembra quais foram os motivos para a realização do estudo?<a id="anchor_1" href="#REF1">^1^</a>              |           |             |
-| 16  | Considera um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a>                                |           |             |
-| 17  | O relato segue um padrão consolidado para todos os outros relatos?                                                         |           |             |
+|  1  | O artefato possui Introdução?                                                                                              |        Sim   |             |
+|  2  | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                                      |  Sim         |             |
+|  3  | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?                     |         Sim  |             |
+|  4  | Todos os textos estão na norma padrão?                                                                                     |  Sim         |             |
+|  5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                               |     Sim      |             |
+|  6  | Define objetivo e escopo de avaliação dos resultados?                                  |     Sim      |             |
+|  7  | Define o método de avaliação dos resultados?                                          |     Sim      |             |
+|  8  | O relato apresenta os participantes selecionados?                                    |   Sim        |             |
+|  9  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? |     Sim      |             |
+| 10  | Apresenta como foram abordados os problemas e dificuldades presentes nos resultados?                                       |     Sim      |             |
+| 11  | Apresenta as sugestões de melhorias?                                                 |   Sim        |             |
+| 12  | Apresenta uma seção para o feedback dos usuários?                                     |   Sim        |             |
+| 13  | Aborda como foi realizada a análise da interação do usuário com o artefato?                                                |     Sim      |             |
+| 14  | Define um tópico para sumarizar os principais resultados?                             |   Sim        |             |
+| 15  | O resultado relembra quais foram os motivos para a realização do estudo?             |    Não       |             |
+| 16  | Considera um planejamento para o reprojeto do sistema?                                |    Sim       |             |
+| 17  | O relato segue um padrão consolidado para todos os outros relatos?                                                         |     Sim      |             |
 
 Fonte: Breno Lucena 2025.
 
@@ -49,17 +49,17 @@ Fonte: Breno Lucena 2025.
 
 ## Problemas encontrados
 
-Com base na tabela preenchida, serão feitas considerações acerca de alguns itens da tabela.
+Não contém motivos para a realização do estudo.
 
 
 
 ## Sugestões de Correções
 
-
+Colocar o tópico "Motivos para a realização do estudo.
 
 ## Retrabalho
 
-
+O resultado relembra quais foram os motivos para a realização do estudo esse é o tópicop a ser refeito.
 
 <center>
 
@@ -73,9 +73,10 @@ Fonte: Elaborado por Breno Lucena 2025
 
 </center>
 
-!!!
 
 ## Referências Bibliográficas
+
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 ## Histórico de Versões

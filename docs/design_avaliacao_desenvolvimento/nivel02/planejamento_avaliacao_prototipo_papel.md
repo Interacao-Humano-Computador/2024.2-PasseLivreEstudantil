@@ -45,6 +45,8 @@ As perguntas selecionadas tem o intuito de serem respondidas com essa avaliaçã
 - Foi possível identificar problemas de usabilidade preliminares?
 - Foi possível identificar ideias principais de design?
 
+fonte: Captítulo 11 da literatura de Barbosa e Silva (2011, p.266)
+
 ## C - Escolher os Métodos de Avaliação
 
 Para a realização da avaliação, utilizar-se-á de uma adaptação dos métodos de investigação, com o uso de entrevistas e observação com usuários com base na interação do usuário com o protótipo.

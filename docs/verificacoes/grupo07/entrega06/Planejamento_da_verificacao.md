@@ -17,7 +17,7 @@ Os responsáveis pelas verificações são:
 ## Objetos de Verificação.
 1. **Planejamento da Avaliação do Protótipo de Papel**
 2. **Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel** 
-3. **Protótipo de Papel** 
+3. **Relatos dos resultados do protótipo de papel** 
 
 ## Cronograma
 A verificação ocorrerá de **27/01/2025**, com os resultados sendo relatados no dia **27/01/2025** na página de documentação do Grupo 7.
@@ -26,7 +26,7 @@ A verificação ocorrerá de **27/01/2025**, com os resultados sendo relatados n
 |-------------|------------------------------------------------------------------------------------------------|------------------------------|
 | 27/01/2025  | Verificação do Planejamento da Avaliação do Protótipo de Papel.                                | Breno Lucena                 |
 | 27/01/2025  | Verificação do Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel.       | Breno Lucena                 |
-| 27/01/2025  | Verificação do Protótipo de Papel.                                                             | Breno Lucena                 |
+| 27/01/2025  | Verificação do relato do resultados do prototipo de Papel.                                                             | Breno Lucena                 |
 
 
 Fonte: Breno Lucena 2025.
@@ -34,7 +34,6 @@ Fonte: Breno Lucena 2025.
 ## Checklists
 As checklists foram elaboradas considerando os padrões esperados para cada artefato e sugestões de análise. Estão divididas em:
 - Geral
-- Resultado da Avaliação do Storyboard
 - Resultado do Relato da Análise de Tarefas
 - Planejamento da Avaliação do Protótipo de Papel
 - Planejamento do Relato do Protótipo de Papel
@@ -49,6 +48,11 @@ As checklists foram elaboradas considerando os padrões esperados para cada arte
 | 5  | Textos estão na norma padrão? |           |             |
 
 Fonte: Breno 2025.
+
+## Referências Bibliográficas
+
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 
 ## Histórico de Versões
 | Versão | Data       | Descrição                                    | Autor(es)         | Revisor(es)       |
