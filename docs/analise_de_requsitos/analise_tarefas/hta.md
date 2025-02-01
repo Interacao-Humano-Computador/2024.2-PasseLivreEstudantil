@@ -24,7 +24,7 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 
 <center>
 
-<font size="3"><b>Figura 1</b> - Diagrama HTA de Extensão de Acessos.</font>
+<font size="3"><b>Figura 2</b> - Diagrama HTA de Extensão de Acessos.</font>
 
 ![Notação diagrama HTA](../../assets/hta_extensao_acessos.png)
 
@@ -50,7 +50,13 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 
 ### Cenário 04 - Alteração de Foto
 
+<font size="3"><b>Figura 3</b> - Diagrama HTA de Alteração de foto.</font>
+
 ![Notação diagrama HTA](../../assets/HTA_cenario4.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
+
+<font size="3"><b>Tabela 2</b> - HTA de Alteração de foto.</font>
 
 | **Objetivos / Operações**                         | **Problemas e Recomendações**                                                                                                                                                                                                                                   |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,6 +71,10 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 
 ### Cenário 5: Verificação de acessos em um dia específico
 
+[Foi visto que o usuário que ficou responsavel por essa ativiade não colocou a imagem]
+
+<font size="3"><b>Tabela 3</b> - HTA de Verificação de acessos em um dia específico.</font>
+
 | **Objetivos / Operações**                                                      | **Problemas e Recomendações**                                                                                                                                                  |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **0. Verificar os acessos realizados em um dia específico**                    | _feedback_: Registros de acessos exibidos na tela <br/> _plano_: Navegar até a aba correta, selecionar as datas e visualizar os resultados.                                    |  |
@@ -78,6 +88,7 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de extensão 
 | **3.1 Aguardar o carregamento das informações**                                | _problema_: Carregamento demorado pode gerar frustração. <br/> _recomendação_: Exibir uma barra ou indicador de progresso durante o carregamento.                              |
 | **3.2 Conferir os registros exibidos, incluindo horários e locais de entrada** | _problema_: Informações podem ser extensas ou difíceis de interpretar. <br/> _recomendação_: Exibir os dados em tabelas ou gráficos de fácil leitura, com opção de exportação. |
 
+<font size="3"><p style="text-align: center">Fonte: [Mateus Viera](https://github.com/matix0).</p></font>
 ---
 
 
@@ -87,13 +98,13 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda vi
 
 <center>
 
-<font size="3"><b>Figura \_\_</b> - Diagrama HTA de Segunda via.</font>
+<font size="3"><b>Figura 5</b> - Diagrama HTA de Segunda via.</font>
 
 ![Notação diagrama HTA](../../assets/hta_segunda_via.png)
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Fernandes](https://github.com/Brenofrds).</p></font>
 
-<font size="3"><b>Tabela \_\_</b> - HTA de Segunda via.</font>
+<font size="3"><b>Tabela 4</b> - HTA de Segunda via.</font>
 
 | **Objetivos / Operações**                           | **Problemas e Recomendações**                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -113,6 +124,10 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda vi
 
 ### Cenário 8: Troca de Endereço
 
+[Foi visto que o usuário que ficou responsavel por essa ativiade não colocou a imagem]
+
+<font size="3"><b>Tabela 4</b> - HTA de Segunda via.</font>
+
 | **Objetivos / Operações**                                         | **Problemas e Recomendações**                                                                                                                                                                                                    |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **0. Atualizar o endereço cadastrado na plataforma**              | _input_: Novas informações de endereço fornecidas pelo usuário <br/> _feedback_: Confirmação visual de que o endereço foi atualizado <br/> _plano_: Acessar a aba correta, editar o campo de endereço e confirmar a atualização. |
@@ -127,9 +142,15 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda vi
 | **3.1 Verificar a mensagem de sucesso exibida pela plataforma**   | _problema_: Mensagens podem ser muito genéricas ou não aparecer imediatamente. <br/> _recomendação_: Exibir mensagens claras, como "Endereço atualizado com sucesso", em destaque e por tempo adequado.                          |
 | **3.2 Confirmar visualmente que o novo endereço está atualizado** | _problema_: Usuários podem não encontrar onde validar o novo endereço. <br/> _recomendação_: Redirecionar automaticamente para a visualização do perfil atualizado ou destacar o campo atualizado na tela atual.                 |
 
+<font size="3"><p style="text-align: center">Fonte: Felipe Verissimo.</p></font>
+
 ---
 
 ### Cenário 9: Criação do Cartão Virtual do Passe Livre Estudantil
+
+[Foi visto que o usuário que ficou responsavel por essa ativiade não colocou a imagem]
+
+<font size="3"><b>Tabela 5</b> - HTA de Segunda via.</font>
 
 | **Objetivos / Operações**                                                                            | **Problemas e Recomendações**                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -147,11 +168,20 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda vi
 | **4.1 Visualizar o cartão virtual com QR Code na tela**                                              | _problema_: QR Code pode ser de difícil leitura dependendo do tamanho ou resolução. <br/> _recomendação_: Garantir que o QR Code seja grande o suficiente e contrastante para leitura fácil.                                                                      |
 | **4.2 Escolher uma das opções para integrar o cartão a aplicativos como Google Pay ou Apple Wallet** | _problema_: Usuários podem não saber como utilizar a integração. <br/> _recomendação_: Adicionar instruções claras sobre como integrar o cartão virtual aos aplicativos suportados.                                                                               |
 
+<font size="3"><p style="text-align: center">Fonte: Mateus Viera.</p></font>
+
 ---
 ### Cenário 10: Solicitação de retirada de cartão
 
+<font size="3"><b>Figura 5</b> - Diagrama HTA de Solicitação de retirada de cartão.</font>
+
 ![Notação diagrama HTA](../../assets/hta-breno-lucena.png)
+
+<font size="3"><p style="text-align: center">Fonte: [Breno Lucena](https://github.com/BrenoLUCO).</p></font>
+
 ## Objetivos / Operações e Recomendações
+
+<font size="3"><b>Tabela 4</b> - HTA de Solicitação de retirada de cartão.</font>
 
 | **Objetivos / Operações**                       | **Problemas e Recomendações**                                                                                       |
 |------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -174,10 +204,14 @@ Nessa tarefa, o usuário possui o objetivo fazer uma solicitação de segunda vi
 |                                                | **recomendação 1**: Adicionar botão para salvar ou imprimir os dados da confirmação.                             |
 |                                                | **recomendação 2**: Enviar notificação por e-mail ou SMS com os dados confirmados para facilitar o acesso ao usuário. |
 
+<font size="3"><p style="text-align: center">Fonte: Breno Lucena.</p></font>
+
 
 ## Bibliografia
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.4.1 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 192-196.
+
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: https://www.academia.edu/41857244/INTERAÇÃO_HUMANO_COMPUTA DOR. Acesso em: 28 jan. 2025.
 
 ## Histórico de Revisão
 

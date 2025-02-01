@@ -49,6 +49,7 @@ Para decidir sobre o seu consentimento, é importante que você tenha conhecimen
 - O consentimento para a participação na entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
 - A entrevista pode ser interrompida a qualquer momento, de acordo com sua disponibilidade e vontade.
 - Será necessário gravar o áudio e vídeo da entrevista, e as gravações realizadas serão divulgadas nos resultados do projeto.
+- é garantido que os dados coletados são validos, confiaveis e livres livres de tendenciosidades.
 
 Diante dessas informações, gostaríamos que você se pronunciasse acerca da sua participação:
 
@@ -63,9 +64,11 @@ Não consinto com a sua realização.
 
 ## Bibliografia
 
-> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 5.4. Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 138-144.
 
-> BRASIL. Resolução nº 466, de 12 de dezembro de 2012. Aprova as diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos. Diário Oficial da União, Brasília, 13 dez. 2012. Seção 1, p. 59-62.
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025.
 
 ## Histórico de Versões
 

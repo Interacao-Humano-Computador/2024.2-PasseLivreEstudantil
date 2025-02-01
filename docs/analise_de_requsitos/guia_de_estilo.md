@@ -108,10 +108,12 @@ Outros princípios importantes incluem eficiência do usuário, visibilidade e r
 
 ## Bibliografia
 
- - **BARBOSA, S. D. J.; SILVA, B. S.**  
-  *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2011. Capítulo 10.  
-  Disponível em: [https://aprender3.unb.br/pluginfile.php/2972723/mod_resource/content/4/ihc-ux%20Cap.%2010.pdf](https://aprender3.unb.br/pluginfile.php/2972723/mod_resource/content/4/ihc-ux%20Cap.%2010.pdf)  
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 8.4 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 282-284.
 
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025.
+ 
 ## Histórico de Versões
 
 |    Data    | Data Prevista de Revisão | Versão |            Descrição             |    Autor     |   Revisor    |

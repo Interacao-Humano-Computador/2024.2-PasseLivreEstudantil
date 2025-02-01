@@ -111,11 +111,11 @@ Escolhemos o CMN-GOMS pois o mesmo é utilizado para fornecer uma visualização
 
 ## Bibliografia
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.4.2 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 196-202.
 
-> https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/metas-usabilidade.md#REF1
-
-> https://github.com/Interacao-Humano-Computador/2022.1-AgenciaVirtualNeoenergia/blob/master/ghpages08/docs/analise_de_requisitos/metas_usabilidade.md
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025.
 
 ## Histórico de Revisão
 

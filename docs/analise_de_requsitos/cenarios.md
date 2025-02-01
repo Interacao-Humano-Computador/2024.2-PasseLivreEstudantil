@@ -29,7 +29,7 @@ Com o processo concluído, Mariana aguarda o período necessário para que o car
 
 ## Cenário 3: Consulta do status do cartão e informações de retirada
 
-O estudante realiza o login na plataforma para verificar o status do seu cartão passe livre e obter informações detalhadas sobre o processo de retirada. Na página inicial, ele observa várias opções no menu e sente alguma confusão sobre qual aba acessar. Após explorar a interface, identifica a aba "Retirada de Cartão" e clica nela. A página carregada apresenta um código confuso, datas disponíveis para retirada, horário e local. A interface, embora funcional, possui problemas de layout que dificultam o acesso rápido às informações, especialmente pelo celular. Mesmo com as dificuldades, ele consegue anotar os detalhes e planejar a retirada do cartão.
+Mariana Silva realiza o login na plataforma para verificar o status do seu cartão passe livre e obter informações detalhadas sobre o processo de retirada. Na página inicial, ele observa várias opções no menu e sente alguma confusão sobre qual aba acessar. Após explorar a interface, identifica a aba "Retirada de Cartão" e clica nela. A página carregada apresenta um código confuso, datas disponíveis para retirada, horário e local. A interface, embora funcional, possui problemas de layout que dificultam o acesso rápido às informações, especialmente pelo celular. Mesmo com as dificuldades, ele consegue anotar os detalhes e planejar a retirada do cartão.
 
 ## Cenário 4: Atualização de foto do cartão
 
@@ -92,11 +92,11 @@ No dia seguinte, ao entrar no transporte público, Mariana  utiliza o celular pa
 
 ## Bibliografia
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.3 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 183-190.
 
-> https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/metas-usabilidade.md#REF1
-
-> https://github.com/Interacao-Humano-Computador/2022.1-AgenciaVirtualNeoenergia/blob/master/ghpages08/docs/analise_de_requisitos/metas_usabilidade.md
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025.
 
 ## Histórico de Versões
 
