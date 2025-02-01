@@ -29,8 +29,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
-| **Definição de Perfil de Usuário** |                                                                                     |            |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |            |             |                                                 
 | **Coleta de Informações sobre o Usuário** |                                                             |            |                       |
 |   6    | Foi identificado quem são os usuários do sistema?                                            |            |                       |
 |   7    | Foi definido os principais objetivos dos usuários ao utilizar o produto?                      |            |                       |

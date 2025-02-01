@@ -25,17 +25,16 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
-|   1    | O artefato possui introdução?                                                                 |            |                       |
-|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
-|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
-|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
-| **Análise Hierárquica de Tarefas (HTA)** |                                                           |            |                       |
+|   1    | O artefato possui introdução?                                                                 |   Sim         |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim      |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |      Sim      |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |       Incompleto     |            Identificamos a ausência de algumas fontes e legendas em fotos e tabelas. Completamos o máximo possível, mas ainda faltam algumas figuras referentes às atividades de membros do grupo que já se desligaram da materia.      |
+|   5    |  Todos os textos estão na norma padrão?                                                        |     Sim       |                       |
 | **Definição dos Objetivos da Análise** |                                                            |            |                       |
-|   6    | É definido o objetivo principal da análise?                                                   |            |                       |
-|   7    | É identificado objetivos secundários?                                                         |            |                       |
-|   8    | Existe um diagrama HTA para decompor o processo em etapas menores?                           |            |                       |
-|   9    | A decomposição reflete corretamente o processo real?                                          |            |                       |
+|   6    | É definido o objetivo principal da análise?                                                   |      Sim      |                       |
+|   7    | É identificado objetivos secundários?                                                         |    Sim        |                       |
+|   8    | Existe um diagrama HTA para decompor o processo em etapas menores?                           |    Incompleto        |         Identificamos a ausência de algumas fontes e legendas em fotos e tabelas. Completamos o máximo possível, mas ainda faltam algumas figuras referentes às atividades de membros do grupo que já se desligaram da materia.              |
+|   9    | A decomposição reflete corretamente o processo real?                                          |     Sim       |                       |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025._
 
@@ -43,20 +42,35 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 ## Problemas encontrados
 
-[Colocar problemas encontrados]
+Ausência de Fontes e Legendas em Fotos e Tabelas
+
+- Identificamos a ausência de algumas fontes e legendas em fotos e tabelas.
+- Completamos o máximo possível, mas ainda faltam algumas figuras referentes às atividades de membros do grupo que já se desligaram da matéria.
+
+Diagrama HTA Incompleto
+
+- O diagrama HTA para decompor o processo em etapas menores está incompleto.
+- A ausência de um diagrama completo dificulta a visualização e compreensão do processo.
 
 
 
 
 ## Sugestões de Correções
 
-[Colocar Sugestões de correções]
+Adicionar Fontes e Legendas Faltantes
+
+- Revisar todas as fotos e tabelas para garantir que possuem fontes e legendas adequadas.
+- Solicitar aos membros do grupo que ainda estão na matéria para fornecer as figuras faltantes ou recriar as figuras necessárias.
+
+Completar o Diagrama HTA
+
+- Revisar o diagrama HTA existente e identificar as etapas que estão faltando.
+- Completar o diagrama com todas as etapas necessárias para refletir corretamente o processo real.
+- Validar o diagrama com todos os membros do grupo para garantir que está completo e preciso.
 
 
 
 ## Referências Bibliográficas
-
-BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
 BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.4.1 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 192-196.
 

@@ -25,21 +25,21 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
-|   1    | O artefato possui introdução?                                                                 |            |                       |
-|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
-|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
-|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+|   1    | O artefato possui introdução?                                                                 |      Sim      |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |   Sim         |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |   Sim         |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |       Sim     |                       |
 | **Consentimento e Autonomia** |                                                                  |            |                       |
-|   6    | Explica claramente os objetivos da pesquisa aos participantes?                               |            |                       |
-|   7    | Obtém consentimento livre e esclarecido por meio de um termo assinado?                        |            |                       |
-|   8    | Os participantes podem retirar seu consentimento a qualquer momento sem penalidades?        |            |                       |
+|   6    | Explica claramente os objetivos da pesquisa aos participantes?                               |    Sim        |                       |
+|   7    | Obtém consentimento livre e esclarecido por meio de um termo assinado?                        |      Sim      |                       |
+|   8    | Os participantes podem retirar seu consentimento a qualquer momento sem penalidades?        |   Sim         |                       |
 | **Privacidade e Confidencialidade** |                                                             |            |                       |
-|   9    | É garantido a privacidade dos participantes e a confidencialidade dos dados coletados?       |            |                       |
-|   10   | É solicitado permissão antes de gravar voz ou imagem dos participantes?                      |            |                       |
+|   9    | É garantido a privacidade dos participantes e a confidencialidade dos dados coletados?       |     Sim       |                       |
+|   10   | É solicitado permissão antes de gravar voz ou imagem dos participantes?                      |     Sim       |                       |
 | **Tratamento Ético dos Dados** |                                                                 |            |                       |
-|   11   | É garantido que os dados coletados sejam válidos, confiáveis e livres de tendenciosidades?    |            |                       |
-|   12   | É evitado qualquer forma de manipulação ou distorção dos dados coletados?                    |            |                       |
+|   11   | É garantido que os dados coletados sejam válidos, confiáveis e livres de tendenciosidades?    |    Sim        |                       |
+|   12   | É evitado qualquer forma de manipulação ou distorção dos dados coletados?                    |     Sim       |                       |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025._
 
@@ -47,15 +47,12 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 
 ## Problemas encontrados
-
-[Colocar problemas encontrados]
-
-
+Nenhum erro encontrado! 
 
 
 ## Sugestões de Correções
 
-[Colocar Sugestões de correções]
+Nenhuma sugestão
 
 
 

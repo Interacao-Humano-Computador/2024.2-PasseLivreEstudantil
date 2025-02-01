@@ -25,29 +25,28 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
-|   1    | O artefato possui introdução?                                                                 |            |                       |
-|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
-|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
-|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
-| **Elaboração do Guia de Estilo** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |   Sim         |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |    Sim        |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |       Sim     |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |    Sim        |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |       Sim     |                       |
 | **Estrutura do Guia de Estilo** |                                                                 |            |                       |
-|   6    | Foi definido o objetivo do guia de estilo para o sistema de passe livre estudantil?          |            |                       |
-|   7    | Foi explicado a organização e o conteúdo do guia?                                             |            |                       |
-|   8    | Foi especificado o público-alvo do guia?                                                      |            |                       |
-|   9    | Foi orientado sobre como utilizar o guia nas fases de produção e manutenção do sistema?      |            |                       |
+|   6    | Foi definido o objetivo do guia de estilo para o sistema de passe livre estudantil?          |   Sim         |                       |
+|   7    | Foi explicado a organização e o conteúdo do guia?                                             |   Sim         |                      |
+|   8    | Foi especificado o público-alvo do guia?                                                      |          Sim  |                       |
+|   9    | Foi orientado sobre como utilizar o guia nas fases de produção e manutenção do sistema?      |    Sim        |                       |
 |  **Elementos de Interface** |                                                                      |            |                       |
-|   10   | Foi definido proporção e grids para a tela do sistema, ajustando para dispositivos móveis e desktop? |            |                       |
+|   10   | Foi definido proporção e grids para a tela do sistema, ajustando para dispositivos móveis e desktop? |       Não     |                       |
 |  **Tipografia** |                                                                                  |            |                       |
-|   11   | Foi escolhida uma tipografia clara e legível, adaptada para diferentes faixas etárias e níveis de instrução dos usuários? |            |                       |
+|   11   | Foi escolhida uma tipografia clara e legível, adaptada para diferentes faixas etárias e níveis de instrução dos usuários? |        Sim    |            Dentro do protótipo figma           |
 |  **Símbolos e Ícones** |                                                                          |            |                       |
-|   12   | Foi garantida clareza e consistência no design de ícones?                                     |            |                       |
+|   12   | Foi garantida clareza e consistência no design de ícones?                                     |      Sim      |      Dentro do protótipo figma                 |
 |  **Cores** |                                                                                          |            |                       |
-|   13   | Foi aplicado códigos de cores consistentes para elementos chave?                             |            |                       |
+|   13   | Foi aplicado códigos de cores consistentes para elementos chave?                             |    Sim        |          Dentro do protótipo figma             |
 |  **Aceleradores e Teclas de Atalho** |                                                           |            |                       |
-|   14   | Foi incluído aceleradores como teclas de atalho para facilitar o acesso a informações essenciais? |            |                       |
+|   14   | Foi incluído aceleradores como teclas de atalho para facilitar o acesso a informações essenciais? |      Sim       |       Dentro do protótipo figma                |
 |  **Vocabulário e Padrões** |                                                                   |            |                       |
-|   15   | Foi definida uma terminologia clara e consistente?                                           |            |                       |
+|   15   | Foi definida uma terminologia clara e consistente?                                           |         Incompleto   |                       |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025._
 
@@ -56,15 +55,19 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 ## Problemas encontrados
 
-[Colocar problemas encontrados]
+- Falta de inclusão de prints de dispositivos móveis.
+
+- Terminologia utilizada no sistema não é clara e consistente.
+- Falta de uma terminologia padronizada pode causar confusão entre os usuários.
 
 
 
 
 ## Sugestões de Correções
 
-[Colocar Sugestões de correções]
-
+- Definir uma proporção  telas de dispositivos móveis .
+- Revisar e validar a terminologia com os usuários finais para garantir que seja intuitiva e fácil de entender.
+- Adotar padrões de nomenclatura consistentes para melhorar a usabilidade e a eficiência do sistema.
 
 
 ## Referências Bibliográficas

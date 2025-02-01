@@ -30,7 +30,6 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
-| **Metas de Usabilidade** |                                                                 |            |                       |
 | **Facilidade de Aprendizado** |                                                                   |            |                       |
 |   6    | A interface do site possui menus claros e descritivos para facilitar o entendimento de novas funcionalidades? |            |                       |
 |   7    | O tempo necessário para que um usuário iniciante aprenda a usar o site é aceitável e eficiente? |            |                       |
