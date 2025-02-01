@@ -123,13 +123,67 @@ As perguntas desta checklist serão utilizadas em todos os arquivos de planejame
 | **E** | A confiabilidade dos dados foi verificada antes de tirar conclusões?                        |
 | **E** | Os resultados foram analisados e organizados para evitar distorções?                       |
 
+### Aplicação da Checklist para Planejamento dos Relatos dos Resultados
 
+As perguntas desta checklist serão utilizadas em todos os arquivos de planejamento dos relatos dos resultados. Isso garantirá que as etapas do framework sejam verificadas de maneira consistente e padronizada para avaliar a qualidade do trabalho.
+
+### Lista de Verificação para Planejamento dos Relatos dos Resultados
+
+| ID  | Descrição                                                                                       |
+|:---:|-------------------------------------------------------------------------------------------------|
+|  1  | O planejamento do relato dos resultados define claramente os critérios de qualidade de uso que serão avaliados? |
+|  2  | O planejamento inclui medidas para identificar e documentar problemas na interação e na interface do sistema? |                            
+|  3  | O planejamento do relato dos resultados define claramente quais tipos de dados (qualitativos e/ou quantitativos) serão coletados? |
+|  4  | O planejamento especifica como os dados coletados serão analisados e utilizados para responder aos objetivos da avaliação? |
+|  5  | O planejamento justifica a escolha do método de avaliação com base nos objetivos da avaliação? |
+|  6  | O planejamento considera as restrições de prazo, orçamento, recursos e participação de usuários na escolha do método? |
+|  7  | O planejamento demonstra conhecimento sobre o domínio do problema, os usuários e o contexto de uso do sistema? |
+|  8  | O planejamento considera sistemas semelhantes e dificuldades típicas dos usuários na definição da avaliação? |
+|  9  | O planejamento do relato dos resultados delimita claramente o escopo da avaliação, especificando as partes do sistema, tarefas e perfis de usuários envolvidos? |
+| 10  | O planejamento inclui um teste-piloto para validar a estrutura da avaliação e garantir a confiabilidade dos dados coletados? |
+
+### Aplicação da Checklist para Relatos dos Resultados
+
+As perguntas desta checklist serão utilizadas em todos os arquivos de Relatos dos resultados. Isso garantirá que as etapas do framework sejam verificadas de maneira consistente e padronizada para avaliar a qualidade do trabalho.
+
+### Lista de Verificação para Relatos dos Resultados
+
+| ID  | Descrição                                                                                              |
+|:---:|--------------------------------------------------------------------------------------------------------|
+| 1   | O relato dos resultados especifica se a avaliação realizada foi formativa (durante o design) ou somativa (após a implementação)? |
+| 2   | O relato dos resultados descreve o ambiente em que a avaliação foi realizada (contexto real ou laboratório) e justifica essa escolha? |
+| 3   | O relato dos resultados especifica claramente os tipos de dados coletados (qualitativos e/ou quantitativos) durante a avaliação? |
+| 4   | O relato dos resultados apresenta a análise dos dados coletados de forma consistente com os objetivos da avaliação? |
+| 5   | O relato dos resultados descreve se a coleta de dados seguiu o planejamento e o método de avaliação selecionado? |
+| 6   | O relato dos resultados apresenta como os dados foram coletados, incluindo a participação dos usuários e o ambiente da avaliação? |
+| 7   | O relato dos resultados descreve como os dados coletados foram interpretados de acordo com o método de avaliação escolhido? |
+| 8   | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? |
+| 9   | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? |
+| 10  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? |
 
 ## Referências Bibliográficas
 
 BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.8: O Framework DECIDE, p. 312-314.
 
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.2: O que Avaliar?, p. 290-294.
 
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.5: Que Tipos de Dados Coletar e Produzir?, p. 297-300.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.6: Qual Tipo de Método de Avaliação Escolher?, p. 301-303.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.1: Por Onde Começar?, p. 303-304.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.2: Preparação, p. 304-308.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.3: Quando Avaliar o Uso de um Sistema?, p. 294-295.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.4: Experiências de Uso?, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.3: Coleta de Dados, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.4: Interpretação, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.5: Consolidação e Relato dos Resultados, p. 295-297.
 
 ## Histórico de Versões
 | Versão | Data       | Descrição                                    | Autor(es)         | Revisor(es)       |

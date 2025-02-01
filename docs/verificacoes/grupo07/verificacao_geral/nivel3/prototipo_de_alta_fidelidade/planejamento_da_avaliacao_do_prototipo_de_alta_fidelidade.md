@@ -39,6 +39,8 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
+**Tabela 2** - Checklist Framework DECIDE
+
 |  ID  | Descrição                                                                                   | Avaliação  | Observação            |
 |:----:|---------------------------------------------------------------------------------------------|:----------:|-----------------------|
 |  6   | Os objetivos da avaliação estão claramente definidos e alinhados com os usuários-alvo?      |            |                       |

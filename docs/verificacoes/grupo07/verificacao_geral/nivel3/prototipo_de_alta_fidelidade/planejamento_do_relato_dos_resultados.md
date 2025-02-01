@@ -35,6 +35,31 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 </center>
 
+### Lista de Verificação para o Planejamento do relato dos resultados
+
+<center>
+
+**Tabela 2** - Checklist de Planejamento do relato dos resultados.
+
+| ID  | Descrição                                                                                       | Avaliação | Observação |
+|:---:|-------------------------------------------------------------------------------------------------|:---------:|------------|
+|  1  | O planejamento do relato dos resultados define claramente os critérios de qualidade de uso que serão avaliados? |           |            |
+|  2  | O planejamento inclui medidas para identificar e documentar problemas na interação e na interface do sistema? |           |            |                            
+|  3  | O planejamento do relato dos resultados define claramente quais tipos de dados (qualitativos e/ou quantitativos) serão coletados? |           |            |
+|  4  | O planejamento especifica como os dados coletados serão analisados e utilizados para responder aos objetivos da avaliação? |           |            |
+|  5  | O planejamento justifica a escolha do método de avaliação com base nos objetivos da avaliação? |           |            |
+|  6  | O planejamento considera as restrições de prazo, orçamento, recursos e participação de usuários na escolha do método? |           |            |
+|  7  | O planejamento demonstra conhecimento sobre o domínio do problema, os usuários e o contexto de uso do sistema? |           |            |
+|  8  | O planejamento considera sistemas semelhantes e dificuldades típicas dos usuários na definição da avaliação? |           |            |
+|  9  | O planejamento do relato dos resultados delimita claramente o escopo da avaliação, especificando as partes do sistema, tarefas e perfis de usuários envolvidos? |           |            |
+| 10  | O planejamento inclui um teste-piloto para validar a estrutura da avaliação e garantir a confiabilidade dos dados coletados? |           |            |
+
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+</center>
+
+
 ## Problemas encontrados
 
 [Colocar problemas encontrados]

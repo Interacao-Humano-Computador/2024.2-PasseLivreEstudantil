@@ -35,6 +35,28 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 </center>
 
+### Lista de Verificação para o Relato dos resultados
+
+<center>
+
+**Tabela 2** - Checklist de Relato dos resultados.
+
+| ID  | Descrição                                                                                              | Avaliação | Observação |
+|:---:|--------------------------------------------------------------------------------------------------------|:---------:|------------|
+|  1  | O relato dos resultados especifica se a avaliação realizada foi formativa (durante o design) ou somativa (após a implementação)? |           |            |
+|  2  | O relato dos resultados descreve o ambiente em que a avaliação foi realizada (contexto real ou laboratório) e justifica essa escolha? |           |            |
+|  3  | O relato dos resultados especifica claramente os tipos de dados coletados (qualitativos e/ou quantitativos) durante a avaliação? |           |            |
+|  4  | O relato dos resultados apresenta a análise dos dados coletados de forma consistente com os objetivos da avaliação? |           |            |
+|  5  | O relato dos resultados descreve se a coleta de dados seguiu o planejamento e o método de avaliação selecionado? |           |            |
+|  6  | O relato dos resultados apresenta como os dados foram coletados, incluindo a participação dos usuários e o ambiente da avaliação? |           |            |
+|  7  | O relato dos resultados descreve como os dados coletados foram interpretados de acordo com o método de avaliação escolhido? |           |            |
+|  8  | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? |           |            |
+|  9  | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? |           |            |
+| 10  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? |           |            |
+
+
+</center>
+
 ## Problemas encontrados
 
 [Colocar problemas encontrados]
