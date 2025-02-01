@@ -30,10 +30,37 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+| **Cenários em IHC** |                                                                                     |            |                       |
+| **Estrutura Geral do Cenário** |                                                                    |            |                       |
+|   6    | O cenário é uma narrativa concreta e rica em detalhes contextuais?                           |            |                       |
+|   7    | O título resume de forma clara e objetiva a situação descrita?                               |            |                       |
+|   8    | O cenário apresenta um ator principal com um objetivo principal?                             |            |                       |
+| **Elementos Fundamentais do Cenário** |                                                             |            |                       |
+| **Ambiente ou Contexto** |                                                                         |            |                       |
+|   9    | O cenário descreve o ambiente onde a interação ocorre (tempo, local, condições)?             |            |                       |
+|   10   | Há informações sobre os dispositivos e tecnologias envolvidas?                               |            |                       |
+|   11   | O cenário menciona fatores externos que influenciam as ações dos atores?                      |            |                       |
+| **Atores** |                                                                                             |            |                       |
+|   12   | Os atores estão claramente identificados?                                                    |            |                       |
+|   13   | As características relevantes dos atores para o cenário foram mencionadas?                   |            |                       |
+|   14   | Caso o cenário envolva personas, há coerência entre os atores e as personas definidas?        |            |                       |
+| **Objetivos** |                                                                                           |            |                       |
+|   15   | O objetivo do ator principal está claramente descrito?                                        |            |                       |
+|   16   | Há justificativa para a necessidade de alcançar esse objetivo?                                |            |                       |
+|   17   | As precondições para a realização do objetivo foram consideradas?                             |            |                       |
+|   18   | O impacto do objetivo na experiência do usuário é discutido?                                  |            |                       |
+| **Planejamento** |                                                                                     |            |                       |
+|   19   | O cenário descreve como o ator planeja atingir seu objetivo?                                  |            |                       |
+|   20   | Estratégias alternativas são consideradas?                                                   |            |                       |
+|   21   | A tomada de decisão do ator e suas dificuldades são exploradas?                               |            |                       |
+| **Ações** |                                                                                             |            |                       |
+|   22   | As ações realizadas pelos atores são detalhadas e descritas de maneira clara?                |            |                       |
+|   23   | Os desafios ou dificuldades enfrentadas pelos atores ao realizar as ações são mencionados?    |            |                       |
 
-_Fonte: Breno Fernandes e Breno Lucena 2025.
+_Fonte: Breno Fernandes e Breno Lucena 2025._
 
 </center>
+
 
 ## Problemas encontrados
 
@@ -52,7 +79,11 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.3 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 183-190.
+
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025. 
 
 
 ## Histórico de Versões

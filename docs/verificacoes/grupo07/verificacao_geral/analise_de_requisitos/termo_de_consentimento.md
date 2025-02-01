@@ -30,10 +30,23 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+| **Termo de Consentimento** |                                                                                     |            |                       |
+| **Identificação das Partes Envolvidas** |                                                                                     |            |                       |
+|   6    | Foi Identificado os usuários que fornecerão dados?                                            |            |                       |
+|   7    | Foi determinado quais partes interessadas?                                                    |            |                       |
+|   8    | Foi especificado quem terá acesso aos dados coletados e como serão utilizados?               |            |                       |
+| **Estrutura do Termo de Consentimento** |                                                                                     |            |                       |
+|   9    | Foi apresentado o objetivo da coleta de dados de forma clara e acessível?                     |            |                       |
+|   10   | Foi explicado quais informações serão coletadas?                                              |            |                       |
+|   11   | Foi informado como os dados serão protegidos e se haverá compartilhamento com terceiros?      |            |                       |
+| **Clareza e Transparência** |                                                                                     |            |                       |
+|   12   | Foi utilizado uma linguagem simples e compreensível para o público-alvo?                      |            |                       |
+|   13   | Foi incluído contatos para dúvidas ou solicitações sobre o uso dos dados?                     |            |                       |
 
-_Fonte: Breno Fernandes e Breno Lucena 2025.
+_Fonte: Breno Fernandes e Breno Lucena 2025._
 
 </center>
+
 
 ## Problemas encontrados
 
@@ -52,8 +65,11 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 5.3 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 135-138.
 
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025. 
 
 ## Histórico de Versões
 

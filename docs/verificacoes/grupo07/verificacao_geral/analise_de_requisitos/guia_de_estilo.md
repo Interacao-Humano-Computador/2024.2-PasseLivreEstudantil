@@ -18,7 +18,7 @@ Os participantes serão os integrantes do Grupo 7 [Breno Lucena](https://github.
 
 A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
-<center>
+ <center>
 
 **Tabela 1** - Checklist de Verificação.
 
@@ -30,10 +30,29 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+| **Elaboração do Guia de Estilo** |                                                                                     |            |                       |
+| **Estrutura do Guia de Estilo** |                                                                 |            |                       |
+|   6    | Foi definido o objetivo do guia de estilo para o sistema de passe livre estudantil?          |            |                       |
+|   7    | Foi explicado a organização e o conteúdo do guia?                                             |            |                       |
+|   8    | Foi especificado o público-alvo do guia?                                                      |            |                       |
+|   9    | Foi orientado sobre como utilizar o guia nas fases de produção e manutenção do sistema?      |            |                       |
+|  **Elementos de Interface** |                                                                      |            |                       |
+|   10   | Foi definido proporção e grids para a tela do sistema, ajustando para dispositivos móveis e desktop? |            |                       |
+|  **Tipografia** |                                                                                  |            |                       |
+|   11   | Foi escolhida uma tipografia clara e legível, adaptada para diferentes faixas etárias e níveis de instrução dos usuários? |            |                       |
+|  **Símbolos e Ícones** |                                                                          |            |                       |
+|   12   | Foi garantida clareza e consistência no design de ícones?                                     |            |                       |
+|  **Cores** |                                                                                          |            |                       |
+|   13   | Foi aplicado códigos de cores consistentes para elementos chave?                             |            |                       |
+|  **Aceleradores e Teclas de Atalho** |                                                           |            |                       |
+|   14   | Foi incluído aceleradores como teclas de atalho para facilitar o acesso a informações essenciais? |            |                       |
+|  **Vocabulário e Padrões** |                                                                   |            |                       |
+|   15   | Foi definida uma terminologia clara e consistente?                                           |            |                       |
 
-_Fonte: Breno Fernandes e Breno Lucena 2025.
+_Fonte: Breno Fernandes e Breno Lucena 2025._
 
 </center>
+                                   
 
 ## Problemas encontrados
 
@@ -52,8 +71,11 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 8.4 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 282-284.
 
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025. 
 
 ## Histórico de Versões
 

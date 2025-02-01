@@ -30,8 +30,14 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+| **Análise Hierárquica de Tarefas (HTA)** |                                                           |            |                       |
+| **Definição dos Objetivos da Análise** |                                                            |            |                       |
+|   6    | É definido o objetivo principal da análise?                                                   |            |                       |
+|   7    | É identificado objetivos secundários?                                                         |            |                       |
+|   8    | Existe um diagrama HTA para decompor o processo em etapas menores?                           |            |                       |
+|   9    | A decomposição reflete corretamente o processo real?                                          |            |                       |
 
-_Fonte: Breno Fernandes e Breno Lucena 2025.
+_Fonte: Breno Fernandes e Breno Lucena 2025._
 
 </center>
 
@@ -52,7 +58,11 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.4.1 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 192-196.
+
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025. 
 
 
 ## Histórico de Versões

@@ -20,7 +20,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 <center>
 
-# Tabela 1 - Checklist de Verificação
+**Tabela 1** - Checklist de Verificação.
 
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
@@ -30,26 +30,18 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
-| **Consentimento e Autonomia** |                                                                 |            |                       |
-|   6    | Explica claramente os objetivos da pesquisa aos participantes?                               |            |                       |
-|   7    | Obtém consentimento livre e esclarecido por meio de um termo assinado?                        |            |                       |
-|   8    | Os participantes podem retirar seu consentimento a qualquer momento sem penalidades?        |            |                       |
-| **Privacidade e Confidencialidade** |                                                             |            |                       |
-|   9    | É garantido a privacidade dos participantes e a confidencialidade dos dados coletados?       |            |                       |
-|   10   | É solicitado permissão antes de gravar voz ou imagem dos participantes?                      |            |                       |
-| **Tratamento Ético dos Dados** |                                                                 |            |                       |
-|   11   | É garantido que os dados coletados sejam válidos, confiáveis e livres de tendenciosidades?    |            |                       |
-|   12   | É evitado qualquer forma de manipulação ou distorção dos dados coletados?                    |            |                       |
-| **Perfil de Usuário** |                                                                         |            |                       |
-|   13   | Foi identificado quem são os usuários do sistema?                                            |            |                       |
-|   14   | Foi definido os principais objetivos dos usuários ao utilizar o produto?                     |            |                       |
-|   15   | Foi definida a faixa etária dos usuários?                                                     |            |                       |
-|   16   | Foi definido o grau de instrução ou formação acadêmica dos usuários?                         |            |                       |
+| **Definição de Perfil de Usuário** |                                                                                     |            |                       |
+| **Coleta de Informações sobre o Usuário** |                                                             |            |                       |
+|   6    | Foi identificado quem são os usuários do sistema?                                            |            |                       |
+|   7    | Foi definido os principais objetivos dos usuários ao utilizar o produto?                      |            |                       |
+| **Características do Perfil do Usuário** |                                                              |            |                       |
+|   8    | Foi definida a faixa etária dos usuários?                                                     |            |                       |
+|   9    | Foi definido o grau de instrução ou formação acadêmica dos usuários?                         |            |                       |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025._
 
-
 </center>
+
 
 ## Problemas encontrados
 
@@ -68,8 +60,11 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.1 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 174-182.
 
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025. 
 
 ## Histórico de Versões
 

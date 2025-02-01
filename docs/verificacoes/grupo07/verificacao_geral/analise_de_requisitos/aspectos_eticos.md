@@ -4,7 +4,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [Colocar o nome do arterfato aqui].
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato Aspectos Éticos.
 
 ## Metodologia
 
@@ -20,7 +20,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 <center>
 
-# Tabela 1 - Checklist de Verificação
+**Tabela 1** - Checklist de Verificação.
 
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
@@ -30,7 +30,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
-| **Consentimento e Autonomia** |                                                                 |            |                       |
+| **Consentimento e Autonomia** |                                                                  |            |                       |
 |   6    | Explica claramente os objetivos da pesquisa aos participantes?                               |            |                       |
 |   7    | Obtém consentimento livre e esclarecido por meio de um termo assinado?                        |            |                       |
 |   8    | Os participantes podem retirar seu consentimento a qualquer momento sem penalidades?        |            |                       |
@@ -43,8 +43,8 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 _Fonte: Breno Fernandes e Breno Lucena 2025._
 
-
 </center>
+
 
 ## Problemas encontrados
 
@@ -63,8 +63,11 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 5.4. Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 138-144.
 
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025. 
 
 ## Histórico de Versões
 

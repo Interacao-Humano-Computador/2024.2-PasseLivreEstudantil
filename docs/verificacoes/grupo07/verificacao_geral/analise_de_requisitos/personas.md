@@ -20,7 +20,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 <center>
 
-# Tabela 1 - Checklist de Verificação
+**Tabela 1** - Checklist de Verificação.
 
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
@@ -30,24 +30,25 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
-| **Persona - Identidade** |                                                                 |            |                       |
-|   6    | A persona possui um nome e sobrenome?                                                        |            |                       |
+| **Personas** |                                                                                           |            |                       |
+| **Identidade** |                                                                                       |            |                       |
+|   6    | A persona possui um nome e sobrenome?                                                         |            |                       |
 |   7    | Foram incluídos dados demográficos (idade, gênero e localização)?                            |            |                       |
 |   8    | A persona possui uma foto representativa?                                                    |            |                       |
-| **Persona - Status** |                                                                   |            |                       |
-|   9    | A persona foi classificada corretamente como primária, secundária ou antiusuário?           |            |                       |
-|   10   | A persona representa um stakeholder relevante do sistema?                                    |            |                       |
-| **Persona - Objetivos** |                                                                |            |                       |
+| **Status** |                                                                                           |            |                       |
+|   9    | A persona foi classificada corretamente como primária, secundária ou antiusuário?            |            |                       |
+|   10   | A persona representa um stakeholder relevante do sistema?                                     |            |                       |
+| **Objetivos** |                                                                                         |            |                       |
 |   11   | Os objetivos da persona estão claramente definidos?                                          |            |                       |
-|   12   | Os objetivos estão alinhados com as necessidades reais dos usuários?                        |            |                       |
-| **Persona - Habilidades** |                                                               |            |                       |
+|   12   | Os objetivos estão alinhados com as necessidades reais dos usuários?                         |            |                       |
+| **Habilidades** |                                                                                      |            |                       |
 |   13   | A persona possui uma descrição de suas habilidades e competências?                           |            |                       |
 |   14   | Foram incluídos detalhes sobre educação, treinamento e experiência profissional?             |            |                       |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025._
 
-
 </center>
+
 
 ## Problemas encontrados
 
@@ -66,8 +67,11 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.2 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 176-182.
 
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025. 
 
 ## Histórico de Versões
 

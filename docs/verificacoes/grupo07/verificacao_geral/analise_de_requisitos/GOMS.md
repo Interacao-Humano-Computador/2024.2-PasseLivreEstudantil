@@ -30,6 +30,22 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+**Análise GOMS** |                                                                                     |            |                       |
+| **Identificação dos Objetivos (Goals)** |                                                           |            |                       |
+|   6   | Os principais objetivos do usuário ao acessar o sistema foram identificados?                 |            |                       |
+|   7   | O sistema apoia os objetivos principais de forma clara e acessível?                          |            |                       |
+|   8   | Existem diferentes formas de alcançar o mesmo objetivo? (e.g., menu, botão, atalho)          |            |                       |
+| **Identificação dos Operadores (Operators)** |                                                     |            |                       |
+|   9   | Todas as ações concretas que o sistema exige dos usuários foram identificadas?               |            |                       |
+|   10   | Os tempos médios de execução de cada operador foram estimados para prever a eficiência das tarefas? |            |                       |
+|   11   | Os operadores incluem ações cognitivas (ex., ler informações, interpretar mensagens do sistema)? |            |                       |
+|   12   | Os operadores externos (ex., clique do mouse, digitação de CPF) estão bem distribuídos para reduzir esforço excessivo do usuário? |            |                       |
+| **Métodos para Realizar as Tarefas (Methods)** |                                                  |            |                       |
+|   13   | Todas as tarefas do sistema têm métodos bem definidos?                                        |            |                       |
+|   14   | As etapas para realizar uma tarefa são intuitivas e minimizam esforço cognitivo?             |            |                       |
+|   15   | Métodos alternativos para cada tarefa foram analisados para avaliar qual é o mais eficiente? |            |                       |
+|   16   | A existência de atalhos foi considerada para ações frequentes, como renovação do passe?      |            |                       |
+
 
 _Fonte: Breno Fernandes e Breno Lucena 2025.
 
@@ -52,7 +68,11 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.4.2 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 196-202.
+
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025. 
 
 
 ## Histórico de Versões
