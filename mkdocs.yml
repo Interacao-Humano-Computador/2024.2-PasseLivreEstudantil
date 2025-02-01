@@ -70,6 +70,50 @@ nav:
             - Planejamento da verificação: verificacoes/grupo07/entrega07/Planejamento_da_verificacao.md
             - Planejamento da avaliação do Protótipo de alta fidelidade: verificacoes/grupo07/entrega07/Planejamento_da_avaliação_do_prototipo_de_alta_fidelidade.md
             - Planejamento do relato dos resultados: verificacoes/grupo07/entrega07/Planejamento_do_relato_dos_resultados.md
+          - Verificacao Entrega Final:
+            - Planejamento:
+              - Cronograma: verificacoes/grupo07/verificacao_geral/planejamento/cronograma.md
+              - Metodologia: verificacoes/grupo07/verificacao_geral/planejamento/metodologia.md
+              - Design: verificacoes/grupo07/verificacao_geral/planejamento/design.md
+              - Ferramentas: verificacoes/grupo07/verificacao_geral/planejamento/ferramentas.md
+              - Heatmap: verificacoes/grupo07/verificacao_geral/planejamento/heatmap.md
+              - Sites Avaliados: verificacoes/grupo07/verificacao_geral/planejamento/sites_avaliados.md
+              - Site Escolhido: verificacoes/grupo07/verificacao_geral/planejamento/site_escolhido.md
+            - Analise de Requisitos:
+              - Analise de Tarefa: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/analise_de_tarefa.md
+              - Aspectos Éticos: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/aspectos_eticos.md
+              - Perfil de Usuário: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/perfil_de_usuario.md
+              - Personas: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/personas.md
+              - Cenários: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/cenarios.md
+              - GOMS: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/GOMS.md
+              - HTA: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/HTA.md
+              - Termo de Consentimento: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/termo_de_consentimento.md
+              - Princípios Gerais: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/principios_gerais.md
+              - Metas de Usabilidade: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/metas_de_usabilidade.md
+              - Guia de Estilo: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/guia_de_estilo.md
+              - Caracteristicas Gerais: verificacoes/grupo07/verificacao_geral/analise_de_requisitos/caracteristicas_gerais.md
+            - Design, Avaliação e Desenvolvimento:
+              - Nivel 1:
+                - Análise de Tarefas:
+                  - Planejamento da Avaliacao da Análise de Tarefas: verificacoes/grupo07/verificacao_geral/nivel1/analise_de_tarefas/planejamento_avalaiacao_da_analise_de_tarefas.md
+                  - Planejamento do Relato dos Resultados da Avaliacao: verificacoes/grupo07/verificacao_geral/nivel1/analise_de_tarefas/planjemanto_do_relato_dos_resultados_da_avalaicao.md
+                  - Relato do Resultado: verificacoes/grupo07/verificacao_geral/nivel1/analise_de_tarefas/relato_do_resultado.md
+                - Storyboard:
+                  - Planejamento da Avaliacao do Storyboard: verificacoes/grupo07/verificacao_geral/nivel1/storyboard/planejamento_da_avaliacao_do_storyboard.md
+                  - Planejamento do Relato dos Resultados: verificacoes/grupo07/verificacao_geral/nivel1/storyboard/planejamento_do_relato_dos_resultados.md
+                  - Relato do Resultado: verificacoes/grupo07/verificacao_geral/nivel1/storyboard/relato_do_resultado.md
+                  - Storyboard: verificacoes/grupo07/verificacao_geral/nivel1/storyboard/storyboard.md
+              - Nivel 2: 
+                - Protótipo de Papel:
+                  - Planejamento da Avaliacao do Protótipo de Papel: verificacoes/grupo07/verificacao_geral/nivel2/prototipo_de_papel/planejamento_da_avaliacao_do_prototipo_de_papel.md
+                  - Planejamento do Relato dos Resultados: verificacoes/grupo07/verificacao_geral/nivel2/prototipo_de_papel/planejamento_do_relato_dos_resultados.md
+                  - Relato do Resultado: verificacoes/grupo07/verificacao_geral/nivel2/prototipo_de_papel/relato_do_resultado.md
+              - Nivel 3:
+                - Protótipo de Alta Fidelidade:
+                  - Planejamento da Avaliacao do Protótipo de Alta Fidelidade: verificacoes/grupo07/verificacao_geral/nivel3/prototipo_de_alta_fidelidade/planejamento_da_avaliacao_do_prototipo_de_alta_fidelidade.md
+                  - Planejamento do Relato dos Resultados: verificacoes/grupo07/verificacao_geral/nivel3/prototipo_de_alta_fidelidade/planejamento_do_relato_dos_resultados.md
+                  - Relato do Resultado: verificacoes/grupo07/verificacao_geral/nivel3/prototipo_de_alta_fidelidade/relato_do_resultado.md
+
             
       - Grupo 8:
           - Entrega 01: verificacoes/grupo08/entrega01/verificacao_entrega01_grupo08.md
