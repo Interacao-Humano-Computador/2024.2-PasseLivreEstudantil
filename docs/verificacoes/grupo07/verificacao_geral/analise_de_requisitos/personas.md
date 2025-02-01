@@ -20,7 +20,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 <center>
 
-**Tabela 1** - Checklist de Verificação.
+# Tabela 1 - Checklist de Verificação
 
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
@@ -30,8 +30,22 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+| **Persona - Identidade** |                                                                 |            |                       |
+|   6    | A persona possui um nome e sobrenome?                                                        |            |                       |
+|   7    | Foram incluídos dados demográficos (idade, gênero e localização)?                            |            |                       |
+|   8    | A persona possui uma foto representativa?                                                    |            |                       |
+| **Persona - Status** |                                                                   |            |                       |
+|   9    | A persona foi classificada corretamente como primária, secundária ou antiusuário?           |            |                       |
+|   10   | A persona representa um stakeholder relevante do sistema?                                    |            |                       |
+| **Persona - Objetivos** |                                                                |            |                       |
+|   11   | Os objetivos da persona estão claramente definidos?                                          |            |                       |
+|   12   | Os objetivos estão alinhados com as necessidades reais dos usuários?                        |            |                       |
+| **Persona - Habilidades** |                                                               |            |                       |
+|   13   | A persona possui uma descrição de suas habilidades e competências?                           |            |                       |
+|   14   | Foram incluídos detalhes sobre educação, treinamento e experiência profissional?             |            |                       |
 
-_Fonte: Breno Fernandes e Breno Lucena 2025.
+_Fonte: Breno Fernandes e Breno Lucena 2025._
+
 
 </center>
 

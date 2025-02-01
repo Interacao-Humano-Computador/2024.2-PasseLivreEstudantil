@@ -20,7 +20,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 
 <center>
 
-**Tabela 1** - Checklist de Verificação.
+# Tabela 1 - Checklist de Verificação
 
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
@@ -30,8 +30,19 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
 |   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+| **Consentimento e Autonomia** |                                                                 |            |                       |
+|   6    | Explica claramente os objetivos da pesquisa aos participantes?                               |            |                       |
+|   7    | Obtém consentimento livre e esclarecido por meio de um termo assinado?                        |            |                       |
+|   8    | Os participantes podem retirar seu consentimento a qualquer momento sem penalidades?        |            |                       |
+| **Privacidade e Confidencialidade** |                                                             |            |                       |
+|   9    | É garantido a privacidade dos participantes e a confidencialidade dos dados coletados?       |            |                       |
+|   10   | É solicitado permissão antes de gravar voz ou imagem dos participantes?                      |            |                       |
+| **Tratamento Ético dos Dados** |                                                                 |            |                       |
+|   11   | É garantido que os dados coletados sejam válidos, confiáveis e livres de tendenciosidades?    |            |                       |
+|   12   | É evitado qualquer forma de manipulação ou distorção dos dados coletados?                    |            |                       |
 
-_Fonte: Breno Fernandes e Breno Lucena 2025.
+_Fonte: Breno Fernandes e Breno Lucena 2025._
+
 
 </center>
 
