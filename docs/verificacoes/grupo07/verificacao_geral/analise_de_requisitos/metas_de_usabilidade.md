@@ -25,25 +25,23 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
-|   1    | O artefato possui introdução?                                                                 |            |                       |
-|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
-|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
-|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
-| **Facilidade de Aprendizado** |                                                                   |            |                       |
-|   6    | A interface do site possui menus claros e descritivos para facilitar o entendimento de novas funcionalidades? |            |                       |
-|   7    | O tempo necessário para que um usuário iniciante aprenda a usar o site é aceitável e eficiente? |            |                       |
-|   8    | Existe algum tipo de ajuda (como tutorial, dicas de navegação, etc.) para orientar o novo usuário? |            |                       |
-| **Facilidade de Recordação** |                                                                  |            |                       |
-|   9    | A navegação do site é fluída e intuitiva, permitindo que o usuário se lembre facilmente de como realizar as ações em visitas subsequentes? |            |                       |
-|   10   | As funções mais importantes do site são de fácil acesso, mesmo após o usuário não utilizar o sistema por um tempo? |            |                       |
-|   11   | O design e os elementos visuais ajudam na memorização das funcionalidades do site?            |            |                       |
-| **Eficiência** |                                                                                         |            |                       |
-|   12   | O tempo necessário para concluir tarefas principais é otimizado?                              |            |                       |
-|   13   | As tarefas no site são realizadas de forma prática, com campos de texto bem indicados e funções claras? |            |                       |
-| **Segurança no Uso** |                                                                             |            |                       |
-|   14   | O site oferece um processo seguro e eficaz para redefinir senha e email?                      |            |                       |
-|   15   | Há opções para recuperação de conta caso o usuário perca o acesso, como perguntas de segurança ou verificação de identidade? |            |                       |
+|   1    | O artefato possui introdução?                                                                 |        Sim    |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |    Sim        |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |    Sim        |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |     Sim       |                       |
+| **Facilidade de Aprendizado** |                                                                        |            |                       |
+|   6    | Foi verificado se o tempo necessário para que um usuário iniciante aprenda a usar o site é aceitável e eficiente? |     Não    |                       |
+| **Facilidade de Recordação** |                                                                         |            |                       |
+|   7    | Foi verificado se a navegação do site é fluída e intuitiva, permitindo que o usuário se lembre facilmente de como realizar as ações em visitas subsequentes? |   Sim         |                       |
+|   8    | Foi verificado se as funções mais importantes do site são de fácil acesso, mesmo após o usuário não utilizar o sistema por um tempo? |     Sim       |                       |
+|   9    | Foi verificado se o design e os elementos visuais ajudam na memorização das funcionalidades do site? |     Sim       |                       |
+| **Eficiência** |                                                                                       |            |                       |
+|   10   | Foi verificado se o tempo necessário para concluir tarefas principais é otimizado?            |    Sim        |                       |
+|   11   | Foi verificado se as tarefas no site são realizadas de forma prática, com campos de texto bem indicados e funções claras? |    Sim        |                       |
+| **Segurança no Uso** |                                                                                 |            |                       |
+|   12   | Foi verificado se o site oferece um processo seguro e eficaz para redefinir senha e email?    |       Sim     |                       |
+|   13   | Foi verificado se há opções para recuperação de conta caso o usuário perca o acesso, como perguntas de segurança ou verificação de identidade? |    Não     |                       |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025._
 
@@ -52,20 +50,32 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 ## Problemas encontrados
 
-[Colocar problemas encontrados]
+Recuperação de Conta
 
+Não foi verificado se no site possui opções adequadas para a recuperação de conta caso o usuário perca o acesso como por exemplo perguntas de segurança ou verificação de indentidade.
+
+Facilidade de Aprendizado
+
+Não foi verificado se o tempo necessário para que um usuário iniciante aprenda a usar o site não é aceitável e eficiente.
 
 
 
 ## Sugestões de Correções
 
-[Colocar Sugestões de correções]
+Recuperação de conta 
+
+Realizar uma nova análise para verificar se o site possui opções adequadas para a recuperação de conta, como perguntas de segurança ou verificação de identidade.
+
+
+Facilidade de aprendizado
+
+Realizar uma verificação detalhada para avaliar se o site é fácil de aprender para usuários iniciantes, garantindo que o tempo necessário para aprender a usar o site seja aceitável e eficiente.
+
 
 
 
 ## Referências Bibliográficas
 
-BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
 BARBOSA, S. D. J.; SILVA, B. S. Capítulo 2.2.1 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 28-32.
 
