@@ -67,7 +67,10 @@ O Protótipo de Alta Fidelidade utilizado nos testes é apresentado a seguir. É
 
 [Prototipo no figma](https://www.figma.com/proto/qZRrOOgHAsTKdwdlfCdHDO/IHC?node-id=0-1&t=Kc4FfuujfnJhBWLf-1)
 
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/qZRrOOgHAsTKdwdlfCdHDO/IHC?node-id=4-2&starting-point-node-id=4%3A2&embed-host=share" allowfullscreen></iframe>
+
+Autor: Breno Fernandes e Breno Lucena
 
 ### Teste Piloto
 
@@ -281,7 +284,15 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds), 2025._
 
 ## Referências Bibliográficas
 
-1. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.3: Quando Avaliar o Uso de um Sistema?, p. 294-295.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.4: Experiências de Uso?, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.3: Coleta de Dados, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.4: Interpretação, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.5: Consolidação e Relato dos Resultados, p. 295-297.
 
 ## Histórico de Versões
 

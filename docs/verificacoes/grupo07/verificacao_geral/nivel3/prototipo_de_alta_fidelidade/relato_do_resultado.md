@@ -59,22 +59,27 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 ## Problemas encontrados
 
-[Colocar problemas encontrados]
-
+Nenhum problema significativo foi encontrado durante a verificação do relato dos resultados. O documento está bem estruturado, com todas as informações essenciais abordadas de forma clara e coerente.
 
 
 
 ## Sugestões de Correções
 
-[Colocar Sugestões de correções]
+Não há sugestões de correção no momento, pois o artefato está bem elaborado e atende aos requisitos estabelecidos.
 
 
 
 ## Referências Bibliográficas
 
-BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.3: Quando Avaliar o Uso de um Sistema?, p. 294-295.
 
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.4: Experiências de Uso?, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.3: Coleta de Dados, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.4: Interpretação, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.5: Consolidação e Relato dos Resultados, p. 295-297.
 
 
 ## Histórico de Versões
