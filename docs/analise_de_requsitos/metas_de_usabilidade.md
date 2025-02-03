@@ -24,6 +24,8 @@ Podemos definir então Metas de Usabilidade como um meio que o designer terá pa
 
 Com o devido contexto dado, selecionamos as seguintes metas com suas devidas explicações retiradas da <a id="anchor_1" href="#REF1">Referência 1</a> e como aplicam ao site do Passe Livre Estudantil:
 
+tabela 1: Metas de Usabilidade
+
 | **Meta**                      | **Descrição**                                                                                                                                  | **Razão**                                                                                                                                                              |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Facilidade de Aprendizado** | Refere-se ao tempo e esforço necessários para que o usuário aprenda a utilizar o sistema com determinado nível de competência e desempenho.    | O site é bem objetivo quanto ao seu uso, possuindo uma interface de menus clara e descritiva.                                                                          |
@@ -32,20 +34,16 @@ Com o devido contexto dado, selecionamos as seguintes metas com suas devidas exp
 | **Segurança no Uso**          | Refere-se ao grau de proteção de um sistema contra condições desfavoráveis ou até mesmo perigosas para os usuários.                            | O site possui uma forma eficaz de redefinição de senha e também de redefinição de email, mas não possui uma opção de salvar login para facilitar o acesso futuro.      |
 | **Satisfação do Usuário**     | Refere-se a uma avaliação subjetiva que expressa o efeito do uso do sistema sobre as emoções e sentimentos do usuário.                         | Apesar de o sistema parecer de fácil uso inicialmente, existem tarefas que não funcionam de forma clara, como a troca de foto, onde falta um validador de foto.        |
 
+Fonte: Mateus Viera
 
-## Referências Bibliográficas
-
-> <a id="REF1" href="#anchor_1">1. </a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## Bibliografia
 
-> Nielsen, Jakob (1994c). Usability Engineering. Morgan Kaufmann Publishers Inc., San Francisco, CA,USA.
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 2.2.1 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 28-32.
 
-> https://github.com/Interacao-Humano-Computador/2022.2-Lichess/blob/main/docs/analise_requisitos/metas_usabilidade.md
-
-> https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/metas-usabilidade.md#REF1
-
-> https://github.com/Interacao-Humano-Computador/2022.1-AgenciaVirtualNeoenergia/blob/master/ghpages08/docs/analise_de_requisitos/metas_usabilidade.md
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025.
 
 ## Histórico de Versões
 
