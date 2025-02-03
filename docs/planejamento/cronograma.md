@@ -30,6 +30,8 @@ _Tabela 2 - Cronograma de Planejamento da Entrega 1_
 | Verificação Grupo +1                                  | Início:<br /> 13/11<br /> Fim:<br /> 13/11 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 13/11 <br />Fim:<br /> 13/11 | Mateus, Fernandes, Lucena, Felipe, Dion |
 | Correção pós apresentação                             | Início:<br /> 14/11<br /> Fim:<br /> 15/11 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 16/11 <br />Fim:<br /> 16/11 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
+Fonte: Mateus Viera
+
 ---
 
 ## Entrega 2
@@ -54,6 +56,8 @@ _Tabela 4 - Cronograma de Planejamento da Entrega 2_
 | Verificação Grupo +1                            | Início:<br /> 04/12<br /> Fim:<br /> 04/12 | Felipe                                  | Início:<br /> 04/12<br /> Fim:<br /> 04/12 | Mateus                                  |
 | Correção pós apresentação                       | Início:<br /> 05/12<br /> Fim:<br /> 06/12 | Mateus, Fernandes, Lucena, Felipe, Dion | Início:<br /> 06/12<br /> Fim:<br /> 07/12 | Mateus, Fernandes, Lucena, Felipe, Dion |
 
+Fonte: Mateus Viera
+
 ---
 
 ## Entrega 3
@@ -76,6 +80,8 @@ _Tabela 6 - Cronograma de Planejamento da Entrega 3_
 | Verificação Grupo +1                         | Início:<br /> 04/12<br /> Fim:<br /> 04/12 | Lucena e Mateus                   | Início:<br /> 04/12<br /> Fim:<br /> 04/12 | Fernandes                         |
 | Gravar vídeo da apresentação                 | Início:<br /> 03/12<br /> Fim:<br /> 03/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 03/12<br /> Fim:<br /> 03/12 | Mateus, Fernandes, Lucena, Felipe |
 | Correção pós apresentação                    | Início:<br /> 05/12<br /> Fim:<br /> 06/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 06/12<br /> Fim:<br /> 06/12 | Mateus, Fernandes, Lucena, Felipe |
+
+Fonte: Mateus Viera
 
 ---
 
@@ -101,6 +107,8 @@ _Tabela 8 - Cronograma de Planejamento da Entrega 4_
 | Verificação Grupo +1                                                     | Início:<br /> 11/12<br />Fim:<br /> 11/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 09/12<br />Fim:<br /> 10/12 | Mateus, Fernandes, Lucena, Felipe |
 | Correção pós apresentação                                                | Início:<br /> 12/12<br />Fim:<br /> 17/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 12/12<br />Fim:<br /> 17/12 | Mateus, Fernandes, Lucena, Felipe |
 
+Fonte: Mateus Viera
+
 ---
 
 ## Entrega 5
@@ -121,6 +129,8 @@ _Tabela 10 - Cronograma de Planejamento da Entrega 5_
 | Verificação dos Artefatos                                                | Início:<br /> 22/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 23/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe |
 | Gravar vídeo da apresentação                                             | Início:<br /> 23/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 23/12<br />Fim:<br /> 23/12 | Mateus, Fernandes, Lucena, Felipe |
 | Correção pós apresentação                                                | Início:<br /> 07/01<br />Fim:<br /> 08/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 08/01<br />Fim:<br /> 08/01 | Mateus, Fernandes, Lucena, Felipe |
+
+Fonte: Mateus Viera
 
 ---
 
@@ -143,6 +153,8 @@ _Tabela 12 - Cronograma de Planejamento da Entrega 1_
 | Gravar vídeo da apresentação                                                       | Início:<br /> 14/01 <br />Fim:<br /> 14/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 14/01 <br />Fim:<br /> 14/01 | Mateus, Fernandes, Lucena, Felipe |
 | Correção pós apresentação                                                          | Início:<br /> 16/01 <br />Fim:<br /> 17/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 18/01 <br />Fim:<br /> 18/01 | Mateus, Fernandes, Lucena, Felipe |
 
+Fonte: Mateus Viera
+
 ---
 
 ## Entrega 7
@@ -164,6 +176,8 @@ _Tabela 14 - Cronograma de Planejamento da Entrega 1_
 | Gravar vídeo da apresentação                                                       | Início:<br /> 23/01<br />Fim:<br /> 23/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 23/01<br />Fim:<br /> 23/01 | Mateus, Fernandes, Lucena, Felipe |
 | Correção pós apresentação                                                          | Início:<br /> 28/01<br />Fim:<br /> 29/01 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 30/01<br />Fim:<br /> 30/01 | Mateus, Fernandes, Lucena, Felipe |
 
+Fonte: Mateus Viera
+
 ---
 
 ## Entrega 8
@@ -182,6 +196,8 @@ _Tabela 16 - Cronograma de Planejamento da Entrega 1_
 | Verificação dos Artefatos                                          | Início:<br /> 02/02<br />Fim:<br /> 03/12 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 03/02<br />Fim:<br /> 04/02 | Mateus, Fernandes, Lucena, Felipe |
 | Gravar vídeo da apresentação                                       | Início:<br /> 04/02<br />Fim:<br /> 04/02 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 04/02<br />Fim:<br /> 04/02 | Mateus, Fernandes, Lucena, Felipe |
 | Correção pós apresentação                                          | Início:<br /> 11/02<br />Fim:<br /> 12/02 | Mateus, Fernandes, Lucena, Felipe | Início:<br /> 12/02<br />Fim:<br /> 12/02 | Mateus, Fernandes, Lucena, Felipe |
+
+Fonte: Mateus Viera
 
 ## Bibliografia
 

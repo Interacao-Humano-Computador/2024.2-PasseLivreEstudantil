@@ -19,7 +19,7 @@ Para garantir o sucesso deste projeto, utilizamos diversas ferramentas computaci
 | ![WhatsApp Logo](../assets/Whatsapp_Logo.png)      | **WhatsApp** - Comunicação rápida e prática para alinhamentos e atualizações da equipe.<sup>7</sup>                                     |
 | ![YouTube Logo](../assets/Youtube_Logo.png)        | **YouTube** - Assistir a tutoriais e materiais complementares para aprendizado e desenvolvimento de habilidades.<sup>8</sup>            |
 
-<p style="text-align: center;"><em>Fonte: Autores.</em></p>
+<p style="text-align: center;"><em>Fonte: Breno Fernandes.</em></p>
 
 ## Bibliografia
 

@@ -102,26 +102,31 @@ As checklists foram elaboradas considerando os padrões esperados para cada arte
 
 Fonte: Breno 2025.
 
+### Analise de Requisitos 
+
+Os checklists foram elaborados cuidadosamente com base nos padrões esperados para cada artefato, levando em consideração a finalidade e a especificidade de cada um. Para os artefatos relacionados à Análise de Requisitos, incluindo Aspectos Éticos, Perfil de Usuário, Personas, Cenários, Análise de Tarefas (GOMS e HTA), Termo de Consentimento, Princípios Gerais, Metas de Usabilidade, Guia de Estilo e Características Gerais, foi desenvolvido um checklist individual e detalhado.
+
+Cada checklist foi projetado para verificar a aderência dos artefatos aos requisitos definidos, garantir a consistência, identificar possíveis melhorias e assegurar que estejam alinhados com os padrões estabelecidos. Esse processo estruturado contribui para uma análise mais eficaz e uma validação clara de cada artefato produzido.
+
 ### Aplicação da Checklist DECIDE
 As perguntas desta checklist serão utilizadas em todos os arquivos de planejamento que utilizam o framework DECIDE. Isso garantirá que as etapas do framework sejam verificadas de maneira consistente e padronizada para avaliar a qualidade do trabalho.
 
 
 ### Lista de Verificação Baseada no Framework DECIDE
 
-| Letra | Descrição                                                                                   |
-|-------|---------------------------------------------------------------------------------------------|
-| **D** | Os objetivos da avaliação estão claramente definidos e alinhados com os usuários-alvo?      |
-| **D** | Foi identificado por que os objetivos são importantes para o contexto de uso?               |
-| **E** | Para cada objetivo, foram elaboradas perguntas específicas e relevantes?                    |
-| **E** | As perguntas consideram o perfil e as atividades dos usuários-alvo?                         |
-| **C** | Os métodos de avaliação escolhidos são adequados aos objetivos definidos?                   |
-| **C** | Os métodos são viáveis considerando o prazo, orçamento e recursos disponíveis?              |
-| **I** | O recrutamento de usuários foi planejado e documentado?                                     |
-| **I** | Os prazos, orçamentos e equipamentos necessários estão organizados?                         |
-| **D** | Existe um termo de consentimento preparado para os participantes?                           |
-| **D** | Os participantes estão cientes de seus direitos e protegidos contra danos?                  |
-| **E** | A confiabilidade dos dados foi verificada antes de tirar conclusões?                        |
-| **E** | Os resultados foram analisados e organizados para evitar distorções?                       |
+|  ID  | Descrição                                                                                   |
+|:----:|---------------------------------------------------------------------------------------------|
+|  6   | Os objetivos da avaliação estão claramente definidos e alinhados com os usuários-alvo?      |
+|  7   | Foi identificado por que os objetivos são importantes para o contexto de uso?               |
+|  8   | Foram elaboradas perguntas específicas e relevantes?                                        |
+|  9   | Os métodos de avaliação escolhidos são adequados aos objetivos definidos?                   |
+| 10   | Foi verificado se métodos são viáveis considerando o prazo, orçamento e recursos disponíveis? |
+| 11   | O recrutamento de usuários foi planejado e documentado?                                     |
+| 12   | Os prazos, orçamentos e equipamentos necessários estão organizados?                         |
+| 13   | Existe um termo de consentimento preparado para os participantes?                           |
+| 14   | Os participantes estão cientes de seus direitos e protegidos contra danos?                  |
+| 15   | A confiabilidade dos dados foi verificada antes de tirar conclusões?                        |
+
 
 ### Aplicação da Checklist para Planejamento dos Relatos dos Resultados
 
@@ -131,16 +136,16 @@ As perguntas desta checklist serão utilizadas em todos os arquivos de planejame
 
 | ID  | Descrição                                                                                       |
 |:---:|-------------------------------------------------------------------------------------------------|
-|  1  | O planejamento do relato dos resultados define claramente os critérios de qualidade de uso que serão avaliados? |
-|  2  | O planejamento inclui medidas para identificar e documentar problemas na interação e na interface do sistema? |                            
-|  3  | O planejamento do relato dos resultados define claramente quais tipos de dados (qualitativos e/ou quantitativos) serão coletados? |
-|  4  | O planejamento especifica como os dados coletados serão analisados e utilizados para responder aos objetivos da avaliação? |
-|  5  | O planejamento justifica a escolha do método de avaliação com base nos objetivos da avaliação? |
-|  6  | O planejamento considera as restrições de prazo, orçamento, recursos e participação de usuários na escolha do método? |
-|  7  | O planejamento demonstra conhecimento sobre o domínio do problema, os usuários e o contexto de uso do sistema? |
-|  8  | O planejamento considera sistemas semelhantes e dificuldades típicas dos usuários na definição da avaliação? |
-|  9  | O planejamento do relato dos resultados delimita claramente o escopo da avaliação, especificando as partes do sistema, tarefas e perfis de usuários envolvidos? |
-| 10  | O planejamento inclui um teste-piloto para validar a estrutura da avaliação e garantir a confiabilidade dos dados coletados? |
+|  6  | O planejamento do relato dos resultados define claramente os critérios de qualidade de uso que serão avaliados? |
+|  7  | O planejamento inclui medidas para identificar e documentar problemas?                         |
+|  8  | O planejamento do relato dos resultados define claramente quais tipos de dados (qualitativos e/ou quantitativos) serão coletados? |
+|  9  | O planejamento especifica como os dados coletados serão analisados e utilizados para responder aos objetivos da avaliação? |
+|  10  | O planejamento justifica a escolha do método de avaliação com base nos objetivos da avaliação? |
+|  11  | O planejamento demonstra conhecimento sobre o domínio do problema, os usuários e o contexto de uso do sistema? |
+|  12  | O planejamento considera sistemas semelhantes e dificuldades típicas dos usuários na definição da avaliação? |
+|  13  | O planejamento do relato dos resultados delimita claramente o escopo da avaliação, especificando as partes do sistema, tarefas e perfis de usuários envolvidos? |
+|  14  | O planejamento inclui um teste-piloto para validar a estrutura da avaliação e garantir a confiabilidade dos dados coletados? |
+
 
 ### Aplicação da Checklist para Relatos dos Resultados
 
@@ -150,16 +155,16 @@ As perguntas desta checklist serão utilizadas em todos os arquivos de Relatos d
 
 | ID  | Descrição                                                                                              |
 |:---:|--------------------------------------------------------------------------------------------------------|
-| 1   | O relato dos resultados especifica se a avaliação realizada foi formativa (durante o design) ou somativa (após a implementação)? |
-| 2   | O relato dos resultados descreve o ambiente em que a avaliação foi realizada (contexto real ou laboratório) e justifica essa escolha? |
-| 3   | O relato dos resultados especifica claramente os tipos de dados coletados (qualitativos e/ou quantitativos) durante a avaliação? |
-| 4   | O relato dos resultados apresenta a análise dos dados coletados de forma consistente com os objetivos da avaliação? |
-| 5   | O relato dos resultados descreve se a coleta de dados seguiu o planejamento e o método de avaliação selecionado? |
-| 6   | O relato dos resultados apresenta como os dados foram coletados, incluindo a participação dos usuários e o ambiente da avaliação? |
-| 7   | O relato dos resultados descreve como os dados coletados foram interpretados de acordo com o método de avaliação escolhido? |
-| 8   | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? |
-| 9   | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? |
-| 10  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? |
+|  6  | O relato dos resultados especifica se a avaliação realizada foi formativa (durante o design) ou somativa (após a implementação)? |
+|  7  | O relato dos resultados descreve o ambiente em que a avaliação foi realizada (contexto real ou laboratório) e justifica essa escolha? |
+|  8  | O relato dos resultados especifica claramente os tipos de dados coletados (qualitativos e/ou quantitativos) durante a avaliação? |
+|  9  | O relato dos resultados apresenta a análise dos dados coletados de forma consistente com os objetivos da avaliação? |
+|  10  | O relato dos resultados descreve se a coleta de dados seguiu o planejamento e o método de avaliação selecionado? |
+|  11  | O relato dos resultados apresenta como os dados foram coletados, incluindo a participação dos usuários e o ambiente da avaliação? |
+|  12  | O relato dos resultados descreve como os dados coletados foram interpretados de acordo com o método de avaliação escolhido? |
+|  13  | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? |
+|  14  | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? |
+| 15  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? |
 
 ## Referências Bibliográficas
 

@@ -4,13 +4,15 @@
 
 Baseado nas heurísticas de Nielsen, cada integrante realizou o planejamento e execução de alguns sites candidatos a escolhidos para o projeto. A Tabela 1, a seguir, apresenta o site que cada integrante escolheu:
 
+**Tabela 1**: Tabela de sites avaliados.
+
 | Site avaliado | Membro que fez a avaliação |
 | ------------- | -------------------------- |
 | Print         | Breno Fernandes            |
 | PJe           | Mateus Viera               |
 | INSS Mobile   | Breno Lucena               |
 
-**Tabela 1**: Tabela de sites avaliados.
+Fonte: Breno Lucena
 
 ### Printi
 
