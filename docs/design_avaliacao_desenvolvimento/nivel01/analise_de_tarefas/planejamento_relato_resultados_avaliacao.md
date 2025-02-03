@@ -24,11 +24,15 @@ A seguir, os tópicos que compõem o planejamento:
 
 ### Objetivo e Escopo da Avaliação
 
-Neste tópico, será abordada a motivação para a realização da avaliação, descrevendo os objetivos pretendidos pelo grupo com a análise de tarefas. Isso inclui justificar a relevância do estudo, detalhar as metas esperadas e fornecer uma visão geral do propósito da avaliação.
+Neste tópico, será abordada a motivação para a realização da avaliação, descrevendo os objetivos pretendidos pelo grupo com a análise de tarefas. A avaliação considerará os critérios de qualidade de uso, incluindo usabilidade, eficiência, satisfação do usuário e facilidade de aprendizado, garantindo que o sistema atenda às necessidades dos usuários. O escopo da avaliação incluirá a análise de tarefas essenciais dentro do sistema, como o cadastro, a navegação entre páginas e a recuperação de informações importantes. Serão considerados diferentes perfis de usuários para garantir que o sistema seja acessível e intuitivo para diversos grupos.
 
 ### Método de Avaliação
 
-O método adotado será a observação e entrevista com usuários, conforme o cronograma apresentado. Para garantir uniformidade, todos os entrevistadores devem seguir um padrão, mantendo um registro harmônico e consistente. O cronograma inicial é mostrado na Tabela 1.
+O método adotado será a observação e entrevista com usuários, conforme o cronograma apresentado. A coleta de dados será composta por informações qualitativas, por meio das entrevistas e relatos dos participantes, e quantitativas, considerando métricas como tempo de execução das tarefas e taxa de sucesso na realização das atividades propostas. 
+
+A escolha desse método se deve ao fato de que a observação permite identificar dificuldades reais enfrentadas pelos usuários, enquanto as entrevistas fornecem insights detalhados sobre suas percepções e expectativas. Essa abordagem combinada garante uma análise mais completa da interação com o sistema
+
+Para garantir uniformidade, todos os entrevistadores devem seguir um padrão, mantendo um registro harmônico e consistente. O cronograma inicial é mostrado na Tabela 1.
 
 #### Tabela 1 - Cronograma Planejado
 
@@ -43,7 +47,7 @@ O método adotado será a observação e entrevista com usuários, conforme o cr
 
 ### Seleção dos Participantes
 
-Os participantes selecionados para a avaliação foram estudantes com idades entre 18 e 25 anos, frequentadores da rede pública de ensino, abrangendo tanto o ensino médio quanto o nível superior. A escolha desse perfil foi baseada na relevância de captar percepções de jovens em contexto acadêmico, considerando suas necessidades e experiências no uso de sistemas digitais.
+Os participantes selecionados para a avaliação foram estudantes com idades entre 18 e 25 anos, frequentadores da rede pública de ensino, abrangendo tanto o ensino médio quanto o nível superior. A escolha desse perfil foi baseada na relevância de captar percepções de jovens em contexto acadêmico, considerando suas necessidades e experiências no uso de sistemas digitais. Além disso, serão analisadas dificuldades comuns enfrentadas por usuários desse perfil, como falta de familiaridade com certas funcionalidades e desafios de acessibilidade em dispositivos móveis.
 
 ### Problemas e Dificuldades Encontradas
 
@@ -86,9 +90,15 @@ _Fonte: Breno Lucena_
 
 ## Bibliografia
 
-<!-- livro utilizado pelo professor na disciplina. -->
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.2: O que Avaliar?, p. 290-294.
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.5: Que Tipos de Dados Coletar e Produzir?, p. 297-300.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.6: Qual Tipo de Método de Avaliação Escolher?, p. 301-303.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.1: Por Onde Começar?, p. 303-304.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.2: Preparação, p. 304-308.
 
 ## Histórico de Versões
 

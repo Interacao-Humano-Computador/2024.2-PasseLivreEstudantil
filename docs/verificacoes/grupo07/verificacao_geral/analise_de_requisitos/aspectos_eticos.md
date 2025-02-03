@@ -47,14 +47,12 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 
 ## Problemas encontrados
-Nenhum erro encontrado! 
 
+Nenhum problema foi identificado na análise, pois todos os critérios foram atendidos conforme a checklist. O artefato assegura a privacidade dos participantes, a obtenção de consentimento adequado e o tratamento ético dos dados.
 
 ## Sugestões de Correções
 
-Nenhuma sugestão
-
-
+Não há sugestões de correções, pois o artefato está em conformidade com todos os requisitos estabelecidos. Para aprimoramento contínuo, recomenda-se manter a transparência na comunicação com os participantes e garantir revisões periódicas do termo de consentimento para alinhar-se às melhores práticas e eventuais mudanças em diretrizes éticas.
 
 ## Referências Bibliográficas
 

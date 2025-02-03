@@ -25,11 +25,11 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
-|   1    | O artefato possui introdução?                                                                 |            |                       |
-|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
-|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
-|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+|   1    | O artefato possui introdução?                                                                 |     **Sim**      | Há uma introdução breve. |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     **Não**      | Não há referências bibliográficas no documento. |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     **Não**      | A tabela de histórico de versões está incompleta. |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     **Não**      | Não há tabelas nem imagens no artefato. |
+|   5    | Todos os textos estão na norma padrão?  |     **Não**      |  |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025.
 
@@ -43,31 +43,41 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 | ID  | Descrição                                                                                              | Avaliação | Observação |
 |:---:|--------------------------------------------------------------------------------------------------------|:---------:|------------|
-|  1  | O relato dos resultados especifica se a avaliação realizada foi formativa (durante o design) ou somativa (após a implementação)? |           |            |
-|  2  | O relato dos resultados descreve o ambiente em que a avaliação foi realizada (contexto real ou laboratório) e justifica essa escolha? |           |            |
-|  3  | O relato dos resultados especifica claramente os tipos de dados coletados (qualitativos e/ou quantitativos) durante a avaliação? |           |            |
-|  4  | O relato dos resultados apresenta a análise dos dados coletados de forma consistente com os objetivos da avaliação? |           |            |
-|  5  | O relato dos resultados descreve se a coleta de dados seguiu o planejamento e o método de avaliação selecionado? |           |            |
-|  6  | O relato dos resultados apresenta como os dados foram coletados, incluindo a participação dos usuários e o ambiente da avaliação? |           |            |
-|  7  | O relato dos resultados descreve como os dados coletados foram interpretados de acordo com o método de avaliação escolhido? |           |            |
-|  8  | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? |           |            |
-|  9  | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? |           |            |
-| 10  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? |           |            |
+|  1  | O relato dos resultados especifica se a avaliação realizada foi formativa (durante o design) ou somativa (após a implementação)? | **Não** | Não há menção ao tipo de avaliação. |
+|  2  | O relato dos resultados descreve o ambiente em que a avaliação foi realizada (contexto real ou laboratório) e justifica essa escolha? | **Não** | Não há informações sobre o ambiente da avaliação. |
+|  3  | O relato dos resultados especifica claramente os tipos de dados coletados (qualitativos e/ou quantitativos) durante a avaliação? | **Não** | Não há detalhes sobre os tipos de dados coletados. |
+|  4  | O relato dos resultados apresenta a análise dos dados coletados de forma consistente com os objetivos da avaliação? | **Não** | Não há análise de dados no documento. |
+|  5  | O relato dos resultados descreve se a coleta de dados seguiu o planejamento e o método de avaliação selecionado? | **Não** | Não há referência ao método utilizado. |
+|  6  | O relato dos resultados apresenta como os dados foram coletados, incluindo a participação dos usuários e o ambiente da avaliação? | **Não** | Não há informações sobre como os dados foram coletados. |
+|  7  | O relato dos resultados descreve como os dados coletados foram interpretados de acordo com o método de avaliação escolhido? | **Não** | Não há uma seção sobre interpretação de dados. |
+|  8  | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? | **Não** | Não há especificação sobre o método de interpretação. |
+|  9  | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? | **Não** | O documento não apresenta uma análise consolidada. |
+| 10  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? | **Não** | O relato está incompleto e não apresenta essas informações. |
 
 
 </center>
 
 ## Problemas encontrados
 
-[Colocar problemas encontrados]
-
+- O documento está incompleto e não apresenta um relato detalhado dos resultados.
+- Não há explicação sobre o tipo de avaliação realizada (formativa ou somativa).
+- Falta de detalhes sobre o ambiente da avaliação.
+- Não há informações sobre os dados coletados e sua análise.
+- O método de avaliação não foi descrito.
+- Não há menção ao perfil dos participantes ou como a coleta de dados foi realizada.
 
 
 
 ## Sugestões de Correções
 
-[Colocar Sugestões de correções]
-
+- Adicionar uma seção especificando se a avaliação foi **formativa** ou **somativa**.
+- Incluir detalhes sobre o **ambiente** da avaliação e sua justificativa.
+- Explicar **quais tipos de dados foram coletados** (qualitativos e/ou quantitativos).
+- Incluir uma **análise dos dados coletados** e como eles foram interpretados.
+- Descrever o **método de avaliação** utilizado e se ele seguiu o planejamento.
+- Apresentar como os dados foram coletados, com destaque para a participação dos usuários.
+- Consolidar as informações individuais dos participantes e identificar **tendências gerais**.
+- Estruturar melhor o relato, garantindo que todos os elementos essenciais estejam presentes.
 
 
 ## Referências Bibliográficas

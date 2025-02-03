@@ -138,11 +138,15 @@ A **Tabela 3** apresenta um cronograma para o reprojeto, que seria realizado doi
 
 ## Referências Bibliográficas
 
-BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.2: O que Avaliar?, p. 290-294.
 
----
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.5: Que Tipos de Dados Coletar e Produzir?, p. 297-300.
 
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.6: Qual Tipo de Método de Avaliação Escolher?, p. 301-303.
 
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.1: Por Onde Começar?, p. 303-304.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.2: Preparação, p. 304-308.
 
 
 ## Histórico de Versões
