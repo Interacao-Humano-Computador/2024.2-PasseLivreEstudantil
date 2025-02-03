@@ -4,7 +4,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [Colocar o nome do arterfato aqui].
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato guia de estilo.
 
 ## Metodologia
 

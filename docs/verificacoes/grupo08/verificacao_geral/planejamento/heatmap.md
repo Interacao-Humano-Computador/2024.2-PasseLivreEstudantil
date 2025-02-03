@@ -4,7 +4,7 @@ Realizado o planejamento do que verificar, é o momento de realizar a inspeção
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato perfil de usuário.
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato [Colocar o nome do arterfato aqui].
 
 ## Metodologia
 
@@ -25,41 +25,27 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
-|   1    | O artefato possui introdução?                                                                 |      Sim      |                       |
+|   1    | O artefato possui introdução?                                                                 |     Sim       |                       |
 |   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim       |                       |
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |      Sim      |                       |
-|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |   Sim         |             |                                                 
-| **Coleta de Informações sobre o Usuário** |                                                             |            |                       |
-|   6    | Foi identificado quem são os usuários do sistema?                                            |     Sim       |                       |
-|   7    | Foi definido os principais objetivos dos usuários ao utilizar o produto?                      |     Sim       |                       |
-| **Características do Perfil do Usuário** |                                                              |            |                       |
-|   8    | Foi definida a faixa etária dos usuários?                                                     |          Sim  |                       |
-|   9    | Foi definido o grau de instrução ou formação acadêmica dos usuários?                         |     Sim       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |      Sim      |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |        Sim    |                       |
 
-_Fonte: Breno Fernandes e Breno Lucena 2025._
+_Fonte: Breno Fernandes e Breno Lucena 2025.
 
 </center>
 
+## Problemas encontrados
 
-## Problemas Encontrados
-
-Nenhum problema foi identificado na verificação. Todos os critérios foram atendidos conforme esperado.
+Nenhum problema foi identificado no artefato.
 
 ## Sugestões de Correções
 
-Não há sugestões de correções, pois todos os itens da lista de verificação foram validados com sucesso.
-
+Nenhuma sugestão de correção é necessária no momento.
 
 ## Referências Bibliográficas
 
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
-
-BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.1 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 174-182.
-
-BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
-https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
- DOR. Acesso em: 28 jan. 2025. 
 
 ## Histórico de Versões
 
