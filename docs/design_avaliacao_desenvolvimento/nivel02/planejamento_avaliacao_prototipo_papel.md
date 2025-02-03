@@ -166,7 +166,7 @@ Abaixo segue o vídeo feito do teste piloto de acordo com o cronograma citado an
 
 ## Bibliografia
 
-Barbosa, S. D. J., & Silva, B. S. (2010). Interação Humano-Computador. Capítulo 9 - Framework DECIDE
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.8: O Framework DECIDE, p. 312-314.
 
 ## Histórico de Versões
 

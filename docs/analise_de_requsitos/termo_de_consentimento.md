@@ -1,39 +1,45 @@
-# **Termo de Consentimento para Participação na Pesquisa de levantamento de dados do usuário**
+# **Termo de Consentimento para Participação na Pesquisa**
 
-## **Levantamento de Dados sobre Usuários do Passe Livre Estudantil e sua Experiência com o Site**
+## **1. Introdução**
+Este termo tem como objetivo fornecer informações claras e transparentes sobre sua participação em uma pesquisa acadêmica. O estudo está sendo conduzido por estudantes da disciplina de **Interação Humano-Computador** da **Universidade de Brasília (UnB)** e tem como finalidade analisar a experiência dos usuários com sistemas interativos.
 
-## **Responsáveis:**
+A sua participação é **voluntária**, e você poderá desistir a qualquer momento sem prejuízo.
 
-Estudo acadêmico realizado na disciplina de **Interação Humano-Computador**, Universidade de Brasília (UnB).
+## **2. Identificação das Partes Envolvidas**
+- **Pesquisadores Responsáveis:** Estudantes da disciplina de **Interação Humano-Computador**, UnB.
+- **Participantes:** Usuários que interagem com sistemas analisados na pesquisa.
+- **Partes Interessadas:** A pesquisa tem caráter **estritamente acadêmico**, sem vínculo com as entidades responsáveis pelos sistemas analisados.
 
-## **Objetivo:**
+## **3. Objetivo da Pesquisa**
+O objetivo deste estudo é coletar informações sobre a **interação dos usuários com diferentes sistemas**, analisando aspectos como **usabilidade, acessibilidade e experiência do usuário**.
 
-Este questionário tem como objetivo coletar informações sobre o perfil dos usuários do Passe Livre Estudantil e sua experiência com o site oficial do programa. Os dados obtidos serão utilizados exclusivamente para fins acadêmicos, com o intuito de analisar a usabilidade, acessibilidade e interação dos usuários com a plataforma.
+## **4. Informações Coletadas**
+Durante a pesquisa, poderão ser coletadas as seguintes informações:
+- **Dados demográficos:** Faixa etária, nível de escolaridade e experiência com tecnologia.
+- **Experiência com o sistema:** Facilidade de uso, dificuldades encontradas e sugestões de melhoria.
+- **Aspectos de usabilidade e acessibilidade:** Tempo de resposta, compreensão do conteúdo e interações realizadas.
 
-## **Confidencialidade:**
+## **5. Confidencialidade e Proteção dos Dados**
+- **Anonimato:** Todas as informações coletadas serão **anônimas e confidenciais**. Nenhuma informação pessoal identificável será registrada.
+- **Uso exclusivo acadêmico:** Os dados serão utilizados **somente para fins acadêmicos**, sem compartilhamento com terceiros.
+- **Acesso aos dados:** Apenas os pesquisadores responsáveis terão acesso aos dados, armazenados em ambiente seguro.
 
-- Todas as respostas serão coletadas de forma **anônima e confidencial**.
-- Nenhuma informação pessoal identificável será associada às suas respostas.
-- Os dados coletados serão utilizados exclusivamente para os propósitos deste estudo acadêmico.
+## **6. Participação Voluntária**
+- Sua participação é **totalmente voluntária**.
+- Você pode **optar por não responder** a qualquer pergunta ou **encerrar sua participação a qualquer momento**, sem justificativa e sem prejuízo.
 
-## **Participação Voluntária:**
+## **7. Tempo Estimado para Participação**
+O tempo necessário para responder aos questionários ou realizar atividades de avaliação pode variar, mas a estimativa média é de **5 a 10 minutos**.
 
-- Sua participação neste questionário é totalmente voluntária.
-- Você pode optar por não responder a qualquer pergunta ou encerrar sua participação a qualquer momento, sem qualquer prejuízo.
+## **8. Contato para Dúvidas ou Informações**
+Caso tenha dúvidas ou precise de mais informações sobre a pesquisa, entre em contato conosco:
 
-## **Tempo de Resposta:**
+📞 **Telefone:** (61) 99615-8418  
 
-A estimativa de tempo para preenchimento do questionário é de aproximadamente **5 minutos**.
+## **9. Consentimento**
+Ao continuar para as próximas páginas e responder às perguntas ou realizar as atividades propostas, você declara que:
 
-## **Contato:**
+✅ **Leu e compreendeu** os termos apresentados acima.  
+✅ **Concorda em participar** desta pesquisa de forma voluntária.  
 
-Em caso de dúvidas ou para mais informações sobre este estudo, entre em contato conosco pelo celular: **(61) 99615 8418**.
-
-## **Consentimento:**
-
-Ao continuar para as próximas páginas e responder ao questionário, você declara que:
-
-1. Leu e compreendeu os termos apresentados acima.
-2. Concorda em participar desta pesquisa de forma voluntária.
-
-**Agradecemos sua colaboração!**
+Agradecemos sua colaboração!

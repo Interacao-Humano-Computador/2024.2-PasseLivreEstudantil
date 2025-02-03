@@ -25,7 +25,7 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
-|   1    | O artefato possui introdução?                                                                 |            |                       |
+|   1    | O artefato possui introdução?                                                                 |    Sim        |                       |
 |   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
 |   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
 |   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
@@ -76,9 +76,7 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 ## Referências Bibliográficas
 
-BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
-
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.8: O Framework DECIDE, p. 312-314.
 
 
 ## Histórico de Versões

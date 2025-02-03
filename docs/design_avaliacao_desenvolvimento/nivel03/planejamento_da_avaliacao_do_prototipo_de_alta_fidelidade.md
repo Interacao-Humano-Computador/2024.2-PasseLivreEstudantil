@@ -177,9 +177,7 @@ Para registrar o teste, utilizamos duas câmeras posicionadas em ângulos difere
 
 ## Bibliografia
 
-BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010.
-
-Cap. 8 -Design, Prototipação e Construção - Livro Design de Interação.
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.8: O Framework DECIDE, p. 312-314.
 
 
 ## Histórico de Versões

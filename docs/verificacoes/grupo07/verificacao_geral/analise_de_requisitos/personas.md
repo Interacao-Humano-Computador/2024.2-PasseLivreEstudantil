@@ -25,25 +25,25 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
-|   1    | O artefato possui introdução?                                                                 |            |                       |
-|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
-|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
-|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+|   1    | O artefato possui introdução?                                                                 |     Sim       |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     Sim       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |   Sim         |                       |
 | **Personas** |                                                                                           |            |                       |
 | **Identidade** |                                                                                       |            |                       |
-|   6    | A persona possui um nome e sobrenome?                                                         |            |                       |
-|   7    | Foram incluídos dados demográficos (idade, gênero e localização)?                            |            |                       |
-|   8    | A persona possui uma foto representativa?                                                    |            |                       |
+|   6    | A persona possui um nome e sobrenome?                                                         |       Sim     |                       |
+|   7    | Foram incluídos dados demográficos (idade, gênero e localização)?                            |      Sim      |                       |
+|   8    | A persona possui uma foto representativa?                                                    | Sim           |                       |
 | **Status** |                                                                                           |            |                       |
-|   9    | A persona foi classificada corretamente como primária, secundária ou antiusuário?            |            |                       |
-|   10   | A persona representa um stakeholder relevante do sistema?                                     |            |                       |
+|   9    | A persona foi classificada corretamente como primária, secundária ou antiusuário?            |     Sim       |                       |
+|   10   | A persona representa um stakeholder relevante do sistema?                                     |      Sim      |                       |
 | **Objetivos** |                                                                                         |            |                       |
-|   11   | Os objetivos da persona estão claramente definidos?                                          |            |                       |
-|   12   | Os objetivos estão alinhados com as necessidades reais dos usuários?                         |            |                       |
+|   11   | Os objetivos da persona estão claramente definidos?                                          |     Sim       |                       |
+|   12   | Os objetivos estão alinhados com as necessidades reais dos usuários?                         |      Sim      |                       |
 | **Habilidades** |                                                                                      |            |                       |
-|   13   | A persona possui uma descrição de suas habilidades e competências?                           |            |                       |
-|   14   | Foram incluídos detalhes sobre educação, treinamento e experiência profissional?             |            |                       |
+|   13   | A persona possui uma descrição de suas habilidades e competências?                           |      Sim      |                       |
+|   14   | Foram incluídos detalhes sobre educação, treinamento e experiência profissional?             |      Incompleto          |    Não criamos um tópico específico para isso, mas a informação está distribuída nos tópicos de tarefas, habilidades e experiência, expectativas e requisitos de cada usuário.                  |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025._
 
@@ -52,20 +52,18 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 ## Problemas encontrados
 
-[Colocar problemas encontrados]
-
-
+- O item **14** da checklist, referente à inclusão de detalhes sobre **educação, treinamento e experiência profissional da persona**, foi identificado como **incompleto**.
+- Não foi criado um **tópico específico** para essas informações, mas os dados estão distribuídos entre os tópicos de **tarefas, habilidades e experiência, expectativas e requisitos de cada usuário**.
 
 
 ## Sugestões de Correções
 
-[Colocar Sugestões de correções]
+- Criar um **tópico específico** para **educação, treinamento e experiência profissional** dentro da descrição da persona.
+- Consolidar as informações já existentes nos outros tópicos em um local mais **estruturado e visível**, para facilitar a consulta e análise das habilidades da persona.
 
 
 
 ## Referências Bibliográficas
-
-BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
 BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.2 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 176-182.
 

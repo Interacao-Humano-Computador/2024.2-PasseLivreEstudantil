@@ -150,7 +150,7 @@ Usar apenas se houver alguma referência bibliográfica
 
 ## Bibliografia
 
-BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.8: O Framework DECIDE, p. 312-314.
 
 ## Histórico de Versões
 
