@@ -996,7 +996,7 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 </center>
 
-### Planejamento dO Relato de Resultados do Prototipo de Alta Fidelidade
+### Planejamento do Relato de Resultados do Prototipo de Alta Fidelidade
 
 **Tabela 29** - Checklist de Verificação.
 
@@ -1064,3 +1064,77 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
 </center>
+
+## Planejamento do Reprojeto
+
+## Objetivos do Reprojeto
+
+Os principais objetivos do reprojeto são:
+
+- **Corrigir os itens marcados como "Não" e "Incompleto"** nas tabelas de verificação.
+
+### Tabela de Reprojeto
+
+**Tabela 31** - Tabela de Reprojeto.
+
+| Artefato | ID | Descrição | Avaliação | Observações | Responsável | Prazo |
+|----------|----|-----------|-----------|-------------|-------------|--------|
+| **GOMS** | 7 | O sistema apoia os objetivos principais de forma clara e acessível? | Não | O sistema precisa de ajustes para que fique mais claro e acessível. | Breno Fernandes | 04/02/2025 |
+| **GOMS** | 8 | Existem diferentes formas de alcançar o mesmo objetivo? | Não | A maioria das ações não possui alternativas, como atalhos ou botões equivalentes. | Breno Lucena | 04/02/2025 |
+| **HTA** | 4 | Todas as tabelas e imagens possuem legendas e fontes? | Incompleto | Algumas imagens e tabelas estão sem legendas e fontes adequadas. | Breno Fernandes | 05/02/2025 |
+| **HTA** | 8 | Existe um diagrama HTA para decompor o processo em etapas menores? | Incompleto | O diagrama HTA não está completo. | Breno Lucena | 05/02/2025 |
+| **Guia de Estilo** | 10 | Foi definido proporção e grids para a tela do sistema? | Não | Não foram estabelecidos grids e proporções para diferentes dispositivos. | Breno Fernandes | 06/02/2025 |
+| **Metas de Usabilidade** | 6 | O tempo necessário para um usuário iniciante aprender a usar o site foi avaliado? | Não | Nenhuma avaliação foi feita sobre isso. | Breno Lucena | 06/02/2025 |
+| **Metas de Usabilidade** | 13 | Existem opções para recuperação de conta em caso de perda de acesso? | Não | Não há perguntas de segurança ou verificação de identidade. | Breno Fernandes | 06/02/2025 |
+| **Personas** | 14 | Foram incluídos detalhes sobre educação, treinamento e experiência profissional? | Incompleto | A informação está dispersa em outros tópicos, mas não há um específico para isso. | Breno Lucena | 06/02/2025 |
+| **Princípios Gerais** | 9 | O sistema fornece suporte adequado para a realização das tarefas? | Não | Nenhuma instrução clara é dada ao usuário. | Breno Fernandes | 07/02/2025 |
+| **Princípios Gerais** | 13 | O sistema oferece flexibilidade para personalizar a interação? | Não | Não há opções de personalização para o usuário. | Breno Lucena | 07/02/2025 |
+| **Princípios Gerais** | 14 | O sistema reduz ações desnecessárias ou repetitivas? | Não | Algumas ações exigem repetição desnecessária de informações. | Breno Fernandes | 07/02/2025 |
+| **Princípios Gerais** | 15 | O tempo necessário para realizar tarefas foi analisado? | Não | Nenhuma análise de tempo foi realizada. | Breno Lucena | 07/02/2025 |
+| **Princípios Gerais** | 21 | O sistema informa ao usuário onde ele está e quais ações pode realizar? | Não | Não há indicadores claros de navegação. | Breno Fernandes | 07/02/2025 |
+| **Planejamento da Avaliação da Análise de Tarefas** | 6 | Os objetivos da avaliação estão claramente definidos? | Não | Não há definição clara dos objetivos. | Breno Lucena | 08/02/2025 |
+| **Planejamento do Relato dos Resultados da Análise de Tarefas** | 12 | O planejamento considera dificuldades típicas dos usuários e sistemas semelhantes? | Não | Não há comparações com outros sistemas ou dificuldades comuns. | Breno Fernandes | 08/02/2025 |
+| **Planejamento do Relato dos Resultados da Análise de Tarefas** | 14 | O planejamento inclui um teste-piloto para validação da estrutura da avaliação? | Incompleto | Não há menção a um teste-piloto. | Breno Lucena | 08/02/2025 |
+| **Relato dos Resultados da Análise de Tarefas** | 2 | O artefato possui referências bibliográficas? | Não | O documento não apresenta referências. | Breno Fernandes | 08/02/2025 |
+| **Relato dos Resultados da Análise de Tarefas** | 3 | O artefato possui um histórico de versões? | Não | A tabela de histórico de versões está incompleta. | Breno Lucena | 08/02/2025 |
+| **Relato dos Resultados da Análise de Tarefas** | 6-15 | Diversos critérios sobre coleta, análise e interpretação de dados. | Não | O relato está incompleto e não aborda essas informações. | Breno Fernandes | 08/02/2025 |
+| **Planejamento da Avaliação do Protótipo de Papel** | 11 | O recrutamento de usuários foi planejado e documentado? | Incompleto | A organização do recrutamento poderia ser melhorada. | Breno Lucena | 09/02/2025 |
+| **Planejamento do Relato dos Resultados do Protótipo de Papel** | 12 | O planejamento considera dificuldades típicas dos usuários e sistemas semelhantes? | Não | Nenhuma comparação com outros sistemas foi feita. | Breno Fernandes | 09/02/2025 |
+| **Planejamento do Relato dos Resultados do Protótipo de Papel** | 14 | O planejamento inclui um teste-piloto? | Incompleto | O teste-piloto está mencionado em outro artefato. | Breno Lucena | 09/02/2025 |
+| **Planejamento da Avaliação do Protótipo de Alta Fidelidade** | 11 | O recrutamento de usuários foi planejado e documentado? | Incompleto | A organização do recrutamento poderia ser melhorada. | Breno Fernandes | 09/02/2025 |
+| **Planejamento da Avaliação do Protótipo de Alta Fidelidade** | 15 | A confiabilidade dos dados foi verificada antes de tirar conclusões? | Não | Não há evidências de verificação dos dados coletados. | Breno Lucena | 09/02/2025 |
+| **Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade** | 12 | O planejamento considera dificuldades típicas dos usuários e sistemas semelhantes? | Não | Nenhuma menção a comparações com outros sistemas. | Breno Fernandes | 09/02/2025 |
+| **Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade** | 14 | O planejamento inclui um teste-piloto? | Incompleto | O teste-piloto está no artefato de relato do resultado. | Breno Lucena | 09/02/2025 |
+| **Revisão Final e Entrega** | - | Validação de todas as correções realizadas | - | Garantia de conformidade com os padrões estabelecidos. | Breno Fernandes e Breno Lucena | **10/02/2025** |
+
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+## Referências Bibliográficas
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.8: O Framework DECIDE, p. 312-314.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.2: O que Avaliar?, p. 290-294.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.5: Que Tipos de Dados Coletar e Produzir?, p. 297-300.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.6: Qual Tipo de Método de Avaliação Escolher?, p. 301-303.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.1: Por Onde Começar?, p. 303-304.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.2: Preparação, p. 304-308.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.3: Quando Avaliar o Uso de um Sistema?, p. 294-295.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.4: Experiências de Uso?, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.3: Coleta de Dados, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.4: Interpretação, p. 295-297.
+
+BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.5: Consolidação e Relato dos Resultados, p. 295-297.
+
+## Histórico de Versões
+| Versão | Data       | Descrição                                    | Autor(es)         | Revisor(es)       |
+|--------|------------|----------------------------------------------|-------------------|-------------------|
+| 1.0    | 03/02/2025 | Criação da página.                           | Breno Fernandes e Breno Lucena      | Breno Fernandes e Breno Lucena  |
