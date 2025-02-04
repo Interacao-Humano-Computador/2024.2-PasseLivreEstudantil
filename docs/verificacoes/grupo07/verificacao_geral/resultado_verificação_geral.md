@@ -44,6 +44,16 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 #### Grafico
 
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
 ### Design
 
 **Tabela 2** - Checklist de Verificação.
@@ -60,6 +70,16 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 #### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
 
 ### Ferramentas
 
@@ -78,6 +98,16 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 #### Grafico
 
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
 ### Heatmap
 
 **Tabela 4** - Checklist de Verificação.
@@ -94,6 +124,16 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 #### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
 
 ### metodologia
 
@@ -112,6 +152,16 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 #### Grafico
 
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
 ### Sites avaliados
 
 **Tabela 6** - Checklist de Verificação.
@@ -129,9 +179,19 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 #### Grafico
 
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
 ### Site escolhido
 
-**Tabela 6** - Checklist de Verificação.
+**Tabela 7** - Checklist de Verificação.
 
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
@@ -146,9 +206,19 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 #### Grafico
 
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
 ### Aspectos Eticos
 
-**Tabela 7** - Checklist de Verificação.
+**Tabela 8** - Checklist de Verificação.
 
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
@@ -173,9 +243,19 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 #### Grafico
 
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
 ### Caracteristicas Gerais
 
-**Tabela 8** - Checklist de Verificação.
+**Tabela 9** - Checklist de Verificação.
 
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
@@ -190,9 +270,19 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 #### Grafico
 
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
 ### Cenarios
 
-**Tabela 9** - Checklist de Verificação.
+**Tabela 10** - Checklist de Verificação.
 
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
@@ -222,3 +312,746 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 | 
 
 _Fonte: Breno Fernandes e Breno Lucena 2025._
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### GOMS
+
+**Tabela 11** - Checklist de Verificação.
+
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |      Sim   |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim  |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |       Sim  |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |      Sim   |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |     Sim    |                       |
+| **Identificação dos Objetivos (Goals)** |                                                           |            |                       |
+|   6   | Os principais objetivos do usuário ao acessar o sistema foram identificados?                 |   Sim      |                       |
+|   7   | O sistema apoia os objetivos principais de forma clara e acessível?                          |    Não    |          fizemos a analise goms baseados nas atividades reais do passe livre e o sistema precisa de ajustes para que fique mais claro e acessíel em seus objetivos.
+|   8   | Existem diferentes formas de alcançar o mesmo objetivo? (e.g., menu, botão, atalho)          |   Não     |             fizemos a analise goms baseados nas atividades reais do passe livre e na maioria das vezes o sistema não tem mesma forma de alcançar o mesmo objetivo.
+| **Identificação dos Operadores (Operators)** |                                                     |            |                       |
+|   9   | Todas as ações concretas que o sistema exige dos usuários foram identificadas?               |     Sim       |                       |
+|   10   | Os tempos médios de execução de cada operador foram estimados para prever a eficiência das tarefas? |     Não       |                       |
+|   11   | Os operadores incluem ações cognitivas (ex., ler informações, interpretar mensagens do sistema)? |     Sim       |                       |
+|   12   | Os operadores externos (ex., clique do mouse, digitação de CPF) estão bem distribuídos para reduzir esforço excessivo do usuário? |        Sim    |                       |
+| **Métodos para Realizar as Tarefas (Methods)** |                                                  |            |                       |
+|   13   | Todas as tarefas do sistema têm métodos bem definidos?                                        |   Sim         |                       |
+|   14   | As etapas para realizar uma tarefa são intuitivas e minimizam esforço cognitivo?             |   Sim         |                       |
+
+
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### HTA
+
+**Tabela 12** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |   Sim         |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim      |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |      Sim      |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |       Incompleto     |            Identificamos a ausência de algumas fontes e legendas em fotos e tabelas. Completamos o máximo possível, mas ainda faltam algumas figuras referentes às atividades de membros do grupo que já se desligaram da materia.      |
+|   5    |  Todos os textos estão na norma padrão?                                                        |     Sim       |                       |
+| **Definição dos Objetivos da Análise** |                                                            |            |                       |
+|   6    | É definido o objetivo principal da análise?                                                   |      Sim      |                       |
+|   7    | É identificado objetivos secundários?                                                         |    Sim        |                       |
+|   8    | Existe um diagrama HTA para decompor o processo em etapas menores?                           |    Incompleto        |         Identificamos a ausência de algumas fontes e legendas em fotos e tabelas. Completamos o máximo possível, mas ainda faltam algumas figuras referentes às atividades de membros do grupo que já se desligaram da materia.              |
+|   9    | A decomposição reflete corretamente o processo real?                                          |     Sim       |                       |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025._
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Guia de estilo
+
+**Tabela 13** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |   Sim         |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |    Sim        |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |       Sim     |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |    Sim        |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |       Sim     |                       |
+| **Estrutura do Guia de Estilo** |                                                                 |            |                       |
+|   6    | Foi definido o objetivo do guia de estilo para o sistema de passe livre estudantil?          |   Sim         |                       |
+|   7    | Foi explicado a organização e o conteúdo do guia?                                             |   Sim         |                      |
+|   8    | Foi especificado o público-alvo do guia?                                                      |          Sim  |                       |
+|   9    | Foi orientado sobre como utilizar o guia nas fases de produção e manutenção do sistema?      |    Sim        |                       |
+|  **Elementos de Interface** |                                                                      |            |                       |
+|   10   | Foi definido proporção e grids para a tela do sistema, ajustando para dispositivos móveis e desktop? |       Não     |                       |
+|  **Tipografia** |                                                                                  |            |                       |
+|   11   | Foi escolhida uma tipografia clara e legível, adaptada para diferentes faixas etárias e níveis de instrução dos usuários? |        Sim    |            Dentro do protótipo figma           |
+|  **Símbolos e Ícones** |                                                                          |            |                       |
+|   12   | Foi garantida clareza e consistência no design de ícones?                                     |      Sim      |      Dentro do protótipo figma                 |
+|  **Cores** |                                                                                          |            |                       |
+|   13   | Foi aplicado códigos de cores consistentes para elementos chave?                             |    Sim        |          Dentro do protótipo figma             |
+|  **Aceleradores e Teclas de Atalho** |                                                           |            |                       |
+|   14   | Foi incluído aceleradores como teclas de atalho para facilitar o acesso a informações essenciais? |      Sim       |       Dentro do protótipo figma                |
+|  **Vocabulário e Padrões** |                                                                   |            |                       |
+|   15   | Foi definida uma terminologia clara e consistente?                                           |         Incompleto   |                       |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025._
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Metas de usabilidade
+
+**Tabela 14** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |        Sim    |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |    Sim        |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |    Sim        |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |     Sim       |                       |
+| **Facilidade de Aprendizado** |                                                                        |            |                       |
+|   6    | Foi verificado se o tempo necessário para que um usuário iniciante aprenda a usar o site é aceitável e eficiente? |     Não    |                       |
+| **Facilidade de Recordação** |                                                                         |            |                       |
+|   7    | Foi verificado se a navegação do site é fluída e intuitiva, permitindo que o usuário se lembre facilmente de como realizar as ações em visitas subsequentes? |   Sim         |                       |
+|   8    | Foi verificado se as funções mais importantes do site são de fácil acesso, mesmo após o usuário não utilizar o sistema por um tempo? |     Sim       |                       |
+|   9    | Foi verificado se o design e os elementos visuais ajudam na memorização das funcionalidades do site? |     Sim       |                       |
+| **Eficiência** |                                                                                       |            |                       |
+|   10   | Foi verificado se o tempo necessário para concluir tarefas principais é otimizado?            |    Sim        |                       |
+|   11   | Foi verificado se as tarefas no site são realizadas de forma prática, com campos de texto bem indicados e funções claras? |    Sim        |                       |
+| **Segurança no Uso** |                                                                                 |            |                       |
+|   12   | Foi verificado se o site oferece um processo seguro e eficaz para redefinir senha e email?    |       Sim     |                       |
+|   13   | Foi verificado se há opções para recuperação de conta caso o usuário perca o acesso, como perguntas de segurança ou verificação de identidade? |    Não     |                       |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025._
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Perfil de Usuário
+
+**Tabela 15** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |      Sim      |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |      Sim      |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |   Sim         |             |                                                 
+| **Coleta de Informações sobre o Usuário** |                                                             |            |                       |
+|   6    | Foi identificado quem são os usuários do sistema?                                            |     Sim       |                       |
+|   7    | Foi definido os principais objetivos dos usuários ao utilizar o produto?                      |     Sim       |                       |
+| **Características do Perfil do Usuário** |                                                              |            |                       |
+|   8    | Foi definida a faixa etária dos usuários?                                                     |          Sim  |                       |
+|   9    | Foi definido o grau de instrução ou formação acadêmica dos usuários?                         |     Sim       |                       |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025._
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Personas
+
+**Tabela 16** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |     Sim       |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     Sim       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |   Sim         |                       |
+| **Personas** |                                                                                           |            |                       |
+| **Identidade** |                                                                                       |            |                       |
+|   6    | A persona possui um nome e sobrenome?                                                         |       Sim     |                       |
+|   7    | Foram incluídos dados demográficos (idade, gênero e localização)?                            |      Sim      |                       |
+|   8    | A persona possui uma foto representativa?                                                    | Sim           |                       |
+| **Status** |                                                                                           |            |                       |
+|   9    | A persona foi classificada corretamente como primária, secundária ou antiusuário?            |     Sim       |                       |
+|   10   | A persona representa um stakeholder relevante do sistema?                                     |      Sim      |                       |
+| **Objetivos** |                                                                                         |            |                       |
+|   11   | Os objetivos da persona estão claramente definidos?                                          |     Sim       |                       |
+|   12   | Os objetivos estão alinhados com as necessidades reais dos usuários?                         |      Sim      |                       |
+| **Habilidades** |                                                                                      |            |                       |
+|   13   | A persona possui uma descrição de suas habilidades e competências?                           |      Sim      |                       |
+|   14   | Foram incluídos detalhes sobre educação, treinamento e experiência profissional?             |      Incompleto          |    Não criamos um tópico específico para isso, mas a informação está distribuída nos tópicos de tarefas, habilidades e experiência, expectativas e requisitos de cada usuário.                  |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025._
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Principios Gerais
+
+**Tabela 17** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |      Sim      |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |      Sim      |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |  Sim          |                       |
+| 6   | A análise avaliou se as tarefas são organizadas de forma simples e intuitiva?               |     Sim      |             |
+| 7   | Foram identificadas complexidades desnecessárias que possam dificultar a realização das tarefas? |      Sim     |      Durante varios topicos se fala sobre o nivel de complexidade e dificuldade de realizar uma tarefa       |
+| 8   | O fluxo de interação analisado permite que o usuário complete suas tarefas de forma eficiente? |     Sim      |             |
+| 9   | A análise verificou se há instruções ou suporte adequado para a realização das tarefas?     |      Não     |             |
+| 10   | A análise verificou se os usuários podem realizar ações sem restrições excessivas?          |     Sim      |             |
+| 11   | Foram identificadas formas de correção ou reversão de ações realizadas equivocadamente?     |     Sim      |             |
+| 12   | A análise considera se o artefato permite ao usuário explorar diferentes opções sem punições severas? |     Não      |             |
+| 13   | Foram avaliadas funcionalidades que oferecem flexibilidade ao usuário para personalizar a interação? |      Não     |             |
+| 14   | A análise verificou se o artefato reduz ações desnecessárias ou repetitivas?                |     Não     |             |
+| 15  | O tempo necessário para realizar tarefas foi analisado para garantir maior eficiência?      |     Não     |             |
+| 16  | Foram avaliadas maneiras de otimizar a navegação e o acesso rápido às funcionalidades principais? |     Sim      |             |
+| 17  | A análise identificou possíveis sobrecargas cognitivas que poderiam prejudicar a experiência do usuário? |      Sim     |             |
+| 18  | A análise verificou se os elementos essenciais estão visíveis e de fácil acesso?            |     Sim      |             |
+| 19  | Foram avaliadas estratégias para reduzir a necessidade de memorização por parte do usuário? |     Sim      |             |
+| 20  | A análise considera se os elementos interativos são reconhecíveis e utilizam convenções familiares? |     Sim      |             |
+| 21  | Foram analisadas formas de garantir que o usuário saiba onde está e quais ações pode realizar? |     Não      |             |
+| 22  | A análise verificou se o conteúdo apresentado é relevante e útil para o usuário?           |     Sim      |      De forma indiscreta nos analisamos isso em cada topico      |
+| 23  | Foram avaliados possíveis excessos de informação que possam dificultar a experiência do usuário? |    Sim       |             |
+| 24  | A linguagem utilizada no artefato foi analisada para garantir clareza e adequação ao público-alvo? |     Sim      |             |
+| 25  | Foram identificadas possíveis ambiguidades ou termos técnicos que possam confundir o usuário? |      Sim     |             |
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Planejamento da Avaliação da Analise de Tarefas
+
+**Tabela 18** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |    Sim        |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |      Sim      |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     Sim       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |        Sim    |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |      Sim      |                       |
+|  6   | Os objetivos da avaliação estão claramente definidos e alinhados com os usuários-alvo?      |     Não       |                       |
+|  7   | Foi identificado por que os objetivos são importantes para o contexto de uso?               |     Sim       |                       |
+|  8   | Foram elaboradas perguntas específicas e relevantes?                     |     Sim       |                       |                    |
+| 9   | Os métodos de avaliação escolhidos são adequados aos objetivos definidos?                   |     Sim       |                       |
+| 10   | Foi verificado se métodos são viáveis considerando o prazo, orçamento e recursos disponíveis?              |      Sim      |                       |
+| 11   | O recrutamento de usuários foi planejado e documentado?                                     |      Sim      |                       |
+| 12   | Os prazos, orçamentos e equipamentos necessários estão organizados?                         |      Sim      |                       |
+| 13   | Existe um termo de consentimento preparado para os participantes?                           |      Sim      |                       |
+| 14   | Os participantes estão cientes de seus direitos e protegidos contra danos?                  |     Sim       |                       |
+| 15   | A confiabilidade dos dados foi verificada antes de tirar conclusões?                        |     Sim       |                       |
+
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Planejamento de Relato dos Resultados de Analise de Tarefas
+
+**Tabela 19** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |    Sim        |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |    Sim       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     Sim       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |      Sim      |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |      Sim      |                       |
+|  6  | O planejamento do relato dos resultados define claramente os critérios de qualidade de uso que serão avaliados? |      Sim     |            |
+|  7  | O planejamento inclui medidas para identificar e documentar problemas? |      Sim     |            |                            
+|  8  | O planejamento do relato dos resultados define claramente quais tipos de dados (qualitativos e/ou quantitativos) serão coletados? |    Sim      |            |
+|  9  | O planejamento especifica como os dados coletados serão analisados e utilizados para responder aos objetivos da avaliação? |     Sim      |            |
+|  10  | O planejamento justifica a escolha do método de avaliação com base nos objetivos da avaliação? |     Sim      |            |
+|  11  | O planejamento demonstra conhecimento sobre o domínio do problema, os usuários e o contexto de uso do sistema? |      Sim     |            |
+|  12  | O planejamento considera sistemas semelhantes e dificuldades típicas dos usuários na definição da avaliação? |      Não     |      Não há menção explícita a sistemas semelhantes ou a comparações diretas com outras soluções.      |
+|  13  | O planejamento do relato dos resultados delimita claramente o escopo da avaliação, especificando as partes do sistema, tarefas e perfis de usuários envolvidos? |     Sim      |            |
+| 14  | O planejamento inclui um teste-piloto para validar a estrutura da avaliação e garantir a confiabilidade dos dados coletados? |     Incompleto      |    Não há menção a um teste-piloto no planejamento.       |
+
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Relato dos Resultados de Analise de Tarefas
+
+**Tabela 20** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |     **Sim**      | Há uma introdução breve. |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     **Não**      | Não há referências bibliográficas no documento. |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     **Não**      | A tabela de histórico de versões está incompleta. |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     **Não**      | Não há tabelas nem imagens no artefato. |
+|   5    | Todos os textos estão na norma padrão?  |     **Não**      |  |
+|  6  | O relato dos resultados especifica se a avaliação realizada foi formativa (durante o design) ou somativa (após a implementação)? | **Não** | Não há menção ao tipo de avaliação. |
+|  7  | O relato dos resultados descreve o ambiente em que a avaliação foi realizada (contexto real ou laboratório) e justifica essa escolha? | **Não** | Não há informações sobre o ambiente da avaliação. |
+|  8  | O relato dos resultados especifica claramente os tipos de dados coletados (qualitativos e/ou quantitativos) durante a avaliação? | **Não** | Não há detalhes sobre os tipos de dados coletados. |
+|  9  | O relato dos resultados apresenta a análise dos dados coletados de forma consistente com os objetivos da avaliação? | **Não** | Não há análise de dados no documento. |
+|  10  | O relato dos resultados descreve se a coleta de dados seguiu o planejamento e o método de avaliação selecionado? | **Não** | Não há referência ao método utilizado. |
+|  11  | O relato dos resultados apresenta como os dados foram coletados, incluindo a participação dos usuários e o ambiente da avaliação? | **Não** | Não há informações sobre como os dados foram coletados. |
+|  12  | O relato dos resultados descreve como os dados coletados foram interpretados de acordo com o método de avaliação escolhido? | **Não** | Não há uma seção sobre interpretação de dados. |
+|  13  | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? | **Não** | Não há especificação sobre o método de interpretação. |
+|  14  | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? | **Não** | O documento não apresenta uma análise consolidada. |
+| 15  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? | **Não** | O relato está incompleto e não apresenta essas informações. |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Planejamento da Avaliação do storyboard
+
+**Tabela 21** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |      Sim      |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |  Sim          |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |      Sim      |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |      Sim      |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |      Sim      |                       |
+|  6   | Os objetivos da avaliação estão claramente definidos e alinhados com os usuários-alvo?      |     Sim      |                       |
+|  7   | Foi identificado por que os objetivos são importantes para o contexto de uso?               |     Sim       |                       |
+|  8   | Foram elaboradas perguntas específicas e relevantes?                    |      Sim      |                       |                    
+|  9   | Os métodos de avaliação escolhidos são adequados aos objetivos definidos?                   |      Sim      |                       |
+| 10   | Foi verificado se métodos são viáveis considerando o prazo, orçamento e recursos disponíveis? |      Sim      |                       |
+| 11   | O recrutamento de usuários foi planejado e documentado?                                     |      Sim      |                       |
+| 12   | Os prazos, orçamentos e equipamentos necessários estão organizados?                         |     Sim       |                       |
+| 13   | Existe um termo de consentimento preparado para os participantes?                           |     Sim       |                       |
+| 14   | Os participantes estão cientes de seus direitos e protegidos contra danos?                  |      Sim      |                       |
+| 15   | A confiabilidade dos dados foi verificada antes de tirar conclusões?                        |      Sim      |                       |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Planejamento do Relato de Resultado do storyboard
+
+**Tabela 22** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |      Sim      |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     Sim       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |    Sim        |                       |
+|  6  | O planejamento do relato dos resultados define claramente os critérios de qualidade de uso que serão avaliados? |    Sim   |            |
+|  7  | O planejamento inclui medidas para identificar e documentar problemas? |   Sim   |            |                            
+|  8  | O planejamento do relato dos resultados define claramente quais tipos de dados (qualitativos e/ou quantitativos) serão coletados? |    Sim     |            |
+|  9  | O planejamento especifica como os dados coletados serão analisados e utilizados para responder aos objetivos da avaliação? |   Sim      |            |
+|  10  | O planejamento justifica a escolha do método de avaliação com base nos objetivos da avaliação? |     Sim      |            |
+|  11  | O planejamento demonstra conhecimento sobre o domínio do problema, os usuários e o contexto de uso do sistema? |     Sim     |            |
+|  12  | O planejamento considera sistemas semelhantes e dificuldades típicas dos usuários na definição da avaliação? |      Não     |      Não há menção explícita a sistemas semelhantes ou a comparações diretas com outras soluções.     |
+|  13  | O planejamento do relato dos resultados delimita claramente o escopo da avaliação, especificando as partes do sistema, tarefas e perfis de usuários envolvidos? |       Sim  |            |
+| 14  | O planejamento inclui um teste-piloto para validar a estrutura da avaliação e garantir a confiabilidade dos dados coletados? |     Incompleto      |     O teste piloto esta no artefato de Planejamento da Avaliacao do Storyboard      |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Relato do Resultado do Storyboard
+
+**Tabela 23** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |    **Não**        |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |      **Não**      |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |      **Não**      |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |    **Não**        |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |    **Não**        |                       |
+|  6  | O relato dos resultados especifica se a avaliação realizada foi formativa (durante o design) ou somativa (após a implementação)? |     **Não**      |     	Não há informações sobre o tipo de avaliação.       |
+|  7  | O relato dos resultados descreve o ambiente em que a avaliação foi realizada (contexto real ou laboratório) e justifica essa escolha? |    **Não**       |      Nenhuma informação sobre o ambiente de avaliação.      |
+|  8  | O relato dos resultados especifica claramente os tipos de dados coletados (qualitativos e/ou quantitativos) durante a avaliação? |     **Não**      |     Não há coleta de dados descrita.       |
+|  9  | O relato dos resultados apresenta a análise dos dados coletados de forma consistente com os objetivos da avaliação? |     **Não**      |     Nenhum dado foi coletado para análise.      |
+|  10  | O relato dos resultados descreve se a coleta de dados seguiu o planejamento e o método de avaliação selecionado? |    **Não**       |      Nenhuma informação sobre a execução do método de avaliação.      |
+|  11  | O relato dos resultados apresenta como os dados foram coletados, incluindo a participação dos usuários e o ambiente da avaliação? |    **Não**       |      Nenhuma menção à coleta de dados ou participação de usuários.      |
+|  12  | O relato dos resultados descreve como os dados coletados foram interpretados de acordo com o método de avaliação escolhido? |    **Não**       |     Nenhuma interpretação de dados descrita.       |
+|  13  | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? |    **Não**       |      	Nenhuma menção à interpretação dos dados.      |
+|  14  | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? |     **Não**      |      Nenhuma informação consolidada foi apresentada.      |
+| 15  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? |    **Não**       |     	Nenhum desses elementos está presente no relato.       |
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Storyboard
+
+**Tabela 24** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |     Sim       |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |       Sim     |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |      Sim      |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |      Sim      |                       |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Planejamento da avaliação do protipo de Papel
+
+**Tabela 25** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |      Sim      |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |   Sim         |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     Sim       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |      Sim      |                       |
+|  6   | Os objetivos da avaliação estão claramente definidos e alinhados com os usuários-alvo?      |     Sim       |                       |
+|  7   | Foi identificado por que os objetivos são importantes para o contexto de uso?               |     Sim       |                       |
+|  8   | Foram elaboradas perguntas específicas e relevantes?                     |      Sim      |                       |                    
+|  9   | Os métodos de avaliação escolhidos são adequados aos objetivos definidos?                   |     Sim       |                       |
+| 10   | Foi verificado se métodos são viáveis considerando o prazo, orçamento e recursos disponíveis? |      Sim      |                       |
+| 11   | O recrutamento de usuários foi planejado e documentado?                                     |  incompleto          |      Poderiamos melhoras a organização do recutamento de usuarios                 |
+| 12   | Os prazos, orçamentos e equipamentos necessários estão organizados?                         |     Sim       |                       |
+| 13   | Existe um termo de consentimento preparado para os participantes?                           |    Sim        |                       |
+| 14   | Os participantes estão cientes de seus direitos e protegidos contra danos?                  |      Sim      |                       |
+| 15   | A confiabilidade dos dados foi verificada antes de tirar conclusões?                        |     Sim       |                       |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Planejamento do Relato dos Resultados do protipo de Papel
+
+**Tabela 26** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |     Sim       |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |      Sim     |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     Sim       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |      Sim      |                       |
+|  6  | O planejamento do relato dos resultados define claramente os critérios de qualidade de uso que serão avaliados? |    Sim   |            |
+|  7  | O planejamento inclui medidas para identificar e documentar problemas? |    Sim  |            |                            
+|  8  | O planejamento do relato dos resultados define claramente quais tipos de dados (qualitativos e/ou quantitativos) serão coletados? |     Sim    |            |
+|  9  | O planejamento especifica como os dados coletados serão analisados e utilizados para responder aos objetivos da avaliação? |    Sim     |            |
+|  10  | O planejamento justifica a escolha do método de avaliação com base nos objetivos da avaliação? |      Sim     |            |
+|  11  | O planejamento demonstra conhecimento sobre o domínio do problema, os usuários e o contexto de uso do sistema? |    Sim      |            |
+|  12  | O planejamento considera sistemas semelhantes e dificuldades típicas dos usuários na definição da avaliação? |      Não     |    Não há menção explícita a sistemas semelhantes ou a comparações diretas com outras soluções.       |
+|  13  | O planejamento do relato dos resultados delimita claramente o escopo da avaliação, especificando as partes do sistema, tarefas e perfis de usuários envolvidos? |    Sim     |            |
+| 14  | O planejamento inclui um teste-piloto para validar a estrutura da avaliação e garantir a confiabilidade dos dados coletados? |    Incompleto       |     O teste piloto esta no artefato de Planejamento da Avaliacao do Protótipo de Papel      |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Relato dos Resultados do protipo de Papel
+
+**Tabela 27** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |     **Sim**       |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     **Sim**       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     **Sim**       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     **Sim**       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |      **Sim**      |                       |
+|  6  | O relato dos resultados especifica se a avaliação realizada foi formativa (durante o design) ou somativa (após a implementação)? |     **Sim**      |            |
+|  7  | O relato dos resultados descreve o ambiente em que a avaliação foi realizada (contexto real ou laboratório) e justifica essa escolha? |   **Sim**        |            |
+|  8  | O relato dos resultados especifica claramente os tipos de dados coletados (qualitativos e/ou quantitativos) durante a avaliação? |      **Sim**     |            |
+|  9  | O relato dos resultados apresenta a análise dos dados coletados de forma consistente com os objetivos da avaliação? |      **Sim**     |            |
+|  10  | O relato dos resultados descreve se a coleta de dados seguiu o planejamento e o método de avaliação selecionado? |    **Sim**       |            |
+|  11  | O relato dos resultados apresenta como os dados foram coletados, incluindo a participação dos usuários e o ambiente da avaliação? |     **Sim**      |            |
+|  12  | O relato dos resultados descreve como os dados coletados foram interpretados de acordo com o método de avaliação escolhido? |     **Sim**      |            |
+|  13  | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? |     **Sim**      |            |
+|  14  | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? |    **Sim**       |            |
+| 15  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? |    **Sim**       |            |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025. 
+
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Planejamento da Avaliação do Prototipo de Alta Fidelidade
+
+**Tabela 28** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |     Sim       |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |    Sim        |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |    Sim        |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |     Sim       |                       |
+|  6   | Os objetivos da avaliação estão claramente definidos e alinhados com os usuários-alvo?      |     Sim       |                       |
+|  7   | Foi identificado por que os objetivos são importantes para o contexto de uso?               |     Sim       |                       |
+|  8   | Foram elaboradas perguntas específicas e relevantes?                     |      Sim      |                       |                    
+|  9   | Os métodos de avaliação escolhidos são adequados aos objetivos definidos?                   |      Sim      |                       |
+| 10   | Foi verificado se métodos são viáveis considerando o prazo, orçamento e recursos disponíveis? |    Sim        |                       |
+| 11   | O recrutamento de usuários foi planejado e documentado?                                     |incompleto            |      Poderiamos melhoras a organização do recutamento de usuarios                 |
+| 12   | Os prazos, orçamentos e equipamentos necessários estão organizados?                         |     Sim       |                       |
+| 13   | Existe um termo de consentimento preparado para os participantes?                           |     Sim       |                       |
+| 14   | Os participantes estão cientes de seus direitos e protegidos contra danos?                  |     Sim       |                       |
+| 15   | A confiabilidade dos dados foi verificada antes de tirar conclusões?                        |      Não      |                       |
+
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Planejamento dO Relato de Resultados do Prototipo de Alta Fidelidade
+
+**Tabela 29** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |    Sim        |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |       Sim     |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |       Sim     |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |      Sim      |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |     Sim       |                      |
+|  6  | O planejamento do relato dos resultados define claramente os critérios de qualidade de uso que serão avaliados? |   Sim    |            |
+|  7  | O planejamento inclui medidas para identificar e documentar problemas? |   Sim   |            |                            
+|  8  | O planejamento do relato dos resultados define claramente quais tipos de dados (qualitativos e/ou quantitativos) serão coletados? |   Sim      |            |
+|  9  | O planejamento especifica como os dados coletados serão analisados e utilizados para responder aos objetivos da avaliação? |    Sim     |            |
+|  10  | O planejamento justifica a escolha do método de avaliação com base nos objetivos da avaliação? |    Sim       |            |
+|  11  | O planejamento demonstra conhecimento sobre o domínio do problema, os usuários e o contexto de uso do sistema? |     Sim     |            |
+|  12  | O planejamento considera sistemas semelhantes e dificuldades típicas dos usuários na definição da avaliação? |     Não      |     Não há menção a comparações com outros sistemas ou dificuldades comuns enfrentadas por usuários de soluções similares.      |
+|  13  | O planejamento do relato dos resultados delimita claramente o escopo da avaliação, especificando as partes do sistema, tarefas e perfis de usuários envolvidos? |    Sim     |            |
+| 14  | O planejamento inclui um teste-piloto para validar a estrutura da avaliação e garantir a confiabilidade dos dados coletados? |     Incompleto      |     O teste piloto esta no artefato de relato do resultado.      |
+
+_Fonte: Breno Fernandes e Breno Lucena 2025.
+
+#### Grafico
+
+<center>
+
+<font size="3"><b>Figura  </b> - Grafico .</font>
+
+![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### Relato de Resultados do Prototipo de Alta Fidelidade
+
+**Tabela 30** - Checklist de Verificação.
+
+|   ID   | Descrição                                                                                     | Avaliação  | Observações          |
+|:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
+| **Padronização** |                                                                                     |            |                       |
+|   1    | O artefato possui introdução?                                                                 |       Sim     |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |      Sim      |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     Sim       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |      Sim      |                       |
+|  6  | O relato dos resultados especifica se a avaliação realizada foi formativa (durante o design) ou somativa (após a implementação)? |     Sim      |            |
+|  7  | O relato dos resultados descreve o ambiente em que a avaliação foi realizada (contexto real ou laboratório) e justifica essa escolha? |    Sim       |            |
+|  8  | O relato dos resultados especifica claramente os tipos de dados coletados (qualitativos e/ou quantitativos) durante a avaliação? |    Sim       |            |
+|  9  | O relato dos resultados apresenta a análise dos dados coletados de forma consistente com os objetivos da avaliação? |    Sim       |            |
+|  10  | O relato dos resultados descreve se a coleta de dados seguiu o planejamento e o método de avaliação selecionado? |     Sim      |            |
+|  11  | O relato dos resultados apresenta como os dados foram coletados, incluindo a participação dos usuários e o ambiente da avaliação? |    Sim       |            |
+|  12  | O relato dos resultados descreve como os dados coletados foram interpretados de acordo com o método de avaliação escolhido? |    Sim       |            |
+|  13  | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? |     Sim      |            |
+|  14  | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? |    Sim       |            |
+| 15  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? |       Sim    |            |

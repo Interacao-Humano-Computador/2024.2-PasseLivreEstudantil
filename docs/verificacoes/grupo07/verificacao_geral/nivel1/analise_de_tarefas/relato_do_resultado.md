@@ -54,6 +54,7 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 |  9  | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? | **Não** | O documento não apresenta uma análise consolidada. |
 | 10  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? | **Não** | O relato está incompleto e não apresenta essas informações. |
 
+_Fonte: Breno Fernandes e Breno Lucena 2025.
 
 </center>
 
