@@ -1065,6 +1065,30 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 </center>
 
+## **Análise Geral dos Resultados da Verificação**
+
+Após a realização das verificações em todos os artefatos do projeto, consolidamos os resultados em um gráfico geral que apresenta a distribuição das avaliações **"Sim"**, **"Não"** e **"Incompleto"**. Esses dados fornecem uma visão abrangente sobre a qualidade dos artefatos e as principais áreas que precisam de ajustes.
+
+### **Resumo dos Resultados**
+- **83,73%** das verificações foram marcadas como **"Sim"**, indicando que a maioria dos critérios avaliados foram atendidos satisfatoriamente.
+- **13,31%** das verificações foram marcadas como **"Não"**, evidenciando aspectos que precisam de correções e melhorias nos artefatos.
+- **2,96%** das verificações foram classificadas como **"Incompleto"**, o que demonstra que alguns itens possuem informações parciais ou ausentes.
+
+<center>
+
+<font size="3"><b>Figura  31</b> - Grafico Verificaçao de Todos os arterfatos.</font>
+
+![Grafico Relato de Resultados do Prototipo de Alta Fidelidade](../../../assets/verificacao-geral-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
+
+### **Interpretação dos Resultados**
+Os resultados mostram que a maior parte dos artefatos atende aos critérios estabelecidos, o que é um indicativo positivo da qualidade da documentação e do desenvolvimento do projeto. No entanto, os **13,31% de itens marcados como "Não"** demonstram que ainda há pontos críticos que precisam ser ajustados para garantir que todos os artefatos estejam em conformidade com os padrões exigidos.
+
+Além disso, os **2,96% de itens marcados como "Incompleto"** sugerem que há artefatos que requerem complementação de informações, como a inclusão de fontes, legendas, explicações detalhadas ou ajustes em diagramas e referências.
+
 ## Planejamento do Reprojeto
 
 ## Objetivos do Reprojeto
