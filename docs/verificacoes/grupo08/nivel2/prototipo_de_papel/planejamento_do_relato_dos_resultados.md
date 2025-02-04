@@ -25,11 +25,11 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
-|   1    | O artefato possui introdução?                                                                 |            |                       |
-|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
-|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
-|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+|   1    | O artefato possui introdução?                                                                 |       Sim     |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |      Sim      |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |    Sim        |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        | Sim           |                       |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025.
 
@@ -43,16 +43,16 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 | ID  | Descrição                                                                                       | Avaliação | Observação |
 |:---:|-------------------------------------------------------------------------------------------------|:---------:|------------|
-|  1  | O planejamento do relato dos resultados define claramente os critérios de qualidade de uso que serão avaliados? |           |            |
-|  2  | O planejamento inclui medidas para identificar e documentar problemas na interação e na interface do sistema? |           |            |                            
-|  3  | O planejamento do relato dos resultados define claramente quais tipos de dados (qualitativos e/ou quantitativos) serão coletados? |           |            |
-|  4  | O planejamento especifica como os dados coletados serão analisados e utilizados para responder aos objetivos da avaliação? |           |            |
-|  5  | O planejamento justifica a escolha do método de avaliação com base nos objetivos da avaliação? |           |            |
-|  6  | O planejamento considera as restrições de prazo, orçamento, recursos e participação de usuários na escolha do método? |           |            |
-|  7  | O planejamento demonstra conhecimento sobre o domínio do problema, os usuários e o contexto de uso do sistema? |           |            |
-|  8  | O planejamento considera sistemas semelhantes e dificuldades típicas dos usuários na definição da avaliação? |           |            |
-|  9  | O planejamento do relato dos resultados delimita claramente o escopo da avaliação, especificando as partes do sistema, tarefas e perfis de usuários envolvidos? |           |            |
-| 10  | O planejamento inclui um teste-piloto para validar a estrutura da avaliação e garantir a confiabilidade dos dados coletados? |           |            |
+|  1  | O planejamento do relato dos resultados define claramente os critérios de qualidade de uso que serão avaliados? |    Sim       |            |
+|  2  | O planejamento inclui medidas para identificar e documentar problemas na interação e na interface do sistema? |       Sim    |            |                            
+|  3  | O planejamento do relato dos resultados define claramente quais tipos de dados (qualitativos e/ou quantitativos) serão coletados? |   Sim        |            |
+|  4  | O planejamento especifica como os dados coletados serão analisados e utilizados para responder aos objetivos da avaliação? |    Sim       |            |
+|  5  | O planejamento justifica a escolha do método de avaliação com base nos objetivos da avaliação? |    Sim       |            |
+|  6  | O planejamento considera as restrições de prazo, orçamento, recursos e participação de usuários na escolha do método? |         Não  |            |
+|  7  | O planejamento demonstra conhecimento sobre o domínio do problema, os usuários e o contexto de uso do sistema? |     Sim      |            |
+|  8  | O planejamento considera sistemas semelhantes e dificuldades típicas dos usuários na definição da avaliação? |   Não        |            |
+|  9  | O planejamento do relato dos resultados delimita claramente o escopo da avaliação, especificando as partes do sistema, tarefas e perfis de usuários envolvidos? |    Sim       |            |
+| 10  | O planejamento inclui um teste-piloto para validar a estrutura da avaliação e garantir a confiabilidade dos dados coletados? |  Não         |            |
 
 
 _Fonte: Breno Fernandes e Breno Lucena 2025.
@@ -62,14 +62,13 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 ## Problemas encontrados
 
-[Colocar problemas encontrados]
+Peguntas 6,8 e 10.
 
 
 
 
 ## Sugestões de Correções
 
-[Colocar Sugestões de correções]
 
 
 
