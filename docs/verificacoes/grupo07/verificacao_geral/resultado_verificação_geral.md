@@ -46,9 +46,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  1</b> - Grafico Cronograma.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Cronograma](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -73,9 +73,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  2</b> - Grafico Design.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Design](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -100,9 +100,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  3</b> - Grafico Ferramentas.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Ferramentas](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -127,9 +127,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  4</b> - Grafico Heatmap.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Heatmap](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -154,9 +154,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  5</b> - Grafico metodologia.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico metodologia](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -181,9 +181,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  6</b> - Grafico Sites avaliados.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Sites avaliados](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -208,9 +208,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  7</b> - Grafico Site escolhido.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Site escolhido](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -245,9 +245,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  8</b> - Grafico Aspectos Eticos.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Aspectos Eticos](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -272,9 +272,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  9</b> - Grafico Caracteristicas Gerais.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Caracteristicas Gerais](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -317,9 +317,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  10</b> - Grafico Cenarios.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Cenarios](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -359,9 +359,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  11</b> - Grafico GOMS.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico GOMS](../../../assets/GOMS-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -391,9 +391,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  12</b> - Grafico HTA.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico HTA](../../../assets/hta-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -435,9 +435,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  13</b> - Grafico Guia de estilo.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Guia de estilo](../../../assets/guia-de-estilo-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -474,9 +474,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  14</b> - Grafico Metas de usabilidade.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Metas de usabilidade](../../../assets/metas-de-usabilidades-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -507,9 +507,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  15</b> - Grafico Perfil de Usuário.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Perfil de Usuário](../../../assets/perfil-de-usuario-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -548,9 +548,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  16</b> - Grafico Personas.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Personas](../../../assets/personas-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -593,9 +593,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025._
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  17</b> - Grafico Principios Gerais.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Principios Gerais](../../../assets/principios-gerais-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -631,9 +631,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura 18</b> - Grafico Planejamento da Avaliação da Analise de Tarefas.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Planejamento da Avaliação da Analise de Tarefas](../../../assets/planejamento-de-avaliação-de-tarefas-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -668,9 +668,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  19</b> - Grafico Planejamento de Relato dos Resultados de Analise de Tarefas.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Planejamento de Relato dos Resultados de Analise de Tarefas](../../../assets/planejamento-relato-dos-resultados-tarefas-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -705,9 +705,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  20</b> - Grafico Relato dos Resultados de Analise de Tarefas.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Relato dos Resultados de Analise de Tarefas](../../../assets/relato-dos-resultados-tarefas-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -742,9 +742,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  21</b> - Grafico Planejamento da Avaliação do storyboard.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Planejamento da Avaliação do storyboard](../../../assets/planejamento-da-avaliação-do-storyboard-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -778,9 +778,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  22</b> - Grafico Planejamento do Relato de Resultado do storyboard.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Planejamento do Relato de Resultado do storyboard](../../../assets/planejamneto-do-relato-dos-resultado-storyboard-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -813,9 +813,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  23</b> - Grafico Relato do Resultado do Storyboard.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Relato do Resultado do Storyboard](../../../assets/relato-dos-resultados-storyboard-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -840,9 +840,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  24</b> - Grafico Storyboard.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Storyboard](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -877,10 +877,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  25</b> - Grafico Planejamento da avaliação do protipo de Papel.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
-
+![Grafico Planejamento da avaliação do protipo de Papel](../../../assets/planejamneto-da-avaliação-do-prototipo-de-papel-gr.jpeg)
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
 </center>
@@ -913,9 +912,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  26</b> - Grafico Planejamento do Relato dos Resultados do protipo de Papel.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Planejamento do Relato dos Resultados do protipo de Papel](../../../assets/planejamento-do-relato-dos-resultados-do-prototipo-de-papel-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -951,9 +950,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  27</b> - Grafico Relato dos Resultados do protipo de Papel.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Relato dos Resultados do protipo de Papel](../../../assets/realto-dos-resultados-do-prototipo-de-papel-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -989,9 +988,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  28</b> - Grafico Planejamento da Avaliação do Prototipo de Alta Fidelidade.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Planejamento da Avaliação do Prototipo de Alta Fidelidade](../../../assets/)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -1025,9 +1024,9 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <center>
 
-<font size="3"><b>Figura  </b> - Grafico .</font>
+<font size="3"><b>Figura  29</b> - Grafico Planejamento do Relato de Resultados do Prototipo de Alta Fidelidade.</font>
 
-![Grafico ](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Planejamento do Relato de Resultados do Prototipo de Alta Fidelidade](../../../assets/aspectos-eticos-gr.jpg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -1055,3 +1054,13 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 |  13  | O relato dos resultados especifica se a interpretação foi feita manualmente, automaticamente ou combinando ambos os métodos? |     Sim      |            |
 |  14  | O relato dos resultados consolida as informações individuais dos participantes e destaca tendências gerais identificadas na avaliação? |    Sim       |            |
 | 15  | O relato dos resultados inclui os principais elementos recomendados, como objetivos, método utilizado, perfil dos participantes, dados coletados e interpretação dos resultados? |       Sim    |            |
+
+<center>
+
+<font size="3"><b>Figura  30</b> - Grafico Relato de Resultados do Prototipo de Alta Fidelidade.</font>
+
+![Grafico Relato de Resultados do Prototipo de Alta Fidelidade](../../../assets/aspectos-eticos-gr.jpg)
+
+<font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
+
+</center>
