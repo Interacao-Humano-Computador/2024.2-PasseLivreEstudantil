@@ -26,10 +26,10 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
 |   1    | O artefato possui introdução?                                                                 |    Sim        |                       |
-|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
-|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
-|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |      Sim      |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |     Sim       |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |        Sim    |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |      Sim      |                       |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025.
 
@@ -43,18 +43,17 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 |  ID  | Descrição                                                                                   | Avaliação  | Observação            |
 |:----:|---------------------------------------------------------------------------------------------|:----------:|-----------------------|
-|  6   | Os objetivos da avaliação estão claramente definidos e alinhados com os usuários-alvo?      |            |                       |
-|  7   | Foi identificado por que os objetivos são importantes para o contexto de uso?               |            |                       |
-|  8   | Para cada objetivo, foram elaboradas perguntas específicas e relevantes?                    |            |                       |
-|  9   | As perguntas consideram o perfil e as atividades dos usuários-alvo?                         |            |                       |
-| 10   | Os métodos de avaliação escolhidos são adequados aos objetivos definidos?                   |            |                       |
-| 11   | Os métodos são viáveis considerando o prazo, orçamento e recursos disponíveis?              |            |                       |
-| 12   | O recrutamento de usuários foi planejado e documentado?                                     |            |                       |
-| 13   | Os prazos, orçamentos e equipamentos necessários estão organizados?                         |            |                       |
-| 14   | Existe um termo de consentimento preparado para os participantes?                           |            |                       |
-| 15   | Os participantes estão cientes de seus direitos e protegidos contra danos?                  |            |                       |
-| 16   | A confiabilidade dos dados foi verificada antes de tirar conclusões?                        |            |                       |
-| 17   | Os resultados foram analisados e organizados para evitar distorções?                       |            |                       |
+|  6   | Os objetivos da avaliação estão claramente definidos e alinhados com os usuários-alvo?      |     Não       |                       |
+|  7   | Foi identificado por que os objetivos são importantes para o contexto de uso?               |     Sim       |                       |
+|  8   | Foram elaboradas perguntas específicas e relevantes?                     |     Sim       |                       |                    |
+| 9   | Os métodos de avaliação escolhidos são adequados aos objetivos definidos?                   |     Sim       |                       |
+| 10   | Foi verificado se métodos são viáveis considerando o prazo, orçamento e recursos disponíveis?              |      Sim      |                       |
+| 11   | O recrutamento de usuários foi planejado e documentado?                                     |      Sim      |                       |
+| 12   | Os prazos, orçamentos e equipamentos necessários estão organizados?                         |      Sim      |                       |
+| 13   | Existe um termo de consentimento preparado para os participantes?                           |      Sim      |                       |
+| 14   | Os participantes estão cientes de seus direitos e protegidos contra danos?                  |     Sim       |                       |
+| 15   | A confiabilidade dos dados foi verificada antes de tirar conclusões?                        |     Sim       |                       |
+
 
 
 _Fonte: Breno Fernandes e Breno Lucena 2025.
@@ -63,16 +62,11 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 ## Problemas encontrados
 
-[Colocar problemas encontrados]
-
-
-
+Os objetivos da avaliação não estão claramente definidos e alinhados com os usuários-alvo. Isso pode comprometer a relevância e a eficácia da avaliação.
 
 ## Sugestões de Correções
 
-[Colocar Sugestões de correções]
-
-
+Revisar e definir claramente os objetivos da avaliação, garantindo que estejam alinhados com os usuários-alvo e suas necessidades. Isso pode ser feito através da análise do contexto de uso e das expectativas dos participantes.
 
 ## Referências Bibliográficas
 

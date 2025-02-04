@@ -25,11 +25,31 @@ A Tabela 1 apresenta a checklist com os dados obtidos a partir da verificação.
 |   ID   | Descrição                                                                                     | Avaliação  | Observações          |
 |:------:|-----------------------------------------------------------------------------------------------|:----------:|-----------------------|
 | **Padronização** |                                                                                     |            |                       |
-|   1    | O artefato possui introdução?                                                                 |            |                       |
-|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |            |                       |
-|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |            |                       |
-|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |            |                       |
-|   5    | Todos os textos estão na norma padrão?                                                        |            |                       |
+|   1    | O artefato possui introdução?                                                                 |      Sim      |                       |
+|   2    | O artefato possui uma bibliografia/referência bibliográfica?                                  |     Sim       |                       |
+|   3    | O artefato possui um histórico de versões com o ID, descrição das versões, data, autores e revisores? |      Sim      |                       |
+|   4    | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                  |     Sim       |                       |
+|   5    | Todos os textos estão na norma padrão?                                                        |  Sim          |                       |
+| 6   | A análise avaliou se as tarefas são organizadas de forma simples e intuitiva?               |     Sim      |             |
+| 7   | Foram identificadas complexidades desnecessárias que possam dificultar a realização das tarefas? |      Sim     |      Durante varios topicos se fala sobre o nivel de complexidade e dificuldade de realizar uma tarefa       |
+| 8   | O fluxo de interação analisado permite que o usuário complete suas tarefas de forma eficiente? |     Sim      |             |
+| 9   | A análise verificou se há instruções ou suporte adequado para a realização das tarefas?     |      Não     |             |
+| 10   | A análise verificou se os usuários podem realizar ações sem restrições excessivas?          |     Sim      |             |
+| 11   | Foram identificadas formas de correção ou reversão de ações realizadas equivocadamente?     |     Sim      |             |
+| 12   | A análise considera se o artefato permite ao usuário explorar diferentes opções sem punições severas? |     Não      |             |
+| 13   | Foram avaliadas funcionalidades que oferecem flexibilidade ao usuário para personalizar a interação? |      Não     |             |
+| 14   | A análise verificou se o artefato reduz ações desnecessárias ou repetitivas?                |     Não     |             |
+| 15  | O tempo necessário para realizar tarefas foi analisado para garantir maior eficiência?      |     Não     |             |
+| 16  | Foram avaliadas maneiras de otimizar a navegação e o acesso rápido às funcionalidades principais? |     Sim      |             |
+| 17  | A análise identificou possíveis sobrecargas cognitivas que poderiam prejudicar a experiência do usuário? |      Sim     |             |
+| 18  | A análise verificou se os elementos essenciais estão visíveis e de fácil acesso?            |     Sim      |             |
+| 19  | Foram avaliadas estratégias para reduzir a necessidade de memorização por parte do usuário? |     Sim      |             |
+| 20  | A análise considera se os elementos interativos são reconhecíveis e utilizam convenções familiares? |     Sim      |             |
+| 21  | Foram analisadas formas de garantir que o usuário saiba onde está e quais ações pode realizar? |     Não      |             |
+| 22  | A análise verificou se o conteúdo apresentado é relevante e útil para o usuário?           |     Sim      |      De forma indiscreta nos analisamos isso em cada topico      |
+| 23  | Foram avaliados possíveis excessos de informação que possam dificultar a experiência do usuário? |    Sim       |             |
+| 24  | A linguagem utilizada no artefato foi analisada para garantir clareza e adequação ao público-alvo? |     Sim      |             |
+| 25  | Foram identificadas possíveis ambiguidades ou termos técnicos que possam confundir o usuário? |      Sim     |             |
 
 _Fonte: Breno Fernandes e Breno Lucena 2025.
 
@@ -37,22 +57,26 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 ## Problemas encontrados
 
-[Colocar problemas encontrados]
-
-
-
+- A análise não verificou se há instruções ou suporte adequado para a realização das tarefas.
+- A análise não considerou se o usuário pode explorar diferentes opções sem punições severas.
+- Não foram avaliadas funcionalidades que oferecem flexibilidade ao usuário para personalizar a interação.
+- A análise não verificou se o artefato reduz ações desnecessárias ou repetitivas.
+- O tempo necessário para realizar tarefas não foi analisado.
+- Não foram analisadas formas para garantir que o usuário saiba onde está e quais ações pode realizar.
 
 ## Sugestões de Correções
 
-[Colocar Sugestões de correções]
-
+- Incluir suporte e instruções dentro do artefato para facilitar a realização das tarefas.
+- Permitir mais flexibilidade ao usuário, garantindo que ele possa testar opções sem punições severas.
+- Avaliar e, se necessário, implementar funcionalidades que permitam personalização da interação.
+- Reduzir ações repetitivas ou desnecessárias para otimizar o fluxo de tarefas.
+- Analisar o tempo necessário para a realização das tarefas e sugerir melhorias para otimização.
+- Adicionar elementos de navegação claros, como indicadores visuais e breadcrumbs, para que o usuário saiba onde está e o que pode fazer.
 
 
 ## Referências Bibliográficas
 
-BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
-
-[Colocar Referencia correta]
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010. Capitulo 8,
 
 
 ## Histórico de Versões

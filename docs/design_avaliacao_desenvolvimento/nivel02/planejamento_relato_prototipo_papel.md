@@ -51,44 +51,66 @@ Abaixo, seguem as descrições das telas do protótipo de papel utilizadas para 
 
 Esta é a tela inicial onde o usuário insere suas credenciais (cpf e senha) para acessar o sistema.
 
-![Tela de Login](../../assets/PrototipoPapelLogin.jpg)
 Figura 1: Tela de Login 
 
+![Tela de Login](../../assets/PrototipoPapelLogin.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
 
 #### Tela 2: Tela Inicial
 
 Após o login, o usuário visualiza o menu principal, onde pode acessar a funcionalidade "Acesso e Cartão".
 
-![Tela Inicial](../../assets/PrototipoPapelTelaInicial.jpg)
 Figura 2: Tela Inicial 
+
+![Tela Inicial](../../assets/PrototipoPapelTelaInicial.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 3: Tela Inicial com Dropdown
 
 A tela exibe um menu dropdown com opções adicionais, incluindo "Cartão Virtual".
 
-![Figura 1: Tela Inicial botão dropdown](../../assets/PrototipoPapelTelaInicialDropdown.jpg)
 Figura 3: Tela Inicial botão dropdown 
+
+![Figura 1: Tela Inicial botão dropdown](../../assets/PrototipoPapelTelaInicialDropdown.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 4: Descrição do Cartão Virtual
 
 Esta tela apresenta informações explicativas sobre o cartão virtual e seus benefícios.
 
-![Tela com descrição do que é um cartão virtual](../../assets/PrototipoPapelCartaoVirtual1.jpg)
 Figura 4: Tela com descrição do que é um cartão virtual 
+
+![Tela com descrição do que é um cartão virtual](../../assets/PrototipoPapelCartaoVirtual1.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 5: Confirmação de Dados  
 
 O usuário insere dados como nome, CPF e número do cartão físico.
 
-![Tela de confirmação de dados](../../assets/PrototipoPapelCartaoVirtual2.jpg)
 Figura 5: Tela de confirmação de dados 
+
+![Tela de confirmação de dados](../../assets/PrototipoPapelCartaoVirtual2.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 6: Cartão Virtual Gerado
 
 A tela exibe o QR Code e o código alfanumérico para integração com carteiras digitais.
 
-![Tela que exibe QR-code para integração com carteira digital](../../assets/PrototipoPapelCartaoVirtual3.jpg)
 Figura 6: Tela que exibe QR-code para integração com carteira digital 
+
+![Tela que exibe QR-code para integração com carteira digital](../../assets/PrototipoPapelCartaoVirtual3.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 
 ### Segunda Via
@@ -97,64 +119,100 @@ Figura 6: Tela que exibe QR-code para integração com carteira digital
 
 Esta é a tela inicial onde o usuário insere suas credenciais (cpf e senha) para acessar o sistema.
 
-![Tela de Login](../../assets/PrototipoPapelLogin.jpg)
 Figura 7: Tela de Login 
+
+![Tela de Login](../../assets/PrototipoPapelLogin.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 2: Tela Inicial
 
 A tela principal, onde o usuário encontra as opções de navegação, incluindo "Acesso e cartão".
 
+Figura 8: Tela Inicial
+
 ![Tela Inicial](../../assets/PrototipoPapelTelaInicial.jpg)
-Figura 8: Tela Inicial 
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+ 
 
 #### Tela 3: Tela Inicial com Dropdown
 
 A tela exibe um menu dropdown com opções adicionais, incluindo "Segunda via".
 
-![Figura 1: Tela Inicial botão dropdown](../../assets/PrototipoPapelTelaInicialDropdown.jpg)
 Figura 9: Tela Inicial botão dropdown 
+
+![Figura 1: Tela Inicial botão dropdown](../../assets/PrototipoPapelTelaInicialDropdown.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 4: Escolha do Motivo 
 
 O usuário seleciona o motivo para a solicitação, como "Roubo ou Furto".
 
-![Tela para escolher o motivo da solicitação](../../assets/PrototipoPapelSegundaVia1.jpg)
 Figura 10: Tela para escolher o motivo da solicitação 
+
+![Tela para escolher o motivo da solicitação](../../assets/PrototipoPapelSegundaVia1.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 5: Termo de Uso
 
 A tela apresenta os termos de uso que o usuário deve aceitar antes de prosseguir.
 
-![Tela com o termo de uso](../../assets/PrototipoPapelSegundaVia2.jpg)
 Figura 11: Tela com o termo de uso 
+
+![Tela com o termo de uso](../../assets/PrototipoPapelSegundaVia2.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 6: Envio de Boletim de Ocorrência
 
 O usuário pode anexar um boletim de ocorrência para completar a solicitação.
 
-![Tela para enviar o boletim de ocorrencia](../../assets/PrototipoPapelSegundaVia3.jpg)
 Figura 12: Tela para enviar o boletim de ocorrencia 
+
+![Tela para enviar o boletim de ocorrencia](../../assets/PrototipoPapelSegundaVia3.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 7: Seleção do Local de Retirada
 
 O usuário escolhe o local mais conveniente para retirar o cartão físico.
 
-![Tela para selecionar o local de retirada](../../assets/PrototipoPapelSegundaVia4.jpg)
 Figura 13: Tela para selecionar o local de retirada 
+
+![Tela para selecionar o local de retirada](../../assets/PrototipoPapelSegundaVia4.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 8: Forma de Pagamento 
 
 O usuário seleciona a forma de pagamento, como Pix, para completar a solicitação.
 
-![Tela para selecionar a forma de pagamento](../../assets/PrototipoPapelSegundaVia5.jpg)
 Figura 14: Tela para selecionar a forma de pagamento 
+
+![Tela para selecionar a forma de pagamento](../../assets/PrototipoPapelSegundaVia5.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 #### Tela 9: Sucesso e Status da Solicitação
 
 A tela final confirma que a solicitação foi realizada com sucesso e informa o status como "Em Análise".
 
-![Tela de sucesso e status da solicitação](../../assets/PrototipoPapelSegundaVia6.jpg)
 Figura 15: Tela de sucesso e status da solicitação
+
+![Tela de sucesso e status da solicitação](../../assets/PrototipoPapelSegundaVia6.jpg)
+
+**Fonte** - [Breno Fernandes](https://github.com/Brenofrds) & [Breno Lucena](https://github.com/BrenoLUCO).
+
 
 
 *A Tabela 1 apresenta o cronograma planejado.*
@@ -213,9 +271,9 @@ BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro:
 
 BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Capítulo 9.6: Qual Tipo de Método de Avaliação Escolher?, p. 301-303.
 
-BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.1: Por Onde Começar?, p. 303-304.
+Design de Interação: Além da Interação Humano-Computador. Capítulo 8.2.3 - Prototipação de baixa fidelidade.
 
-BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.2: Preparação, p. 304-308.
+Design Thinking: Inovação em Negócios. Protótipo de Papel (p. 126).
 
 
 ## Histórico de Versões

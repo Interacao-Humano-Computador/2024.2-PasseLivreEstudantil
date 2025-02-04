@@ -127,7 +127,6 @@ nav:
       - Personas: analise_de_requsitos/personas.md
       - Cenários: analise_de_requsitos/cenarios.md
       - Análise de Tarefas:
-          - Análise de Tarefas: analise_de_requsitos/analise_tarefas/analise_de_tarefas.md
           - GOMS: analise_de_requsitos/analise_tarefas/goms.md
           - HTA: analise_de_requsitos/analise_tarefas/hta.md
       - Termo de Consentimento: analise_de_requsitos/termo_de_consentimento.md
