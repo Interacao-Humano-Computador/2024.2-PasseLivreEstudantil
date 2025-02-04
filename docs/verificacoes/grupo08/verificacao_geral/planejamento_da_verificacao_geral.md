@@ -1,10 +1,9 @@
-# Planejamento da Verificação da Etapa 6 do Grupo 7
-
+# Planejamento da Verificação do Grupo 8
 ## Introdução
-A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela, os artefatos produzidos são analisados para garantir que cumpram os requisitos especificados. Este documento apresenta o planejamento da verificação de todos os artefatos produzidos pelo Grupo 7
+A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela, os artefatos produzidos são analisados para garantir que cumpram os requisitos especificados. Este documento apresenta o planejamento da verificação de todos os artefatos produzidos pelo Grupo 8
 
 ## Objetivos
-O objetivo deste documento é verificar se os artefatos produzidos pelo Grupo 7 atendem aos itens e padrões exigidos.
+O objetivo deste documento é verificar se os artefatos produzidos pelo Grupo 8 atendem aos itens e padrões exigidos.
 
 ## Metodologia
 A metodologia escolhida para esta verificação é a inspeção. A inspeção utiliza uma checklist com os defeitos mais comuns, que devem ser identificados, analisados e classificados. A leitura do artefato não é feita pelo autor do mesmo. Ao final da verificação, será exibido um gráfico com os resultados.
@@ -50,7 +49,7 @@ Os responsáveis pelas verificações são:
 
 
 ## Cronograma
-A verificação ocorrerá de **01/02/2025**, com os resultados sendo relatados no dia **02/02/2025** na página de documentação do Grupo 7.
+A verificação ocorrerá de **01/02/2025**, com os resultados sendo relatados no dia **02/02/2025** na página de documentação do Grupo 8.
 
 | Data        | Descrição                                                                                      | Responsável        |
 |-------------|------------------------------------------------------------------------------------------------|--------------------|
