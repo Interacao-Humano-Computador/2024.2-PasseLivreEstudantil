@@ -113,6 +113,8 @@ Durante a entrevista, serão apresentadas capturas de tela para que o usuário v
 | 5      | A motivação do usuário para utilizar a aplicação do Passe Livre fica clara no tarefa?       | ( ) SIM ( ) NÃO |
 | 6      | Você considera que o ator principal completou seu objetivo na história contada pelo tarefa? | ( ) SIM ( ) NÃO |
 
+**Fonte:** Breno Lucena
+
 ### Decidir
 
 As questões éticas consideradas nesta avaliação incluem a utilização de um termo de consentimento, elaborado conforme os princípios descritos pelo Conselho Nacional de Saúde. Esses princípios abrangem:

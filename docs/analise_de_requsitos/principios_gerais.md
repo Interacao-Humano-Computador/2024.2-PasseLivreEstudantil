@@ -20,7 +20,7 @@ Figura 1 - Tela de envio de documentos para comprovar a troca de instituição n
 
 ![Figura 1 - Tela de envio de documentos para comprovar a troca de instituição no processo de atualização cadastral.](../assets/trocaInstituicaoDocumento2.png)
 
-Fonte Passe Livre Estudantil
+Fonte: Passe Livre Estudantil
 
 ## Equilíbrio entre controle e liberdade do usuário
 
@@ -39,7 +39,7 @@ Figura 2 - Erro no site do Passe Livre Estudantil, redirecionando o usuário par
 
 ![Figura 2 - Erro no site do Passe Livre Estudantil, redirecionando o usuário para uma página sem solução funcional](../assets/erroTrocadePaginas.png)
 
-Fonte Passe Livre Estudantil
+Fonte: Passe Livre Estudantil
 
 
 A página de alteração de foto apresenta um problema claro de falta de controle e feedback ao usuário. Não permitir que o usuário visualize a foto enviada ou altere a imagem antes de salvar cria incerteza e dificulta a correção de erros. Além disso, manter a opção de anexar outra foto sem clareza sobre o comportamento (substituir ou adicionar) torna o processo confuso e pouco intuitivo.
@@ -54,7 +54,7 @@ Figura 3 - Tela de alteração de foto no sistema do Passe Livre Estudantil
 
 ![Figura 3 - Tela de alteração de foto no sistema do Passe Livre Estudantil](../assets/trocarFoto.png)
 
-Fonte Passe Livre Estudantil
+Fonte: Passe Livre Estudantil
 
 ## Promovendo a Eficiência do Usuário
 
@@ -71,7 +71,7 @@ Figura 4 - Tela de troca de instituição
 
 ![Figura 4 - Tela de troca de instituição](../assets/trocadeInstituição.png)
 
-Fonte Passe Livre Estudantil
+Fonte: Passe Livre Estudantil
 
 ## Visibilidade e Reconhecimento
 
@@ -87,7 +87,7 @@ Figura 5 - Tela de alteração de foto
 
 ![Figura 5 - Tela de alteração de foto](../assets/alteracaodeFotoMensagem.png)
 
-Fonte Passe Livre Estudantil
+Fonte: Passe Livre Estudantil
 
 
 ## Conteúdo relevante e expressão adequada
@@ -104,7 +104,7 @@ Figura 6 - Tela de acessar sua conta
 
 ![Figura 6 - Tela de acessar sua conta](../assets/loginFAQ.png)
 
-Fonte Passe Livre Estudantil
+Fonte: Passe Livre Estudantil
 
 O uso de termos como "EM_ANALISE" e "PENDENTE_TROCA_INST_RETORNO" no histórico do Passe Livre pode causar confusão, pois são expressões técnicas que não são intuitivas para a maioria dos usuários. Essas nomenclaturas deveriam ser substituídas por frases mais claras, como "Em análise" ou "Pendente de troca institucional", que traduzem o status de forma acessível, promovendo melhor compreensão e alinhamento com a linguagem do público-alvo.
 
@@ -112,7 +112,7 @@ Figura 7 - Tela de historico
 
 ![Figura 7 - Tela de historico](../assets/historico.png)
 
-Fonte Passe Livre Estudantil
+Fonte: Passe Livre Estudantil
 
 ## Bibliografia
 
@@ -120,7 +120,7 @@ Fonte Passe Livre Estudantil
   Disponível em: [https://aprender3.unb.br/pluginfile.php/2972722/mod_resource/content/2/Apresenta%C3%A7%C3%A3o%20cap08%20Livro%20Simone.pdf](https://aprender3.unb.br/pluginfile.php/2972722/mod_resource/content/2/Apresenta%C3%A7%C3%A3o%20cap08%20Livro%20Simone.pdf)  
 
 - **BARBOSA, S. D. J.; SILVA, B. S.**  
-  *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2011. Capítulo 10.  
+  *Interação Humano-Computador.* Rio de Janeiro: Elsevier, 2010. Capítulo 8.  
   Disponível em: [https://aprender3.unb.br/pluginfile.php/2972723/mod_resource/content/4/ihc-ux%20Cap.%2010.pdf](https://aprender3.unb.br/pluginfile.php/2972723/mod_resource/content/4/ihc-ux%20Cap.%2010.pdf)  
 
 - **Site Passe Livre Estudantil**  

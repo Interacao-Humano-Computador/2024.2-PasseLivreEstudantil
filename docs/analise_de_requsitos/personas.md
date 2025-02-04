@@ -30,6 +30,7 @@ Figura 1 - Persona Primária Mariana Silva
 
 **Fonte:** Elaborada por Breno Fernandes (2024).
 
+
 | **Campo**                    | **Descrição**                                                                                                                                                                                                                                                                                      |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Status**                   | Persona Primária                                                                                                                                                                                                                                                                                   |
@@ -119,9 +120,15 @@ Figura 4 - Antipersona Maria Aparecida
 
 ## Referências
 
-1. **OpenAI.** Imagens geradas pelo ChatGPT com integração ao DALL-E. Disponível em: [https://platform.openai.com](https://platform.openai.com). Acesso em: 29 nov. 2024.
+ **OpenAI.** Imagens geradas pelo ChatGPT com integração ao DALL-E. Disponível em: [https://platform.openai.com](https://platform.openai.com). Acesso em: 29 nov. 2024.
 
-2. **BARBOSA, S. D. J.; SILVA, B. S.** Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.2 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 176-182.
+
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025.
+
+## Histórico de Versões
 
 |    Data    | Data Prevista de Revisão | Versão |     Descrição     |      Autor      |   Revisor    |
 | :--------: | :----------------------: | :----: | :---------------: | :-------------: | :----------: |

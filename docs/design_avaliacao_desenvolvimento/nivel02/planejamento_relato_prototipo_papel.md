@@ -207,10 +207,15 @@ Logo, a Tabela 2 explicita um cronograma de reprojeto, que seria feito 1 dia ap�
 fonte: Breno Lucena 2025
 
 ## Bibliografia
+BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Capítulo 9.2: O que Avaliar?, p. 290-294.
 
-Design de Interação: Além da Interação Humano-Computador. Capítulo 8.2.3 - Prototipação de baixa fidelidade.
+BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Capítulo 9.5: Que Tipos de Dados Coletar e Produzir?, p. 297-300.
 
-Design Thinking: Inovação em Negócios. Protótipo de Papel (p. 126).
+BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Capítulo 9.6: Qual Tipo de Método de Avaliação Escolher?, p. 301-303.
+
+BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.1: Por Onde Começar?, p. 303-304.
+
+BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Capítulo 9.7.2: Preparação, p. 304-308.
 
 
 ## Histórico de Versões

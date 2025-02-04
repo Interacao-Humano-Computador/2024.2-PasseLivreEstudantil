@@ -96,8 +96,11 @@ Portaria Conjunta Nº 5, de 24 de fevereiro de 2016. Disponível em: [Portaria C
 Lei Nº 4.462, de 13 de janeiro de 2010. Disponível em: [Lei Nº 4.462](https://www.sinj.df.gov.br/sinj/Norma/62189/Lei_4462_13_01_2010.pdf). Acesso em: 29 nov. 2024.
 
 FAQ - Perguntas Frequentes sobre o Passe Livre Estudantil. Disponível em: [FAQ - Passe Livre Estudantil](https://mobilidade.brb.com.br/passelivre/estudante/faq.xhtml). Acesso em: 29 nov. 2024.
+BARBOSA, S. D. J.; SILVA, B. S. Capítulo 6.1 Interação Humano-Computador. 3. ed. Rio de Janeiro: Elsevier, 2010. p. 174-182.
 
-BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Disponível em: 
+https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTA
+ DOR. Acesso em: 28 jan. 2025. 
 
 ## Histórico de Versões
 
