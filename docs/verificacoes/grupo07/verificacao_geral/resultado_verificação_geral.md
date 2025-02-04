@@ -990,7 +990,7 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <font size="3"><b>Figura  28</b> - Grafico Planejamento da Avaliação do Prototipo de Alta Fidelidade.</font>
 
-![Grafico Planejamento da Avaliação do Prototipo de Alta Fidelidade](../../../assets/)
+![Grafico Planejamento da Avaliação do Prototipo de Alta Fidelidade](../../../assets/planejamento-da-avaliação-do-prototipo-de-altafidelidade-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -1026,7 +1026,7 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <font size="3"><b>Figura  29</b> - Grafico Planejamento do Relato de Resultados do Prototipo de Alta Fidelidade.</font>
 
-![Grafico Planejamento do Relato de Resultados do Prototipo de Alta Fidelidade](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Planejamento do Relato de Resultados do Prototipo de Alta Fidelidade](../../../assets/planejamento-do-relato-dos-resultados-do-prototipo-de-alta-fidelidade-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
@@ -1059,7 +1059,7 @@ _Fonte: Breno Fernandes e Breno Lucena 2025.
 
 <font size="3"><b>Figura  30</b> - Grafico Relato de Resultados do Prototipo de Alta Fidelidade.</font>
 
-![Grafico Relato de Resultados do Prototipo de Alta Fidelidade](../../../assets/aspectos-eticos-gr.jpg)
+![Grafico Relato de Resultados do Prototipo de Alta Fidelidade](../../../assets/relato-do-resultado-do-prototipo-de-alta-gr.jpeg)
 
 <font size="3"><b>Fonte:</b> Breno Fernandes e Breno Lucena</font>
 
