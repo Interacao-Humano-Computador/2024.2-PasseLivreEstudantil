@@ -56,12 +56,18 @@ nav:
       - Entrega 4: apresentacoes/entrega4/entrega4.md
       - Entrega 5: apresentacoes/entrega5/entrega5.md
   - Entrega Final:
-      - Ciclo de vida: entrega-final/ciclo_de_vida.md
-      - Cronograma Planejado e Executado: entrega-final/cronograma_planejado_e_executado.md
-      - Execução do Projeto: entrega-final/execucao_do_projeto.md
-      - Ferramentas Utilizadas: entrega-final/ferramentas_utilizadas.md
-      - Resultados: entrega-final/resultados_alcancados.md
-      - Site escolhido: entrega-final/site_escolhido.md
+      - 1. Site escolhido: entrega-final/site_escolhido.md
+      - 2. Ciclo de vida: entrega-final/ciclo_de_vida.md
+      - 3. Cronograma Planejado e Executado: entrega-final/cronograma_planejado_e_executado.md
+      - 4. Execução do Projeto: entrega-final/execucao_do_projeto.md
+      - 5. Resultados Alcançados: entrega-final/resultados_alcancados.md
+      - 6. Ferramentas Utilizadas: entrega-final/ferramentas_utilizadas.md
+      - 7. Técnicas Utilizadas: entrega-final/tecnicas_utilizadas.md
+      - 8. Artefatos Criados: entrega-final/artefatos_criados.md
+      - 9. Síntese das Avaliações: entrega-final/sintese_das_avaliacoes.md
+      - 10. Síntese das Verificações: entrega-final/sintese_das_verificacoes.md
+      - 11. Síntese das Apresentações: entrega-final/sintese_das_apresentacoes.md
+      - 12. Considerações Finais: entrega-final/consideracoes_finais.md
   - Verificação e Inspeção:
       - Grupo 7:
           - Entrega 01: verificacoes/grupo07/entrega01/verificacao_entrega01_grupo07.md
