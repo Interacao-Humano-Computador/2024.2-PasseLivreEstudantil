@@ -55,6 +55,13 @@ nav:
       - Entrega 3: apresentacoes/entrega3/entrega3.md
       - Entrega 4: apresentacoes/entrega4/entrega4.md
       - Entrega 5: apresentacoes/entrega5/entrega5.md
+  - Entrega Final:
+      - Ciclo de vida: entrega-final/ciclo_de_vida.md
+      - Cronograma Planejado e Executado: entrega-final/cronograma_planejado_e_executado.md
+      - Execução do Projeto: entrega-final/execucao_do_projeto.md
+      - Ferramentas Utilizadas: entrega-final/ferramentas_utilizadas.md
+      - Resultados: entrega-final/resultados_alcancados.md
+      - Site escolhido: entrega-final/site_escolhido.md
   - Verificação e Inspeção:
       - Grupo 7:
           - Entrega 01: verificacoes/grupo07/entrega01/verificacao_entrega01_grupo07.md
@@ -113,8 +120,9 @@ nav:
                   - Planejamento da Avaliacao do Protótipo de Alta Fidelidade: verificacoes/grupo07/verificacao_geral/nivel3/prototipo_de_alta_fidelidade/planejamento_da_avaliacao_do_prototipo_de_alta_fidelidade.md
                   - Planejamento do Relato dos Resultados: verificacoes/grupo07/verificacao_geral/nivel3/prototipo_de_alta_fidelidade/planejamento_do_relato_dos_resultados.md
                   - Relato do Resultado: verificacoes/grupo07/verificacao_geral/nivel3/prototipo_de_alta_fidelidade/relato_do_resultado.md
+   
 
-            
+
       - Grupo 8:
           - Entrega 01: verificacoes/grupo08/entrega01/verificacao_entrega01_grupo08.md
           - Entrega 02: verificacoes/grupo08/entrega02/verificacao_entrega02_grupo08.md
