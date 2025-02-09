@@ -10,6 +10,7 @@ A Engenharia de Usabilidade de Mayhew (Figura 1) agrupa e estrutura diversas ati
 
 
 Para a escolha do ciclo de vida, o grupo discutiu as vantagens e desvantagens de cada modelo, a fim de chegar a um consenso sobre qual seria o melhor processo para o projeto. A conclusão foi que o Ciclo de Vida de Mayhew seria o melhor candidato por vários motivos. Suas etapas são detalhadas e bem definidas, deixando menos espaço para a subjetividade em comparação com o ciclo de vida simples, por exemplo. Além disso, o professor recomendou a utilização desse ciclo de vida devido à sua robustez e detalhamento, o que é particularmente útil para o grupo, que não possui experiência na área de IHC. Um modelo mais robusto e detalhado serviria como um guia eficaz. 
+Para mais detalhes: [Ciclo de vida](../planejamento/design.md)
 
 ### Ciclo de vida Mayhew
 
