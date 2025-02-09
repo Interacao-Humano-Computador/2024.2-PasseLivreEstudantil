@@ -30,7 +30,7 @@ Durante nossa avaliação inicial, baseada no framework DECIDE e nas heurística
 
 ## Princípios Gerais
 
-Após a escolha do site, na etapa de análise de requisitos, foi feita uma análise ainda mais a fundo da plataforma, tomando por bases os princípios gerais definidos por Barbosa e Silva (2010). Nessa análise foram verificadas as violações de alguns desses princípios, que se tornaram foco de trabalho em etapas subsequentes do projeto. Para maior detalhes acesse o artefato dos [princípios gerais do projeto](../analise_de_requsitos//principios_gerais).
+Após a escolha do site, na etapa de análise de requisitos, foi feita uma análise ainda mais a fundo da plataforma, tomando por bases os princípios gerais definidos por Barbosa e Silva (2010). Nessa análise foram verificadas as violações de alguns desses princípios, que se tornaram foco de trabalho em etapas subsequentes do projeto. Para maior detalhes acesse o artefato dos [Principios Gerais](../analise_de_requsitos/principios_gerais.md)
 
 
 ## Conclusão
