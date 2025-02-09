@@ -17,9 +17,7 @@ Para a escolha do ciclo de vida, o grupo discutiu as vantagens e desvantagens de
   <b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.
 </div>
 
-<div style="text-align: center;">
-  <img src="https://seusite.com/docs/assets/ciclo-de-vida-mayhew.png" alt="Ciclo de Vida de Mayhew" style="max-width: 100%; height: auto;">
-</div>
+![Ciclo de vida  Mayhew](../assets/ciclo-de-vida-mayhew.png)
 
 <div style="text-align: center;">
   <i>Fonte: BARBOSA e SILVA, 2010, p.110.</i>
