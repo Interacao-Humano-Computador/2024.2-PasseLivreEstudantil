@@ -20,7 +20,7 @@ No total do projeto foram elaborados 78 artefatos representados pelas tabelas de
 | [Metodologia](../planejamento/metodologia.md)            | Descrição da metodologia de desenvolvimento utilizada no projeto. | Breno Fernandes                                  | Mateus Viera                                    |
 | [Sites Avaliados](../planejamento/sites_avaliados.md)    | Avaliação dos sites candidatos à escolha.                         | Breno Fernandes                                  | Mateus Viera                                    |
 | [Site Escolhido](../planejamento/sites_escolhidos.md)      | Critérios e motivações da escolha do site escolhido.              | Breno Fernandes                                  | Mateus Viera                                    |
-| [Processo de Design](../planejamento/design.md)          | Critérios e motivações da escolha do site escolhido.              | Breno Lucena                                     | Breno Lucena                                    |
+| [Processo de Design](../planejamento/design.md)          | Critérios e motivações da escolha do site escolhido.              | Breno Lucena                                     | Breno Fernandes                                    |
 | [Verificação](../verificacoes/grupo07/entrega01/verificacao_entrega01_grupo07.md)            | Verificação do nosso grupo.                                       | Felipe Verissimo                                 | Breno Fernandes                                 |
 | [Verificação](../verificacoes/grupo08/entrega01/verificacao_entrega01_grupo08.md)     | Verificação do grupo +1.                                          | Felipe Verissimo                                 | Breno Fernandes                                 |
 
@@ -208,7 +208,7 @@ Ao longo do projeto foram criados diversos artefatos que sintetizam a evolução
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)                                                                                           | Revisor(es)                                    |
-| ------ | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 02/07/2023 | Criação do documento | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
-| `1.1`  | 02/08/2023 | Adição da conclusão. | [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0) | [Arthur de Melo](https://github.com/arthurmlv) |
+| Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
+| ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
+| 1.0  | 06/02/2025 | Criação do documento | [Breno Lucena](https://github.com/BrenoLUCO) | [Breno Fernandes](https://github.com/Brenofrds) |
+
