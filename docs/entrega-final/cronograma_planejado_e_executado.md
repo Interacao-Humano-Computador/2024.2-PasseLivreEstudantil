@@ -87,7 +87,7 @@ Fonte: Mateus Viera
 
 ---
 
-## Entrega 4
+#### Entrega 4
 
 _Tabela 7 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
@@ -113,7 +113,7 @@ Fonte: Mateus Viera
 
 ---
 
-## Entrega 5
+#### Entrega 5
 
 _Tabela 9 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
@@ -136,7 +136,7 @@ Fonte: Mateus Viera
 
 ---
 
-## Entrega 6
+#### Entrega 6
 
 _Tabela 11 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
@@ -159,7 +159,7 @@ Fonte: Mateus Viera
 
 ---
 
-## Entrega 7
+#### Entrega 7
 
 _Tabela 13 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
@@ -182,7 +182,7 @@ Fonte: Mateus Viera
 
 ---
 
-## Entrega 8
+#### Entrega 8
 
 _Tabela 15 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
@@ -204,7 +204,7 @@ Fonte: Mateus Viera
 
 ### Cronogramas Executado 
 
-### Entrega 1
+#### Entrega 1
 
 _Tabela 1 - Fase atual do projeto e data de entrega dos artefatos_
 
@@ -232,7 +232,7 @@ Fonte: Mateus Viera
 
 ---
 
-## Entrega 2
+#### Entrega 2
 
 _Tabela 3 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
@@ -258,7 +258,7 @@ Fonte: Mateus Viera
 
 ---
 
-## Entrega 3
+#### Entrega 3
 
 _Tabela 5 - Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
@@ -283,7 +283,7 @@ Fonte: Mateus Viera
 
 ---
 
-## Entrega 4
+#### Entrega 4
 
 _Tabela 6- Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
@@ -308,7 +308,7 @@ _Tabela 8 - Cronograma de Planejamento da Entrega 4_
 Fonte: Mateus Viera
 
 ---
-## Entrega 7
+#### Entrega 7
 
 _Tabela 7- Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
@@ -336,7 +336,7 @@ _Tabela 7- Fase atual do projeto no ciclo de vida da Mayhew e data de entrega do
 
 Fonte: Breno Lucena 
 
-## Entrega 8
+#### Entrega 8
 
 _Tabela 8- Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
@@ -378,7 +378,7 @@ _Tabela 8- Fase atual do projeto no ciclo de vida da Mayhew e data de entrega do
 
 fonte: Breno Lucena 
 
-## Entrega 9
+#### Entrega 9
 
 _Tabela 9- Fase atual do projeto no ciclo de vida da Mayhew e data de entrega dos artefatos_
 
