@@ -26,7 +26,18 @@ As ferramentas foram essenciais no desenvolvimento do trabalho, pois permitiram 
 
 ## Bibliografia
 
-GABRIEL, Lucas; MACHADO, Maurício; SILVA, Davi; SOUZA, Nicolas. Entrega Final. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/entrega_final/>. Acesso em: 06 Fevereiro 2025.
+ Figma. Disponível em: https://www.figma.com/. Acesso em: 09 de fevereiro de 2025.
+
+GitHub. Disponível em: https://docs.github.com/pt. Acesso em: 09 de fevereiro de 2025.
+
+Google Docs. Disponível em: https://www.google.com/intl/pt-BR/docs/about/. Acesso em: 29 de nov de 2024.
+
+MkDocs. Disponível em: https://www.mkdocs.org/. Acesso em: 09 de fevereiro. de 2025.
+Microsoft Teams. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software. Acesso em:09 de fevereiro. de 2025.
+Visual Studio Code. Disponível em: https://code.visualstudio.com/. Acesso em: 09 de fevereiro de 2025.
+
+WhatsApp. Disponível em: https://www.whatsapp.com/?lang=pt_br. Acesso em: 09 de fevereiro. de 2025.
+YouTube. Disponível em: https://about.youtube/. Acesso em: 09 de fevereiro. de 2025.
 
 ## Histórico de Versões
 

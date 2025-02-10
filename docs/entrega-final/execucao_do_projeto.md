@@ -22,8 +22,7 @@ Demonstrar a execução do ciclo de vida do projeto é essencial para promover t
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
-
+BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**: Processos de Design de IHC . Capítulo 4: Fundamentos de Usabilidade. Rio de Janeiro: Editora XYZ, 2010. p. 109-111.
 
 ## Histórico de Versões
 

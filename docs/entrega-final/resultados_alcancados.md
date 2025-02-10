@@ -101,6 +101,9 @@ Conclui-se que a experiência adquirida ao longo do projeto **contribuiu signifi
 
 ## Bibliografia
 
+Este documento apresenta uma visão consolidada dos artefatos produzidos ao longo do projeto. Caso seja necessário consultar as referências bibliográficas utilizadas em cada checklist, recomenda-se acessar os próprios artefatos de checklist, onde as fontes específicas foram devidamente documentadas.
+
+
 
 
 ## Histórico de Versões

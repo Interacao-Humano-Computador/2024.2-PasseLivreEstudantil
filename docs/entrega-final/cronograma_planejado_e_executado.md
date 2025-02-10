@@ -404,6 +404,10 @@ _Tabela 9- Fase atual do projeto no ciclo de vida da Mayhew e data de entrega do
 
 fonte: Breno Lucena 
 
+## Bibliografia
+
+UNIVERSIDADE DE BRASÍLIA (UnB). **Exemplo de Cronograma**. Disponível em: https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf. Acesso em: 09 fevereiro. 2025.
+
 ## Histórico de Versão
 
 | Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
