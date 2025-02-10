@@ -17,7 +17,7 @@ Tabela 1 - Técnicas Utilizadas
 |Framework DECIDE |[Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO)| Planejamentos das Avaliações nível 1, 2 e 3 |
 |Avaliação Heurística|[Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO)| Site Escolhido <br> Sites Avaliados <br> Princípios Gerais |
 |Análise Documental|[Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO)|Perfil de Usuário|
-|Checklists|[Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO)| Verificações do Grupo <br> Verificações do Grupo 2|
+|Checklists|[Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO)| Verificações do nosso Grupo <br> Verificações do Grupo +1|
 |Análise de intersujeito|[Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO) | Relato dos Resultados do Storyboard <br> Relato dos Resultados do Protótipo de Papel <br> Relato dos Resultados do Protótipo de Alta Fidelidade |
 |Teste de Usabilidade|[Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO) | Resultado do Storyboard <br> Resultado do Protótipo de Papel <br> Resultado do Protótipo de Alta Fidelidade |
 |Teste Piloto | [Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO)| Planejamentos das Avaliações nível 1, 2 e 3 |
