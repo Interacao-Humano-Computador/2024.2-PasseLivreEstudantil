@@ -11,10 +11,10 @@ Dentro do projeto foram feitas avaliações tanto de protótipos quanto de model
 
 | Avaliação                                 | Método              | Avaliador(es) | Número de Participantes | Resultados obtidos                                                                                                    |
 | ----------------------------------------- | ------------------- | ------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Avaliação do Storyboard                   | Entrevista         |      Breno Fernandes         |           1              | [Resultado Avaliação Storyboard](../design_avaliacao_desenvolvimento/nivel01/storyboard/relato_resultado.md)         |
-| Avaliação da Análise de Tarefas           | Entrevista         |               |                         | [Resultado da Avaliação Análise de Tarefas](../design_avaliacao_desenvolvimento/nivel01/analise_de_tarefas/relato_resultado.md) |
-| Avaliação do Protótipo de Papel           | Entrevista         |       Breno Fernandes, Breno Lucena        |           2              | [Relato Avaliação do Protótipo de Papel](../design_avaliacao_desenvolvimento/nivel02/relato_resultado_prototipo_papel.md)     |
-| Avaliação do Protótipo de Alta Fidelidade | Teste de Usabilidade |      Breno Fernandes, Breno Lucena         |            2             | [Relato Avaliação do Protótipo de Alta Fidelidade](../design_avaliacao_desenvolvimento/nivel03/relato_resultado_prototipo_alta_fidelidade.md) |
+| Avaliação do Storyboard                   | Entrevista         |      Breno Fernandes         |           1              | [Resultado Storyboard](../design_avaliacao_desenvolvimento/nivel01/storyboard/relato_resultado.md)         |
+| Avaliação da Análise de Tarefas           | Entrevista         |               |                         | [Resultado Análise de Tarefas](../design_avaliacao_desenvolvimento/nivel01/analise_de_tarefas/relato_resultado.md) |
+| Avaliação do Protótipo de Papel           | Entrevista         |       Breno Fernandes, Breno Lucena        |           2              | [Relato Protótipo de Papel](../design_avaliacao_desenvolvimento/nivel02/relato_resultado_prototipo_papel.md)     |
+| Avaliação do Protótipo de Alta Fidelidade | Teste de Usabilidade |      Breno Fernandes, Breno Lucena         |            2             | [Relato Protótipo de Alta Fidelidade](../design_avaliacao_desenvolvimento/nivel03/relato_resultado_prototipo_alta_fidelidade.md) |
 
 
 _Fonte: [Breno Fernandes](https://github.com/Brenofrds) e [Breno Lucena](https://github.com/BrenoLUCO), 2025_
