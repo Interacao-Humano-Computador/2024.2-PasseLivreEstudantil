@@ -40,6 +40,7 @@ A escolha do site para o trabalho no projeto é uma etapa crucial na disciplina 
 ## Bibliografia
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 9241-11:2002**: Ergonomia da interação humano-sistema – Parte 11: Usabilidade: conceitos e diretrizes. Rio de Janeiro: ABNT, 2002.
+
 BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**: conceitos e práticas. Capítulo 2: Fundamentos de Usabilidade. Rio de Janeiro:, Elsevier Editora Ltda, 2010. p. 18-41.
 
 ## Histórico de Versões

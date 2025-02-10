@@ -406,10 +406,13 @@ fonte: Breno Lucena
 
 ## Bibliografia
 
-UNIVERSIDADE DE BRASÍLIA (UnB). **Exemplo de Cronograma**. Disponível em: https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf. Acesso em: 09 fevereiro. 2025.
+UNIVERSIDADE DE BRASÍLIA (UnB). **Exemplo de Cronograma**. Disponível em: [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2972635/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf). Acesso em: 09 fevereiro. 2025.
 
 ## Histórico de Versão
 
 | Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | 1.0  | 09/02/2025 | Criação do documento | [Breno Lucena](https://github.com/BrenoLUCO) | [Breno Fernandes](https://github.com/Brenofrds) |
+
+
+

@@ -28,7 +28,7 @@ Para mais detalhes: [Ciclo de vida](../planejamento/design.md)
 
 ## Referências Bibliográficas
 
-BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**: Processos de Design de IHC . Capítulo 4: Fundamentos de Usabilidade. Rio de Janeiro: Editora XYZ, 2010. p. 109-111.
+BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**: Processos de Design de IHC . Capítulo 4: Fundamentos de Usabilidade. Rio de Janeiro:Elsevier Editora Ltda, 2010. p. 109-111.
 
 ## Histórico de Versão
 
