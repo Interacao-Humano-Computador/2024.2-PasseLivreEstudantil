@@ -204,7 +204,9 @@ Ao longo do projeto foram criados diversos artefatos que sintetizam a evolução
 
 ## Bibliografia
 
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
 
+- Capítulo 4.3.3: Usabilidade de Mayhew - Engenharia de Usabilidade, p. 109-111.
 
 ## Histórico de Versões
 

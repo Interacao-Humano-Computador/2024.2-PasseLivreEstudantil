@@ -27,7 +27,18 @@ Além disso, as avaliações foram de grande riqueza para a equipe que pôde ent
 
 ## Bibliografia
 
-> SOUZA, Nicolas. Entrega Final. Repositório do Grupo Lichess e Presentes da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/entrega_final/#sintese-das-avaliacoes>>. Acesso em: 02 de julho 2023.
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+
+- Capítulo 9.2 – O que Avaliar? (p. 290-294): Explica os critérios essenciais para a avaliação de sistemas interativos.
+- Capítulo 9.3 – Quando Avaliar o Uso de um Sistema? (p. 294-295): Discute os momentos adequados para realizar avaliações dentro do ciclo de desenvolvimento.
+- Capítulo 9.4 – Experiências de Uso (p. 295-297): Explora a importância de coletar dados sobre a experiência dos usuários.
+- Capítulo 9.5 – Que Tipos de Dados Coletar e Produzir? (p. 297-300): Apresenta as diferentes categorias de dados que podem ser obtidas na avaliação de usabilidade.
+- Capítulo 9.6 – Qual Tipo de Método de Avaliação Escolher? (p. 301-303): Fornece diretrizes para selecionar a metodologia mais adequada à avaliação do sistema.
+- Capítulo 9.7.1 – Por Onde Começar? (p. 303-304): Indica os primeiros passos para a condução de uma avaliação eficaz.
+- Capítulo 9.7.2 – Preparação (p. 304-308): Detalha as etapas preparatórias para uma avaliação bem-sucedida.
+- Capítulo 9.7.3 – Coleta de Dados (p. 295-297): Explica técnicas para obtenção de dados relevantes durante a avaliação.
+- Capítulo 9.7.4 – Interpretação (p. 295-297): Discute como analisar os dados coletados e extrair insights significativos.
+- Capítulo 9.7.5 – Consolidação e Relato dos Resultados (p. 295-297): Orienta sobre a sistematização das descobertas e a documentação dos resultados.
 
 ## Histórico de Versões
 

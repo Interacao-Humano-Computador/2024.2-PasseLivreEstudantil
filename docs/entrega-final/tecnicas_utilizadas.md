@@ -24,8 +24,10 @@ Tabela 1 - Técnicas Utilizadas
 |Sprint Planning|[Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO)| Organização e planejamento semanal das entregas|
 |Entrevistas|[Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO)| Relato dos Resultados do Storyboard <br> Relato dos Resultados do Protótipo de Papel <br> Relato dos Resultados do Protótipo de Alta Fidelidade|
 | Observação Direta e Registro de Dados | [Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO) | Relato do Protótipo de Papel <br> Relato do Protótipo de Alta Fidelidade |
-Fonte: [Arthur de Melo](https://github.com/arthurmlv)
 | (Think-Aloud Protocol) | [Breno Fernandes](https://github.com/Brenofrds) <br> [Breno Lucena](https://github.com/BrenoLUCO) | Relato do Protótipo de Papel <br> Relato do Protótipo de Alta Fidelidade |
+
+Fonte: [Breno Fernandes](https://github.com/Brenofrds)
+
 </center>
 
 ## Conclusão

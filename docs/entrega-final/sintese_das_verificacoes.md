@@ -166,7 +166,7 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds) e [Breno Lucena](https:/
 
 ### Grupo 8    
 
-#### Verificação Etapa 1 - Grupo 8
+#### Verificação Etapa 1
 
 
 <center>
@@ -183,7 +183,7 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds) e [Breno Lucena](https:/
 
 </center>
 
-#### Verificação Etapa 2 - Grupo 8   
+#### Verificação Etapa 2 
 
 
 
@@ -201,7 +201,7 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds) e [Breno Lucena](https:/
 
 </center>
 
-#### Verificação Etapa 3 - Grupo 8   
+#### Verificação Etapa 3 
 
 
 
@@ -218,7 +218,7 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds) e [Breno Lucena](https:/
 
 </center>
 
-#### Verificação Etapa 4 - Grupo 8   
+#### Verificação Etapa 4  
 
 
 
@@ -234,7 +234,7 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds) e [Breno Lucena](https:/
 
 </center>
 
-#### Verificação Geral - Grupo 8  
+#### Verificação Geral Etapa 8  
 
 
 
@@ -278,9 +278,11 @@ _Fonte: [Breno Fernandes](https://github.com/Brenofrds) e [Breno Lucena](https:/
 </center>    
 
 
-## Referências Bibliográficas
+## Bibliografia
 
+Este documento apresenta uma visão consolidada dos artefatos produzidos ao longo do projeto. Caso seja necessário consultar as referências bibliográficas utilizadas em cada checklist, recomenda-se acessar os próprios artefatos de checklist, onde as fontes específicas foram devidamente documentadas.
 
+Em especial, os checklists da Verificação Geral contêm referências detalhadas sobre os critérios utilizados para avaliação e validação dos artefatos.
 
 ## Histórico de Versão
 

@@ -14,8 +14,11 @@ Breno Fernandes:
 
 Durante a realização deste trabalho, não encontrei grandes dificuldades em seu desenvolvimento, pois os conceitos e metodologias estavam bem compreendidos. No entanto, a organização das tarefas e a conciliação com outras atividades acadêmicas representaram um desafio. Foi necessário um bom planejamento para manter o ritmo e evitar sobrecarga nas etapas finais. Apesar disso, considero que a experiência foi enriquecedora, permitindo a aplicação prática dos conhecimentos adquiridos e reforçando a importância da gestão do tempo em projetos extensos.
 
+## Histórico de Versões
 
-
+| Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
+| ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
+| 1.0  | 06/02/2025 | Criação do documento | [Breno Fernandes](https://github.com/Brenofrds) | [Breno Lucena](https://github.com/BrenoLUCO) |
 
 
 
