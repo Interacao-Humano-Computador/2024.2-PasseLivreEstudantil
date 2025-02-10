@@ -27,7 +27,7 @@ Nesta etapa, foi elaborado um **planejamento estratégico**, organizando ativida
 - **Metodologia de trabalho**, estabelecendo abordagens adequadas para a condução do projeto;
 - **Diretrizes de design**, documentando padrões visuais e conceitos fundamentais para a interface;
 - **Ferramentas utilizadas**, escolhendo as melhores opções para prototipação, testes e organização do projeto;
-- **Heatmap e análises iniciais**, permitindo compreender o comportamento dos usuários em sistemas semelhantes;
+- **Heatmap e análises iniciais**, permitindo compreender os hoarios de cada integrante do grupo;
 - **Seleção e análise de sites avaliados e escolhidos**, contribuindo para uma melhor compreensão do contexto do sistema estudado.
 
 ---
